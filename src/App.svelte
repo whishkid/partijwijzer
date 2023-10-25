@@ -6,11 +6,8 @@
   import Step2 from "./Step2.svelte";
   import PartyDisplay from "./PartyDisplay.svelte";
   import { parties } from "./data";
-  import { dev } from "$app/environment";
-  import { inject } from "@vercel/analytics";
 
-  inject({ mode: dev ? "development" : "production" });
-  
+
   const storedPartyStatementRatings = localStorage.getItem(
     "partyStatementRatings"
   );
