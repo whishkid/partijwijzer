@@ -15,7 +15,7 @@
 	<div class="">
 		stap {step} / 31
 	</div>
-    <Button disabled={partySelectionValid && step < 32} on:click={() => step++}
+    <Button disabled={partySelectionValid || step > 30} on:click={() => step++}
       >volgende</Button
     >
   </div>

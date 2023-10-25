@@ -21811,7 +21811,7 @@ var app = (function () {
     	return block;
     }
 
-    // (18:4) <Button disabled={partySelectionValid && step < 32} on:click={() => step++}       >
+    // (18:4) <Button disabled={partySelectionValid || step > 30} on:click={() => step++}       >
     function create_default_slot(ctx) {
     	let t;
 
@@ -21831,7 +21831,7 @@ var app = (function () {
     		block,
     		id: create_default_slot.name,
     		type: "slot",
-    		source: "(18:4) <Button disabled={partySelectionValid && step < 32} on:click={() => step++}       >",
+    		source: "(18:4) <Button disabled={partySelectionValid || step > 30} on:click={() => step++}       >",
     		ctx
     	});
 
@@ -21981,7 +21981,7 @@ var app = (function () {
 
     	button1 = new Button({
     			props: {
-    				disabled: /*partySelectionValid*/ ctx[2] && /*step*/ ctx[1] < 32,
+    				disabled: /*partySelectionValid*/ ctx[2] || /*step*/ ctx[1] > 30,
     				$$slots: { default: [create_default_slot] },
     				$$scope: { ctx }
     			},
@@ -22046,7 +22046,7 @@ var app = (function () {
     			button0.$set(button0_changes);
     			if (!current || dirty & /*step*/ 2) set_data_dev(t2, /*step*/ ctx[1]);
     			const button1_changes = {};
-    			if (dirty & /*partySelectionValid, step*/ 6) button1_changes.disabled = /*partySelectionValid*/ ctx[2] && /*step*/ ctx[1] < 32;
+    			if (dirty & /*partySelectionValid, step*/ 6) button1_changes.disabled = /*partySelectionValid*/ ctx[2] || /*step*/ ctx[1] > 30;
 
     			if (dirty & /*$$scope*/ 128) {
     				button1_changes.$$scope = { dirty, ctx };
