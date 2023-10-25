@@ -5,13 +5,24 @@
   import Step1 from "./Step1.svelte";
   import Step2 from "./Step2.svelte";
   import PartyDisplay from "./PartyDisplay.svelte";
-  let chosenParties = [];
-  let step = 1;
+  import { parties } from "./data";
+  const storedPartyStatementRatings = localStorage.getItem(
+    "partyStatementRatings"
+  );
+  const storedChosenParties =JSON.parse( localStorage.getItem("chosenParties")) || [];
+
+  const storedStep = localStorage.getItem("step");
+
+  let chosenParties = parties.filter(p=>storedChosenParties.find(cp=>cp.id==p.id))
+  let step = JSON.parse(storedStep) || 1;
   let maxParties = 25;
   let partyOverlayVisible = false;
   $: partySelectionValid =
     chosenParties.length < 2 || chosenParties.length > maxParties;
-  let partyStatementRatings = writable({});
+
+  let partyStatementRatings = writable(
+    JSON.parse(storedPartyStatementRatings) || {}
+  );
 
   function getPartyScores(partyMatrix) {
     let partyScores = [];
@@ -30,6 +41,16 @@
     }
     return partyScores.sort((a, b) => b.score - a.score);
   }
+
+  $: localStorage.setItem(
+    "partyStatementRatings",
+    JSON.stringify($partyStatementRatings)
+  );
+
+  $: console.log($partyStatementRatings);
+
+  $: localStorage.setItem("chosenParties", JSON.stringify(chosenParties));
+  $: localStorage.setItem("step", JSON.stringify(step));
 </script>
 
 <svelte:head>
@@ -74,19 +95,21 @@
     <Step1 bind:chosenParties {maxParties} />
     <div>
       Je krijgt straks van alle partijen hun uitleg bij de stellingen te zien.
-      <br/><br/>Ben je het een beetje eens met een partij geef het een duimpje... 
-      <br/>vind je het helemaal geweldig, dan een hartje.
-      <br/>Totale onzin, duimpje omlaag. Neutraal, geen actie.
-      <br/><br/> Aan het einde krijg je van de partijen te zien gesorteerd op je score
-      <br/><br/> punten +2 voor hartje, +1 voor duimpje omhoog, -1 voor
-        duimpje omlaag
-      </div>
+      <br /><br />Ben je het een beetje eens met een partij geef het een
+      duimpje...
+      <br />vind je het helemaal geweldig, dan een hartje.
+      <br />Totale onzin, duimpje omlaag. Neutraal, geen actie.
+      <br /><br /> Aan het einde krijg je van de partijen te zien gesorteerd op
+      je score
+      <br /><br /> punten +2 voor hartje, +1 voor duimpje omhoog, -1 voor duimpje
+      omlaag
+    </div>
   {/if}
   {#if step > 1 && step <= 31}
     <Step2 bind:partyStatementRatings {chosenParties} {step} />
   {/if}
   {#if step > 31}
-    Samenvatting 
+    Samenvatting
     <div class="grid grid-cols-2 gap-2 text-2xl font-bold">
       <div>partij</div>
       <div>score</div>

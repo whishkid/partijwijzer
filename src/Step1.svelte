@@ -3,8 +3,8 @@
   import Warning from "./Warning.svelte";
   export let chosenParties;
   export let maxParties;
+  
 </script>
-
 <div class="bg-green-200 font-bold p-2 rounded-xl">
   Vink 2-{maxParties} partijen aan die je wilt vergelijken
 </div>
@@ -45,8 +45,8 @@
   </div>
 {/if}
 
-<Warning visible={chosenParties.length < 2} text="Kies minimaal 2 parijen" />
+<Warning visible={chosenParties.length < 2} text="Kies minimaal 2 partijen" />
 <Warning
   visible={chosenParties.length > maxParties}
-  text="Kies maximaal 8 parijen"
+  text="Kies maximaal 8 partijen"
 />
