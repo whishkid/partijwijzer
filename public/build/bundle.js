@@ -21166,12 +21166,15 @@ var app = (function () {
 
     function create_fragment$2(ctx) {
     	let div0;
+    	let t0;
     	let t1;
-    	let div1;
     	let t2;
     	let t3;
-    	let warning0;
+    	let div1;
     	let t4;
+    	let t5;
+    	let warning0;
+    	let t6;
     	let warning1;
     	let current;
     	let each_value = parties.sort(func);
@@ -21203,19 +21206,21 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			div0 = element("div");
-    			div0.textContent = "Vink 2-[maxParties] partijen aan die je wilt vergelijken";
-    			t1 = space();
+    			t0 = text("Vink 2-");
+    			t1 = text(/*maxParties*/ ctx[1]);
+    			t2 = text(" partijen aan die je wilt vergelijken");
+    			t3 = space();
     			div1 = element("div");
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
     				each_blocks[i].c();
     			}
 
-    			t2 = space();
-    			if (if_block) if_block.c();
-    			t3 = space();
-    			create_component(warning0.$$.fragment);
     			t4 = space();
+    			if (if_block) if_block.c();
+    			t5 = space();
+    			create_component(warning0.$$.fragment);
+    			t6 = space();
     			create_component(warning1.$$.fragment);
     			attr_dev(div0, "class", "bg-green-200 font-bold p-2 rounded-xl");
     			add_location(div0, file$2, 7, 0, 149);
@@ -21227,7 +21232,10 @@ var app = (function () {
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
-    			insert_dev(target, t1, anchor);
+    			append_dev(div0, t0);
+    			append_dev(div0, t1);
+    			append_dev(div0, t2);
+    			insert_dev(target, t3, anchor);
     			insert_dev(target, div1, anchor);
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
@@ -21236,15 +21244,17 @@ var app = (function () {
     				}
     			}
 
-    			insert_dev(target, t2, anchor);
-    			if (if_block) if_block.m(target, anchor);
-    			insert_dev(target, t3, anchor);
-    			mount_component(warning0, target, anchor);
     			insert_dev(target, t4, anchor);
+    			if (if_block) if_block.m(target, anchor);
+    			insert_dev(target, t5, anchor);
+    			mount_component(warning0, target, anchor);
+    			insert_dev(target, t6, anchor);
     			mount_component(warning1, target, anchor);
     			current = true;
     		},
     		p: function update(ctx, [dirty]) {
+    			if (!current || dirty & /*maxParties*/ 2) set_data_dev(t1, /*maxParties*/ ctx[1]);
+
     			if (dirty & /*parties, chosenParties*/ 1) {
     				each_value = parties.sort(func);
     				validate_each_argument(each_value);
@@ -21275,7 +21285,7 @@ var app = (function () {
     				} else {
     					if_block = create_if_block$1(ctx);
     					if_block.c();
-    					if_block.m(t3.parentNode, t3);
+    					if_block.m(t5.parentNode, t5);
     				}
     			} else if (if_block) {
     				if_block.d(1);
@@ -21302,14 +21312,14 @@ var app = (function () {
     		},
     		d: function destroy(detaching) {
     			if (detaching) detach_dev(div0);
-    			if (detaching) detach_dev(t1);
+    			if (detaching) detach_dev(t3);
     			if (detaching) detach_dev(div1);
     			destroy_each(each_blocks, detaching);
-    			if (detaching) detach_dev(t2);
-    			if (if_block) if_block.d(detaching);
-    			if (detaching) detach_dev(t3);
-    			destroy_component(warning0, detaching);
     			if (detaching) detach_dev(t4);
+    			if (if_block) if_block.d(detaching);
+    			if (detaching) detach_dev(t5);
+    			destroy_component(warning0, detaching);
+    			if (detaching) detach_dev(t6);
     			destroy_component(warning1, detaching);
     		}
     	};

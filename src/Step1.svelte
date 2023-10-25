@@ -5,7 +5,7 @@
 	export let maxParties
 </script>
 
-<div class="bg-green-200 font-bold p-2 rounded-xl">Vink 2-[maxParties] partijen aan die je wilt vergelijken</div>
+<div class="bg-green-200 font-bold p-2 rounded-xl">Vink 2-{maxParties} partijen aan die je wilt vergelijken</div>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-2 lg:grid-cols-3 p-2">
 	{#each parties.sort((a, b) => (b.name < a.name ? 1 : a.name == b.name ? 0 : -1)) as party}
 		<div class="flex flex-row whitespace-nowrap">
