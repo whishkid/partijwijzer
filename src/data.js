@@ -77,9 +77,9 @@ export let  statements =[
                     "statement": {
                         "id": 79640,
                         "position": "agree",
-                        "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoönosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter.",
+                        "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoÃ¶nosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter.",
                         "accessibility": {
-                            "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoönosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter."
+                            "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoÃ¶nosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter."
                         }
                     }
                 },
@@ -250,9 +250,9 @@ export let  statements =[
                     "statement": {
                         "id": 79640,
                         "position": "disagree",
-                        "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiële diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland.",
+                        "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiÃ«le diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland.",
                         "accessibility": {
-                            "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiële diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland."
+                            "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiÃ«le diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland."
                         }
                     }
                 },
@@ -341,12 +341,12 @@ export let  statements =[
         ],
         "accessibility": {
             "moreInfo": {
-                "text": "Accijns is een belasting op producten. De overheid gebruikt accijns om producten duurder te maken. Dit moet ervoor zorgen dat mensen door hoge kosten minder gaan gebruiken van die producten. De overheid wil met een hoge accijns op gas, diesel en benzine dat mensen zuiniger autos kopen en minder rijden."
+                "text": "Accijns is een belasting op producten. De overheid gebruikt accijns om producten duurder te maken. Dit moet ervoor zorgen dat mensen door hoge kosten minder gaan gebruiken van die producten. De overheid wil met een hoge accijns op gas, diesel en benzine dat mensen zuiniger autoâ€™s kopen en minder rijden."
             }
         },
         "moreInfo": {
             "title": "",
-            "text": "<p>Accijns is een belasting op producten. De overheid gebruikt accijns om producten duurder te maken. Dit moet ervoor zorgen dat mensen door hoge kosten minder gaan gebruiken van die producten. De overheid wil met een hoge accijns op gas, diesel en benzine dat mensen zuiniger autos kopen en minder rijden.</p>",
+            "text": "<p>Accijns is een belasting op producten. De overheid gebruikt accijns om producten duurder te maken. Dit moet ervoor zorgen dat mensen door hoge kosten minder gaan gebruiken van die producten. De overheid wil met een hoge accijns op gas, diesel en benzine dat mensen zuiniger autoâ€™s kopen en minder rijden.</p>",
             "imageAlt": "Afbeelding"
         },
         "isShootout": false,
@@ -387,12 +387,12 @@ export let  statements =[
         "title": "Elke regio in Nederland moet een vast aantal mensen in de Tweede Kamer krijgen.",
         "accessibility": {
             "moreInfo": {
-                "text": "Na de verkiezingen kijkt de Kiesraad hoeveel stemmen een politieke partij in heel Nederland gekregen heeft en welk deel van het totaal aantal stemmen dat is. Op basis daarvan worden de zetels in de Tweede Kamer verdeeld. Dit systeem leidt ertoe dat er uit sommige regios meer mensen in de Tweede Kamer zitten dan uit andere regios. Dat kan veranderen als elke regio een vast aantal plaatsen in de Tweede Kamer krijgt."
+                "text": "Na de verkiezingen kijkt de Kiesraad hoeveel stemmen een politieke partij in heel Nederland gekregen heeft en welk deel van het totaal aantal stemmen dat is. Op basis daarvan worden de zetels in de Tweede Kamer verdeeld. Dit systeem leidt ertoe dat er uit sommige regioâ€™s meer mensen in de Tweede Kamer zitten dan uit andere regioâ€™s. Dat kan veranderen als elke regio een vast aantal plaatsen in de Tweede Kamer krijgt."
             }
         },
         "moreInfo": {
             "title": "",
-            "text": "Na de verkiezingen kijkt de Kiesraad hoeveel stemmen een politieke partij in heel Nederland gekregen heeft en welk deel van het totaal aantal stemmen dat is. Op basis daarvan worden de zetels in de Tweede Kamer verdeeld. Dit systeem leidt ertoe dat er uit sommige regios meer mensen in de Tweede Kamer zitten dan uit andere regios. Dat kan veranderen als elke regio een vast aantal plaatsen in de Tweede Kamer krijgt.",
+            "text": "Na de verkiezingen kijkt de Kiesraad hoeveel stemmen een politieke partij in heel Nederland gekregen heeft en welk deel van het totaal aantal stemmen dat is. Op basis daarvan worden de zetels in de Tweede Kamer verdeeld. Dit systeem leidt ertoe dat er uit sommige regioâ€™s meer mensen in de Tweede Kamer zitten dan uit andere regioâ€™s. Dat kan veranderen als elke regio een vast aantal plaatsen in de Tweede Kamer krijgt.",
             "imageAlt": "Afbeelding"
         },
         "isShootout": false,
@@ -452,9 +452,9 @@ export let  statements =[
             " De regering moet ervoor zorgen dat Surinamers zonder ",
             {
                 "text": "visum",
-                "information": "Officiële toestemming om een land binnen te reizen en in dat land te verblijven. Een visum regel je bij een ambassade of consulaat.",
+                "information": "OfficiÃ«le toestemming om een land binnen te reizen en in dat land te verblijven. Een visum regel je bij een ambassade of consulaat.",
                 "accessibility": {
-                    "information": "Officiële toestemming om een land binnen te reizen en in dat land te verblijven. Een visum regel je bij een ambassade of consulaat."
+                    "information": "OfficiÃ«le toestemming om een land binnen te reizen en in dat land te verblijven. Een visum regel je bij een ambassade of consulaat."
                 }
             },
             " naar Nederland kunnen reizen."
@@ -670,7 +670,7 @@ export let  statements =[
         "id": 79611,
         "theme": "Controle op religieuze groepen",
         "themeId": "controle-op-religieuze-groepen",
-        "title": "De overheid moet strenger controleren wat jongeren leren bij kerken, moskeeën en andere organisaties die les geven op basis van een levensbeschouwing.",
+        "title": "De overheid moet strenger controleren wat jongeren leren bij kerken, moskeeÃ«n en andere organisaties die les geven op basis van een levensbeschouwing.",
         "accessibility": {
             "moreInfo": {
                 "text": "De overheid heeft regels gemaakt voor scholen om ervoor te zorgen dat kinderen alleen zaken leren die passen bij Nederlandse normen en waarden. Dat wordt ook gecontroleerd. Er zijn organisaties die op basis van religie of levensbeschouwing jongeren lesgeven buiten schooltijden. Over de inhoud van die lessen zijn geen afspraken gemaakt en er is bijna geen controle op."
@@ -737,12 +737,12 @@ export let  statements =[
         "title": "De regering moet zich ertegen verzetten dat meer landen lid worden van de Europese Unie.",
         "accessibility": {
             "moreInfo": {
-                "text": "De Europese Unie (EU) telt op dit moment 27 landen. Er zijn tien landen die ook bij de EU willen. Landen kunnen pas lid worden als ze voldoen aan bepaalde eisen van de EU. Zo moeten ze democratisch zijn, de economie op orde hebben en corruptie bestrijden. Alle 27 landen moeten akkoord gaan met nieuwe leden. Als één land zich daartegen verzet, gaat uitbreiding van de EU niet door."
+                "text": "De Europese Unie (EU) telt op dit moment 27 landen. Er zijn tien landen die ook bij de EU willen. Landen kunnen pas lid worden als ze voldoen aan bepaalde eisen van de EU. Zo moeten ze democratisch zijn, de economie op orde hebben en corruptie bestrijden. Alle 27 landen moeten akkoord gaan met nieuwe leden. Als Ã©Ã©n land zich daartegen verzet, gaat uitbreiding van de EU niet door."
             }
         },
         "moreInfo": {
             "title": "",
-            "text": "<p>De Europese Unie (EU) telt op dit moment 27 landen. Er zijn tien landen die ook bij de EU willen. Landen kunnen pas lid worden als ze voldoen aan bepaalde eisen van de EU. Zo moeten ze democratisch zijn, de economie op orde hebben en corruptie bestrijden. Alle 27 landen moeten akkoord gaan met nieuwe leden. Als één land zich daartegen verzet, gaat uitbreiding van de EU niet door.</p>",
+            "text": "<p>De Europese Unie (EU) telt op dit moment 27 landen. Er zijn tien landen die ook bij de EU willen. Landen kunnen pas lid worden als ze voldoen aan bepaalde eisen van de EU. Zo moeten ze democratisch zijn, de economie op orde hebben en corruptie bestrijden. Alle 27 landen moeten akkoord gaan met nieuwe leden. Als Ã©Ã©n land zich daartegen verzet, gaat uitbreiding van de EU niet door.</p>",
             "imageAlt": "Afbeelding"
         },
         "isShootout": false,
@@ -752,7 +752,7 @@ export let  statements =[
         "id": 79585,
         "theme": "Risicoprofilering op basis van nationaliteit",
         "themeId": "risicoprofilering-op-basis-van-nationaliteit",
-        "title": "De overheid mag nooit de afkomst of nationaliteit van mensen gebruiken om risicos op criminaliteit in te schatten.",
+        "title": "De overheid mag nooit de afkomst of nationaliteit van mensen gebruiken om risicoâ€™s op criminaliteit in te schatten.",
         "accessibility": {
             "moreInfo": {
                 "text": "De overheid gebruikt steeds vaker gegevens van burgers. Bijvoorbeeld om fraude met uitkeringen op te sporen. Of om criminaliteit tegen te gaan. Die gegevens gaan over de wijk waar ze wonen, maar ook over persoonlijke informatie van burgers, zoals hun leeftijd, woonplaats of afkomst. Op basis van een reeks instructies (algoritme) doen computersystemen daarmee voorspellingen voor groepen mensen. Het gebruik van afkomst of nationaliteit in een algoritme zorgt ervoor dat daarop ook wordt beoordeeld."
@@ -857,12 +857,12 @@ export let  statements =[
         ],
         "accessibility": {
             "moreInfo": {
-                "text": "In Nederland stemt het parlement, dat bestaat uit de Eerste en de Tweede Kamer, over wetten. Inwoners van Nederland kunnen daar niet zelf over stemmen. Een volksstemming over een bepaalde wet heet een referendum. Invoering van dit voorstel betekent dat inwoners kunnen aangeven of ze het wel of niet eens zijn met een wet die al door het parlement is aangenomen. Het gaat om een bindend referendum: als voldoende mensen tegen zon wet stemmen, gaat deze niet door."
+                "text": "In Nederland stemt het parlement, dat bestaat uit de Eerste en de Tweede Kamer, over wetten. Inwoners van Nederland kunnen daar niet zelf over stemmen. Een volksstemming over een bepaalde wet heet een referendum. Invoering van dit voorstel betekent dat inwoners kunnen aangeven of ze het wel of niet eens zijn met een wet die al door het parlement is aangenomen. Het gaat om een bindend referendum: als voldoende mensen tegen zoâ€™n wet stemmen, gaat deze niet door."
             }
         },
         "moreInfo": {
             "title": "",
-            "text": "<p>In Nederland stemt het parlement, dat bestaat uit de Eerste en de Tweede Kamer, over wetten. Inwoners van Nederland kunnen daar niet zelf over stemmen. Een volksstemming over een bepaalde wet heet een referendum. Invoering van dit voorstel betekent dat inwoners kunnen aangeven of ze het wel of niet eens zijn met een wet die al door het parlement is aangenomen. Het gaat om een bindend referendum: als voldoende mensen tegen zon wet stemmen, gaat deze niet door.</p>",
+            "text": "<p>In Nederland stemt het parlement, dat bestaat uit de Eerste en de Tweede Kamer, over wetten. Inwoners van Nederland kunnen daar niet zelf over stemmen. Een volksstemming over een bepaalde wet heet een referendum. Invoering van dit voorstel betekent dat inwoners kunnen aangeven of ze het wel of niet eens zijn met een wet die al door het parlement is aangenomen. Het gaat om een bindend referendum: als voldoende mensen tegen zoâ€™n wet stemmen, gaat deze niet door.</p>",
             "imageAlt": "Afbeelding"
         },
         "isShootout": false,
@@ -903,12 +903,12 @@ export let  statements =[
         "title": "De overheid moet bedrijven minder geld geven om duurzamer te worden.",
         "accessibility": {
             "moreInfo": {
-                "text": "Bedrijven  industrie, dienstverlening en landbouw  kunnen nu van de overheid geld krijgen om hun productie milieuvriendelijker te maken. Denk aan koop en gebruik van elektrische wagens, slimmere manieren om afval te verwerken, gebruik van duurzame energie, isolatie van het gebouw of hergebruik van grondstoffen. Minder geld daarvoor betekent dat bedrijven zelf meer moeten gaan betalen om duurzamer te werken. Of dat ze daar minder snel voor kiezen."
+                "text": "Bedrijven â€“ industrie, dienstverlening en landbouw â€“ kunnen nu van de overheid geld krijgen om hun productie milieuvriendelijker te maken. Denk aan koop en gebruik van elektrische wagens, slimmere manieren om afval te verwerken, gebruik van duurzame energie, isolatie van het gebouw of hergebruik van grondstoffen. Minder geld daarvoor betekent dat bedrijven zelf meer moeten gaan betalen om duurzamer te werken. Of dat ze daar minder snel voor kiezen."
             }
         },
         "moreInfo": {
             "title": "",
-            "text": "<p>Bedrijven  industrie, dienstverlening en landbouw  kunnen nu van de overheid geld krijgen om hun productie milieuvriendelijker te maken. Denk aan koop en gebruik van elektrische wagens, slimmere manieren om afval te verwerken, gebruik van duurzame energie, isolatie van het gebouw of hergebruik van grondstoffen. Minder geld daarvoor betekent dat bedrijven zelf meer moeten gaan betalen om duurzamer te werken. Of dat ze daar minder snel voor kiezen.</p>",
+            "text": "<p>Bedrijven â€“ industrie, dienstverlening en landbouw â€“ kunnen nu van de overheid geld krijgen om hun productie milieuvriendelijker te maken. Denk aan koop en gebruik van elektrische wagens, slimmere manieren om afval te verwerken, gebruik van duurzame energie, isolatie van het gebouw of hergebruik van grondstoffen. Minder geld daarvoor betekent dat bedrijven zelf meer moeten gaan betalen om duurzamer te werken. Of dat ze daar minder snel voor kiezen.</p>",
             "imageAlt": "Afbeelding"
         },
         "isShootout": false,
@@ -921,12 +921,12 @@ export let  statements =[
         "title": "Mensen die vinden dat ze klaar zijn met hun leven, moeten hulp kunnen krijgen bij zelfdoding.",
         "accessibility": {
             "moreInfo": {
-                "text": "Het komt voor dat mensen hun leven voltooid vinden en dat ze willen sterven. Bijvoorbeeld omdat ze een goed en lang leven hebben gehad. Of omdat ze levensmoe zijn. Deze mensen mogen volgens de wet geen hulp krijgen bij zelfdoding. Want alleen mensen die ondraaglijk en uitzichtloos lijden mogen die hulp krijgen. Dit lijden moet een psychische of lichamelijke oorzaak hebben. Artsen kunnen in die bijzondere gevallen iemand helpen met sterven."
+                "text": "Het komt voor dat mensen hun leven voltooid vinden en dat ze willen sterven. Bijvoorbeeld omdat ze een goed en lang leven hebben gehad. Of omdat ze â€˜levensmoeâ€™ zijn. Deze mensen mogen volgens de wet geen hulp krijgen bij zelfdoding. Want alleen mensen die ondraaglijk en uitzichtloos lijden mogen die hulp krijgen. Dit lijden moet een psychische of lichamelijke oorzaak hebben. Artsen kunnen in die bijzondere gevallen iemand helpen met sterven."
             }
         },
         "moreInfo": {
             "title": "",
-            "text": "<p>Het komt voor dat mensen hun leven voltooid vinden en dat ze willen sterven. Bijvoorbeeld omdat ze een goed en lang leven hebben gehad. Of omdat ze levensmoe zijn. Deze mensen mogen volgens de wet geen hulp krijgen bij zelfdoding. Want alleen mensen die ondraaglijk en uitzichtloos lijden mogen die hulp krijgen. Dit lijden moet een psychische of lichamelijke oorzaak hebben. Artsen kunnen in die bijzondere gevallen iemand helpen met sterven.</p>",
+            "text": "<p>Het komt voor dat mensen hun leven voltooid vinden en dat ze willen sterven. Bijvoorbeeld omdat ze een goed en lang leven hebben gehad. Of omdat ze â€˜levensmoeâ€™ zijn. Deze mensen mogen volgens de wet geen hulp krijgen bij zelfdoding. Want alleen mensen die ondraaglijk en uitzichtloos lijden mogen die hulp krijgen. Dit lijden moet een psychische of lichamelijke oorzaak hebben. Artsen kunnen in die bijzondere gevallen iemand helpen met sterven.</p>",
             "imageAlt": "Afbeelding"
         },
         "isShootout": false,
@@ -949,12 +949,12 @@ export let  statements =[
         ],
         "accessibility": {
             "moreInfo": {
-                "text": "Nederland geeft ontwikkelingslanden geld om armoede te verminderen. Vaak heeft dat geld een duidelijk doel: betere gezondheidszorg, voeding en water of bescherming tegen klimaatverandering. Soms stelt de regering voorwaarden aan ontwikkelingshulp, zoals het inzetten van Nederlandse bedrijven. Het koppelen van ontwikkelingshulp aan het terugnemen van asielzoekers zou ook zon voorwaarde kunnen zijn. Landen die weigeren om uitgeprocedeerde asielzoekers terug te nemen van wie duidelijk is dat die uit dat land komen, zouden dan geen geld meer krijgen."
+                "text": "Nederland geeft ontwikkelingslanden geld om armoede te verminderen. Vaak heeft dat geld een duidelijk doel: betere gezondheidszorg, voeding en water of bescherming tegen klimaatverandering. Soms stelt de regering voorwaarden aan ontwikkelingshulp, zoals het inzetten van Nederlandse bedrijven. Het koppelen van ontwikkelingshulp aan het terugnemen van asielzoekers zou ook zoâ€™n voorwaarde kunnen zijn. Landen die weigeren om uitgeprocedeerde asielzoekers terug te nemen van wie duidelijk is dat die uit dat land komen, zouden dan geen geld meer krijgen."
             }
         },
         "moreInfo": {
             "title": "",
-            "text": "<p>Nederland geeft ontwikkelingslanden geld om armoede te verminderen. Vaak heeft dat geld een duidelijk doel: betere gezondheidszorg, voeding en water of bescherming tegen klimaatverandering. Soms stelt de regering voorwaarden aan ontwikkelingshulp, zoals het inzetten van Nederlandse bedrijven. Het koppelen van ontwikkelingshulp aan het terugnemen van asielzoekers zou ook zon voorwaarde kunnen zijn. Landen die weigeren om uitgeprocedeerde asielzoekers terug te nemen van wie duidelijk is dat die uit dat land komen, zouden dan geen geld meer krijgen.</p>",
+            "text": "<p>Nederland geeft ontwikkelingslanden geld om armoede te verminderen. Vaak heeft dat geld een duidelijk doel: betere gezondheidszorg, voeding en water of bescherming tegen klimaatverandering. Soms stelt de regering voorwaarden aan ontwikkelingshulp, zoals het inzetten van Nederlandse bedrijven. Het koppelen van ontwikkelingshulp aan het terugnemen van asielzoekers zou ook zoâ€™n voorwaarde kunnen zijn. Landen die weigeren om uitgeprocedeerde asielzoekers terug te nemen van wie duidelijk is dat die uit dat land komen, zouden dan geen geld meer krijgen.</p>",
             "imageAlt": "Afbeelding"
         },
         "isShootout": false,
@@ -1053,9 +1053,9 @@ export	let parties =[
             {
                 "id": 79627,
                 "position": "disagree",
-                "explanation": "We willen dat vliegtuigen schoner worden en de trein een beter alternatief. Daarvoor zijn investeringen nodig en Europese afspraken over het gelijker belasten van kerosine. Vliegtickets extra belasten betekent dat meer mensen vanuit België of Duitsland gaan vliegen.",
+                "explanation": "We willen dat vliegtuigen schoner worden en de trein een beter alternatief. Daarvoor zijn investeringen nodig en Europese afspraken over het gelijker belasten van kerosine. Vliegtickets extra belasten betekent dat meer mensen vanuit BelgiÃ« of Duitsland gaan vliegen.",
                 "accessibility": {
-                    "explanation": "We willen dat vliegtuigen schoner worden en de trein een beter alternatief. Daarvoor zijn investeringen nodig en Europese afspraken over het gelijker belasten van kerosine. Vliegtickets extra belasten betekent dat meer mensen vanuit België of Duitsland gaan vliegen."
+                    "explanation": "We willen dat vliegtuigen schoner worden en de trein een beter alternatief. Daarvoor zijn investeringen nodig en Europese afspraken over het gelijker belasten van kerosine. Vliegtickets extra belasten betekent dat meer mensen vanuit BelgiÃ« of Duitsland gaan vliegen."
                 }
             },
             {
@@ -1141,9 +1141,9 @@ export	let parties =[
             {
                 "id": 79585,
                 "position": "disagree",
-                "explanation": "De VVD vindt dat etnisch profileren en andere vormen van onterechte profilering nooit mogen. Maar de overheid moet wel mogelijkheden hebben op een verantwoorde manier risicos in te schatten, bijv. bij signalen van mensenhandel.",
+                "explanation": "De VVD vindt dat etnisch profileren en andere vormen van onterechte profilering nooit mogen. Maar de overheid moet wel mogelijkheden hebben op een verantwoorde manier risicoâ€™s in te schatten, bijv. bij signalen van mensenhandel.",
                 "accessibility": {
-                    "explanation": "De VVD vindt dat etnisch profileren en andere vormen van onterechte profilering nooit mogen. Maar de overheid moet wel mogelijkheden hebben op een verantwoorde manier risicos in te schatten, bijv. bij signalen van mensenhandel."
+                    "explanation": "De VVD vindt dat etnisch profileren en andere vormen van onterechte profilering nooit mogen. Maar de overheid moet wel mogelijkheden hebben op een verantwoorde manier risicoâ€™s in te schatten, bijv. bij signalen van mensenhandel."
                 }
             },
             {
@@ -1237,9 +1237,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "disagree",
-                "explanation": "In de toekomst gaan we meer elektrisch rijden. Elektrische autos zijn voor de meeste mensen nog te duur. Het is daarom nu nog nodig dat de overheid mensen helpt om elektrisch te gaan rijden, zodat er de komende jaren meer betaalbare modellen en occasions op de markt komen.",
+                "explanation": "In de toekomst gaan we meer elektrisch rijden. Elektrische autoâ€™s zijn voor de meeste mensen nog te duur. Het is daarom nu nog nodig dat de overheid mensen helpt om elektrisch te gaan rijden, zodat er de komende jaren meer betaalbare modellen en occasions op de markt komen.",
                 "accessibility": {
-                    "explanation": "In de toekomst gaan we meer elektrisch rijden. Elektrische autos zijn voor de meeste mensen nog te duur. Het is daarom nu nog nodig dat de overheid mensen helpt om elektrisch te gaan rijden, zodat er de komende jaren meer betaalbare modellen en occasions op de markt komen."
+                    "explanation": "In de toekomst gaan we meer elektrisch rijden. Elektrische autoâ€™s zijn voor de meeste mensen nog te duur. Het is daarom nu nog nodig dat de overheid mensen helpt om elektrisch te gaan rijden, zodat er de komende jaren meer betaalbare modellen en occasions op de markt komen."
                 }
             },
             {
@@ -1263,9 +1263,9 @@ export	let parties =[
             {
                 "id": 79610,
                 "position": "disagree",
-                "explanation": "De VVD wil dat meer studenten op de werkvloer worden opgeleid. Er is een tekort aan stageplekken, met een verplichte vergoeding van ¬500 kunnen nog meer studenten geen stageplek vinden. De VVD is wel voor een verplichte onkostenvergoeding.",
+                "explanation": "De VVD wil dat meer studenten op de werkvloer worden opgeleid. Er is een tekort aan stageplekken, met een verplichte vergoeding van â‚¬500 kunnen nog meer studenten geen stageplek vinden. De VVD is wel voor een verplichte onkostenvergoeding.",
                 "accessibility": {
-                    "explanation": "De VVD wil dat meer studenten op de werkvloer worden opgeleid. Er is een tekort aan stageplekken, met een verplichte vergoeding van ¬500 kunnen nog meer studenten geen stageplek vinden. De VVD is wel voor een verplichte onkostenvergoeding."
+                    "explanation": "De VVD wil dat meer studenten op de werkvloer worden opgeleid. Er is een tekort aan stageplekken, met een verplichte vergoeding van â‚¬500 kunnen nog meer studenten geen stageplek vinden. De VVD is wel voor een verplichte onkostenvergoeding."
                 }
             },
             {
@@ -1287,9 +1287,9 @@ export	let parties =[
             {
                 "id": 79579,
                 "position": "disagree",
-                "explanation": "Agenten beschermen onze rechtsstaat namens ons allemaal. Daarbij passen géén religieuze symbolen. Een hoofddoek is een religieus symbool dat niet past bij de neutraliteit van het politie-uniform.",
+                "explanation": "Agenten beschermen onze rechtsstaat namens ons allemaal. Daarbij passen gÃ©Ã©n religieuze symbolen. Een hoofddoek is een religieus symbool dat niet past bij de neutraliteit van het politie-uniform.",
                 "accessibility": {
-                    "explanation": "Agenten beschermen onze rechtsstaat namens ons allemaal. Daarbij passen géén religieuze symbolen. Een hoofddoek is een religieus symbool dat niet past bij de neutraliteit van het politie-uniform."
+                    "explanation": "Agenten beschermen onze rechtsstaat namens ons allemaal. Daarbij passen gÃ©Ã©n religieuze symbolen. Een hoofddoek is een religieus symbool dat niet past bij de neutraliteit van het politie-uniform."
                 }
             },
             {
@@ -1335,9 +1335,9 @@ export	let parties =[
             {
                 "id": 79628,
                 "position": "agree",
-                "explanation": "Betalen per gereden kilometer, zodat elektrische autos ook meebetalen aan goede wegen, is eerlijker dan het huidige systeem. De autobelastingen gaan niet omhoog. Betaalbaarheid voor middengroepen en ondernemers is een voorwaarde voor dit systeem en we houden oog voor het platteland.",
+                "explanation": "Betalen per gereden kilometer, zodat elektrische autoâ€™s ook meebetalen aan goede wegen, is eerlijker dan het huidige systeem. De autobelastingen gaan niet omhoog. Betaalbaarheid voor middengroepen en ondernemers is een voorwaarde voor dit systeem en we houden oog voor het platteland.",
                 "accessibility": {
-                    "explanation": "Betalen per gereden kilometer, zodat elektrische autos ook meebetalen aan goede wegen, is eerlijker dan het huidige systeem. De autobelastingen gaan niet omhoog. Betaalbaarheid voor middengroepen en ondernemers is een voorwaarde voor dit systeem en we houden oog voor het platteland."
+                    "explanation": "Betalen per gereden kilometer, zodat elektrische autoâ€™s ook meebetalen aan goede wegen, is eerlijker dan het huidige systeem. De autobelastingen gaan niet omhoog. Betaalbaarheid voor middengroepen en ondernemers is een voorwaarde voor dit systeem en we houden oog voor het platteland."
                 }
             },
             {
@@ -1511,9 +1511,9 @@ export	let parties =[
             {
                 "id": 79602,
                 "position": "disagree",
-                "explanation": "De VVD wil het vrijwillige dienjaar van defensie uitbreiden. We willen ook dat alle jongeren een enquête invullen, zodat defensie de opkomstplicht in oorlogstijd gericht kan activeren. Door lager les- en collegegeld stimuleren we dat jongeren vaker in onderwijs en zorg gaan werken.",
+                "explanation": "De VVD wil het vrijwillige dienjaar van defensie uitbreiden. We willen ook dat alle jongeren een enquÃªte invullen, zodat defensie de opkomstplicht in oorlogstijd gericht kan activeren. Door lager les- en collegegeld stimuleren we dat jongeren vaker in onderwijs en zorg gaan werken.",
                 "accessibility": {
-                    "explanation": "De VVD wil het vrijwillige dienjaar van defensie uitbreiden. We willen ook dat alle jongeren een enquête invullen, zodat defensie de opkomstplicht in oorlogstijd gericht kan activeren. Door lager les- en collegegeld stimuleren we dat jongeren vaker in onderwijs en zorg gaan werken."
+                    "explanation": "De VVD wil het vrijwillige dienjaar van defensie uitbreiden. We willen ook dat alle jongeren een enquÃªte invullen, zodat defensie de opkomstplicht in oorlogstijd gericht kan activeren. Door lager les- en collegegeld stimuleren we dat jongeren vaker in onderwijs en zorg gaan werken."
                 }
             },
             {
@@ -1527,17 +1527,17 @@ export	let parties =[
             {
                 "id": 79634,
                 "position": "disagree",
-                "explanation": "Wij willen zorgen voor versterking van onze natuur. Dat doen we niet door een hek om natuurgebieden te zetten, maar juist door kansen te zien waarbij natuur en economie elkaar kunnen versterken. Zo kunnen natuurinclusieve vormen van landbouw heel goed samen gaan met omringende natuurgebieden.  ",
+                "explanation": "Wij willen zorgen voor versterking van onze natuur. Dat doen we niet door een hek om natuurgebieden te zetten, maar juist door kansen te zien waarbij natuur en economie elkaar kunnen versterken. Zo kunnen â€˜natuurinclusieveâ€™ vormen van landbouw heel goed samen gaan met omringende natuurgebieden.  ",
                 "accessibility": {
-                    "explanation": "Wij willen zorgen voor versterking van onze natuur. Dat doen we niet door een hek om natuurgebieden te zetten, maar juist door kansen te zien waarbij natuur en economie elkaar kunnen versterken. Zo kunnen natuurinclusieve vormen van landbouw heel goed samen gaan met omringende natuurgebieden."
+                    "explanation": "Wij willen zorgen voor versterking van onze natuur. Dat doen we niet door een hek om natuurgebieden te zetten, maar juist door kansen te zien waarbij natuur en economie elkaar kunnen versterken. Zo kunnen â€˜natuurinclusieveâ€™ vormen van landbouw heel goed samen gaan met omringende natuurgebieden."
                 }
             },
             {
                 "id": 79650,
                 "position": "disagree",
-                "explanation": "Het basispakket is bedoeld voor medisch-noodzakelijke zorg. Het Zorginstituut moet bepalen welke zorg in het basispakket thuishoort. Het uitgangspunt is bewezen effectieve én medische-noodzakelijke zorg is. Dit is noodzakelijk om de premie betaalbaar te houden.",
+                "explanation": "Het basispakket is bedoeld voor medisch-noodzakelijke zorg. Het Zorginstituut moet bepalen welke zorg in het basispakket thuishoort. Het uitgangspunt is bewezen effectieve Ã©n medische-noodzakelijke zorg is. Dit is noodzakelijk om de premie betaalbaar te houden.",
                 "accessibility": {
-                    "explanation": "Het basispakket is bedoeld voor medisch-noodzakelijke zorg. Het Zorginstituut moet bepalen welke zorg in het basispakket thuishoort. Het uitgangspunt is bewezen effectieve én medische-noodzakelijke zorg is. Dit is noodzakelijk om de premie betaalbaar te houden."
+                    "explanation": "Het basispakket is bedoeld voor medisch-noodzakelijke zorg. Het Zorginstituut moet bepalen welke zorg in het basispakket thuishoort. Het uitgangspunt is bewezen effectieve Ã©n medische-noodzakelijke zorg is. Dit is noodzakelijk om de premie betaalbaar te houden."
                 }
             },
             {
@@ -1820,17 +1820,17 @@ export	let parties =[
             {
                 "id": 79627,
                 "position": "agree",
-                "explanation": "D66 wil een eerlijke vliegbelasting gericht op mensen die heel veel en ver vliegen. Daarnaast wil D66 privévluchten veel zwaarder belasten. Zo ontzien we het gezin dat af en toe op vakantie gaat.",
+                "explanation": "D66 wil een eerlijke vliegbelasting gericht op mensen die heel veel en ver vliegen. Daarnaast wil D66 privÃ©vluchten veel zwaarder belasten. Zo ontzien we het gezin dat af en toe op vakantie gaat.",
                 "accessibility": {
-                    "explanation": "D66 wil een eerlijke vliegbelasting gericht op mensen die heel veel en ver vliegen. Daarnaast wil D66 privévluchten veel zwaarder belasten. Zo ontzien we het gezin dat af en toe op vakantie gaat."
+                    "explanation": "D66 wil een eerlijke vliegbelasting gericht op mensen die heel veel en ver vliegen. Daarnaast wil D66 privÃ©vluchten veel zwaarder belasten. Zo ontzien we het gezin dat af en toe op vakantie gaat."
                 }
             },
             {
                 "id": 79596,
                 "position": "agree",
-                "explanation": "Mensen die hard werken moeten kunnen rondkomen. Daarom stelt D66 voor het minimumloon met 10% te verhogen naar ¬17,50 per uur in 2028. Op die manier gaat werken meer lonen en stijgen ook andere salarissen mee. We kijken daarbij goed naar de effecten op de prijzen en de economie.",
+                "explanation": "Mensen die hard werken moeten kunnen rondkomen. Daarom stelt D66 voor het minimumloon met 10% te verhogen naar â‚¬17,50 per uur in 2028. Op die manier gaat werken meer lonen en stijgen ook andere salarissen mee. We kijken daarbij goed naar de effecten op de prijzen en de economie.",
                 "accessibility": {
-                    "explanation": "Mensen die hard werken moeten kunnen rondkomen. Daarom stelt D66 voor het minimumloon met 10% te verhogen naar ¬17,50 per uur in 2028. Op die manier gaat werken meer lonen en stijgen ook andere salarissen mee. We kijken daarbij goed naar de effecten op de prijzen en de economie."
+                    "explanation": "Mensen die hard werken moeten kunnen rondkomen. Daarom stelt D66 voor het minimumloon met 10% te verhogen naar â‚¬17,50 per uur in 2028. Op die manier gaat werken meer lonen en stijgen ook andere salarissen mee. We kijken daarbij goed naar de effecten op de prijzen en de economie."
                 }
             },
             {
@@ -1916,9 +1916,9 @@ export	let parties =[
             {
                 "id": 79649,
                 "position": "disagree",
-                "explanation": "D66 wil voorkomen dat de zorgpremie met honderden euro's omhoog gaat door het afschaffen van het eigen risico. Daarom bevriezen we het eigen risico en zorgen we dat je in het ziekenhuis maximaal 150 euro per keer betaalt. Zo ben je niet in één keer het hele bedrag kwijt.",
+                "explanation": "D66 wil voorkomen dat de zorgpremie met honderden euro's omhoog gaat door het afschaffen van het eigen risico. Daarom bevriezen we het eigen risico en zorgen we dat je in het ziekenhuis maximaal 150 euro per keer betaalt. Zo ben je niet in Ã©Ã©n keer het hele bedrag kwijt.",
                 "accessibility": {
-                    "explanation": "D66 wil voorkomen dat de zorgpremie met honderden euro's omhoog gaat door het afschaffen van het eigen risico. Daarom bevriezen we het eigen risico en zorgen we dat je in het ziekenhuis maximaal 150 euro per keer betaalt. Zo ben je niet in één keer het hele bedrag kwijt."
+                    "explanation": "D66 wil voorkomen dat de zorgpremie met honderden euro's omhoog gaat door het afschaffen van het eigen risico. Daarom bevriezen we het eigen risico en zorgen we dat je in het ziekenhuis maximaal 150 euro per keer betaalt. Zo ben je niet in Ã©Ã©n keer het hele bedrag kwijt."
                 }
             },
             {
@@ -1940,9 +1940,9 @@ export	let parties =[
             {
                 "id": 79572,
                 "position": "agree",
-                "explanation": "Alle regios moeten goed vertegenwoordigd zijn in de Tweede Kamer. Dat kan als kiezers meer invloed krijgen op welke kandidaten van een lijst gekozen worden. Daarom wil D66 de voorkeursstem zwaarder laten wegen.",
+                "explanation": "Alle regioâ€™s moeten goed vertegenwoordigd zijn in de Tweede Kamer. Dat kan als kiezers meer invloed krijgen op welke kandidaten van een lijst gekozen worden. Daarom wil D66 de voorkeursstem zwaarder laten wegen.",
                 "accessibility": {
-                    "explanation": "Alle regios moeten goed vertegenwoordigd zijn in de Tweede Kamer. Dat kan als kiezers meer invloed krijgen op welke kandidaten van een lijst gekozen worden. Daarom wil D66 de voorkeursstem zwaarder laten wegen."
+                    "explanation": "Alle regioâ€™s moeten goed vertegenwoordigd zijn in de Tweede Kamer. Dat kan als kiezers meer invloed krijgen op welke kandidaten van een lijst gekozen worden. Daarom wil D66 de voorkeursstem zwaarder laten wegen."
                 }
             },
             {
@@ -2004,9 +2004,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "disagree",
-                "explanation": "D66 wil werken aan een schonere lucht en het klimaat. Daarom blijven wij het aanschaffen van elektrische autos stimuleren. Dit bouwen we af, maar is nu nog nodig. Deze steun moet vooral gaan naar tweedehands auto's, zodat dit voor zo veel mogelijk mensen bereikbaar wordt.",
+                "explanation": "D66 wil werken aan een schonere lucht en het klimaat. Daarom blijven wij het aanschaffen van elektrische autoâ€™s stimuleren. Dit bouwen we af, maar is nu nog nodig. Deze steun moet vooral gaan naar tweedehands auto's, zodat dit voor zo veel mogelijk mensen bereikbaar wordt.",
                 "accessibility": {
-                    "explanation": "D66 wil werken aan een schonere lucht en het klimaat. Daarom blijven wij het aanschaffen van elektrische autos stimuleren. Dit bouwen we af, maar is nu nog nodig. Deze steun moet vooral gaan naar tweedehands auto's, zodat dit voor zo veel mogelijk mensen bereikbaar wordt."
+                    "explanation": "D66 wil werken aan een schonere lucht en het klimaat. Daarom blijven wij het aanschaffen van elektrische autoâ€™s stimuleren. Dit bouwen we af, maar is nu nog nodig. Deze steun moet vooral gaan naar tweedehands auto's, zodat dit voor zo veel mogelijk mensen bereikbaar wordt."
                 }
             },
             {
@@ -2062,9 +2062,9 @@ export	let parties =[
             {
                 "id": 79595,
                 "position": "agree",
-                "explanation": "D66 wil dat als een bedrijf veel winst maakt, werknemers daarvan kunnen meeprofiteren. Zij staan immers aan de basis van het succes van het bedrijf. Voor D66 is het een voorwaarde dat winstdeling niet ten koste gaat van het gewone salaris of zorgt voor meer financiële onzekerheid bij werknemers.",
+                "explanation": "D66 wil dat als een bedrijf veel winst maakt, werknemers daarvan kunnen meeprofiteren. Zij staan immers aan de basis van het succes van het bedrijf. Voor D66 is het een voorwaarde dat winstdeling niet ten koste gaat van het gewone salaris of zorgt voor meer financiÃ«le onzekerheid bij werknemers.",
                 "accessibility": {
-                    "explanation": "D66 wil dat als een bedrijf veel winst maakt, werknemers daarvan kunnen meeprofiteren. Zij staan immers aan de basis van het succes van het bedrijf. Voor D66 is het een voorwaarde dat winstdeling niet ten koste gaat van het gewone salaris of zorgt voor meer financiële onzekerheid bij werknemers."
+                    "explanation": "D66 wil dat als een bedrijf veel winst maakt, werknemers daarvan kunnen meeprofiteren. Zij staan immers aan de basis van het succes van het bedrijf. Voor D66 is het een voorwaarde dat winstdeling niet ten koste gaat van het gewone salaris of zorgt voor meer financiÃ«le onzekerheid bij werknemers."
                 }
             },
             {
@@ -2134,9 +2134,9 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "agree",
-                "explanation": "D66 wil niet dat mensen in financiële problemen belanden als ze niet meer kunnen werken. Veel zzp'ers hebben dat al goed geregeld, maar anderen nog niet. D66 wil er zijn voor álle zzp'ers door een goede verzekering te regelen, met een beperkte premie en keuzevrijheid welke verzekeraar je wil. ",
+                "explanation": "D66 wil niet dat mensen in financiÃ«le problemen belanden als ze niet meer kunnen werken. Veel zzp'ers hebben dat al goed geregeld, maar anderen nog niet. D66 wil er zijn voor Ã¡lle zzp'ers door een goede verzekering te regelen, met een beperkte premie en keuzevrijheid welke verzekeraar je wil. ",
                 "accessibility": {
-                    "explanation": "D66 wil niet dat mensen in financiële problemen belanden als ze niet meer kunnen werken. Veel zzp'ers hebben dat al goed geregeld, maar anderen nog niet. D66 wil er zijn voor álle zzp'ers door een goede verzekering te regelen, met een beperkte premie en keuzevrijheid welke verzekeraar je wil."
+                    "explanation": "D66 wil niet dat mensen in financiÃ«le problemen belanden als ze niet meer kunnen werken. Veel zzp'ers hebben dat al goed geregeld, maar anderen nog niet. D66 wil er zijn voor Ã¡lle zzp'ers door een goede verzekering te regelen, met een beperkte premie en keuzevrijheid welke verzekeraar je wil."
                 }
             },
             {
@@ -2158,9 +2158,9 @@ export	let parties =[
             {
                 "id": 79630,
                 "position": "disagree",
-                "explanation": "D66 wil de stikstofuitstoot terugdringen en kijkt daarbij naar de landbouw, industrie én vervoer. Overdag maximaal 100 km/uur rijden zorgt voor minder uitstoot, waardoor we sneller door kunnen gaan met het bouwen van huizen. Zo helpen we ook boer en natuur. ",
+                "explanation": "D66 wil de stikstofuitstoot terugdringen en kijkt daarbij naar de landbouw, industrie Ã©n vervoer. Overdag maximaal 100 km/uur rijden zorgt voor minder uitstoot, waardoor we sneller door kunnen gaan met het bouwen van huizen. Zo helpen we ook boer en natuur. ",
                 "accessibility": {
-                    "explanation": "D66 wil de stikstofuitstoot terugdringen en kijkt daarbij naar de landbouw, industrie én vervoer. Overdag maximaal 100 km/uur rijden zorgt voor minder uitstoot, waardoor we sneller door kunnen gaan met het bouwen van huizen. Zo helpen we ook boer en natuur."
+                    "explanation": "D66 wil de stikstofuitstoot terugdringen en kijkt daarbij naar de landbouw, industrie Ã©n vervoer. Overdag maximaal 100 km/uur rijden zorgt voor minder uitstoot, waardoor we sneller door kunnen gaan met het bouwen van huizen. Zo helpen we ook boer en natuur."
                 }
             },
             {
@@ -2190,9 +2190,9 @@ export	let parties =[
             {
                 "id": 79631,
                 "position": "disagree",
-                "explanation": "Om de natuur te beschermen zijn wij tegen boskap en uitbreiding van de snelweg bij Amelisweerd bij Utrecht. D66 is voorstander van alternatieven om meer rijbanen te creëren, bijvoorbeeld door de lijnen op de snelweg beter te tekenen.\r\n",
+                "explanation": "Om de natuur te beschermen zijn wij tegen boskap en uitbreiding van de snelweg bij Amelisweerd bij Utrecht. D66 is voorstander van alternatieven om meer rijbanen te creÃ«ren, bijvoorbeeld door de lijnen op de snelweg beter te tekenen.\r\n",
                 "accessibility": {
-                    "explanation": "Om de natuur te beschermen zijn wij tegen boskap en uitbreiding van de snelweg bij Amelisweerd bij Utrecht. D66 is voorstander van alternatieven om meer rijbanen te creëren, bijvoorbeeld door de lijnen op de snelweg beter te tekenen."
+                    "explanation": "Om de natuur te beschermen zijn wij tegen boskap en uitbreiding van de snelweg bij Amelisweerd bij Utrecht. D66 is voorstander van alternatieven om meer rijbanen te creÃ«ren, bijvoorbeeld door de lijnen op de snelweg beter te tekenen."
                 }
             },
             {
@@ -2214,9 +2214,9 @@ export	let parties =[
             {
                 "id": 79584,
                 "position": "disagree",
-                "explanation": "Ook bij opsporing staan voor D66 privacywaarborgen voorop. De overheid dient zich daar strikt aan te houden met toezicht van het OM, zeker wanneer het privé-informatie betreft. Ook als er publieke informatie gebruikt wordt, zoals sociale media, moet er zeer zorgvuldig omgegaan worden met de data. ",
+                "explanation": "Ook bij opsporing staan voor D66 privacywaarborgen voorop. De overheid dient zich daar strikt aan te houden met toezicht van het OM, zeker wanneer het privÃ©-informatie betreft. Ook als er publieke informatie gebruikt wordt, zoals sociale media, moet er zeer zorgvuldig omgegaan worden met de data. ",
                 "accessibility": {
-                    "explanation": "Ook bij opsporing staan voor D66 privacywaarborgen voorop. De overheid dient zich daar strikt aan te houden met toezicht van het OM, zeker wanneer het privé-informatie betreft. Ook als er publieke informatie gebruikt wordt, zoals sociale media, moet er zeer zorgvuldig omgegaan worden met de data."
+                    "explanation": "Ook bij opsporing staan voor D66 privacywaarborgen voorop. De overheid dient zich daar strikt aan te houden met toezicht van het OM, zeker wanneer het privÃ©-informatie betreft. Ook als er publieke informatie gebruikt wordt, zoals sociale media, moet er zeer zorgvuldig omgegaan worden met de data."
                 }
             },
             {
@@ -2342,9 +2342,9 @@ export	let parties =[
             {
                 "id": 79588,
                 "position": "agree",
-                "explanation": "D66 vindt dat ondernemers mogen verdienen aan het succes van hun goede ideeën. Wel vragen we de sterkste schouders om de zwaarste lasten te dragen. Dit betekent dat grote bedrijven eerlijk belasting moeten betalen en soms ook wat meer als ze grote winsten maken.",
+                "explanation": "D66 vindt dat ondernemers mogen verdienen aan het succes van hun goede ideeÃ«n. Wel vragen we de sterkste schouders om de zwaarste lasten te dragen. Dit betekent dat grote bedrijven eerlijk belasting moeten betalen en soms ook wat meer als ze grote winsten maken.",
                 "accessibility": {
-                    "explanation": "D66 vindt dat ondernemers mogen verdienen aan het succes van hun goede ideeën. Wel vragen we de sterkste schouders om de zwaarste lasten te dragen. Dit betekent dat grote bedrijven eerlijk belasting moeten betalen en soms ook wat meer als ze grote winsten maken."
+                    "explanation": "D66 vindt dat ondernemers mogen verdienen aan het succes van hun goede ideeÃ«n. Wel vragen we de sterkste schouders om de zwaarste lasten te dragen. Dit betekent dat grote bedrijven eerlijk belasting moeten betalen en soms ook wat meer als ze grote winsten maken."
                 }
             },
             {
@@ -2430,9 +2430,9 @@ export	let parties =[
             {
                 "id": 79575,
                 "position": "agree",
-                "explanation": "Groningers verdienen zo snel mogelijk duidelijkheid over de afhandeling van hun schade. Daarom is het goed dat we voor schades tot ¬ 60.000 geen onderzoek meer doen naar de oorzaak van de schades. Op deze manier is er meer tijd om Groningers met de meest complexe schade sneller te helpen. ",
+                "explanation": "Groningers verdienen zo snel mogelijk duidelijkheid over de afhandeling van hun schade. Daarom is het goed dat we voor schades tot â‚¬ 60.000 geen onderzoek meer doen naar de oorzaak van de schades. Op deze manier is er meer tijd om Groningers met de meest complexe schade sneller te helpen. ",
                 "accessibility": {
-                    "explanation": "Groningers verdienen zo snel mogelijk duidelijkheid over de afhandeling van hun schade. Daarom is het goed dat we voor schades tot ¬ 60.000 geen onderzoek meer doen naar de oorzaak van de schades. Op deze manier is er meer tijd om Groningers met de meest complexe schade sneller te helpen."
+                    "explanation": "Groningers verdienen zo snel mogelijk duidelijkheid over de afhandeling van hun schade. Daarom is het goed dat we voor schades tot â‚¬ 60.000 geen onderzoek meer doen naar de oorzaak van de schades. Op deze manier is er meer tijd om Groningers met de meest complexe schade sneller te helpen."
                 }
             },
             {
@@ -2518,9 +2518,9 @@ export	let parties =[
             {
                 "id": 79625,
                 "position": "agree",
-                "explanation": "D66 wil reizen met de trein veel aantrekkelijker maken, zodat er minder vluchten nodig zijn. De luchtvaart draagt zo bij aan minder geluidsoverlast en een lagere stikstof- en CO2-uitstoot. We kijken daarbij eerst naar veelvliegers, vluchten op hele korte afstanden en privéjets.",
+                "explanation": "D66 wil reizen met de trein veel aantrekkelijker maken, zodat er minder vluchten nodig zijn. De luchtvaart draagt zo bij aan minder geluidsoverlast en een lagere stikstof- en CO2-uitstoot. We kijken daarbij eerst naar veelvliegers, vluchten op hele korte afstanden en privÃ©jets.",
                 "accessibility": {
-                    "explanation": "D66 wil reizen met de trein veel aantrekkelijker maken, zodat er minder vluchten nodig zijn. De luchtvaart draagt zo bij aan minder geluidsoverlast en een lagere stikstof- en CO2-uitstoot. We kijken daarbij eerst naar veelvliegers, vluchten op hele korte afstanden en privéjets."
+                    "explanation": "D66 wil reizen met de trein veel aantrekkelijker maken, zodat er minder vluchten nodig zijn. De luchtvaart draagt zo bij aan minder geluidsoverlast en een lagere stikstof- en CO2-uitstoot. We kijken daarbij eerst naar veelvliegers, vluchten op hele korte afstanden en privÃ©jets."
                 }
             },
             {
@@ -2563,9 +2563,9 @@ export	let parties =[
             {
                 "id": 79594,
                 "position": "disagree",
-                "explanation": "Kernenergie is heel duur én het is geen duurzame energie. Het maakt ons kwetsbaar bij een aanval en het afval blijft nog lang stralingsgevaarlijk. Gelukkig is het ook niet nodig: we hebben genoeg aan zonne- en windenergie als we ervoor zorgen dat de opslagcapaciteit van ons netwerk wordt uitgebreid.",
+                "explanation": "Kernenergie is heel duur Ã©n het is geen duurzame energie. Het maakt ons kwetsbaar bij een aanval en het afval blijft nog lang stralingsgevaarlijk. Gelukkig is het ook niet nodig: we hebben genoeg aan zonne- en windenergie als we ervoor zorgen dat de opslagcapaciteit van ons netwerk wordt uitgebreid.",
                 "accessibility": {
-                    "explanation": "Kernenergie is heel duur én het is geen duurzame energie. Het maakt ons kwetsbaar bij een aanval en het afval blijft nog lang stralingsgevaarlijk. Gelukkig is het ook niet nodig: we hebben genoeg aan zonne- en windenergie als we ervoor zorgen dat de opslagcapaciteit van ons netwerk wordt uitgebreid."
+                    "explanation": "Kernenergie is heel duur Ã©n het is geen duurzame energie. Het maakt ons kwetsbaar bij een aanval en het afval blijft nog lang stralingsgevaarlijk. Gelukkig is het ook niet nodig: we hebben genoeg aan zonne- en windenergie als we ervoor zorgen dat de opslagcapaciteit van ons netwerk wordt uitgebreid."
                 }
             },
             {
@@ -2579,9 +2579,9 @@ export	let parties =[
             {
                 "id": 79611,
                 "position": "agree",
-                "explanation": "In een gelijkwaardig land horen alle kinderen dezelfde basis te krijgen. Goede lessen over burgerschap zijn belangrijk voor het vertrouwen in elkaar en in de samenleving. Kerken en moskeeën mogen daar zelf invulling aangeven, maar de onderwijsinspectie ziet toe op de kwaliteit van deze lessen.",
+                "explanation": "In een gelijkwaardig land horen alle kinderen dezelfde basis te krijgen. Goede lessen over burgerschap zijn belangrijk voor het vertrouwen in elkaar en in de samenleving. Kerken en moskeeÃ«n mogen daar zelf invulling aangeven, maar de onderwijsinspectie ziet toe op de kwaliteit van deze lessen.",
                 "accessibility": {
-                    "explanation": "In een gelijkwaardig land horen alle kinderen dezelfde basis te krijgen. Goede lessen over burgerschap zijn belangrijk voor het vertrouwen in elkaar en in de samenleving. Kerken en moskeeën mogen daar zelf invulling aangeven, maar de onderwijsinspectie ziet toe op de kwaliteit van deze lessen."
+                    "explanation": "In een gelijkwaardig land horen alle kinderen dezelfde basis te krijgen. Goede lessen over burgerschap zijn belangrijk voor het vertrouwen in elkaar en in de samenleving. Kerken en moskeeÃ«n mogen daar zelf invulling aangeven, maar de onderwijsinspectie ziet toe op de kwaliteit van deze lessen."
                 }
             },
             {
@@ -2595,9 +2595,9 @@ export	let parties =[
             {
                 "id": 79596,
                 "position": "agree",
-                "explanation": "Mensen die minimumloon verdienen hebben te vaak moeite met rondkomen. Vaak gaat het om de mensen die onmisbaar werk doen, zoals bouwvakkers, zorgpersoneel en schoonmakers. Daarom verhogen we het minimumloon naar ¬16 bruto per uur voor iedereen vanaf 18 jaar. Ook de uitkeringen stijgen mee.",
+                "explanation": "Mensen die minimumloon verdienen hebben te vaak moeite met rondkomen. Vaak gaat het om de mensen die onmisbaar werk doen, zoals bouwvakkers, zorgpersoneel en schoonmakers. Daarom verhogen we het minimumloon naar â‚¬16 bruto per uur voor iedereen vanaf 18 jaar. Ook de uitkeringen stijgen mee.",
                 "accessibility": {
-                    "explanation": "Mensen die minimumloon verdienen hebben te vaak moeite met rondkomen. Vaak gaat het om de mensen die onmisbaar werk doen, zoals bouwvakkers, zorgpersoneel en schoonmakers. Daarom verhogen we het minimumloon naar ¬16 bruto per uur voor iedereen vanaf 18 jaar. Ook de uitkeringen stijgen mee."
+                    "explanation": "Mensen die minimumloon verdienen hebben te vaak moeite met rondkomen. Vaak gaat het om de mensen die onmisbaar werk doen, zoals bouwvakkers, zorgpersoneel en schoonmakers. Daarom verhogen we het minimumloon naar â‚¬16 bruto per uur voor iedereen vanaf 18 jaar. Ook de uitkeringen stijgen mee."
                 }
             },
             {
@@ -2643,9 +2643,9 @@ export	let parties =[
             {
                 "id": 79662,
                 "position": "agree",
-                "explanation": "Door de oorlog in Oekraïne en een veranderende wereld is het opbouwen van een sterke, Europese tak binnen de NAVO noodzakelijk. Daarvoor moeten we investeren in defensie en voldoen aan de NAVO-norm van 2%. Hoewel we onszelf en onze waarden beter moeten kunnen verdedigen, is en blijft vrede het doel.",
+                "explanation": "Door de oorlog in OekraÃ¯ne en een veranderende wereld is het opbouwen van een sterke, Europese tak binnen de NAVO noodzakelijk. Daarvoor moeten we investeren in defensie en voldoen aan de NAVO-norm van 2%. Hoewel we onszelf en onze waarden beter moeten kunnen verdedigen, is en blijft vrede het doel.",
                 "accessibility": {
-                    "explanation": "Door de oorlog in Oekraïne en een veranderende wereld is het opbouwen van een sterke, Europese tak binnen de NAVO noodzakelijk. Daarvoor moeten we investeren in defensie en voldoen aan de NAVO-norm van 2%. Hoewel we onszelf en onze waarden beter moeten kunnen verdedigen, is en blijft vrede het doel."
+                    "explanation": "Door de oorlog in OekraÃ¯ne en een veranderende wereld is het opbouwen van een sterke, Europese tak binnen de NAVO noodzakelijk. Daarvoor moeten we investeren in defensie en voldoen aan de NAVO-norm van 2%. Hoewel we onszelf en onze waarden beter moeten kunnen verdedigen, is en blijft vrede het doel."
                 }
             },
             {
@@ -2667,9 +2667,9 @@ export	let parties =[
             {
                 "id": 79648,
                 "position": "disagree",
-                "explanation": "Hoe meer subsidie we steken in opslag van CO2, hoe langer bedrijven doorgaan met uitstoten zonder écht te veranderen. CO2-opslag is vooral uitstel van het probleem, en nog geen bewezen techniek. Om de klimaatcrisis aan te pakken, moeten we stoppen met fossiel en overgaan op schone energie.",
+                "explanation": "Hoe meer subsidie we steken in opslag van CO2, hoe langer bedrijven doorgaan met uitstoten zonder Ã©cht te veranderen. CO2-opslag is vooral uitstel van het probleem, en nog geen bewezen techniek. Om de klimaatcrisis aan te pakken, moeten we stoppen met fossiel en overgaan op schone energie.",
                 "accessibility": {
-                    "explanation": "Hoe meer subsidie we steken in opslag van CO2, hoe langer bedrijven doorgaan met uitstoten zonder écht te veranderen. CO2-opslag is vooral uitstel van het probleem, en nog geen bewezen techniek. Om de klimaatcrisis aan te pakken, moeten we stoppen met fossiel en overgaan op schone energie."
+                    "explanation": "Hoe meer subsidie we steken in opslag van CO2, hoe langer bedrijven doorgaan met uitstoten zonder Ã©cht te veranderen. CO2-opslag is vooral uitstel van het probleem, en nog geen bewezen techniek. Om de klimaatcrisis aan te pakken, moeten we stoppen met fossiel en overgaan op schone energie."
                 }
             },
             {
@@ -2699,9 +2699,9 @@ export	let parties =[
             {
                 "id": 79587,
                 "position": "disagree",
-                "explanation": "Bij het vergroenen van Nederland hebben we iedereen nodig: overheid, burgers én bedrijven. Ondernemers die Nederland helpen verduurzamen kunnen op onze steun rekenen. Zo zorgen we ook voor nieuwe innovaties en de banen van de toekomst.",
+                "explanation": "Bij het vergroenen van Nederland hebben we iedereen nodig: overheid, burgers Ã©n bedrijven. Ondernemers die Nederland helpen verduurzamen kunnen op onze steun rekenen. Zo zorgen we ook voor nieuwe innovaties en de banen van de toekomst.",
                 "accessibility": {
-                    "explanation": "Bij het vergroenen van Nederland hebben we iedereen nodig: overheid, burgers én bedrijven. Ondernemers die Nederland helpen verduurzamen kunnen op onze steun rekenen. Zo zorgen we ook voor nieuwe innovaties en de banen van de toekomst."
+                    "explanation": "Bij het vergroenen van Nederland hebben we iedereen nodig: overheid, burgers Ã©n bedrijven. Ondernemers die Nederland helpen verduurzamen kunnen op onze steun rekenen. Zo zorgen we ook voor nieuwe innovaties en de banen van de toekomst."
                 }
             },
             {
@@ -2731,9 +2731,9 @@ export	let parties =[
             {
                 "id": 79621,
                 "position": "agree",
-                "explanation": "Huizen zijn om in te wonen, niet om winst mee te maken. Toch verdienen veel verhuurders veel geld over de rug van huurders. We voeren een puntensysteem in voor alle huurhuizen, zodat je een eerlijke prijs betaalt voor wat je krijgt. Daarnaast komt er huurverlaging voor slecht geïsoleerde woningen.",
+                "explanation": "Huizen zijn om in te wonen, niet om winst mee te maken. Toch verdienen veel verhuurders veel geld over de rug van huurders. We voeren een puntensysteem in voor alle huurhuizen, zodat je een eerlijke prijs betaalt voor wat je krijgt. Daarnaast komt er huurverlaging voor slecht geÃ¯soleerde woningen.",
                 "accessibility": {
-                    "explanation": "Huizen zijn om in te wonen, niet om winst mee te maken. Toch verdienen veel verhuurders veel geld over de rug van huurders. We voeren een puntensysteem in voor alle huurhuizen, zodat je een eerlijke prijs betaalt voor wat je krijgt. Daarnaast komt er huurverlaging voor slecht geïsoleerde woningen."
+                    "explanation": "Huizen zijn om in te wonen, niet om winst mee te maken. Toch verdienen veel verhuurders veel geld over de rug van huurders. We voeren een puntensysteem in voor alle huurhuizen, zodat je een eerlijke prijs betaalt voor wat je krijgt. Daarnaast komt er huurverlaging voor slecht geÃ¯soleerde woningen."
                 }
             },
             {
@@ -2755,9 +2755,9 @@ export	let parties =[
             {
                 "id": 79654,
                 "position": "agree",
-                "explanation": "In de kinderopvang moet één ding vooropstaan: het kind. Met goede, voor iedereen betaalbare opvang. Buitenlandse investeringsfondsen gebruiken kinderopvang nu als winstmachines, van ons belastinggeld. Daarom willen we hier weer een publieke voorziening van maken.",
+                "explanation": "In de kinderopvang moet Ã©Ã©n ding vooropstaan: het kind. Met goede, voor iedereen betaalbare opvang. Buitenlandse investeringsfondsen gebruiken kinderopvang nu als winstmachines, van ons belastinggeld. Daarom willen we hier weer een publieke voorziening van maken.",
                 "accessibility": {
-                    "explanation": "In de kinderopvang moet één ding vooropstaan: het kind. Met goede, voor iedereen betaalbare opvang. Buitenlandse investeringsfondsen gebruiken kinderopvang nu als winstmachines, van ons belastinggeld. Daarom willen we hier weer een publieke voorziening van maken."
+                    "explanation": "In de kinderopvang moet Ã©Ã©n ding vooropstaan: het kind. Met goede, voor iedereen betaalbare opvang. Buitenlandse investeringsfondsen gebruiken kinderopvang nu als winstmachines, van ons belastinggeld. Daarom willen we hier weer een publieke voorziening van maken."
                 }
             },
             {
@@ -2771,9 +2771,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "disagree",
-                "explanation": "Subsidies voor elektrische autos zijn nu vooral in het voordeel van mensen die al veel geld hebben. We willen sociale ongelijkheid tussen mensen juist verminderen. Daarom helpen we mensen met een laag- en middeninkomen om over te stappen op een elektrische auto, met gerichte subsidies.",
+                "explanation": "Subsidies voor elektrische autoâ€™s zijn nu vooral in het voordeel van mensen die al veel geld hebben. We willen sociale ongelijkheid tussen mensen juist verminderen. Daarom helpen we mensen met een laag- en middeninkomen om over te stappen op een elektrische auto, met gerichte subsidies.",
                 "accessibility": {
-                    "explanation": "Subsidies voor elektrische autos zijn nu vooral in het voordeel van mensen die al veel geld hebben. We willen sociale ongelijkheid tussen mensen juist verminderen. Daarom helpen we mensen met een laag- en middeninkomen om over te stappen op een elektrische auto, met gerichte subsidies."
+                    "explanation": "Subsidies voor elektrische autoâ€™s zijn nu vooral in het voordeel van mensen die al veel geld hebben. We willen sociale ongelijkheid tussen mensen juist verminderen. Daarom helpen we mensen met een laag- en middeninkomen om over te stappen op een elektrische auto, met gerichte subsidies."
                 }
             },
             {
@@ -2787,9 +2787,9 @@ export	let parties =[
             {
                 "id": 79609,
                 "position": "agree",
-                "explanation": "Goed cultuuronderwijs hoort bij een fijne en leerzame schooltijd. Kunst leert je op verschillende manieren naar de wereld te kijken, je eigen mening te vormen en je creatieve talenten te ontwikkelen. En door dit op school te doen, heeft élk kind er toegang toe.",
+                "explanation": "Goed cultuuronderwijs hoort bij een fijne en leerzame schooltijd. Kunst leert je op verschillende manieren naar de wereld te kijken, je eigen mening te vormen en je creatieve talenten te ontwikkelen. En door dit op school te doen, heeft Ã©lk kind er toegang toe.",
                 "accessibility": {
-                    "explanation": "Goed cultuuronderwijs hoort bij een fijne en leerzame schooltijd. Kunst leert je op verschillende manieren naar de wereld te kijken, je eigen mening te vormen en je creatieve talenten te ontwikkelen. En door dit op school te doen, heeft élk kind er toegang toe."
+                    "explanation": "Goed cultuuronderwijs hoort bij een fijne en leerzame schooltijd. Kunst leert je op verschillende manieren naar de wereld te kijken, je eigen mening te vormen en je creatieve talenten te ontwikkelen. En door dit op school te doen, heeft Ã©lk kind er toegang toe."
                 }
             }
         ],
@@ -2813,9 +2813,9 @@ export	let parties =[
             {
                 "id": 79642,
                 "position": "disagree",
-                "explanation": "Nederland heeft niet minder, maar juist méér natuur nodig! De natuur in Nederland is in slechte staat. Terwijl natuur enorm waardevol is voor onze gezondheid, onze biodiversiteit, en om in te ontspannen. Dat willen we fixen, door bijvoorbeeld natuurgebieden met elkaar te verbinden.",
+                "explanation": "Nederland heeft niet minder, maar juist mÃ©Ã©r natuur nodig! De natuur in Nederland is in slechte staat. Terwijl natuur enorm waardevol is voor onze gezondheid, onze biodiversiteit, en om in te ontspannen. Dat willen we fixen, door bijvoorbeeld natuurgebieden met elkaar te verbinden.",
                 "accessibility": {
-                    "explanation": "Nederland heeft niet minder, maar juist méér natuur nodig! De natuur in Nederland is in slechte staat. Terwijl natuur enorm waardevol is voor onze gezondheid, onze biodiversiteit, en om in te ontspannen. Dat willen we fixen, door bijvoorbeeld natuurgebieden met elkaar te verbinden."
+                    "explanation": "Nederland heeft niet minder, maar juist mÃ©Ã©r natuur nodig! De natuur in Nederland is in slechte staat. Terwijl natuur enorm waardevol is voor onze gezondheid, onze biodiversiteit, en om in te ontspannen. Dat willen we fixen, door bijvoorbeeld natuurgebieden met elkaar te verbinden."
                 }
             },
             {
@@ -2829,9 +2829,9 @@ export	let parties =[
             {
                 "id": 79595,
                 "position": "agree",
-                "explanation": "Werknemers creëren de winst van bedrijven: met hun harde werk wordt het geld verdiend. Maar terwijl bedrijven recordwinsten boeken, gaan veel werkenden er alleen maar op achteruit. Daarom vinden wij dat bedrijven als Albert Heijn en Shell hun winst horen te delen met de mensen op de vloer.",
+                "explanation": "Werknemers creÃ«ren de winst van bedrijven: met hun harde werk wordt het geld verdiend. Maar terwijl bedrijven recordwinsten boeken, gaan veel werkenden er alleen maar op achteruit. Daarom vinden wij dat bedrijven als Albert Heijn en Shell hun winst horen te delen met de mensen op de vloer.",
                 "accessibility": {
-                    "explanation": "Werknemers creëren de winst van bedrijven: met hun harde werk wordt het geld verdiend. Maar terwijl bedrijven recordwinsten boeken, gaan veel werkenden er alleen maar op achteruit. Daarom vinden wij dat bedrijven als Albert Heijn en Shell hun winst horen te delen met de mensen op de vloer."
+                    "explanation": "Werknemers creÃ«ren de winst van bedrijven: met hun harde werk wordt het geld verdiend. Maar terwijl bedrijven recordwinsten boeken, gaan veel werkenden er alleen maar op achteruit. Daarom vinden wij dat bedrijven als Albert Heijn en Shell hun winst horen te delen met de mensen op de vloer."
                 }
             },
             {
@@ -2885,9 +2885,9 @@ export	let parties =[
             {
                 "id": 79660,
                 "position": "agree",
-                "explanation": "Wereldwijd leven miljoenen mensen in extreme armoede. Als één van de rijkste landen heeft Nederland een verantwoordelijkheid om bij te dragen aan oplossingen. We houden ons nu niet eens aan internationale afspraken, daarom gaat wat ons betreft het ontwikkelingssamenwerkingsbudget van 0,5 naar 0,7%.",
+                "explanation": "Wereldwijd leven miljoenen mensen in extreme armoede. Als Ã©Ã©n van de rijkste landen heeft Nederland een verantwoordelijkheid om bij te dragen aan oplossingen. We houden ons nu niet eens aan internationale afspraken, daarom gaat wat ons betreft het ontwikkelingssamenwerkingsbudget van 0,5 naar 0,7%.",
                 "accessibility": {
-                    "explanation": "Wereldwijd leven miljoenen mensen in extreme armoede. Als één van de rijkste landen heeft Nederland een verantwoordelijkheid om bij te dragen aan oplossingen. We houden ons nu niet eens aan internationale afspraken, daarom gaat wat ons betreft het ontwikkelingssamenwerkingsbudget van 0,5 naar 0,7%."
+                    "explanation": "Wereldwijd leven miljoenen mensen in extreme armoede. Als Ã©Ã©n van de rijkste landen heeft Nederland een verantwoordelijkheid om bij te dragen aan oplossingen. We houden ons nu niet eens aan internationale afspraken, daarom gaat wat ons betreft het ontwikkelingssamenwerkingsbudget van 0,5 naar 0,7%."
                 }
             },
             {
@@ -2901,25 +2901,25 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "agree",
-                "explanation": "Veel zzpers hebben geen vangnet in geval van pech of ziekte. Daarom zijn wij op termijn voor een verplichte arbeidsongeschiktheidsverzekering voor alle zzpers, met een eerlijke bijdrage van de opdrachtgever. We zorgen voor een betaalbare premie.",
+                "explanation": "Veel zzpâ€™ers hebben geen vangnet in geval van pech of ziekte. Daarom zijn wij op termijn voor een verplichte arbeidsongeschiktheidsverzekering voor alle zzpâ€™ers, met een eerlijke bijdrage van de opdrachtgever. We zorgen voor een betaalbare premie.",
                 "accessibility": {
-                    "explanation": "Veel zzpers hebben geen vangnet in geval van pech of ziekte. Daarom zijn wij op termijn voor een verplichte arbeidsongeschiktheidsverzekering voor alle zzpers, met een eerlijke bijdrage van de opdrachtgever. We zorgen voor een betaalbare premie."
+                    "explanation": "Veel zzpâ€™ers hebben geen vangnet in geval van pech of ziekte. Daarom zijn wij op termijn voor een verplichte arbeidsongeschiktheidsverzekering voor alle zzpâ€™ers, met een eerlijke bijdrage van de opdrachtgever. We zorgen voor een betaalbare premie."
                 }
             },
             {
                 "id": 79645,
                 "position": "disagree",
-                "explanation": "De wolf is een beschermde diersoort. Daarnaast jaagt hij vooral op verzwakte en jonge dieren, waardoor de populaties van reeën, edelherten, en zwijnen gezond blijven. De resten die de wolf achterlaat, vormen voedsel voor aaseters, waardoor de biodiversiteit rijker wordt.",
+                "explanation": "De wolf is een beschermde diersoort. Daarnaast jaagt hij vooral op verzwakte en jonge dieren, waardoor de populaties van reeÃ«n, edelherten, en zwijnen gezond blijven. De resten die de wolf achterlaat, vormen voedsel voor aaseters, waardoor de biodiversiteit rijker wordt.",
                 "accessibility": {
-                    "explanation": "De wolf is een beschermde diersoort. Daarnaast jaagt hij vooral op verzwakte en jonge dieren, waardoor de populaties van reeën, edelherten, en zwijnen gezond blijven. De resten die de wolf achterlaat, vormen voedsel voor aaseters, waardoor de biodiversiteit rijker wordt."
+                    "explanation": "De wolf is een beschermde diersoort. Daarnaast jaagt hij vooral op verzwakte en jonge dieren, waardoor de populaties van reeÃ«n, edelherten, en zwijnen gezond blijven. De resten die de wolf achterlaat, vormen voedsel voor aaseters, waardoor de biodiversiteit rijker wordt."
                 }
             },
             {
                 "id": 79598,
                 "position": "disagree",
-                "explanation": "Iedereen heeft recht op een minimale basis waar je goed van kunt leven. Of je nou werkt voor minimumloon, AOW krijgt of een uitkering hebt. Dus is het logisch dat als de een stijgt, de ander meegaat. Dat is eerlijk en helpt te voorkomen dat mensen financiële problemen krijgen.",
+                "explanation": "Iedereen heeft recht op een minimale basis waar je goed van kunt leven. Of je nou werkt voor minimumloon, AOW krijgt of een uitkering hebt. Dus is het logisch dat als de een stijgt, de ander meegaat. Dat is eerlijk en helpt te voorkomen dat mensen financiÃ«le problemen krijgen.",
                 "accessibility": {
-                    "explanation": "Iedereen heeft recht op een minimale basis waar je goed van kunt leven. Of je nou werkt voor minimumloon, AOW krijgt of een uitkering hebt. Dus is het logisch dat als de een stijgt, de ander meegaat. Dat is eerlijk en helpt te voorkomen dat mensen financiële problemen krijgen."
+                    "explanation": "Iedereen heeft recht op een minimale basis waar je goed van kunt leven. Of je nou werkt voor minimumloon, AOW krijgt of een uitkering hebt. Dus is het logisch dat als de een stijgt, de ander meegaat. Dat is eerlijk en helpt te voorkomen dat mensen financiÃ«le problemen krijgen."
                 }
             },
             {
@@ -2933,9 +2933,9 @@ export	let parties =[
             {
                 "id": 79646,
                 "position": "agree",
-                "explanation": "Grote vervuilers betalen nu minder energiebelasting wanneer ze méér verbruiken. Dat is de wereld op z'n kop, want als burger zit je met een hoge energierekening waar je vaak weinig invloed op hebt, als je huurt bijvoorbeeld. GroenLinks-PvdA wil bedrijven aanmoedigen om te verduurzamen.",
+                "explanation": "Grote vervuilers betalen nu minder energiebelasting wanneer ze mÃ©Ã©r verbruiken. Dat is de wereld op z'n kop, want als burger zit je met een hoge energierekening waar je vaak weinig invloed op hebt, als je huurt bijvoorbeeld. GroenLinks-PvdA wil bedrijven aanmoedigen om te verduurzamen.",
                 "accessibility": {
-                    "explanation": "Grote vervuilers betalen nu minder energiebelasting wanneer ze méér verbruiken. Dat is de wereld op z'n kop, want als burger zit je met een hoge energierekening waar je vaak weinig invloed op hebt, als je huurt bijvoorbeeld. GroenLinks-PvdA wil bedrijven aanmoedigen om te verduurzamen."
+                    "explanation": "Grote vervuilers betalen nu minder energiebelasting wanneer ze mÃ©Ã©r verbruiken. Dat is de wereld op z'n kop, want als burger zit je met een hoge energierekening waar je vaak weinig invloed op hebt, als je huurt bijvoorbeeld. GroenLinks-PvdA wil bedrijven aanmoedigen om te verduurzamen."
                 }
             },
             {
@@ -2973,9 +2973,9 @@ export	let parties =[
             {
                 "id": 79663,
                 "position": "agree",
-                "explanation": "Samenwerking tussen Europese krijgsmachten bespaart kosten. Met een snel veranderende wereld en een oorlog op ons continent is het belangrijk dat we in Europa als één blok optreden. Ook daarom zijn wij voor verregaande samenwerking.",
+                "explanation": "Samenwerking tussen Europese krijgsmachten bespaart kosten. Met een snel veranderende wereld en een oorlog op ons continent is het belangrijk dat we in Europa als Ã©Ã©n blok optreden. Ook daarom zijn wij voor verregaande samenwerking.",
                 "accessibility": {
-                    "explanation": "Samenwerking tussen Europese krijgsmachten bespaart kosten. Met een snel veranderende wereld en een oorlog op ons continent is het belangrijk dat we in Europa als één blok optreden. Ook daarom zijn wij voor verregaande samenwerking."
+                    "explanation": "Samenwerking tussen Europese krijgsmachten bespaart kosten. Met een snel veranderende wereld en een oorlog op ons continent is het belangrijk dat we in Europa als Ã©Ã©n blok optreden. Ook daarom zijn wij voor verregaande samenwerking."
                 }
             },
             {
@@ -3029,9 +3029,9 @@ export	let parties =[
             {
                 "id": 79633,
                 "position": "agree",
-                "explanation": "Duurzaam reizen moedigen we aan en het OV moet voor iedereen toegankelijk zijn. Daarom komt GroenLinks-PvdA met een klimaatticket waarmee je voor ¬49 per maand onbeperkt reist in de daluren. Ook starten we met testen om het openbaar vervoer voor mensen met lage inkomens gratis te maken.",
+                "explanation": "Duurzaam reizen moedigen we aan en het OV moet voor iedereen toegankelijk zijn. Daarom komt GroenLinks-PvdA met een klimaatticket waarmee je voor â‚¬49 per maand onbeperkt reist in de daluren. Ook starten we met testen om het openbaar vervoer voor mensen met lage inkomens gratis te maken.",
                 "accessibility": {
-                    "explanation": "Duurzaam reizen moedigen we aan en het OV moet voor iedereen toegankelijk zijn. Daarom komt GroenLinks-PvdA met een klimaatticket waarmee je voor ¬49 per maand onbeperkt reist in de daluren. Ook starten we met testen om het openbaar vervoer voor mensen met lage inkomens gratis te maken."
+                    "explanation": "Duurzaam reizen moedigen we aan en het OV moet voor iedereen toegankelijk zijn. Daarom komt GroenLinks-PvdA met een klimaatticket waarmee je voor â‚¬49 per maand onbeperkt reist in de daluren. Ook starten we met testen om het openbaar vervoer voor mensen met lage inkomens gratis te maken."
                 }
             },
             {
@@ -3181,9 +3181,9 @@ export	let parties =[
             {
                 "id": 79606,
                 "position": "disagree",
-                "explanation": "Ieder kind moet zich veilig voelen op school. Uitsluiting vanwege seksuele geaardheid of genderidentiteit mogen we niet accepteren. Daarom zijn goede lessen over diversiteit zo belangrijk. Zo leren kinderen dat er verschillen bestaan én dat die heel normaal zijn.",
+                "explanation": "Ieder kind moet zich veilig voelen op school. Uitsluiting vanwege seksuele geaardheid of genderidentiteit mogen we niet accepteren. Daarom zijn goede lessen over diversiteit zo belangrijk. Zo leren kinderen dat er verschillen bestaan Ã©n dat die heel normaal zijn.",
                 "accessibility": {
-                    "explanation": "Ieder kind moet zich veilig voelen op school. Uitsluiting vanwege seksuele geaardheid of genderidentiteit mogen we niet accepteren. Daarom zijn goede lessen over diversiteit zo belangrijk. Zo leren kinderen dat er verschillen bestaan én dat die heel normaal zijn."
+                    "explanation": "Ieder kind moet zich veilig voelen op school. Uitsluiting vanwege seksuele geaardheid of genderidentiteit mogen we niet accepteren. Daarom zijn goede lessen over diversiteit zo belangrijk. Zo leren kinderen dat er verschillen bestaan Ã©n dat die heel normaal zijn."
                 }
             },
             {
@@ -3213,9 +3213,9 @@ export	let parties =[
             {
                 "id": 79607,
                 "position": "disagree",
-                "explanation": "Cultuur is voor iedereen, en moet dus betaalbaar zijn. Daarom houden we vast aan het lage btw-tarief van 9%. Ook willen we bedrijfsmatige winst op doorverkoop van kaartjes verbieden en geven we iedereen de kans om onze rijksmusea te bezoeken met één dag per maand gratis entree.",
+                "explanation": "Cultuur is voor iedereen, en moet dus betaalbaar zijn. Daarom houden we vast aan het lage btw-tarief van 9%. Ook willen we bedrijfsmatige winst op doorverkoop van kaartjes verbieden en geven we iedereen de kans om onze rijksmusea te bezoeken met Ã©Ã©n dag per maand gratis entree.",
                 "accessibility": {
-                    "explanation": "Cultuur is voor iedereen, en moet dus betaalbaar zijn. Daarom houden we vast aan het lage btw-tarief van 9%. Ook willen we bedrijfsmatige winst op doorverkoop van kaartjes verbieden en geven we iedereen de kans om onze rijksmusea te bezoeken met één dag per maand gratis entree."
+                    "explanation": "Cultuur is voor iedereen, en moet dus betaalbaar zijn. Daarom houden we vast aan het lage btw-tarief van 9%. Ook willen we bedrijfsmatige winst op doorverkoop van kaartjes verbieden en geven we iedereen de kans om onze rijksmusea te bezoeken met Ã©Ã©n dag per maand gratis entree."
                 }
             },
             {
@@ -3253,9 +3253,9 @@ export	let parties =[
             {
                 "id": 79624,
                 "position": "agree",
-                "explanation": "Wij staan voor betaalbare én kwalitatief goede woningen voor iedereen. Vakantiehuisjes zijn vaak niet bedoeld voor permanente bewoning. Maar omdat er een groot woningtekort is, is het wonen in een vakantiewoning soms de enige oplossing. Dat staan we tijdelijk toe.",
+                "explanation": "Wij staan voor betaalbare Ã©n kwalitatief goede woningen voor iedereen. Vakantiehuisjes zijn vaak niet bedoeld voor permanente bewoning. Maar omdat er een groot woningtekort is, is het wonen in een vakantiewoning soms de enige oplossing. Dat staan we tijdelijk toe.",
                 "accessibility": {
-                    "explanation": "Wij staan voor betaalbare én kwalitatief goede woningen voor iedereen. Vakantiehuisjes zijn vaak niet bedoeld voor permanente bewoning. Maar omdat er een groot woningtekort is, is het wonen in een vakantiewoning soms de enige oplossing. Dat staan we tijdelijk toe."
+                    "explanation": "Wij staan voor betaalbare Ã©n kwalitatief goede woningen voor iedereen. Vakantiehuisjes zijn vaak niet bedoeld voor permanente bewoning. Maar omdat er een groot woningtekort is, is het wonen in een vakantiewoning soms de enige oplossing. Dat staan we tijdelijk toe."
                 }
             },
             {
@@ -3330,9 +3330,9 @@ export	let parties =[
             {
                 "id": 79594,
                 "position": "agree",
-                "explanation": "Kernenergie is schoner, goedkoper en efficiënter dan windmolens en kolencentrales. De PVV is voor het snel bouwen van nieuwe kerncentrales.",
+                "explanation": "Kernenergie is schoner, goedkoper en efficiÃ«nter dan windmolens en kolencentrales. De PVV is voor het snel bouwen van nieuwe kerncentrales.",
                 "accessibility": {
-                    "explanation": "Kernenergie is schoner, goedkoper en efficiënter dan windmolens en kolencentrales. De PVV is voor het snel bouwen van nieuwe kerncentrales."
+                    "explanation": "Kernenergie is schoner, goedkoper en efficiÃ«nter dan windmolens en kolencentrales. De PVV is voor het snel bouwen van nieuwe kerncentrales."
                 }
             },
             {
@@ -3418,9 +3418,9 @@ export	let parties =[
             {
                 "id": 79599,
                 "position": "disagree",
-                "explanation": "Tienduizenden Nederlanders hebben te maken met de zogenaamde kostendelersnorm. \r\nDeze maatregel betekent dat een bijstandsuitkering verlaagd wordt als er meerdere personen op één adres wonen. \r\n",
+                "explanation": "Tienduizenden Nederlanders hebben te maken met de zogenaamde kostendelersnorm. \r\nDeze maatregel betekent dat een bijstandsuitkering verlaagd wordt als er meerdere personen op Ã©Ã©n adres wonen. \r\n",
                 "accessibility": {
-                    "explanation": "Tienduizenden Nederlanders hebben te maken met de zogenaamde kostendelersnorm. \r\nDeze maatregel betekent dat een bijstandsuitkering verlaagd wordt als er meerdere personen op één adres wonen."
+                    "explanation": "Tienduizenden Nederlanders hebben te maken met de zogenaamde kostendelersnorm. \r\nDeze maatregel betekent dat een bijstandsuitkering verlaagd wordt als er meerdere personen op Ã©Ã©n adres wonen."
                 }
             },
             {
@@ -3434,9 +3434,9 @@ export	let parties =[
             {
                 "id": 79648,
                 "position": "disagree",
-                "explanation": "De obsessie met CO2-reductie moet zo snel mogelijk gestopt worden. Nederland is verantwoordelijk voor nog geen half procent van de totale wereldwijde CO2-uitstoot. Er moet dus geen cent gaan naar reductie, opslag of andere zinloze klimaathobbys. ",
+                "explanation": "De obsessie met CO2-reductie moet zo snel mogelijk gestopt worden. Nederland is verantwoordelijk voor nog geen half procent van de totale wereldwijde CO2-uitstoot. Er moet dus geen cent gaan naar reductie, opslag of andere zinloze klimaathobbyâ€™s. ",
                 "accessibility": {
-                    "explanation": "De obsessie met CO2-reductie moet zo snel mogelijk gestopt worden. Nederland is verantwoordelijk voor nog geen half procent van de totale wereldwijde CO2-uitstoot. Er moet dus geen cent gaan naar reductie, opslag of andere zinloze klimaathobbys."
+                    "explanation": "De obsessie met CO2-reductie moet zo snel mogelijk gestopt worden. Nederland is verantwoordelijk voor nog geen half procent van de totale wereldwijde CO2-uitstoot. Er moet dus geen cent gaan naar reductie, opslag of andere zinloze klimaathobbyâ€™s."
                 }
             },
             {
@@ -3490,9 +3490,9 @@ export	let parties =[
             {
                 "id": 79652,
                 "position": "neither",
-                "explanation": "Medische ethische kwesties, zoals voltooid leven, zijn bij de PVV een vrije kwestie. Dat wil zeggen dat ieder fractielid bij een stemming zijn of haar eigen persoonlijke afweging kan maken. Het past daarom om hier te kiezen voor het standpunt geen van beide.",
+                "explanation": "Medische ethische kwesties, zoals voltooid leven, zijn bij de PVV een vrije kwestie. Dat wil zeggen dat ieder fractielid bij een stemming zijn of haar eigen persoonlijke afweging kan maken. Het past daarom om hier te kiezen voor het standpunt â€˜geen van beideâ€™.",
                 "accessibility": {
-                    "explanation": "Medische ethische kwesties, zoals voltooid leven, zijn bij de PVV een vrije kwestie. Dat wil zeggen dat ieder fractielid bij een stemming zijn of haar eigen persoonlijke afweging kan maken. Het past daarom om hier te kiezen voor het standpunt geen van beide."
+                    "explanation": "Medische ethische kwesties, zoals voltooid leven, zijn bij de PVV een vrije kwestie. Dat wil zeggen dat ieder fractielid bij een stemming zijn of haar eigen persoonlijke afweging kan maken. Het past daarom om hier te kiezen voor het standpunt â€˜geen van beideâ€™."
                 }
             },
             {
@@ -3538,9 +3538,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "agree",
-                "explanation": "Het is niet eerlijk dat de gewone Nederlander die geen dure elektrische auto kan betalen moet opdraaien voor de dikke Tesla van een ander.\r\nWij vinden dan ook dat subsidies op elektrische autos gestopt moeten worden. ",
+                "explanation": "Het is niet eerlijk dat de gewone Nederlander die geen dure elektrische auto kan betalen moet opdraaien voor de dikke Tesla van een ander.\r\nWij vinden dan ook dat subsidies op elektrische autoâ€™s gestopt moeten worden. ",
                 "accessibility": {
-                    "explanation": "Het is niet eerlijk dat de gewone Nederlander die geen dure elektrische auto kan betalen moet opdraaien voor de dikke Tesla van een ander.\r\nWij vinden dan ook dat subsidies op elektrische autos gestopt moeten worden."
+                    "explanation": "Het is niet eerlijk dat de gewone Nederlander die geen dure elektrische auto kan betalen moet opdraaien voor de dikke Tesla van een ander.\r\nWij vinden dan ook dat subsidies op elektrische autoâ€™s gestopt moeten worden."
                 }
             },
             {
@@ -3652,9 +3652,9 @@ export	let parties =[
             {
                 "id": 79660,
                 "position": "disagree",
-                "explanation": "De afgelopen 10 jaar ging er zon 50 miljard euro Nederlands belastinggeld naar ontwikkelingslanden toe. Geld dat verdwenen is door corruptie en wanbestuur. Daarom wil de PVV stoppen met die onzin en ons geld in Nederland zelf besteden.",
+                "explanation": "De afgelopen 10 jaar ging er zoâ€™n 50 miljard euro Nederlands belastinggeld naar ontwikkelingslanden toe. Geld dat verdwenen is door corruptie en wanbestuur. Daarom wil de PVV stoppen met die onzin en ons geld in Nederland zelf besteden.",
                 "accessibility": {
-                    "explanation": "De afgelopen 10 jaar ging er zon 50 miljard euro Nederlands belastinggeld naar ontwikkelingslanden toe. Geld dat verdwenen is door corruptie en wanbestuur. Daarom wil de PVV stoppen met die onzin en ons geld in Nederland zelf besteden."
+                    "explanation": "De afgelopen 10 jaar ging er zoâ€™n 50 miljard euro Nederlands belastinggeld naar ontwikkelingslanden toe. Geld dat verdwenen is door corruptie en wanbestuur. Daarom wil de PVV stoppen met die onzin en ons geld in Nederland zelf besteden."
                 }
             },
             {
@@ -3668,9 +3668,9 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "disagree",
-                "explanation": "De PVV wil dat zzpers zelf de keuze mogen maken om zich te verzekeren tegen arbeidsongeschiktheid. Dit moet dan wel betaalbaar zijn. ",
+                "explanation": "De PVV wil dat zzpâ€™ers zelf de keuze mogen maken om zich te verzekeren tegen arbeidsongeschiktheid. Dit moet dan wel betaalbaar zijn. ",
                 "accessibility": {
-                    "explanation": "De PVV wil dat zzpers zelf de keuze mogen maken om zich te verzekeren tegen arbeidsongeschiktheid. Dit moet dan wel betaalbaar zijn."
+                    "explanation": "De PVV wil dat zzpâ€™ers zelf de keuze mogen maken om zich te verzekeren tegen arbeidsongeschiktheid. Dit moet dan wel betaalbaar zijn."
                 }
             },
             {
@@ -3860,9 +3860,9 @@ export	let parties =[
             {
                 "id": 79635,
                 "position": "agree",
-                "explanation": "De PVV is tegen de Klimaatwet en tegen het Klimaatakkoord.  De regels op het gebied van klimaat moeten dus véél minder streng worden.",
+                "explanation": "De PVV is tegen de Klimaatwet en tegen het Klimaatakkoord.  De regels op het gebied van klimaat moeten dus vÃ©Ã©l minder streng worden.",
                 "accessibility": {
-                    "explanation": "De PVV is tegen de Klimaatwet en tegen het Klimaatakkoord.  De regels op het gebied van klimaat moeten dus véél minder streng worden."
+                    "explanation": "De PVV is tegen de Klimaatwet en tegen het Klimaatakkoord.  De regels op het gebied van klimaat moeten dus vÃ©Ã©l minder streng worden."
                 }
             },
             {
@@ -3884,9 +3884,9 @@ export	let parties =[
             {
                 "id": 79604,
                 "position": "agree",
-                "explanation": "Er is een groot personeelstekort in de zorg. De wachtlijsten groeien waardoor mensen veel langer moeten langer wachten op zorg. Financiële drempels voor opleidingen moeten daarom zoveel mogelijk worden weggenomen. ",
+                "explanation": "Er is een groot personeelstekort in de zorg. De wachtlijsten groeien waardoor mensen veel langer moeten langer wachten op zorg. FinanciÃ«le drempels voor opleidingen moeten daarom zoveel mogelijk worden weggenomen. ",
                 "accessibility": {
-                    "explanation": "Er is een groot personeelstekort in de zorg. De wachtlijsten groeien waardoor mensen veel langer moeten langer wachten op zorg. Financiële drempels voor opleidingen moeten daarom zoveel mogelijk worden weggenomen."
+                    "explanation": "Er is een groot personeelstekort in de zorg. De wachtlijsten groeien waardoor mensen veel langer moeten langer wachten op zorg. FinanciÃ«le drempels voor opleidingen moeten daarom zoveel mogelijk worden weggenomen."
                 }
             },
             {
@@ -3948,17 +3948,17 @@ export	let parties =[
             {
                 "id": 79606,
                 "position": "agree",
-                "explanation": "De PVV constateert dat schoolkinderen in toenemende mate geïndoctrineerd worden met genderwaanzin. De PVV wil juist extra aandacht op scholen voor kernvakken zoals taal en rekenen. Scholen moeten politieke indoctrinatie buiten de deur houden. ",
+                "explanation": "De PVV constateert dat schoolkinderen in toenemende mate geÃ¯ndoctrineerd worden met genderwaanzin. De PVV wil juist extra aandacht op scholen voor kernvakken zoals taal en rekenen. Scholen moeten politieke indoctrinatie buiten de deur houden. ",
                 "accessibility": {
-                    "explanation": "De PVV constateert dat schoolkinderen in toenemende mate geïndoctrineerd worden met genderwaanzin. De PVV wil juist extra aandacht op scholen voor kernvakken zoals taal en rekenen. Scholen moeten politieke indoctrinatie buiten de deur houden."
+                    "explanation": "De PVV constateert dat schoolkinderen in toenemende mate geÃ¯ndoctrineerd worden met genderwaanzin. De PVV wil juist extra aandacht op scholen voor kernvakken zoals taal en rekenen. Scholen moeten politieke indoctrinatie buiten de deur houden."
                 }
             },
             {
                 "id": 79638,
                 "position": "disagree",
-                "explanation": "De PVV is tegen gedwongen verkoop en tegen onteigening. We hebben het stikstofbeleid van het kabinet-Rutte IV niet gesteund. We hebben niet minder boeren maar minder dwang nodig. De stikstofregels moeten worden geschrapt of op zn minst versoepeld.",
+                "explanation": "De PVV is tegen gedwongen verkoop en tegen onteigening. We hebben het stikstofbeleid van het kabinet-Rutte IV niet gesteund. We hebben niet minder boeren maar minder dwang nodig. De stikstofregels moeten worden geschrapt of op zâ€™n minst versoepeld.",
                 "accessibility": {
-                    "explanation": "De PVV is tegen gedwongen verkoop en tegen onteigening. We hebben het stikstofbeleid van het kabinet-Rutte IV niet gesteund. We hebben niet minder boeren maar minder dwang nodig. De stikstofregels moeten worden geschrapt of op zn minst versoepeld."
+                    "explanation": "De PVV is tegen gedwongen verkoop en tegen onteigening. We hebben het stikstofbeleid van het kabinet-Rutte IV niet gesteund. We hebben niet minder boeren maar minder dwang nodig. De stikstofregels moeten worden geschrapt of op zâ€™n minst versoepeld."
                 }
             },
             {
@@ -3980,9 +3980,9 @@ export	let parties =[
             {
                 "id": 79607,
                 "position": "disagree",
-                "explanation": "Het lijkt wel of alles dat een beetje leuk is in Nederland moet worden kapot belast. BBQen (vlees), avondje uit (alcohol), auto rijden (accijnzen), reizen (vliegtax) en dan nu ook nog extra belasting op een avondje Coldplay of met je kinderen naar de Lion King? Als het aan de PVV ligt niet.",
+                "explanation": "Het lijkt wel of alles dat een beetje leuk is in Nederland moet worden kapot belast. BBQâ€™en (vlees), avondje uit (alcohol), auto rijden (accijnzen), reizen (vliegtax) en dan nu ook nog extra belasting op een avondje Coldplay of met je kinderen naar de Lion King? Als het aan de PVV ligt niet.",
                 "accessibility": {
-                    "explanation": "Het lijkt wel of alles dat een beetje leuk is in Nederland moet worden kapot belast. BBQen (vlees), avondje uit (alcohol), auto rijden (accijnzen), reizen (vliegtax) en dan nu ook nog extra belasting op een avondje Coldplay of met je kinderen naar de Lion King? Als het aan de PVV ligt niet."
+                    "explanation": "Het lijkt wel of alles dat een beetje leuk is in Nederland moet worden kapot belast. BBQâ€™en (vlees), avondje uit (alcohol), auto rijden (accijnzen), reizen (vliegtax) en dan nu ook nog extra belasting op een avondje Coldplay of met je kinderen naar de Lion King? Als het aan de PVV ligt niet."
                 }
             },
             {
@@ -4097,9 +4097,9 @@ export	let parties =[
             {
                 "id": 79594,
                 "position": "agree",
-                "explanation": "Het CDA wil dat er twee nieuwe kerncentrales worden gebouwd en dat er wordt geïnvesteerd in de ontwikkeling van kleine modulaire kerncentrales.",
+                "explanation": "Het CDA wil dat er twee nieuwe kerncentrales worden gebouwd en dat er wordt geÃ¯nvesteerd in de ontwikkeling van kleine modulaire kerncentrales.",
                 "accessibility": {
-                    "explanation": "Het CDA wil dat er twee nieuwe kerncentrales worden gebouwd en dat er wordt geïnvesteerd in de ontwikkeling van kleine modulaire kerncentrales."
+                    "explanation": "Het CDA wil dat er twee nieuwe kerncentrales worden gebouwd en dat er wordt geÃ¯nvesteerd in de ontwikkeling van kleine modulaire kerncentrales."
                 }
             },
             {
@@ -4113,25 +4113,25 @@ export	let parties =[
             {
                 "id": 79611,
                 "position": "disagree",
-                "explanation": "Het CDA vindt dat op basis van de vrijheid van godsdienst en de scheiding van kerk en staat het niet aan de overheid is om te controleren wat jongeren leren bij kerken, moskeeën en andere organisaties.",
+                "explanation": "Het CDA vindt dat op basis van de vrijheid van godsdienst en de scheiding van kerk en staat het niet aan de overheid is om te controleren wat jongeren leren bij kerken, moskeeÃ«n en andere organisaties.",
                 "accessibility": {
-                    "explanation": "Het CDA vindt dat op basis van de vrijheid van godsdienst en de scheiding van kerk en staat het niet aan de overheid is om te controleren wat jongeren leren bij kerken, moskeeën en andere organisaties."
+                    "explanation": "Het CDA vindt dat op basis van de vrijheid van godsdienst en de scheiding van kerk en staat het niet aan de overheid is om te controleren wat jongeren leren bij kerken, moskeeÃ«n en andere organisaties."
                 }
             },
             {
                 "id": 79627,
                 "position": "agree",
-                "explanation": "Voor het CDA geldt het principe: \"de vervuiler betaalt\", ook in de luchtvaart. Het CDA vindt dat passagiers van privéjets, overstappers en mensen die grote afstanden vliegen daarom ook een bijdrage moeten leveren. ",
+                "explanation": "Voor het CDA geldt het principe: \"de vervuiler betaalt\", ook in de luchtvaart. Het CDA vindt dat passagiers van privÃ©jets, overstappers en mensen die grote afstanden vliegen daarom ook een bijdrage moeten leveren. ",
                 "accessibility": {
-                    "explanation": "Voor het CDA geldt het principe: \"de vervuiler betaalt\", ook in de luchtvaart. Het CDA vindt dat passagiers van privéjets, overstappers en mensen die grote afstanden vliegen daarom ook een bijdrage moeten leveren."
+                    "explanation": "Voor het CDA geldt het principe: \"de vervuiler betaalt\", ook in de luchtvaart. Het CDA vindt dat passagiers van privÃ©jets, overstappers en mensen die grote afstanden vliegen daarom ook een bijdrage moeten leveren."
                 }
             },
             {
                 "id": 79596,
                 "position": "disagree",
-                "explanation": "Wie normaal werkt voor de kost mag niet in armoede vervallen. Het CDA wil dat bereiken door gerichte lastenverlichting, een verhoging van het minimumloon (we volgen het CPB-pad en verhogen het minimumloon naar ¬16,- in 2028) of een combinatie van ingrepen.",
+                "explanation": "Wie normaal werkt voor de kost mag niet in armoede vervallen. Het CDA wil dat bereiken door gerichte lastenverlichting, een verhoging van het minimumloon (we volgen het CPB-pad en verhogen het minimumloon naar â‚¬16,- in 2028) of een combinatie van ingrepen.",
                 "accessibility": {
-                    "explanation": "Wie normaal werkt voor de kost mag niet in armoede vervallen. Het CDA wil dat bereiken door gerichte lastenverlichting, een verhoging van het minimumloon (we volgen het CPB-pad en verhogen het minimumloon naar ¬16,- in 2028) of een combinatie van ingrepen."
+                    "explanation": "Wie normaal werkt voor de kost mag niet in armoede vervallen. Het CDA wil dat bereiken door gerichte lastenverlichting, een verhoging van het minimumloon (we volgen het CPB-pad en verhogen het minimumloon naar â‚¬16,- in 2028) of een combinatie van ingrepen."
                 }
             },
             {
@@ -4145,17 +4145,17 @@ export	let parties =[
             {
                 "id": 79629,
                 "position": "agree",
-                "explanation": "Voor het CDA geldt het principe: \"de vervuiler betaalt\", maar dat mag niet betekenen dat prijzen zó hoog worden dat mensen met lage of middeninkomens die afhankelijk zijn van een auto de kosten niet meer kunnen dragen, of dat mensen in grensregio's massaal over de grens gaan tanken.",
+                "explanation": "Voor het CDA geldt het principe: \"de vervuiler betaalt\", maar dat mag niet betekenen dat prijzen zÃ³ hoog worden dat mensen met lage of middeninkomens die afhankelijk zijn van een auto de kosten niet meer kunnen dragen, of dat mensen in grensregio's massaal over de grens gaan tanken.",
                 "accessibility": {
-                    "explanation": "Voor het CDA geldt het principe: \"de vervuiler betaalt\", maar dat mag niet betekenen dat prijzen zó hoog worden dat mensen met lage of middeninkomens die afhankelijk zijn van een auto de kosten niet meer kunnen dragen, of dat mensen in grensregio's massaal over de grens gaan tanken."
+                    "explanation": "Voor het CDA geldt het principe: \"de vervuiler betaalt\", maar dat mag niet betekenen dat prijzen zÃ³ hoog worden dat mensen met lage of middeninkomens die afhankelijk zijn van een auto de kosten niet meer kunnen dragen, of dat mensen in grensregio's massaal over de grens gaan tanken."
                 }
             },
             {
                 "id": 79661,
                 "position": "disagree",
-                "explanation": "Kandidaat-lidstaten kunnen alleen toetreden wanneer aan alle toelatingscriteria zijn voldaan, waarbij rechtsstatelijkheid een  prioriteit is. Hierop zijn geen uitzonderingen te maken. Voor Oekraïne gelden dezelfde eisen als voor andere kandidaat-lidstaten.",
+                "explanation": "Kandidaat-lidstaten kunnen alleen toetreden wanneer aan alle toelatingscriteria zijn voldaan, waarbij rechtsstatelijkheid een  prioriteit is. Hierop zijn geen uitzonderingen te maken. Voor OekraÃ¯ne gelden dezelfde eisen als voor andere kandidaat-lidstaten.",
                 "accessibility": {
-                    "explanation": "Kandidaat-lidstaten kunnen alleen toetreden wanneer aan alle toelatingscriteria zijn voldaan, waarbij rechtsstatelijkheid een  prioriteit is. Hierop zijn geen uitzonderingen te maken. Voor Oekraïne gelden dezelfde eisen als voor andere kandidaat-lidstaten."
+                    "explanation": "Kandidaat-lidstaten kunnen alleen toetreden wanneer aan alle toelatingscriteria zijn voldaan, waarbij rechtsstatelijkheid een  prioriteit is. Hierop zijn geen uitzonderingen te maken. Voor OekraÃ¯ne gelden dezelfde eisen als voor andere kandidaat-lidstaten."
                 }
             },
             {
@@ -4177,9 +4177,9 @@ export	let parties =[
             {
                 "id": 79662,
                 "position": "agree",
-                "explanation": "Nederland hoort een betrouwbare bondgenoot te zijn die zich aan afspraken houdt. Het CDA is mede-initiatiefnemer van de Defensiewet, waarmee de 2% NAVO-norm wettelijk wordt vastgelegd. Het vastleggen van de NAVO-norm als minimum draagt bij aan stabiele, langjarige financiering.",
+                "explanation": "Nederland hoort een betrouwbare bondgenoot te zijn die zich aan afspraken houdt. Het CDA is mede-initiatiefnemer van de â€˜Defensiewetâ€™, waarmee de 2% NAVO-norm wettelijk wordt vastgelegd. Het vastleggen van de NAVO-norm als minimum draagt bij aan stabiele, langjarige financiering.",
                 "accessibility": {
-                    "explanation": "Nederland hoort een betrouwbare bondgenoot te zijn die zich aan afspraken houdt. Het CDA is mede-initiatiefnemer van de Defensiewet, waarmee de 2% NAVO-norm wettelijk wordt vastgelegd. Het vastleggen van de NAVO-norm als minimum draagt bij aan stabiele, langjarige financiering."
+                    "explanation": "Nederland hoort een betrouwbare bondgenoot te zijn die zich aan afspraken houdt. Het CDA is mede-initiatiefnemer van de â€˜Defensiewetâ€™, waarmee de 2% NAVO-norm wettelijk wordt vastgelegd. Het vastleggen van de NAVO-norm als minimum draagt bij aan stabiele, langjarige financiering."
                 }
             },
             {
@@ -4201,9 +4201,9 @@ export	let parties =[
             {
                 "id": 79648,
                 "position": "disagree",
-                "explanation": "Het CDA vindt het niet nodig om nog meer te investeren in CO2-opslag. Er is de afgelopen jaren door de overheid al veel geïnvesteerd in CO2-opslag. Door de hoge CO2-prijs in het Europese emissiehandel systeem hebben bedrijven mogelijk ook nauwelijks nog subsidie nodig voor CO2-opslag.",
+                "explanation": "Het CDA vindt het niet nodig om nog meer te investeren in CO2-opslag. Er is de afgelopen jaren door de overheid al veel geÃ¯nvesteerd in CO2-opslag. Door de hoge CO2-prijs in het Europese emissiehandel systeem hebben bedrijven mogelijk ook nauwelijks nog subsidie nodig voor CO2-opslag.",
                 "accessibility": {
-                    "explanation": "Het CDA vindt het niet nodig om nog meer te investeren in CO2-opslag. Er is de afgelopen jaren door de overheid al veel geïnvesteerd in CO2-opslag. Door de hoge CO2-prijs in het Europese emissiehandel systeem hebben bedrijven mogelijk ook nauwelijks nog subsidie nodig voor CO2-opslag."
+                    "explanation": "Het CDA vindt het niet nodig om nog meer te investeren in CO2-opslag. Er is de afgelopen jaren door de overheid al veel geÃ¯nvesteerd in CO2-opslag. Door de hoge CO2-prijs in het Europese emissiehandel systeem hebben bedrijven mogelijk ook nauwelijks nog subsidie nodig voor CO2-opslag."
                 }
             },
             {
@@ -4241,9 +4241,9 @@ export	let parties =[
             {
                 "id": 79572,
                 "position": "agree",
-                "explanation": "Het CDA wil meer Kamerleden met wortels in de eigen regio of stad om de band tussen kiezer en Kamerlid te versterken. Het CDA wil de vertegenwoordiging van de regios in de politiek verbeteren door de invoering van een regionaal kiesstelsel met behoud van de evenredige vertegenwoordiging.",
+                "explanation": "Het CDA wil meer Kamerleden met wortels in de eigen regio of stad om de band tussen kiezer en Kamerlid te versterken. Het CDA wil de vertegenwoordiging van de regioâ€™s in de politiek verbeteren door de invoering van een regionaal kiesstelsel met behoud van de evenredige vertegenwoordiging.",
                 "accessibility": {
-                    "explanation": "Het CDA wil meer Kamerleden met wortels in de eigen regio of stad om de band tussen kiezer en Kamerlid te versterken. Het CDA wil de vertegenwoordiging van de regios in de politiek verbeteren door de invoering van een regionaal kiesstelsel met behoud van de evenredige vertegenwoordiging."
+                    "explanation": "Het CDA wil meer Kamerleden met wortels in de eigen regio of stad om de band tussen kiezer en Kamerlid te versterken. Het CDA wil de vertegenwoordiging van de regioâ€™s in de politiek verbeteren door de invoering van een regionaal kiesstelsel met behoud van de evenredige vertegenwoordiging."
                 }
             },
             {
@@ -4281,17 +4281,17 @@ export	let parties =[
             {
                 "id": 79622,
                 "position": "agree",
-                "explanation": "Het CDA wil dat corporatiehuurders meer kans krijgen om een corporatiewoning te kopen. Hierdoor neemt het aanbod aan koopwoningen voor lagere en middeninkomens toe. De financiële opbrengsten investeren woningcorporaties vervolgens in nieuwbouw en verduurzaming.",
+                "explanation": "Het CDA wil dat corporatiehuurders meer kans krijgen om een corporatiewoning te kopen. Hierdoor neemt het aanbod aan koopwoningen voor lagere en middeninkomens toe. De financiÃ«le opbrengsten investeren woningcorporaties vervolgens in nieuwbouw en verduurzaming.",
                 "accessibility": {
-                    "explanation": "Het CDA wil dat corporatiehuurders meer kans krijgen om een corporatiewoning te kopen. Hierdoor neemt het aanbod aan koopwoningen voor lagere en middeninkomens toe. De financiële opbrengsten investeren woningcorporaties vervolgens in nieuwbouw en verduurzaming."
+                    "explanation": "Het CDA wil dat corporatiehuurders meer kans krijgen om een corporatiewoning te kopen. Hierdoor neemt het aanbod aan koopwoningen voor lagere en middeninkomens toe. De financiÃ«le opbrengsten investeren woningcorporaties vervolgens in nieuwbouw en verduurzaming."
                 }
             },
             {
                 "id": 79654,
                 "position": "agree",
-                "explanation": "Het CDA is een voorstander van kinderopvang zonder winstoogmerk. De behaalde winst moet worden geïnvesteerd in de zorg voor en ontwikkeling van kinderen.\r\n",
+                "explanation": "Het CDA is een voorstander van kinderopvang zonder winstoogmerk. De behaalde winst moet worden geÃ¯nvesteerd in de zorg voor en ontwikkeling van kinderen.\r\n",
                 "accessibility": {
-                    "explanation": "Het CDA is een voorstander van kinderopvang zonder winstoogmerk. De behaalde winst moet worden geïnvesteerd in de zorg voor en ontwikkeling van kinderen."
+                    "explanation": "Het CDA is een voorstander van kinderopvang zonder winstoogmerk. De behaalde winst moet worden geÃ¯nvesteerd in de zorg voor en ontwikkeling van kinderen."
                 }
             },
             {
@@ -4347,9 +4347,9 @@ export	let parties =[
             {
                 "id": 79642,
                 "position": "disagree",
-                "explanation": "Het CDA vindt niet dat het aantal natuurgebieden moet worden verminderd. Wat het CDA betreft wordt er geïnvesteerd in de kwaliteit van de bestaande natuurgebieden. ",
+                "explanation": "Het CDA vindt niet dat het aantal natuurgebieden moet worden verminderd. Wat het CDA betreft wordt er geÃ¯nvesteerd in de kwaliteit van de bestaande natuurgebieden. ",
                 "accessibility": {
-                    "explanation": "Het CDA vindt niet dat het aantal natuurgebieden moet worden verminderd. Wat het CDA betreft wordt er geïnvesteerd in de kwaliteit van de bestaande natuurgebieden."
+                    "explanation": "Het CDA vindt niet dat het aantal natuurgebieden moet worden verminderd. Wat het CDA betreft wordt er geÃ¯nvesteerd in de kwaliteit van de bestaande natuurgebieden."
                 }
             },
             {
@@ -4411,9 +4411,9 @@ export	let parties =[
             {
                 "id": 79644,
                 "position": "disagree",
-                "explanation": "Het CDA ziet de tweestrijd waar boeren mee worstelen. We streven naar zoveel mogelijk keuzevrijheid voor dieren, maar dit heeft ook grote financiële consequenties en kan leiden tot hogere uitstoot van emissies en een verhoogd risico op dierziektes.",
+                "explanation": "Het CDA ziet de tweestrijd waar boeren mee worstelen. We streven naar zoveel mogelijk keuzevrijheid voor dieren, maar dit heeft ook grote financiÃ«le consequenties en kan leiden tot hogere uitstoot van emissies en een verhoogd risico op dierziektes.",
                 "accessibility": {
-                    "explanation": "Het CDA ziet de tweestrijd waar boeren mee worstelen. We streven naar zoveel mogelijk keuzevrijheid voor dieren, maar dit heeft ook grote financiële consequenties en kan leiden tot hogere uitstoot van emissies en een verhoogd risico op dierziektes."
+                    "explanation": "Het CDA ziet de tweestrijd waar boeren mee worstelen. We streven naar zoveel mogelijk keuzevrijheid voor dieren, maar dit heeft ook grote financiÃ«le consequenties en kan leiden tot hogere uitstoot van emissies en een verhoogd risico op dierziektes."
                 }
             },
             {
@@ -4435,9 +4435,9 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "agree",
-                "explanation": "Er komt een betaalbare en uitvoerbare basisverzekering tegen arbeidsongeschiktheid voor alle ZZPers, als vangnet om grote inkomensrisicos bij ziekte tegen te gaan. Dat is van belang voor de onderlinge solidariteit en het gelijke speelveld tussen vaste werknemers en inhuurkrachten op de werkvloer.",
+                "explanation": "Er komt een betaalbare en uitvoerbare basisverzekering tegen arbeidsongeschiktheid voor alle ZZPâ€™ers, als vangnet om grote inkomensrisicoâ€™s bij ziekte tegen te gaan. Dat is van belang voor de onderlinge solidariteit en het gelijke speelveld tussen vaste werknemers en inhuurkrachten op de werkvloer.",
                 "accessibility": {
-                    "explanation": "Er komt een betaalbare en uitvoerbare basisverzekering tegen arbeidsongeschiktheid voor alle ZZPers, als vangnet om grote inkomensrisicos bij ziekte tegen te gaan. Dat is van belang voor de onderlinge solidariteit en het gelijke speelveld tussen vaste werknemers en inhuurkrachten op de werkvloer."
+                    "explanation": "Er komt een betaalbare en uitvoerbare basisverzekering tegen arbeidsongeschiktheid voor alle ZZPâ€™ers, als vangnet om grote inkomensrisicoâ€™s bij ziekte tegen te gaan. Dat is van belang voor de onderlinge solidariteit en het gelijke speelveld tussen vaste werknemers en inhuurkrachten op de werkvloer."
                 }
             },
             {
@@ -4595,9 +4595,9 @@ export	let parties =[
             {
                 "id": 79634,
                 "position": "disagree",
-                "explanation": "Wat het CDA betreft wordt geïnvesteerd in kwaliteit boven kwantiteit: liever bestaande natuurgebieden in goede staat brengen dan meer natuur aanleggen die wellicht uiteindelijk ook in slechte staat zal verkeren. Daarnaast wil het CDA vruchtbare landbouwgronden beschermen tegen functieverandering.",
+                "explanation": "Wat het CDA betreft wordt geÃ¯nvesteerd in kwaliteit boven kwantiteit: liever bestaande natuurgebieden in goede staat brengen dan meer natuur aanleggen die wellicht uiteindelijk ook in slechte staat zal verkeren. Daarnaast wil het CDA vruchtbare landbouwgronden beschermen tegen functieverandering.",
                 "accessibility": {
-                    "explanation": "Wat het CDA betreft wordt geïnvesteerd in kwaliteit boven kwantiteit: liever bestaande natuurgebieden in goede staat brengen dan meer natuur aanleggen die wellicht uiteindelijk ook in slechte staat zal verkeren. Daarnaast wil het CDA vruchtbare landbouwgronden beschermen tegen functieverandering."
+                    "explanation": "Wat het CDA betreft wordt geÃ¯nvesteerd in kwaliteit boven kwantiteit: liever bestaande natuurgebieden in goede staat brengen dan meer natuur aanleggen die wellicht uiteindelijk ook in slechte staat zal verkeren. Daarnaast wil het CDA vruchtbare landbouwgronden beschermen tegen functieverandering."
                 }
             },
             {
@@ -4715,9 +4715,9 @@ export	let parties =[
             {
                 "id": 79606,
                 "position": "disagree",
-                "explanation": "Respectvol om leren gaan met  seksualiteit en met diversiteit is één van de kerndoelen van het basisonderwijs. Het CDA vindt het belangrijk dat kinderen op school leren de verschillen tussen mensen en groepen mensen te respecteren.",
+                "explanation": "Respectvol om leren gaan met  seksualiteit en met diversiteit is Ã©Ã©n van de kerndoelen van het basisonderwijs. Het CDA vindt het belangrijk dat kinderen op school leren de verschillen tussen mensen en groepen mensen te respecteren.",
                 "accessibility": {
-                    "explanation": "Respectvol om leren gaan met  seksualiteit en met diversiteit is één van de kerndoelen van het basisonderwijs. Het CDA vindt het belangrijk dat kinderen op school leren de verschillen tussen mensen en groepen mensen te respecteren."
+                    "explanation": "Respectvol om leren gaan met  seksualiteit en met diversiteit is Ã©Ã©n van de kerndoelen van het basisonderwijs. Het CDA vindt het belangrijk dat kinderen op school leren de verschillen tussen mensen en groepen mensen te respecteren."
                 }
             },
             {
@@ -4755,9 +4755,9 @@ export	let parties =[
             {
                 "id": 79655,
                 "position": "agree",
-                "explanation": "Het CDA vindt dat jongeren in bescherming moeten worden genomen tegen de risicos die (online) gokken met zich meebrengt zoals verslaving en schulden. De minimumleeftijd moet daarom op zn minst worden verhoogd tot 21 jaar. ",
+                "explanation": "Het CDA vindt dat jongeren in bescherming moeten worden genomen tegen de risicoâ€™s die (online) gokken met zich meebrengt zoals verslaving en schulden. De minimumleeftijd moet daarom op zâ€™n minst worden verhoogd tot 21 jaar. ",
                 "accessibility": {
-                    "explanation": "Het CDA vindt dat jongeren in bescherming moeten worden genomen tegen de risicos die (online) gokken met zich meebrengt zoals verslaving en schulden. De minimumleeftijd moet daarom op zn minst worden verhoogd tot 21 jaar."
+                    "explanation": "Het CDA vindt dat jongeren in bescherming moeten worden genomen tegen de risicoâ€™s die (online) gokken met zich meebrengt zoals verslaving en schulden. De minimumleeftijd moet daarom op zâ€™n minst worden verhoogd tot 21 jaar."
                 }
             },
             {
@@ -4795,9 +4795,9 @@ export	let parties =[
             {
                 "id": 79656,
                 "position": "disagree",
-                "explanation": "Het CDA vindt dat de overheid meer moet investeren in sport. Maar dat geld moet gaan naar meer mogelijkheden om te sporten voor mensen die daar op dit moment niet toe in staat zijn door bijvoorbeeld financiële problemen of door fysieke beperkingen.",
+                "explanation": "Het CDA vindt dat de overheid meer moet investeren in sport. Maar dat geld moet gaan naar meer mogelijkheden om te sporten voor mensen die daar op dit moment niet toe in staat zijn door bijvoorbeeld financiÃ«le problemen of door fysieke beperkingen.",
                 "accessibility": {
-                    "explanation": "Het CDA vindt dat de overheid meer moet investeren in sport. Maar dat geld moet gaan naar meer mogelijkheden om te sporten voor mensen die daar op dit moment niet toe in staat zijn door bijvoorbeeld financiële problemen of door fysieke beperkingen."
+                    "explanation": "Het CDA vindt dat de overheid meer moet investeren in sport. Maar dat geld moet gaan naar meer mogelijkheden om te sporten voor mensen die daar op dit moment niet toe in staat zijn door bijvoorbeeld financiÃ«le problemen of door fysieke beperkingen."
                 }
             },
             {
@@ -4811,9 +4811,9 @@ export	let parties =[
             {
                 "id": 79593,
                 "position": "disagree",
-                "explanation": "Het CDA vindt dat, zolang er nog gas nodig is  voor zowel de leveringszekerheid als het klimaat, het verstandiger is om dat gas zoveel mogelijk in Nederland te winnen. Dat is beter voor het klimaat, omdat Nederlands gas een kleinere CO2-voetafdruk heeft dan geïmporteerd gas.",
+                "explanation": "Het CDA vindt dat, zolang er nog gas nodig is  voor zowel de leveringszekerheid als het klimaat, het verstandiger is om dat gas zoveel mogelijk in Nederland te winnen. Dat is beter voor het klimaat, omdat Nederlands gas een kleinere CO2-voetafdruk heeft dan geÃ¯mporteerd gas.",
                 "accessibility": {
-                    "explanation": "Het CDA vindt dat, zolang er nog gas nodig is  voor zowel de leveringszekerheid als het klimaat, het verstandiger is om dat gas zoveel mogelijk in Nederland te winnen. Dat is beter voor het klimaat, omdat Nederlands gas een kleinere CO2-voetafdruk heeft dan geïmporteerd gas."
+                    "explanation": "Het CDA vindt dat, zolang er nog gas nodig is  voor zowel de leveringszekerheid als het klimaat, het verstandiger is om dat gas zoveel mogelijk in Nederland te winnen. Dat is beter voor het klimaat, omdat Nederlands gas een kleinere CO2-voetafdruk heeft dan geÃ¯mporteerd gas."
                 }
             },
             {
@@ -4856,9 +4856,9 @@ export	let parties =[
             {
                 "id": 79578,
                 "position": "disagree",
-                "explanation": "Dan zou de rechter, onafhankelijk van de omstandigheden, de dader tot een minimale straf moeten veroordelen. Dit zou een begrenzing zijn van de rechter, die in tegenstelling tot de Tweede Kamer (wetgever) wél kijkt naar individuele gevallen en situaties. Dat is onwenselijk.",
+                "explanation": "Dan zou de rechter, onafhankelijk van de omstandigheden, de dader tot een minimale straf moeten veroordelen. Dit zou een begrenzing zijn van de rechter, die in tegenstelling tot de Tweede Kamer (wetgever) wÃ©l kijkt naar individuele gevallen en situaties. Dat is onwenselijk.",
                 "accessibility": {
-                    "explanation": "Dan zou de rechter, onafhankelijk van de omstandigheden, de dader tot een minimale straf moeten veroordelen. Dit zou een begrenzing zijn van de rechter, die in tegenstelling tot de Tweede Kamer (wetgever) wél kijkt naar individuele gevallen en situaties. Dat is onwenselijk."
+                    "explanation": "Dan zou de rechter, onafhankelijk van de omstandigheden, de dader tot een minimale straf moeten veroordelen. Dit zou een begrenzing zijn van de rechter, die in tegenstelling tot de Tweede Kamer (wetgever) wÃ©l kijkt naar individuele gevallen en situaties. Dat is onwenselijk."
                 }
             },
             {
@@ -4872,9 +4872,9 @@ export	let parties =[
             {
                 "id": 79658,
                 "position": "disagree",
-                "explanation": "Uitgeprocedeerde asielzoekers moeten terug. Dit kabinet faalt hierin, waardoor mensen die geen recht hebben op asiel plekken bezet houden voor vluchtelingen in nood. We moeten harde eisen stellen, zodat landen hun mensen terugnemen. Neemt niet weg dat er ook in dat land mensen in nood kunnen zitten. Wij zijn voor afspraken met harde eisen waar financiën een rol in kunnen spelen, maar ontwikkelingshulp wordt altijd geleverd waar dat nodig is wat ons betreft.",
+                "explanation": "Uitgeprocedeerde asielzoekers moeten terug. Dit kabinet faalt hierin, waardoor mensen die geen recht hebben op asiel plekken bezet houden voor vluchtelingen in nood. We moeten harde eisen stellen, zodat landen hun mensen terugnemen. Neemt niet weg dat er ook in dat land mensen in nood kunnen zitten. Wij zijn voor afspraken met harde eisen waar financiÃ«n een rol in kunnen spelen, maar ontwikkelingshulp wordt altijd geleverd waar dat nodig is wat ons betreft.",
                 "accessibility": {
-                    "explanation": "Uitgeprocedeerde asielzoekers moeten terug. Dit kabinet faalt hierin, waardoor mensen die geen recht hebben op asiel plekken bezet houden voor vluchtelingen in nood. We moeten harde eisen stellen, zodat landen hun mensen terugnemen. Neemt niet weg dat er ook in dat land mensen in nood kunnen zitten. Wij zijn voor afspraken met harde eisen waar financiën een rol in kunnen spelen, maar ontwikkelingshulp wordt altijd geleverd waar dat nodig is wat ons betreft."
+                    "explanation": "Uitgeprocedeerde asielzoekers moeten terug. Dit kabinet faalt hierin, waardoor mensen die geen recht hebben op asiel plekken bezet houden voor vluchtelingen in nood. We moeten harde eisen stellen, zodat landen hun mensen terugnemen. Neemt niet weg dat er ook in dat land mensen in nood kunnen zitten. Wij zijn voor afspraken met harde eisen waar financiÃ«n een rol in kunnen spelen, maar ontwikkelingshulp wordt altijd geleverd waar dat nodig is wat ons betreft."
                 }
             },
             {
@@ -4888,17 +4888,17 @@ export	let parties =[
             {
                 "id": 79627,
                 "position": "disagree",
-                "explanation": "De SP is tegen de vliegtaks. 8% van de bevolking maakt 40% van de vliegreizen. Nog eens 40% van de vliegreizen wordt gemaakt door mensen die overstappen op Schiphol. Wij willen gericht veelvliegers belasten, niet mensen die één keer per jaar op vakantie gaan.",
+                "explanation": "De SP is tegen de vliegtaks. 8% van de bevolking maakt 40% van de vliegreizen. Nog eens 40% van de vliegreizen wordt gemaakt door mensen die overstappen op Schiphol. Wij willen gericht veelvliegers belasten, niet mensen die Ã©Ã©n keer per jaar op vakantie gaan.",
                 "accessibility": {
-                    "explanation": "De SP is tegen de vliegtaks. 8% van de bevolking maakt 40% van de vliegreizen. Nog eens 40% van de vliegreizen wordt gemaakt door mensen die overstappen op Schiphol. Wij willen gericht veelvliegers belasten, niet mensen die één keer per jaar op vakantie gaan."
+                    "explanation": "De SP is tegen de vliegtaks. 8% van de bevolking maakt 40% van de vliegreizen. Nog eens 40% van de vliegreizen wordt gemaakt door mensen die overstappen op Schiphol. Wij willen gericht veelvliegers belasten, niet mensen die Ã©Ã©n keer per jaar op vakantie gaan."
                 }
             },
             {
                 "id": 79596,
                 "position": "agree",
-                "explanation": "De SP verhoogt het minimumloon in één keer naar 16 euro per uur. Het aantal mensen dat in armoede leeft dreigt flink toe te nemen in Nederland. De beste manier om dit te voorkomen is door de lonen, uitkeringen en AOW structureel te verhogen.",
+                "explanation": "De SP verhoogt het minimumloon in Ã©Ã©n keer naar 16 euro per uur. Het aantal mensen dat in armoede leeft dreigt flink toe te nemen in Nederland. De beste manier om dit te voorkomen is door de lonen, uitkeringen en AOW structureel te verhogen.",
                 "accessibility": {
-                    "explanation": "De SP verhoogt het minimumloon in één keer naar 16 euro per uur. Het aantal mensen dat in armoede leeft dreigt flink toe te nemen in Nederland. De beste manier om dit te voorkomen is door de lonen, uitkeringen en AOW structureel te verhogen."
+                    "explanation": "De SP verhoogt het minimumloon in Ã©Ã©n keer naar 16 euro per uur. Het aantal mensen dat in armoede leeft dreigt flink toe te nemen in Nederland. De beste manier om dit te voorkomen is door de lonen, uitkeringen en AOW structureel te verhogen."
                 }
             },
             {
@@ -5056,9 +5056,9 @@ export	let parties =[
             {
                 "id": 79654,
                 "position": "agree",
-                "explanation": "Sinds de invoering van de marktwerking grepen buitenlandse commerciële bedrijven hun kans. Zij kochten kinderopvangorganisaties met maar één doel: winst maken. Dit is ten koste gegaan van de kwaliteit. De SP wil kinderopvang gratis maken en dergelijke commerciële bedrijven weren uit de kinderopvang.",
+                "explanation": "Sinds de invoering van de marktwerking grepen buitenlandse commerciÃ«le bedrijven hun kans. Zij kochten kinderopvangorganisaties met maar Ã©Ã©n doel: winst maken. Dit is ten koste gegaan van de kwaliteit. De SP wil kinderopvang gratis maken en dergelijke commerciÃ«le bedrijven weren uit de kinderopvang.",
                 "accessibility": {
-                    "explanation": "Sinds de invoering van de marktwerking grepen buitenlandse commerciële bedrijven hun kans. Zij kochten kinderopvangorganisaties met maar één doel: winst maken. Dit is ten koste gegaan van de kwaliteit. De SP wil kinderopvang gratis maken en dergelijke commerciële bedrijven weren uit de kinderopvang."
+                    "explanation": "Sinds de invoering van de marktwerking grepen buitenlandse commerciÃ«le bedrijven hun kans. Zij kochten kinderopvangorganisaties met maar Ã©Ã©n doel: winst maken. Dit is ten koste gegaan van de kwaliteit. De SP wil kinderopvang gratis maken en dergelijke commerciÃ«le bedrijven weren uit de kinderopvang."
                 }
             },
             {
@@ -5072,9 +5072,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "agree",
-                "explanation": "Elektrische auto's zijn duurder dan vergelijkbare auto's die rijden op benzine of diesel. Daardoor kunnenmensen met een relatief hoog inkomen die wel betalen. Het is oneerlijk om deze groep te blijven subsidiëren. De SP kiest voor klimaatrechtvaardigheid waarbij iedereen mee kan doen.",
+                "explanation": "Elektrische auto's zijn duurder dan vergelijkbare auto's die rijden op benzine of diesel. Daardoor kunnenmensen met een relatief hoog inkomen die wel betalen. Het is oneerlijk om deze groep te blijven subsidiÃ«ren. De SP kiest voor klimaatrechtvaardigheid waarbij iedereen mee kan doen.",
                 "accessibility": {
-                    "explanation": "Elektrische auto's zijn duurder dan vergelijkbare auto's die rijden op benzine of diesel. Daardoor kunnenmensen met een relatief hoog inkomen die wel betalen. Het is oneerlijk om deze groep te blijven subsidiëren. De SP kiest voor klimaatrechtvaardigheid waarbij iedereen mee kan doen."
+                    "explanation": "Elektrische auto's zijn duurder dan vergelijkbare auto's die rijden op benzine of diesel. Daardoor kunnenmensen met een relatief hoog inkomen die wel betalen. Het is oneerlijk om deze groep te blijven subsidiÃ«ren. De SP kiest voor klimaatrechtvaardigheid waarbij iedereen mee kan doen."
                 }
             },
             {
@@ -5088,9 +5088,9 @@ export	let parties =[
             {
                 "id": 79609,
                 "position": "agree",
-                "explanation": "Kunst en cultuur zijn geen sluitstuk van de begroting, maar een basis voor onze beschaving. Wij willen meer investeren in kunstenaars en muzikanten van Nederlandse bodem en dat begint al op school. Daarnaast moet flink geïnvesteerd worden in meer docenten voor de klas.",
+                "explanation": "Kunst en cultuur zijn geen sluitstuk van de begroting, maar een basis voor onze beschaving. Wij willen meer investeren in kunstenaars en muzikanten van Nederlandse bodem en dat begint al op school. Daarnaast moet flink geÃ¯nvesteerd worden in meer docenten voor de klas.",
                 "accessibility": {
-                    "explanation": "Kunst en cultuur zijn geen sluitstuk van de begroting, maar een basis voor onze beschaving. Wij willen meer investeren in kunstenaars en muzikanten van Nederlandse bodem en dat begint al op school. Daarnaast moet flink geïnvesteerd worden in meer docenten voor de klas."
+                    "explanation": "Kunst en cultuur zijn geen sluitstuk van de begroting, maar een basis voor onze beschaving. Wij willen meer investeren in kunstenaars en muzikanten van Nederlandse bodem en dat begint al op school. Daarnaast moet flink geÃ¯nvesteerd worden in meer docenten voor de klas."
                 }
             }
         ],
@@ -5178,9 +5178,9 @@ export	let parties =[
             {
                 "id": 79644,
                 "position": "agree",
-                "explanation": "Dat is goed voor hun welzijn. Het ophokken van duizenden dieren in de bio-industrie, onder slechte omstandigheden voor dieren én mensen, om vervolgens hun vlees te exporteren naar verre landen en achter te blijven met de mest, is niet meer van deze tijd. De SP wil weidegang verplicht stellen.",
+                "explanation": "Dat is goed voor hun welzijn. Het ophokken van duizenden dieren in de bio-industrie, onder slechte omstandigheden voor dieren Ã©n mensen, om vervolgens hun vlees te exporteren naar verre landen en achter te blijven met de mest, is niet meer van deze tijd. De SP wil weidegang verplicht stellen.",
                 "accessibility": {
-                    "explanation": "Dat is goed voor hun welzijn. Het ophokken van duizenden dieren in de bio-industrie, onder slechte omstandigheden voor dieren én mensen, om vervolgens hun vlees te exporteren naar verre landen en achter te blijven met de mest, is niet meer van deze tijd. De SP wil weidegang verplicht stellen."
+                    "explanation": "Dat is goed voor hun welzijn. Het ophokken van duizenden dieren in de bio-industrie, onder slechte omstandigheden voor dieren Ã©n mensen, om vervolgens hun vlees te exporteren naar verre landen en achter te blijven met de mest, is niet meer van deze tijd. De SP wil weidegang verplicht stellen."
                 }
             },
             {
@@ -5194,17 +5194,17 @@ export	let parties =[
             {
                 "id": 79581,
                 "position": "disagree",
-                "explanation": "In tegendeel, dat moet gelegaliseerd worden. Dat is de meest effectieve manier om drugscriminaliteit te bestrijden. Bovendien kan er dan toezicht komen op de kwaliteit en kan er belasting geïnd worden op een miljardenindustrie, wat nu verdwijnt in de illegaliteit.",
+                "explanation": "In tegendeel, dat moet gelegaliseerd worden. Dat is de meest effectieve manier om drugscriminaliteit te bestrijden. Bovendien kan er dan toezicht komen op de kwaliteit en kan er belasting geÃ¯nd worden op een miljardenindustrie, wat nu verdwijnt in de illegaliteit.",
                 "accessibility": {
-                    "explanation": "In tegendeel, dat moet gelegaliseerd worden. Dat is de meest effectieve manier om drugscriminaliteit te bestrijden. Bovendien kan er dan toezicht komen op de kwaliteit en kan er belasting geïnd worden op een miljardenindustrie, wat nu verdwijnt in de illegaliteit."
+                    "explanation": "In tegendeel, dat moet gelegaliseerd worden. Dat is de meest effectieve manier om drugscriminaliteit te bestrijden. Bovendien kan er dan toezicht komen op de kwaliteit en kan er belasting geÃ¯nd worden op een miljardenindustrie, wat nu verdwijnt in de illegaliteit."
                 }
             },
             {
                 "id": 79597,
                 "position": "agree",
-                "explanation": "Ook ZZPers verdienen een goede verzekering. Dat moet wel betaalbaar zijn en solidair. Dat is het nu niet. De enige manier om dit wel goed te regelen is door er een collectieve verzekering voor in te stellen in plaats van ieder voor zich, wat veel ZZPers niet kunnen betalen.",
+                "explanation": "Ook ZZPâ€™ers verdienen een goede verzekering. Dat moet wel betaalbaar zijn en solidair. Dat is het nu niet. De enige manier om dit wel goed te regelen is door er een collectieve verzekering voor in te stellen in plaats van ieder voor zich, wat veel ZZPâ€™ers niet kunnen betalen.",
                 "accessibility": {
-                    "explanation": "Ook ZZPers verdienen een goede verzekering. Dat moet wel betaalbaar zijn en solidair. Dat is het nu niet. De enige manier om dit wel goed te regelen is door er een collectieve verzekering voor in te stellen in plaats van ieder voor zich, wat veel ZZPers niet kunnen betalen."
+                    "explanation": "Ook ZZPâ€™ers verdienen een goede verzekering. Dat moet wel betaalbaar zijn en solidair. Dat is het nu niet. De enige manier om dit wel goed te regelen is door er een collectieve verzekering voor in te stellen in plaats van ieder voor zich, wat veel ZZPâ€™ers niet kunnen betalen."
                 }
             },
             {
@@ -5298,9 +5298,9 @@ export	let parties =[
             {
                 "id": 79616,
                 "position": "agree",
-                "explanation": "De SP wil dat asielzoekers eerlijk over Nederland verdeeld worden en dat vooral de rijke regios en buurten asielzoekers in kleinschalige locaties opvangen in plaats van de arme regios/buurten. Goed om dit in een wet vast te leggen. Er is meer grip nodig op het aantal mensen dat hierheen komt.",
+                "explanation": "De SP wil dat asielzoekers eerlijk over Nederland verdeeld worden en dat vooral de rijke regioâ€™s en buurten asielzoekers in kleinschalige locaties opvangen in plaats van de arme regioâ€™s/buurten. Goed om dit in een wet vast te leggen. Er is meer grip nodig op het aantal mensen dat hierheen komt.",
                 "accessibility": {
-                    "explanation": "De SP wil dat asielzoekers eerlijk over Nederland verdeeld worden en dat vooral de rijke regios en buurten asielzoekers in kleinschalige locaties opvangen in plaats van de arme regios/buurten. Goed om dit in een wet vast te leggen. Er is meer grip nodig op het aantal mensen dat hierheen komt."
+                    "explanation": "De SP wil dat asielzoekers eerlijk over Nederland verdeeld worden en dat vooral de rijke regioâ€™s en buurten asielzoekers in kleinschalige locaties opvangen in plaats van de arme regioâ€™s/buurten. Goed om dit in een wet vast te leggen. Er is meer grip nodig op het aantal mensen dat hierheen komt."
                 }
             },
             {
@@ -5466,9 +5466,9 @@ export	let parties =[
             {
                 "id": 79653,
                 "position": "agree",
-                "explanation": "Het opnemen van abortus in het Wetboek van Strafrecht was gebaseerd op ouderwetse en achterhaalde ideeën, bijvoorbeeld dat vrouwen handelingsonbekwaam zijn. Wanneer een abortus overwogen wordt, moet hier voldoende zorg en ondersteuning voor zijn.",
+                "explanation": "Het opnemen van abortus in het Wetboek van Strafrecht was gebaseerd op ouderwetse en achterhaalde ideeÃ«n, bijvoorbeeld dat vrouwen handelingsonbekwaam zijn. Wanneer een abortus overwogen wordt, moet hier voldoende zorg en ondersteuning voor zijn.",
                 "accessibility": {
-                    "explanation": "Het opnemen van abortus in het Wetboek van Strafrecht was gebaseerd op ouderwetse en achterhaalde ideeën, bijvoorbeeld dat vrouwen handelingsonbekwaam zijn. Wanneer een abortus overwogen wordt, moet hier voldoende zorg en ondersteuning voor zijn."
+                    "explanation": "Het opnemen van abortus in het Wetboek van Strafrecht was gebaseerd op ouderwetse en achterhaalde ideeÃ«n, bijvoorbeeld dat vrouwen handelingsonbekwaam zijn. Wanneer een abortus overwogen wordt, moet hier voldoende zorg en ondersteuning voor zijn."
                 }
             },
             {
@@ -5530,9 +5530,9 @@ export	let parties =[
             {
                 "id": 79576,
                 "position": "agree",
-                "explanation": "Wij versoberen de riante regelingen voor de koning. Leden van het koninklijk huis betalen voortaan zélf hun privékosten en belasting over hun inkomen en vermogen. Het inkomen van de koning en de andere leden van het koninklijk huis mogen niet hoger zijn dan dat van de minister-president.",
+                "explanation": "Wij versoberen de riante regelingen voor de koning. Leden van het koninklijk huis betalen voortaan zÃ©lf hun privÃ©kosten en belasting over hun inkomen en vermogen. Het inkomen van de koning en de andere leden van het koninklijk huis mogen niet hoger zijn dan dat van de minister-president.",
                 "accessibility": {
-                    "explanation": "Wij versoberen de riante regelingen voor de koning. Leden van het koninklijk huis betalen voortaan zélf hun privékosten en belasting over hun inkomen en vermogen. Het inkomen van de koning en de andere leden van het koninklijk huis mogen niet hoger zijn dan dat van de minister-president."
+                    "explanation": "Wij versoberen de riante regelingen voor de koning. Leden van het koninklijk huis betalen voortaan zÃ©lf hun privÃ©kosten en belasting over hun inkomen en vermogen. Het inkomen van de koning en de andere leden van het koninklijk huis mogen niet hoger zijn dan dat van de minister-president."
                 }
             },
             {
@@ -5546,9 +5546,9 @@ export	let parties =[
             {
                 "id": 79608,
                 "position": "disagree",
-                "explanation": "De SP hecht waarde aan een uiteenlopend aanbod op televisie, waarbij kijkcijfers van ondergeschikt belang zijn. Publieke omroepen moeten in staat worden gesteld programmas van hoge kwaliteit te blijven maken. Wel zullen wij een einde maken aan de megasalarissen bij de NPO.",
+                "explanation": "De SP hecht waarde aan een uiteenlopend aanbod op televisie, waarbij kijkcijfers van ondergeschikt belang zijn. Publieke omroepen moeten in staat worden gesteld programmaâ€™s van hoge kwaliteit te blijven maken. Wel zullen wij een einde maken aan de megasalarissen bij de NPO.",
                 "accessibility": {
-                    "explanation": "De SP hecht waarde aan een uiteenlopend aanbod op televisie, waarbij kijkcijfers van ondergeschikt belang zijn. Publieke omroepen moeten in staat worden gesteld programmas van hoge kwaliteit te blijven maken. Wel zullen wij een einde maken aan de megasalarissen bij de NPO."
+                    "explanation": "De SP hecht waarde aan een uiteenlopend aanbod op televisie, waarbij kijkcijfers van ondergeschikt belang zijn. Publieke omroepen moeten in staat worden gesteld programmaâ€™s van hoge kwaliteit te blijven maken. Wel zullen wij een einde maken aan de megasalarissen bij de NPO."
                 }
             },
             {
@@ -5586,9 +5586,9 @@ export	let parties =[
             {
                 "id": 79625,
                 "position": "disagree",
-                "explanation": "De krimp naar 440 duizend is nog een ambitie en die moet zo snel mogelijk gerealiseerd worden.  De SP wil daarnaast een veelvliegerstaks en verbod op privéjets. Het zijn namelijk de veelvliegers die het meeste vervuilen, niet de mensen die één keer per jaar op vakantie gaan.",
+                "explanation": "De krimp naar 440 duizend is nog een ambitie en die moet zo snel mogelijk gerealiseerd worden.  De SP wil daarnaast een veelvliegerstaks en verbod op privÃ©jets. Het zijn namelijk de veelvliegers die het meeste vervuilen, niet de mensen die Ã©Ã©n keer per jaar op vakantie gaan.",
                 "accessibility": {
-                    "explanation": "De krimp naar 440 duizend is nog een ambitie en die moet zo snel mogelijk gerealiseerd worden.  De SP wil daarnaast een veelvliegerstaks en verbod op privéjets. Het zijn namelijk de veelvliegers die het meeste vervuilen, niet de mensen die één keer per jaar op vakantie gaan."
+                    "explanation": "De krimp naar 440 duizend is nog een ambitie en die moet zo snel mogelijk gerealiseerd worden.  De SP wil daarnaast een veelvliegerstaks en verbod op privÃ©jets. Het zijn namelijk de veelvliegers die het meeste vervuilen, niet de mensen die Ã©Ã©n keer per jaar op vakantie gaan."
                 }
             },
             {
@@ -5735,17 +5735,17 @@ export	let parties =[
             {
                 "id": 79648,
                 "position": "disagree",
-                "explanation": "FVD wil geen geld verspillen aan nodeloze klimaat-technologiën. Dit geld kan veel beter geïnvesteerd worden in bijvoorbeeld de ontwikkeling van kernenergie.",
+                "explanation": "FVD wil geen geld verspillen aan nodeloze klimaat-technologiÃ«n. Dit geld kan veel beter geÃ¯nvesteerd worden in bijvoorbeeld de ontwikkeling van kernenergie.",
                 "accessibility": {
-                    "explanation": "FVD wil geen geld verspillen aan nodeloze klimaat-technologiën. Dit geld kan veel beter geïnvesteerd worden in bijvoorbeeld de ontwikkeling van kernenergie."
+                    "explanation": "FVD wil geen geld verspillen aan nodeloze klimaat-technologiÃ«n. Dit geld kan veel beter geÃ¯nvesteerd worden in bijvoorbeeld de ontwikkeling van kernenergie."
                 }
             },
             {
                 "id": 79585,
                 "position": "disagree",
-                "explanation": "FVD wil opsporing bespoedigen door justitie toe te staan te profileren op basis van statistisch relevante categorieën.",
+                "explanation": "FVD wil opsporing bespoedigen door justitie toe te staan te profileren op basis van statistisch relevante categorieÃ«n.",
                 "accessibility": {
-                    "explanation": "FVD wil opsporing bespoedigen door justitie toe te staan te profileren op basis van statistisch relevante categorieën."
+                    "explanation": "FVD wil opsporing bespoedigen door justitie toe te staan te profileren op basis van statistisch relevante categorieÃ«n."
                 }
             },
             {
@@ -5815,9 +5815,9 @@ export	let parties =[
             {
                 "id": 79622,
                 "position": "agree",
-                "explanation": "FVD vindt dat eigen woningbezit gestimuleerd moet worden. Wonen in sociale huurwoningen moet niet de norm worden. Daarom moeten huurders de kans krijgen om hun sociale huurwoning te kopen van de woningcorportatie om zo een gezonde woningmarkt te creëren.",
+                "explanation": "FVD vindt dat eigen woningbezit gestimuleerd moet worden. Wonen in sociale huurwoningen moet niet de norm worden. Daarom moeten huurders de kans krijgen om hun sociale huurwoning te kopen van de woningcorportatie om zo een gezonde woningmarkt te creÃ«ren.",
                 "accessibility": {
-                    "explanation": "FVD vindt dat eigen woningbezit gestimuleerd moet worden. Wonen in sociale huurwoningen moet niet de norm worden. Daarom moeten huurders de kans krijgen om hun sociale huurwoning te kopen van de woningcorportatie om zo een gezonde woningmarkt te creëren."
+                    "explanation": "FVD vindt dat eigen woningbezit gestimuleerd moet worden. Wonen in sociale huurwoningen moet niet de norm worden. Daarom moeten huurders de kans krijgen om hun sociale huurwoning te kopen van de woningcorportatie om zo een gezonde woningmarkt te creÃ«ren."
                 }
             },
             {
@@ -5945,17 +5945,17 @@ export	let parties =[
             {
                 "id": 79644,
                 "position": "disagree",
-                "explanation": "FVD wil inzetten op dierenwelzijn, maar we denken dat het onmogelijk zal zijn om álle dieren op ieder moment de mogelijkheid te bieden om naar buiten te gaan.",
+                "explanation": "FVD wil inzetten op dierenwelzijn, maar we denken dat het onmogelijk zal zijn om Ã¡lle dieren op ieder moment de mogelijkheid te bieden om naar buiten te gaan.",
                 "accessibility": {
-                    "explanation": "FVD wil inzetten op dierenwelzijn, maar we denken dat het onmogelijk zal zijn om álle dieren op ieder moment de mogelijkheid te bieden om naar buiten te gaan."
+                    "explanation": "FVD wil inzetten op dierenwelzijn, maar we denken dat het onmogelijk zal zijn om Ã¡lle dieren op ieder moment de mogelijkheid te bieden om naar buiten te gaan."
                 }
             },
             {
                 "id": 79660,
                 "position": "disagree",
-                "explanation": "FVD wil stoppen met ontwikkelingshulp en alleen (eventueel) noodhulp verlenen aan getroffen regios.",
+                "explanation": "FVD wil stoppen met ontwikkelingshulp en alleen (eventueel) noodhulp verlenen aan getroffen regioâ€™s.",
                 "accessibility": {
-                    "explanation": "FVD wil stoppen met ontwikkelingshulp en alleen (eventueel) noodhulp verlenen aan getroffen regios."
+                    "explanation": "FVD wil stoppen met ontwikkelingshulp en alleen (eventueel) noodhulp verlenen aan getroffen regioâ€™s."
                 }
             },
             {
@@ -6177,9 +6177,9 @@ export	let parties =[
             {
                 "id": 79588,
                 "position": "disagree",
-                "explanation": "FVD vindt dat ondernemers de vrijheid moeten hebben om te ondernemen. FVD gelooft dan ook in een dynamische samenleving, vol kansen voor een ieder om bedrijven op te zetten, nieuwe producten te ontwikkelen, innovatie te bewerkstelligen en (dus ook) welvaart te creëren.",
+                "explanation": "FVD vindt dat ondernemers de vrijheid moeten hebben om te ondernemen. FVD gelooft dan ook in een dynamische samenleving, vol kansen voor een ieder om bedrijven op te zetten, nieuwe producten te ontwikkelen, innovatie te bewerkstelligen en (dus ook) welvaart te creÃ«ren.",
                 "accessibility": {
-                    "explanation": "FVD vindt dat ondernemers de vrijheid moeten hebben om te ondernemen. FVD gelooft dan ook in een dynamische samenleving, vol kansen voor een ieder om bedrijven op te zetten, nieuwe producten te ontwikkelen, innovatie te bewerkstelligen en (dus ook) welvaart te creëren."
+                    "explanation": "FVD vindt dat ondernemers de vrijheid moeten hebben om te ondernemen. FVD gelooft dan ook in een dynamische samenleving, vol kansen voor een ieder om bedrijven op te zetten, nieuwe producten te ontwikkelen, innovatie te bewerkstelligen en (dus ook) welvaart te creÃ«ren."
                 }
             },
             {
@@ -6201,9 +6201,9 @@ export	let parties =[
             {
                 "id": 79573,
                 "position": "disagree",
-                "explanation": "FVD denkt dat de huidige hoeveelheid kamerleden voldoende is. Wij willen niet nog meer nieuwe politieke baantjes creëren.",
+                "explanation": "FVD denkt dat de huidige hoeveelheid kamerleden voldoende is. Wij willen niet nog meer nieuwe politieke baantjes creÃ«ren.",
                 "accessibility": {
-                    "explanation": "FVD denkt dat de huidige hoeveelheid kamerleden voldoende is. Wij willen niet nog meer nieuwe politieke baantjes creëren."
+                    "explanation": "FVD denkt dat de huidige hoeveelheid kamerleden voldoende is. Wij willen niet nog meer nieuwe politieke baantjes creÃ«ren."
                 }
             },
             {
@@ -6390,9 +6390,9 @@ export	let parties =[
             {
                 "id": 79578,
                 "position": "disagree",
-                "explanation": "Door minimumstraffen in te stellen, zou de wetgever de rol innemen van de rechter. De rechter moet zelf een proportionele straf kunnen bepalen, waarbij ongelijke gevallen ongelijk behandeld worden. Onderzoek wijst uit dat criminaliteit in landen met minimumstraffen niet effectiever wordt bestreden.",
+                "explanation": "Door minimumstraffen in te stellen, zou de wetgever de rol innemen van de rechter. De rechter moet zelf een proportionele straf kunnen bepalen, waarbij ongelijke gevallen ongelijk behandeld worden. Onderzoek wijst uit dat criminaliteit in landen met minimumstraffen niet effectiever wordt bestreden.â€ƒ",
                 "accessibility": {
-                    "explanation": "Door minimumstraffen in te stellen, zou de wetgever de rol innemen van de rechter. De rechter moet zelf een proportionele straf kunnen bepalen, waarbij ongelijke gevallen ongelijk behandeld worden. Onderzoek wijst uit dat criminaliteit in landen met minimumstraffen niet effectiever wordt bestreden."
+                    "explanation": "Door minimumstraffen in te stellen, zou de wetgever de rol innemen van de rechter. De rechter moet zelf een proportionele straf kunnen bepalen, waarbij ongelijke gevallen ongelijk behandeld worden. Onderzoek wijst uit dat criminaliteit in landen met minimumstraffen niet effectiever wordt bestreden.â€ƒ"
                 }
             },
             {
@@ -6422,9 +6422,9 @@ export	let parties =[
             {
                 "id": 79627,
                 "position": "agree",
-                "explanation": "Er komt een progressieve vliegtaks voor consumenten, die hoger wordt als je vaker vliegt. Privévluchten worden verboden. We investeren in internationale treinverbindingen om deze goedkoper, sneller en toegankelijker te maken en helpen luchtvaartpersoneel aan banen met een beter toekomstperspectief.\r\n",
+                "explanation": "Er komt een progressieve vliegtaks voor consumenten, die hoger wordt als je vaker vliegt. PrivÃ©vluchten worden verboden. We investeren in internationale treinverbindingen om deze goedkoper, sneller en toegankelijker te maken en helpen luchtvaartpersoneel aan banen met een beter toekomstperspectief.\r\n",
                 "accessibility": {
-                    "explanation": "Er komt een progressieve vliegtaks voor consumenten, die hoger wordt als je vaker vliegt. Privévluchten worden verboden. We investeren in internationale treinverbindingen om deze goedkoper, sneller en toegankelijker te maken en helpen luchtvaartpersoneel aan banen met een beter toekomstperspectief."
+                    "explanation": "Er komt een progressieve vliegtaks voor consumenten, die hoger wordt als je vaker vliegt. PrivÃ©vluchten worden verboden. We investeren in internationale treinverbindingen om deze goedkoper, sneller en toegankelijker te maken en helpen luchtvaartpersoneel aan banen met een beter toekomstperspectief."
                 }
             },
             {
@@ -6438,9 +6438,9 @@ export	let parties =[
             {
                 "id": 79613,
                 "position": "disagree",
-                "explanation": "Het beperken van gezinshereniging is strijdig met mensenrechtenverdragen. De Partij voor de Dieren gaat hier niet mee akkoord. Ook niet-traditionele vormen van familie, zoals queer families en banden buiten het kerngezin, komen in aanmerking voor hereniging. \r\n",
+                "explanation": "Het beperken van gezinshereniging is strijdig met mensenrechtenverdragen. De Partij voor de Dieren gaat hier niet mee akkoord. Ook niet-traditionele vormen van familie, zoals queer families en banden buiten het â€˜kerngezinâ€™, komen in aanmerking voor hereniging. \r\n",
                 "accessibility": {
-                    "explanation": "Het beperken van gezinshereniging is strijdig met mensenrechtenverdragen. De Partij voor de Dieren gaat hier niet mee akkoord. Ook niet-traditionele vormen van familie, zoals queer families en banden buiten het kerngezin, komen in aanmerking voor hereniging."
+                    "explanation": "Het beperken van gezinshereniging is strijdig met mensenrechtenverdragen. De Partij voor de Dieren gaat hier niet mee akkoord. Ook niet-traditionele vormen van familie, zoals queer families en banden buiten het â€˜kerngezinâ€™, komen in aanmerking voor hereniging."
                 }
             },
             {
@@ -6478,9 +6478,9 @@ export	let parties =[
             {
                 "id": 79662,
                 "position": "disagree",
-                "explanation": "Het defensiebudget wordt niet verder verhoogd. Er komt geen wettelijke verankering van de NAVO-norm voor een defensiebudget van 2% van de rijksbegroting. In tijden dat Nederland niet bij oorlogen betrokken is, is zon bijdrage verspilling van kostbaar belastinggeld. \r\n",
+                "explanation": "Het defensiebudget wordt niet verder verhoogd. Er komt geen wettelijke verankering van de NAVO-norm voor een defensiebudget van 2% van de rijksbegroting. In tijden dat Nederland niet bij oorlogen betrokken is, is zoâ€™n bijdrage verspilling van kostbaar belastinggeld. \r\n",
                 "accessibility": {
-                    "explanation": "Het defensiebudget wordt niet verder verhoogd. Er komt geen wettelijke verankering van de NAVO-norm voor een defensiebudget van 2% van de rijksbegroting. In tijden dat Nederland niet bij oorlogen betrokken is, is zon bijdrage verspilling van kostbaar belastinggeld."
+                    "explanation": "Het defensiebudget wordt niet verder verhoogd. Er komt geen wettelijke verankering van de NAVO-norm voor een defensiebudget van 2% van de rijksbegroting. In tijden dat Nederland niet bij oorlogen betrokken is, is zoâ€™n bijdrage verspilling van kostbaar belastinggeld."
                 }
             },
             {
@@ -6526,17 +6526,17 @@ export	let parties =[
             {
                 "id": 79570,
                 "position": "agree",
-                "explanation": "We voeren een correctief bindend referendum in, óók bij besluitvorming over handelsverdragen. We voeren ook het raadgevend referendum, burgerberaden en andere vormen van burgerparticipatie in ter versterking van de democratie.\r\n",
+                "explanation": "We voeren een correctief bindend referendum in, Ã³Ã³k bij besluitvorming over handelsverdragen. We voeren ook het raadgevend referendum, burgerberaden en andere vormen van burgerparticipatie in ter versterking van de democratie.\r\n",
                 "accessibility": {
-                    "explanation": "We voeren een correctief bindend referendum in, óók bij besluitvorming over handelsverdragen. We voeren ook het raadgevend referendum, burgerberaden en andere vormen van burgerparticipatie in ter versterking van de democratie."
+                    "explanation": "We voeren een correctief bindend referendum in, Ã³Ã³k bij besluitvorming over handelsverdragen. We voeren ook het raadgevend referendum, burgerberaden en andere vormen van burgerparticipatie in ter versterking van de democratie."
                 }
             },
             {
                 "id": 79587,
                 "position": "agree",
-                "explanation": "We zorgen dat bedrijven vergroenen door regels te stellen en vervuiling te beprijzen. We verhogen de belasting op CO2 en breiden die uit naar alle broeikasgassen en sectoren. Er komt een klimaatplicht voor grote vervuilers en financiële instellingen.\r\n",
+                "explanation": "We zorgen dat bedrijven vergroenen door regels te stellen en vervuiling te beprijzen. We verhogen de belasting op CO2 en breiden die uit naar alle broeikasgassen en sectoren. Er komt een klimaatplicht voor grote vervuilers en financiÃ«le instellingen.\r\n",
                 "accessibility": {
-                    "explanation": "We zorgen dat bedrijven vergroenen door regels te stellen en vervuiling te beprijzen. We verhogen de belasting op CO2 en breiden die uit naar alle broeikasgassen en sectoren. Er komt een klimaatplicht voor grote vervuilers en financiële instellingen."
+                    "explanation": "We zorgen dat bedrijven vergroenen door regels te stellen en vervuiling te beprijzen. We verhogen de belasting op CO2 en breiden die uit naar alle broeikasgassen en sectoren. Er komt een klimaatplicht voor grote vervuilers en financiÃ«le instellingen."
                 }
             },
             {
@@ -6550,9 +6550,9 @@ export	let parties =[
             {
                 "id": 79636,
                 "position": "agree",
-                "explanation": "De natuur heeft zwaar te leiden onder het stikstofoverschot. Om de achteruitgang van de natuur te stoppen, moet er minimaal 70% minder stikstof worden uitgestoten in 2030. We leggen dit doel wettelijk vast. De veehouderij krimpt met 75% en ook industriële bedrijven dringen hun uitstoot terug.",
+                "explanation": "De natuur heeft zwaar te leiden onder het stikstofoverschot. Om de achteruitgang van de natuur te stoppen, moet er minimaal 70% minder stikstof worden uitgestoten in 2030. We leggen dit doel wettelijk vast. De veehouderij krimpt met 75% en ook industriÃ«le bedrijven dringen hun uitstoot terug.",
                 "accessibility": {
-                    "explanation": "De natuur heeft zwaar te leiden onder het stikstofoverschot. Om de achteruitgang van de natuur te stoppen, moet er minimaal 70% minder stikstof worden uitgestoten in 2030. We leggen dit doel wettelijk vast. De veehouderij krimpt met 75% en ook industriële bedrijven dringen hun uitstoot terug."
+                    "explanation": "De natuur heeft zwaar te leiden onder het stikstofoverschot. Om de achteruitgang van de natuur te stoppen, moet er minimaal 70% minder stikstof worden uitgestoten in 2030. We leggen dit doel wettelijk vast. De veehouderij krimpt met 75% en ook industriÃ«le bedrijven dringen hun uitstoot terug."
                 }
             },
             {
@@ -6606,9 +6606,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "disagree",
-                "explanation": "De klimaatcrisis vereist dat we snel stoppen met olie. Daarom stimuleren we de overgang naar elektrische autos. Maar het aantal autos moet ook minder, ze nemen veel ruimte in en er zijn heel veel vervuilende grondstoffen voor nodig. Daarom zetten we in op meer en goedkoper ov en deelmobiliteit.",
+                "explanation": "De klimaatcrisis vereist dat we snel stoppen met olie. Daarom stimuleren we de overgang naar elektrische autoâ€™s. Maar het aantal autoâ€™s moet ook minder, ze nemen veel ruimte in en er zijn heel veel vervuilende grondstoffen voor nodig. Daarom zetten we in op meer en goedkoper ov en deelmobiliteit.",
                 "accessibility": {
-                    "explanation": "De klimaatcrisis vereist dat we snel stoppen met olie. Daarom stimuleren we de overgang naar elektrische autos. Maar het aantal autos moet ook minder, ze nemen veel ruimte in en er zijn heel veel vervuilende grondstoffen voor nodig. Daarom zetten we in op meer en goedkoper ov en deelmobiliteit."
+                    "explanation": "De klimaatcrisis vereist dat we snel stoppen met olie. Daarom stimuleren we de overgang naar elektrische autoâ€™s. Maar het aantal autoâ€™s moet ook minder, ze nemen veel ruimte in en er zijn heel veel vervuilende grondstoffen voor nodig. Daarom zetten we in op meer en goedkoper ov en deelmobiliteit."
                 }
             },
             {
@@ -6640,9 +6640,9 @@ export	let parties =[
             {
                 "id": 79626,
                 "position": "disagree",
-                "explanation": "De luchtvaart moet krimpen, niet groeien. Lelystad Airport en vliegveld Twente gaan niet open voor commerciële vluchten. Maastricht Aachen Airport, Groningen Airport Eelde en Rotterdam The Hague Airport sluiten. Hier ontstaat ruimte voor woningen en natuur.\r\n",
+                "explanation": "De luchtvaart moet krimpen, niet groeien. Lelystad Airport en vliegveld Twente gaan niet open voor commerciÃ«le vluchten. Maastricht Aachen Airport, Groningen Airport Eelde en Rotterdam The Hague Airport sluiten. Hier ontstaat ruimte voor woningen en natuur.\r\n",
                 "accessibility": {
-                    "explanation": "De luchtvaart moet krimpen, niet groeien. Lelystad Airport en vliegveld Twente gaan niet open voor commerciële vluchten. Maastricht Aachen Airport, Groningen Airport Eelde en Rotterdam The Hague Airport sluiten. Hier ontstaat ruimte voor woningen en natuur."
+                    "explanation": "De luchtvaart moet krimpen, niet groeien. Lelystad Airport en vliegveld Twente gaan niet open voor commerciÃ«le vluchten. Maastricht Aachen Airport, Groningen Airport Eelde en Rotterdam The Hague Airport sluiten. Hier ontstaat ruimte voor woningen en natuur."
                 }
             },
             {
@@ -6688,17 +6688,17 @@ export	let parties =[
             {
                 "id": 79580,
                 "position": "agree",
-                "explanation": "Gebruik van bodycams kan de rechten van demonstranten beter beschermen, door een afweging achteraf mogelijk te maken. Daarmee kunnen ze een deëscalerende werking hebben en geweld voorkomen. Het gebruik van het beeldmateriaal moet wel goed gereguleerd worden en beperkt blijven vanwege de privacy.\r\n",
+                "explanation": "Gebruik van bodycams kan de rechten van demonstranten beter beschermen, door een afweging achteraf mogelijk te maken. Daarmee kunnen ze een deÃ«scalerende werking hebben en geweld voorkomen. Het gebruik van het beeldmateriaal moet wel goed gereguleerd worden en beperkt blijven vanwege de privacy.\r\n",
                 "accessibility": {
-                    "explanation": "Gebruik van bodycams kan de rechten van demonstranten beter beschermen, door een afweging achteraf mogelijk te maken. Daarmee kunnen ze een deëscalerende werking hebben en geweld voorkomen. Het gebruik van het beeldmateriaal moet wel goed gereguleerd worden en beperkt blijven vanwege de privacy."
+                    "explanation": "Gebruik van bodycams kan de rechten van demonstranten beter beschermen, door een afweging achteraf mogelijk te maken. Daarmee kunnen ze een deÃ«scalerende werking hebben en geweld voorkomen. Het gebruik van het beeldmateriaal moet wel goed gereguleerd worden en beperkt blijven vanwege de privacy."
                 }
             },
             {
                 "id": 79612,
                 "position": "agree",
-                "explanation": "We zorgen dat de positieve kansen van AI benut worden, bijvoorbeeld op het gebied van een betere gezondheidszorg en effectiever klimaatbeleid, terwijl we de risicos beperken. Content die gemaakt is door kunstmatige intelligentie moet daarom te herkennen zijn door een watermerk of logo.\r\n",
+                "explanation": "We zorgen dat de positieve kansen van AI benut worden, bijvoorbeeld op het gebied van een betere gezondheidszorg en effectiever klimaatbeleid, terwijl we de risicoâ€™s beperken. Content die gemaakt is door kunstmatige intelligentie moet daarom te herkennen zijn door een watermerk of logo.\r\n",
                 "accessibility": {
-                    "explanation": "We zorgen dat de positieve kansen van AI benut worden, bijvoorbeeld op het gebied van een betere gezondheidszorg en effectiever klimaatbeleid, terwijl we de risicos beperken. Content die gemaakt is door kunstmatige intelligentie moet daarom te herkennen zijn door een watermerk of logo."
+                    "explanation": "We zorgen dat de positieve kansen van AI benut worden, bijvoorbeeld op het gebied van een betere gezondheidszorg en effectiever klimaatbeleid, terwijl we de risicoâ€™s beperken. Content die gemaakt is door kunstmatige intelligentie moet daarom te herkennen zijn door een watermerk of logo."
                 }
             },
             {
@@ -6760,9 +6760,9 @@ export	let parties =[
             {
                 "id": 79630,
                 "position": "disagree",
-                "explanation": "De maximumsnelheid op autosnelwegen wordt zowel overdag als s nachts 100 km per uur en op ringwegen 70 km per uur. Het verschil tussen 130 en 100 km per uur rijden is 15 tot 25% minder uitstoot.\r\n",
+                "explanation": "De maximumsnelheid op autosnelwegen wordt zowel overdag als â€™s nachts 100 km per uur en op ringwegen 70 km per uur. Het verschil tussen 130 en 100 km per uur rijden is 15 tot 25% minder uitstoot.\r\n",
                 "accessibility": {
-                    "explanation": "De maximumsnelheid op autosnelwegen wordt zowel overdag als s nachts 100 km per uur en op ringwegen 70 km per uur. Het verschil tussen 130 en 100 km per uur rijden is 15 tot 25% minder uitstoot."
+                    "explanation": "De maximumsnelheid op autosnelwegen wordt zowel overdag als â€™s nachts 100 km per uur en op ringwegen 70 km per uur. Het verschil tussen 130 en 100 km per uur rijden is 15 tot 25% minder uitstoot."
                 }
             },
             {
@@ -6776,9 +6776,9 @@ export	let parties =[
             {
                 "id": 79583,
                 "position": "disagree",
-                "explanation": "Inzet van cameratoezicht mag alleen tijdelijk, in een door de rechter aangewezen risicogebied. Cameras met gezichtsherkenning staan we niet toe in de openbare ruimte, winkels en horeca. De politie stopt dus ook met het Camera in Beeld-surveillancenetwerk. \r\n",
+                "explanation": "Inzet van cameratoezicht mag alleen tijdelijk, in een door de rechter aangewezen risicogebied. Cameraâ€™s met gezichtsherkenning staan we niet toe in de openbare ruimte, winkels en horeca. De politie stopt dus ook met het â€˜Camera in Beeldâ€™-surveillancenetwerk. \r\n",
                 "accessibility": {
-                    "explanation": "Inzet van cameratoezicht mag alleen tijdelijk, in een door de rechter aangewezen risicogebied. Cameras met gezichtsherkenning staan we niet toe in de openbare ruimte, winkels en horeca. De politie stopt dus ook met het Camera in Beeld-surveillancenetwerk."
+                    "explanation": "Inzet van cameratoezicht mag alleen tijdelijk, in een door de rechter aangewezen risicogebied. Cameraâ€™s met gezichtsherkenning staan we niet toe in de openbare ruimte, winkels en horeca. De politie stopt dus ook met het â€˜Camera in Beeldâ€™-surveillancenetwerk."
                 }
             },
             {
@@ -6832,9 +6832,9 @@ export	let parties =[
             {
                 "id": 79616,
                 "position": "agree",
-                "explanation": "We zorgen voor evenredige en rechtvaardige verdeling van de opvang van asielzoekers over gemeenten, waar het kan op wijkniveau. We zorgen voor voldoende begeleiding, zodat dit leidt tot betere integratie en wederzijds begrip in de wijk. Gemeenten krijgen genoeg financiële middelen. \r\n",
+                "explanation": "We zorgen voor evenredige en rechtvaardige verdeling van de opvang van asielzoekers over gemeenten, waar het kan op wijkniveau. We zorgen voor voldoende begeleiding, zodat dit leidt tot betere integratie en wederzijds begrip in de wijk. Gemeenten krijgen genoeg financiÃ«le middelen. \r\n",
                 "accessibility": {
-                    "explanation": "We zorgen voor evenredige en rechtvaardige verdeling van de opvang van asielzoekers over gemeenten, waar het kan op wijkniveau. We zorgen voor voldoende begeleiding, zodat dit leidt tot betere integratie en wederzijds begrip in de wijk. Gemeenten krijgen genoeg financiële middelen."
+                    "explanation": "We zorgen voor evenredige en rechtvaardige verdeling van de opvang van asielzoekers over gemeenten, waar het kan op wijkniveau. We zorgen voor voldoende begeleiding, zodat dit leidt tot betere integratie en wederzijds begrip in de wijk. Gemeenten krijgen genoeg financiÃ«le middelen."
                 }
             },
             {
@@ -6864,9 +6864,9 @@ export	let parties =[
             {
                 "id": 79633,
                 "position": "agree",
-                "explanation": "Om af te komen van onze afhankelijkheid van autos is betaalbaar en toegankelijk OV van groot belang. Daarom steunen we het idee van een goedkoop maandticket voor onbeperkt OV naar Duits model.\r\n",
+                "explanation": "Om af te komen van onze afhankelijkheid van autoâ€™s is betaalbaar en toegankelijk OV van groot belang. Daarom steunen we het idee van een goedkoop maandticket voor onbeperkt OV naar Duits model.\r\n",
                 "accessibility": {
-                    "explanation": "Om af te komen van onze afhankelijkheid van autos is betaalbaar en toegankelijk OV van groot belang. Daarom steunen we het idee van een goedkoop maandticket voor onbeperkt OV naar Duits model."
+                    "explanation": "Om af te komen van onze afhankelijkheid van autoâ€™s is betaalbaar en toegankelijk OV van groot belang. Daarom steunen we het idee van een goedkoop maandticket voor onbeperkt OV naar Duits model."
                 }
             },
             {
@@ -6920,9 +6920,9 @@ export	let parties =[
             {
                 "id": 79619,
                 "position": "agree",
-                "explanation": "We bouwen meer betaalbare huurwoningen. Met een financiële injectie door het Rijk worden woningcorporaties weer op gang geholpen met hun bouwopgave. Bij het creëren van woningen worden betaalbaarheid en toegankelijkheid het uitgangspunt. Minstens 30% van de nieuwe woningen wordt sociale huur.\r\n",
+                "explanation": "We bouwen meer betaalbare huurwoningen. Met een financiÃ«le injectie door het Rijk worden woningcorporaties weer op gang geholpen met hun bouwopgave. Bij het creÃ«ren van woningen worden betaalbaarheid en toegankelijkheid het uitgangspunt. Minstens 30% van de nieuwe woningen wordt sociale huur.\r\n",
                 "accessibility": {
-                    "explanation": "We bouwen meer betaalbare huurwoningen. Met een financiële injectie door het Rijk worden woningcorporaties weer op gang geholpen met hun bouwopgave. Bij het creëren van woningen worden betaalbaarheid en toegankelijkheid het uitgangspunt. Minstens 30% van de nieuwe woningen wordt sociale huur."
+                    "explanation": "We bouwen meer betaalbare huurwoningen. Met een financiÃ«le injectie door het Rijk worden woningcorporaties weer op gang geholpen met hun bouwopgave. Bij het creÃ«ren van woningen worden betaalbaarheid en toegankelijkheid het uitgangspunt. Minstens 30% van de nieuwe woningen wordt sociale huur."
                 }
             },
             {
@@ -6952,9 +6952,9 @@ export	let parties =[
             {
                 "id": 79604,
                 "position": "agree",
-                "explanation": "We doen er alles aan om de tekorten in zorg en onderwijs op te lossen. Zowel de drempel om te beginnen, als de uitstroom door o.a. hoge werkdruk, onvoldoende vaste contracten en weinig concurrerende salarissen, moeten omlaag. We verbeteren toegang tot onderwijs én arbeidsvoorwaarden in de sector.",
+                "explanation": "We doen er alles aan om de tekorten in zorg en onderwijs op te lossen. Zowel de drempel om te beginnen, als de uitstroom door o.a. hoge werkdruk, onvoldoende vaste contracten en weinig concurrerende salarissen, moeten omlaag. We verbeteren toegang tot onderwijs Ã©n arbeidsvoorwaarden in de sector.",
                 "accessibility": {
-                    "explanation": "We doen er alles aan om de tekorten in zorg en onderwijs op te lossen. Zowel de drempel om te beginnen, als de uitstroom door o.a. hoge werkdruk, onvoldoende vaste contracten en weinig concurrerende salarissen, moeten omlaag. We verbeteren toegang tot onderwijs én arbeidsvoorwaarden in de sector."
+                    "explanation": "We doen er alles aan om de tekorten in zorg en onderwijs op te lossen. Zowel de drempel om te beginnen, als de uitstroom door o.a. hoge werkdruk, onvoldoende vaste contracten en weinig concurrerende salarissen, moeten omlaag. We verbeteren toegang tot onderwijs Ã©n arbeidsvoorwaarden in de sector."
                 }
             },
             {
@@ -7024,9 +7024,9 @@ export	let parties =[
             {
                 "id": 79638,
                 "position": "agree",
-                "explanation": "Om de doelen voor stikstof, klimaat en water te halen is een reductie van het aantal dieren in de veehouderij van 75% noodzakelijk. Om dat te bereiken zal een deel van de veehouders gedwongen moeten stoppen. De verkoop van land is niet nodig; agrariërs kunnen b.v. doorgaan met plantaardige landbouw.",
+                "explanation": "Om de doelen voor stikstof, klimaat en water te halen is een reductie van het aantal dieren in de veehouderij van 75% noodzakelijk. Om dat te bereiken zal een deel van de veehouders gedwongen moeten stoppen. De verkoop van land is niet nodig; agrariÃ«rs kunnen b.v. doorgaan met plantaardige landbouw.",
                 "accessibility": {
-                    "explanation": "Om de doelen voor stikstof, klimaat en water te halen is een reductie van het aantal dieren in de veehouderij van 75% noodzakelijk. Om dat te bereiken zal een deel van de veehouders gedwongen moeten stoppen. De verkoop van land is niet nodig; agrariërs kunnen b.v. doorgaan met plantaardige landbouw."
+                    "explanation": "Om de doelen voor stikstof, klimaat en water te halen is een reductie van het aantal dieren in de veehouderij van 75% noodzakelijk. Om dat te bereiken zal een deel van de veehouders gedwongen moeten stoppen. De verkoop van land is niet nodig; agrariÃ«rs kunnen b.v. doorgaan met plantaardige landbouw."
                 }
             },
             {
@@ -7064,9 +7064,9 @@ export	let parties =[
             {
                 "id": 79576,
                 "position": "agree",
-                "explanation": "De Partij voor de Dieren is voorstander van modernisering van het koningschap, waarbij de koning alleen een ceremoniële rol heeft. De koning en zijn familie gaan net als iedereen belasting betalen en we nemen andere financiële tegemoetkomingen en vergoedingen kritisch onder de loep.",
+                "explanation": "De Partij voor de Dieren is voorstander van modernisering van het koningschap, waarbij de koning alleen een ceremoniÃ«le rol heeft. De koning en zijn familie gaan net als iedereen belasting betalen en we nemen andere financiÃ«le tegemoetkomingen en vergoedingen kritisch onder de loep.",
                 "accessibility": {
-                    "explanation": "De Partij voor de Dieren is voorstander van modernisering van het koningschap, waarbij de koning alleen een ceremoniële rol heeft. De koning en zijn familie gaan net als iedereen belasting betalen en we nemen andere financiële tegemoetkomingen en vergoedingen kritisch onder de loep."
+                    "explanation": "De Partij voor de Dieren is voorstander van modernisering van het koningschap, waarbij de koning alleen een ceremoniÃ«le rol heeft. De koning en zijn familie gaan net als iedereen belasting betalen en we nemen andere financiÃ«le tegemoetkomingen en vergoedingen kritisch onder de loep."
                 }
             },
             {
@@ -7080,9 +7080,9 @@ export	let parties =[
             {
                 "id": 79608,
                 "position": "disagree",
-                "explanation": "De Partij voor de Dieren wil juist investeren in de publieke omroep en de regionale omroepen, om onafhankelijke nieuwsvoorziening, verslaggeving en onderzoek te kunnen waarborgen. De publieke omroep is onafhankelijk, ook van commerciële invloeden.\r\n",
+                "explanation": "De Partij voor de Dieren wil juist investeren in de publieke omroep en de regionale omroepen, om onafhankelijke nieuwsvoorziening, verslaggeving en onderzoek te kunnen waarborgen. De publieke omroep is onafhankelijk, ook van commerciÃ«le invloeden.\r\n",
                 "accessibility": {
-                    "explanation": "De Partij voor de Dieren wil juist investeren in de publieke omroep en de regionale omroepen, om onafhankelijke nieuwsvoorziening, verslaggeving en onderzoek te kunnen waarborgen. De publieke omroep is onafhankelijk, ook van commerciële invloeden."
+                    "explanation": "De Partij voor de Dieren wil juist investeren in de publieke omroep en de regionale omroepen, om onafhankelijke nieuwsvoorziening, verslaggeving en onderzoek te kunnen waarborgen. De publieke omroep is onafhankelijk, ook van commerciÃ«le invloeden."
                 }
             },
             {
@@ -7104,9 +7104,9 @@ export	let parties =[
             {
                 "id": 79577,
                 "position": "agree",
-                "explanation": "We schaffen de officiële geslachtsregistratie overal waar dat kan af. Tot dan krijgt iedereen een laagdrempelige, kosteloze erkenning van hun sekse en/of genderidentiteit. De deskundigenverklaring vervalt en mensen onder de 16 kunnen hun geslachtsregistratie met toestemming van hun ouders wijzigen.",
+                "explanation": "We schaffen de officiÃ«le geslachtsregistratie overal waar dat kan af. Tot dan krijgt iedereen een laagdrempelige, kosteloze erkenning van hun sekse en/of genderidentiteit. De deskundigenverklaring vervalt en mensen onder de 16 kunnen hun geslachtsregistratie met toestemming van hun ouders wijzigen.",
                 "accessibility": {
-                    "explanation": "We schaffen de officiële geslachtsregistratie overal waar dat kan af. Tot dan krijgt iedereen een laagdrempelige, kosteloze erkenning van hun sekse en/of genderidentiteit. De deskundigenverklaring vervalt en mensen onder de 16 kunnen hun geslachtsregistratie met toestemming van hun ouders wijzigen."
+                    "explanation": "We schaffen de officiÃ«le geslachtsregistratie overal waar dat kan af. Tot dan krijgt iedereen een laagdrempelige, kosteloze erkenning van hun sekse en/of genderidentiteit. De deskundigenverklaring vervalt en mensen onder de 16 kunnen hun geslachtsregistratie met toestemming van hun ouders wijzigen."
                 }
             },
             {
@@ -7197,9 +7197,9 @@ export	let parties =[
             {
                 "id": 79596,
                 "position": "agree",
-                "explanation": "Het minimumloon is te laag om van rond te komen. De ChristenUnie stelt voor het minimumloon de komende kabinetsperiode te verhogen met meer dan 10% extra te verhogen, waarmee het minimumloon in 2028 uitkomt op bijna ¬ 18 per uur.",
+                "explanation": "Het minimumloon is te laag om van rond te komen. De ChristenUnie stelt voor het minimumloon de komende kabinetsperiode te verhogen met meer dan 10% extra te verhogen, waarmee het minimumloon in 2028 uitkomt op bijna â‚¬ 18 per uur.",
                 "accessibility": {
-                    "explanation": "Het minimumloon is te laag om van rond te komen. De ChristenUnie stelt voor het minimumloon de komende kabinetsperiode te verhogen met meer dan 10% extra te verhogen, waarmee het minimumloon in 2028 uitkomt op bijna ¬ 18 per uur."
+                    "explanation": "Het minimumloon is te laag om van rond te komen. De ChristenUnie stelt voor het minimumloon de komende kabinetsperiode te verhogen met meer dan 10% extra te verhogen, waarmee het minimumloon in 2028 uitkomt op bijna â‚¬ 18 per uur."
                 }
             },
             {
@@ -7285,17 +7285,17 @@ export	let parties =[
             {
                 "id": 79649,
                 "position": "disagree",
-                "explanation": "De zorg moet betaalbaar blijven voor mensen. Daarom gaat de zorgpremie omlaag (van 150 naar 50 euro) en voorkomen we dat het eigen risico verder stijgt. Het betalen van het eigen risico wordt verspreid over behandelingen, om niet in één keer veel geld kwijt te zijn.",
+                "explanation": "De zorg moet betaalbaar blijven voor mensen. Daarom gaat de zorgpremie omlaag (van 150 naar 50 euro) en voorkomen we dat het eigen risico verder stijgt. Het betalen van het eigen risico wordt verspreid over behandelingen, om niet in Ã©Ã©n keer veel geld kwijt te zijn.",
                 "accessibility": {
-                    "explanation": "De zorg moet betaalbaar blijven voor mensen. Daarom gaat de zorgpremie omlaag (van 150 naar 50 euro) en voorkomen we dat het eigen risico verder stijgt. Het betalen van het eigen risico wordt verspreid over behandelingen, om niet in één keer veel geld kwijt te zijn."
+                    "explanation": "De zorg moet betaalbaar blijven voor mensen. Daarom gaat de zorgpremie omlaag (van 150 naar 50 euro) en voorkomen we dat het eigen risico verder stijgt. Het betalen van het eigen risico wordt verspreid over behandelingen, om niet in Ã©Ã©n keer veel geld kwijt te zijn."
                 }
             },
             {
                 "id": 79570,
                 "position": "disagree",
-                "explanation": "De ChristenUnie is geen voorstander van referenda. Referenda bieden schijninvloed. De werkelijkheid is bovendien ingewikkelder dan een stem vóór of tégen een wet of voorstel.",
+                "explanation": "De ChristenUnie is geen voorstander van referenda. Referenda bieden schijninvloed. De werkelijkheid is bovendien ingewikkelder dan een stem vÃ³Ã³r of tÃ©gen een wet of voorstel.",
                 "accessibility": {
-                    "explanation": "De ChristenUnie is geen voorstander van referenda. Referenda bieden schijninvloed. De werkelijkheid is bovendien ingewikkelder dan een stem vóór of tégen een wet of voorstel."
+                    "explanation": "De ChristenUnie is geen voorstander van referenda. Referenda bieden schijninvloed. De werkelijkheid is bovendien ingewikkelder dan een stem vÃ³Ã³r of tÃ©gen een wet of voorstel."
                 }
             },
             {
@@ -7349,9 +7349,9 @@ export	let parties =[
             {
                 "id": 79622,
                 "position": "disagree",
-                "explanation": "Dit leidt tot minder sociale huurwoningen. Er zijn juist méér sociale huurwoningen nodigen. Wel is het belangrijk dat er voldoende betaalbare koopwoningen zijn. Daarom wil de ChristenUnie dat het voor koopstarters makkelijker wordt een woning te kopen.",
+                "explanation": "Dit leidt tot minder sociale huurwoningen. Er zijn juist mÃ©Ã©r sociale huurwoningen nodigen. Wel is het belangrijk dat er voldoende betaalbare koopwoningen zijn. Daarom wil de ChristenUnie dat het voor koopstarters makkelijker wordt een woning te kopen.",
                 "accessibility": {
-                    "explanation": "Dit leidt tot minder sociale huurwoningen. Er zijn juist méér sociale huurwoningen nodigen. Wel is het belangrijk dat er voldoende betaalbare koopwoningen zijn. Daarom wil de ChristenUnie dat het voor koopstarters makkelijker wordt een woning te kopen."
+                    "explanation": "Dit leidt tot minder sociale huurwoningen. Er zijn juist mÃ©Ã©r sociale huurwoningen nodigen. Wel is het belangrijk dat er voldoende betaalbare koopwoningen zijn. Daarom wil de ChristenUnie dat het voor koopstarters makkelijker wordt een woning te kopen."
                 }
             },
             {
@@ -7399,9 +7399,9 @@ export	let parties =[
             {
                 "id": 79610,
                 "position": "disagree",
-                "explanation": "Het stage-aanbod is divers en ook de opdrachten die studenten bij hun stage vervullen zijn dat. Het is vooral belangrijk dát studenten stage kunnen lopen. Een minimumvergoeding voor alle stages past niet bij de verschillende stage-vormen en zal eerder tot minder dan tot meer stageplekken leiden.",
+                "explanation": "Het stage-aanbod is divers en ook de opdrachten die studenten bij hun stage vervullen zijn dat. Het is vooral belangrijk dÃ¡t studenten stage kunnen lopen. Een minimumvergoeding voor alle stages past niet bij de verschillende stage-vormen en zal eerder tot minder dan tot meer stageplekken leiden.",
                 "accessibility": {
-                    "explanation": "Het stage-aanbod is divers en ook de opdrachten die studenten bij hun stage vervullen zijn dat. Het is vooral belangrijk dát studenten stage kunnen lopen. Een minimumvergoeding voor alle stages past niet bij de verschillende stage-vormen en zal eerder tot minder dan tot meer stageplekken leiden."
+                    "explanation": "Het stage-aanbod is divers en ook de opdrachten die studenten bij hun stage vervullen zijn dat. Het is vooral belangrijk dÃ¡t studenten stage kunnen lopen. Een minimumvergoeding voor alle stages past niet bij de verschillende stage-vormen en zal eerder tot minder dan tot meer stageplekken leiden."
                 }
             },
             {
@@ -7503,9 +7503,9 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "agree",
-                "explanation": "We zien te veel zzpers die ondernemer lijken, maar schijnzelfstandige zijn (al dan niet gedwongen). Zij zijn vaak onvoldoende beschermd tegen arbeidsongeschiktheid en bouwen vaak te weinig reserves op voor een goed pensioen.",
+                "explanation": "We zien te veel zzpâ€™ers die ondernemer lijken, maar schijnzelfstandige zijn (al dan niet gedwongen). Zij zijn vaak onvoldoende beschermd tegen arbeidsongeschiktheid en bouwen vaak te weinig reserves op voor een goed pensioen.",
                 "accessibility": {
-                    "explanation": "We zien te veel zzpers die ondernemer lijken, maar schijnzelfstandige zijn (al dan niet gedwongen). Zij zijn vaak onvoldoende beschermd tegen arbeidsongeschiktheid en bouwen vaak te weinig reserves op voor een goed pensioen."
+                    "explanation": "We zien te veel zzpâ€™ers die ondernemer lijken, maar schijnzelfstandige zijn (al dan niet gedwongen). Zij zijn vaak onvoldoende beschermd tegen arbeidsongeschiktheid en bouwen vaak te weinig reserves op voor een goed pensioen."
                 }
             },
             {
@@ -7591,9 +7591,9 @@ export	let parties =[
             {
                 "id": 79600,
                 "position": "agree",
-                "explanation": "Zonder klanten zou mensenhandel niet bestaan, daarom wordt het kopen van seks strafbaar voor de klant, niet voor de persoon in de prostitutie. Dit naar voorbeeld van Zweden, Noorwegen en Frankrijk. Invoering moet samengaan met goede hulpverlening en uitstapprogrammas.",
+                "explanation": "Zonder klanten zou mensenhandel niet bestaan, daarom wordt het kopen van seks strafbaar voor de klant, niet voor de persoon in de prostitutie. Dit naar voorbeeld van Zweden, Noorwegen en Frankrijk. Invoering moet samengaan met goede hulpverlening en uitstapprogrammaâ€™s.",
                 "accessibility": {
-                    "explanation": "Zonder klanten zou mensenhandel niet bestaan, daarom wordt het kopen van seks strafbaar voor de klant, niet voor de persoon in de prostitutie. Dit naar voorbeeld van Zweden, Noorwegen en Frankrijk. Invoering moet samengaan met goede hulpverlening en uitstapprogrammas."
+                    "explanation": "Zonder klanten zou mensenhandel niet bestaan, daarom wordt het kopen van seks strafbaar voor de klant, niet voor de persoon in de prostitutie. Dit naar voorbeeld van Zweden, Noorwegen en Frankrijk. Invoering moet samengaan met goede hulpverlening en uitstapprogrammaâ€™s."
                 }
             },
             {
@@ -7631,9 +7631,9 @@ export	let parties =[
             {
                 "id": 79633,
                 "position": "agree",
-                "explanation": "Het moet betaalbaarder worden om met de trein of bus te reizen, binnen én buiten de spits. Dat kan door een specifiek abonnement maar ook door bijvoorbeeld het verlagen van de btw op OV-kaartjes en het extra subsidiëren van het OV, wat de ChristenUnie voorstelt.",
+                "explanation": "Het moet betaalbaarder worden om met de trein of bus te reizen, binnen Ã©n buiten de spits. Dat kan door een specifiek abonnement maar ook door bijvoorbeeld het verlagen van de btw op OV-kaartjes en het extra subsidiÃ«ren van het OV, wat de ChristenUnie voorstelt.",
                 "accessibility": {
-                    "explanation": "Het moet betaalbaarder worden om met de trein of bus te reizen, binnen én buiten de spits. Dat kan door een specifiek abonnement maar ook door bijvoorbeeld het verlagen van de btw op OV-kaartjes en het extra subsidiëren van het OV, wat de ChristenUnie voorstelt."
+                    "explanation": "Het moet betaalbaarder worden om met de trein of bus te reizen, binnen Ã©n buiten de spits. Dat kan door een specifiek abonnement maar ook door bijvoorbeeld het verlagen van de btw op OV-kaartjes en het extra subsidiÃ«ren van het OV, wat de ChristenUnie voorstelt."
                 }
             },
             {
@@ -7671,9 +7671,9 @@ export	let parties =[
             {
                 "id": 79650,
                 "position": "agree",
-                "explanation": "Eén van de meest effectieve maatregelen om het aantal abortussen omlaag te brengen, is de financiële drempel weg te nemen voor de anticonceptiepil. Daarom wordt deze opgenomen\r\nin het basispakket.",
+                "explanation": "EÃ©n van de meest effectieve maatregelen om het aantal abortussen omlaag te brengen, is de financiÃ«le drempel weg te nemen voor de anticonceptiepil. Daarom wordt deze opgenomen\r\nin het basispakket.",
                 "accessibility": {
-                    "explanation": "Eén van de meest effectieve maatregelen om het aantal abortussen omlaag te brengen, is de financiële drempel weg te nemen voor de anticonceptiepil. Daarom wordt deze opgenomen\r\nin het basispakket."
+                    "explanation": "EÃ©n van de meest effectieve maatregelen om het aantal abortussen omlaag te brengen, is de financiÃ«le drempel weg te nemen voor de anticonceptiepil. Daarom wordt deze opgenomen\r\nin het basispakket."
                 }
             },
             {
@@ -7703,9 +7703,9 @@ export	let parties =[
             {
                 "id": 79651,
                 "position": "agree",
-                "explanation": "Gemeenten moeten de financiële middelen krijgen die ze nodig hebben voor passende inzet van jeugdhulp. We schrappen de besparing van 511 miljoen die nu nog in de boeken staat. De ChristenUnie is tegen de invoering van een eigen bijdrage in de jeugdzorg.",
+                "explanation": "Gemeenten moeten de financiÃ«le middelen krijgen die ze nodig hebben voor passende inzet van jeugdhulp. We schrappen de besparing van 511 miljoen die nu nog in de boeken staat. De ChristenUnie is tegen de invoering van een eigen bijdrage in de jeugdzorg.",
                 "accessibility": {
-                    "explanation": "Gemeenten moeten de financiële middelen krijgen die ze nodig hebben voor passende inzet van jeugdhulp. We schrappen de besparing van 511 miljoen die nu nog in de boeken staat. De ChristenUnie is tegen de invoering van een eigen bijdrage in de jeugdzorg."
+                    "explanation": "Gemeenten moeten de financiÃ«le middelen krijgen die ze nodig hebben voor passende inzet van jeugdhulp. We schrappen de besparing van 511 miljoen die nu nog in de boeken staat. De ChristenUnie is tegen de invoering van een eigen bijdrage in de jeugdzorg."
                 }
             },
             {
@@ -7743,9 +7743,9 @@ export	let parties =[
             {
                 "id": 79589,
                 "position": "disagree",
-                "explanation": "Een gezonde mix van vrouwen en mannen in het bestuur is belangrijk. Maar om de positie van vrouwen te verbeteren zijn er andere maatregelen nodig, die niet alleen de top (tijdelijk) veranderen maar het bedrijf zélf (structureel) veranderen. Daarom is de ChristenUnie niet voor een wettelijk quotum.",
+                "explanation": "Een gezonde mix van vrouwen en mannen in het bestuur is belangrijk. Maar om de positie van vrouwen te verbeteren zijn er andere maatregelen nodig, die niet alleen de top (tijdelijk) veranderen maar het bedrijf zÃ©lf (structureel) veranderen. Daarom is de ChristenUnie niet voor een wettelijk quotum.",
                 "accessibility": {
-                    "explanation": "Een gezonde mix van vrouwen en mannen in het bestuur is belangrijk. Maar om de positie van vrouwen te verbeteren zijn er andere maatregelen nodig, die niet alleen de top (tijdelijk) veranderen maar het bedrijf zélf (structureel) veranderen. Daarom is de ChristenUnie niet voor een wettelijk quotum."
+                    "explanation": "Een gezonde mix van vrouwen en mannen in het bestuur is belangrijk. Maar om de positie van vrouwen te verbeteren zijn er andere maatregelen nodig, die niet alleen de top (tijdelijk) veranderen maar het bedrijf zÃ©lf (structureel) veranderen. Daarom is de ChristenUnie niet voor een wettelijk quotum."
                 }
             },
             {
@@ -7799,9 +7799,9 @@ export	let parties =[
             {
                 "id": 79575,
                 "position": "agree",
-                "explanation": "De ChristenUnie vindt dat mensen voor geld moeten gaan. Juist in Groningen. Daarom willen we dat de overheid in het aardbevingsgebied  bij schades tot ¬40.000 zonder controle vergoedt en dat voor hogere schades de bewijslast niet meer bij de bewoner ligt.",
+                "explanation": "De ChristenUnie vindt dat mensen voor geld moeten gaan. Juist in Groningen. Daarom willen we dat de overheid in het aardbevingsgebied  bij schades tot â‚¬40.000 zonder controle vergoedt en dat voor hogere schades de bewijslast niet meer bij de bewoner ligt.",
                 "accessibility": {
-                    "explanation": "De ChristenUnie vindt dat mensen voor geld moeten gaan. Juist in Groningen. Daarom willen we dat de overheid in het aardbevingsgebied  bij schades tot ¬40.000 zonder controle vergoedt en dat voor hogere schades de bewijslast niet meer bij de bewoner ligt."
+                    "explanation": "De ChristenUnie vindt dat mensen voor geld moeten gaan. Juist in Groningen. Daarom willen we dat de overheid in het aardbevingsgebied  bij schades tot â‚¬40.000 zonder controle vergoedt en dat voor hogere schades de bewijslast niet meer bij de bewoner ligt."
                 }
             },
             {
@@ -7815,17 +7815,17 @@ export	let parties =[
             {
                 "id": 79607,
                 "position": "neither",
-                "explanation": "De ChristenUnie vindt niet dat er een specifieke belastingverhoging moet komen voor concerten en toneel- en dansvoorstellingen. Wel zijn we voor één BTW-tarief.",
+                "explanation": "De ChristenUnie vindt niet dat er een specifieke belastingverhoging moet komen voor concerten en toneel- en dansvoorstellingen. Wel zijn we voor Ã©Ã©n BTW-tarief.",
                 "accessibility": {
-                    "explanation": "De ChristenUnie vindt niet dat er een specifieke belastingverhoging moet komen voor concerten en toneel- en dansvoorstellingen. Wel zijn we voor één BTW-tarief."
+                    "explanation": "De ChristenUnie vindt niet dat er een specifieke belastingverhoging moet komen voor concerten en toneel- en dansvoorstellingen. Wel zijn we voor Ã©Ã©n BTW-tarief."
                 }
             },
             {
                 "id": 79655,
                 "position": "agree",
-                "explanation": "Gokken maakt ongelooflijk veel kapot, juist ook bij jongeren. Het liefst wil de ChristenUnie een totaalverbod op (online) gokken en commerciële (kras)loterijen. Verhoging van de gokleeftijd naar 24 jaar is, net als het verbieden van elke vorm van gokreclame en goksponsoring, alvast een goede stap.",
+                "explanation": "Gokken maakt ongelooflijk veel kapot, juist ook bij jongeren. Het liefst wil de ChristenUnie een totaalverbod op (online) gokken en commerciÃ«le (kras)loterijen. Verhoging van de gokleeftijd naar 24 jaar is, net als het verbieden van elke vorm van gokreclame en goksponsoring, alvast een goede stap.",
                 "accessibility": {
-                    "explanation": "Gokken maakt ongelooflijk veel kapot, juist ook bij jongeren. Het liefst wil de ChristenUnie een totaalverbod op (online) gokken en commerciële (kras)loterijen. Verhoging van de gokleeftijd naar 24 jaar is, net als het verbieden van elke vorm van gokreclame en goksponsoring, alvast een goede stap."
+                    "explanation": "Gokken maakt ongelooflijk veel kapot, juist ook bij jongeren. Het liefst wil de ChristenUnie een totaalverbod op (online) gokken en commerciÃ«le (kras)loterijen. Verhoging van de gokleeftijd naar 24 jaar is, net als het verbieden van elke vorm van gokreclame en goksponsoring, alvast een goede stap."
                 }
             },
             {
@@ -8084,9 +8084,9 @@ export	let parties =[
             {
                 "id": 79636,
                 "position": "agree",
-                "explanation": "Volt wil de uitstoot van stikstof sterk terugdringen. We moeten zo snel mogelijk met Europese regels komen én staan achter de internationale afspraken om in 2030 de meest kwetsbare natuur tot beschermd natuurgebied uit te roepen.",
+                "explanation": "Volt wil de uitstoot van stikstof sterk terugdringen. We moeten zo snel mogelijk met Europese regels komen Ã©n staan achter de internationale afspraken om in 2030 de meest kwetsbare natuur tot beschermd natuurgebied uit te roepen.",
                 "accessibility": {
-                    "explanation": "Volt wil de uitstoot van stikstof sterk terugdringen. We moeten zo snel mogelijk met Europese regels komen én staan achter de internationale afspraken om in 2030 de meest kwetsbare natuur tot beschermd natuurgebied uit te roepen."
+                    "explanation": "Volt wil de uitstoot van stikstof sterk terugdringen. We moeten zo snel mogelijk met Europese regels komen Ã©n staan achter de internationale afspraken om in 2030 de meest kwetsbare natuur tot beschermd natuurgebied uit te roepen."
                 }
             },
             {
@@ -8108,17 +8108,17 @@ export	let parties =[
             {
                 "id": 79590,
                 "position": "neither",
-                "explanation": "We introduceren belastingmaatregelen die de vermogensongelijkheid verminderen. Wij weten nog niet zeker of dit betekent dat dit voor alle vermogens boven de 57.000 euro moet. Maar, we stellen een belasting voor voor vermogens boven één miljoen euro en op vermogenswinst uit de verkoop van een huis en schaffen de belastingvoordelen van eigenwoningbezit af.",
+                "explanation": "We introduceren belastingmaatregelen die de vermogensongelijkheid verminderen. Wij weten nog niet zeker of dit betekent dat dit voor alle vermogens boven de 57.000 euro moet. Maar, we stellen een belasting voor voor vermogens boven Ã©Ã©n miljoen euro en op vermogenswinst uit de verkoop van een huis en schaffen de belastingvoordelen van eigenwoningbezit af.",
                 "accessibility": {
-                    "explanation": "We introduceren belastingmaatregelen die de vermogensongelijkheid verminderen. Wij weten nog niet zeker of dit betekent dat dit voor alle vermogens boven de 57.000 euro moet. Maar, we stellen een belasting voor voor vermogens boven één miljoen euro en op vermogenswinst uit de verkoop van een huis en schaffen de belastingvoordelen van eigenwoningbezit af."
+                    "explanation": "We introduceren belastingmaatregelen die de vermogensongelijkheid verminderen. Wij weten nog niet zeker of dit betekent dat dit voor alle vermogens boven de 57.000 euro moet. Maar, we stellen een belasting voor voor vermogens boven Ã©Ã©n miljoen euro en op vermogenswinst uit de verkoop van een huis en schaffen de belastingvoordelen van eigenwoningbezit af."
                 }
             },
             {
                 "id": 79622,
                 "position": "neither",
-                "explanation": "Volt wil waarborgen dat er voldoende sociale huurwoningen blijven. Woningcoöperaties waar huurders onderdeel van kunnen zijn, moeten woningen kunnen overkopen, maar dit mag niet ten koste gaan van het bestaande aanbod.",
+                "explanation": "Volt wil waarborgen dat er voldoende sociale huurwoningen blijven. WoningcoÃ¶peraties waar huurders onderdeel van kunnen zijn, moeten woningen kunnen overkopen, maar dit mag niet ten koste gaan van het bestaande aanbod.",
                 "accessibility": {
-                    "explanation": "Volt wil waarborgen dat er voldoende sociale huurwoningen blijven. Woningcoöperaties waar huurders onderdeel van kunnen zijn, moeten woningen kunnen overkopen, maar dit mag niet ten koste gaan van het bestaande aanbod."
+                    "explanation": "Volt wil waarborgen dat er voldoende sociale huurwoningen blijven. WoningcoÃ¶peraties waar huurders onderdeel van kunnen zijn, moeten woningen kunnen overkopen, maar dit mag niet ten koste gaan van het bestaande aanbod."
                 }
             },
             {
@@ -8140,9 +8140,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "disagree",
-                "explanation": "Volt wil een omslag naar uitstootvrij, en dus wil Volt dat mensen tot 2030 een subsidie kunnen ontvangen voor de aanschaf van een elektrische auto. Volt wil echter ook dat de maximum catalogusprijs van autos die met subsidie worden gekocht na 2025 langzaam maar zeker afgebouwd wordt.",
+                "explanation": "Volt wil een omslag naar uitstootvrij, en dus wil Volt dat mensen tot 2030 een subsidie kunnen ontvangen voor de aanschaf van een elektrische auto. Volt wil echter ook dat de maximum catalogusprijs van autoâ€™s die met subsidie worden gekocht na 2025 langzaam maar zeker afgebouwd wordt.",
                 "accessibility": {
-                    "explanation": "Volt wil een omslag naar uitstootvrij, en dus wil Volt dat mensen tot 2030 een subsidie kunnen ontvangen voor de aanschaf van een elektrische auto. Volt wil echter ook dat de maximum catalogusprijs van autos die met subsidie worden gekocht na 2025 langzaam maar zeker afgebouwd wordt."
+                    "explanation": "Volt wil een omslag naar uitstootvrij, en dus wil Volt dat mensen tot 2030 een subsidie kunnen ontvangen voor de aanschaf van een elektrische auto. Volt wil echter ook dat de maximum catalogusprijs van autoâ€™s die met subsidie worden gekocht na 2025 langzaam maar zeker afgebouwd wordt."
                 }
             },
             {
@@ -8206,17 +8206,17 @@ export	let parties =[
             {
                 "id": 79643,
                 "position": "agree",
-                "explanation": "Volt wil fossiele subsidies per direct afschaffen, in Nederland én Europa. Daarnaast moeten we ook het gebruik van kolen afbouwen en bruin- en steenkool verbieden.",
+                "explanation": "Volt wil fossiele subsidies per direct afschaffen, in Nederland Ã©n Europa. Daarnaast moeten we ook het gebruik van kolen afbouwen en bruin- en steenkool verbieden.",
                 "accessibility": {
-                    "explanation": "Volt wil fossiele subsidies per direct afschaffen, in Nederland én Europa. Daarnaast moeten we ook het gebruik van kolen afbouwen en bruin- en steenkool verbieden."
+                    "explanation": "Volt wil fossiele subsidies per direct afschaffen, in Nederland Ã©n Europa. Daarnaast moeten we ook het gebruik van kolen afbouwen en bruin- en steenkool verbieden."
                 }
             },
             {
                 "id": 79659,
                 "position": "disagree",
-                "explanation": "Volt wil vredesmissies van de Verenigde Naties ondersteunen met financiën, training en personeel. ",
+                "explanation": "Volt wil vredesmissies van de Verenigde Naties ondersteunen met financiÃ«n, training en personeel. ",
                 "accessibility": {
-                    "explanation": "Volt wil vredesmissies van de Verenigde Naties ondersteunen met financiën, training en personeel."
+                    "explanation": "Volt wil vredesmissies van de Verenigde Naties ondersteunen met financiÃ«n, training en personeel."
                 }
             },
             {
@@ -8270,17 +8270,17 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "agree",
-                "explanation": "\"Elke zzper kan gebruikmaken van sociale\r\nvoorzieningen, zoals de WW en andere\r\nuitkeringen. Zij moeten in ruil hiervoor\r\neen rechtvaardige bijdrage leveren, wat\r\nbetekent dat ook zij premies moeten\r\nbetalen. ",
+                "explanation": "\"Elke zzpâ€™er kan gebruikmaken van sociale\r\nvoorzieningen, zoals de WW en andere\r\nuitkeringen. Zij moeten in ruil hiervoor\r\neen rechtvaardige bijdrage leveren, wat\r\nbetekent dat ook zij premies moeten\r\nbetalen. ",
                 "accessibility": {
-                    "explanation": "\"Elke zzper kan gebruikmaken van sociale\r\nvoorzieningen, zoals de WW en andere\r\nuitkeringen. Zij moeten in ruil hiervoor\r\neen rechtvaardige bijdrage leveren, wat\r\nbetekent dat ook zij premies moeten\r\nbetalen."
+                    "explanation": "\"Elke zzpâ€™er kan gebruikmaken van sociale\r\nvoorzieningen, zoals de WW en andere\r\nuitkeringen. Zij moeten in ruil hiervoor\r\neen rechtvaardige bijdrage leveren, wat\r\nbetekent dat ook zij premies moeten\r\nbetalen."
                 }
             },
             {
                 "id": 79645,
                 "position": "disagree",
-                "explanation": "Volt wil een veilige situatie creëren voor de wolf en mens. We helpen boeren met vee om de wolf op een veilige manier te weren (naar Duits voorbeeld). En we verenigen natuurgebieden over grenzen heen zodat er voldoende ruimte komt voor de wolf.",
+                "explanation": "Volt wil een veilige situatie creÃ«ren voor de wolf en mens. We helpen boeren met vee om de wolf op een veilige manier te weren (naar Duits voorbeeld). En we verenigen natuurgebieden over grenzen heen zodat er voldoende ruimte komt voor de wolf.",
                 "accessibility": {
-                    "explanation": "Volt wil een veilige situatie creëren voor de wolf en mens. We helpen boeren met vee om de wolf op een veilige manier te weren (naar Duits voorbeeld). En we verenigen natuurgebieden over grenzen heen zodat er voldoende ruimte komt voor de wolf."
+                    "explanation": "Volt wil een veilige situatie creÃ«ren voor de wolf en mens. We helpen boeren met vee om de wolf op een veilige manier te weren (naar Duits voorbeeld). En we verenigen natuurgebieden over grenzen heen zodat er voldoende ruimte komt voor de wolf."
                 }
             },
             {
@@ -8318,9 +8318,9 @@ export	let parties =[
             {
                 "id": 79615,
                 "position": "disagree",
-                "explanation": "Volt vindt de vrijheid om te overleven een mensenrecht. We willen een open Europa, waar plek is voor mensen die op de vlucht zijn voor oorlog en geweld. Daarom vinden we ook dat de mensen die gevlucht zijn uit Oekraïne het recht moeten krijgen zich permanent te vestigen nu de oorlog langer duurt.",
+                "explanation": "Volt vindt de vrijheid om te overleven een mensenrecht. We willen een open Europa, waar plek is voor mensen die op de vlucht zijn voor oorlog en geweld. Daarom vinden we ook dat de mensen die gevlucht zijn uit OekraÃ¯ne het recht moeten krijgen zich permanent te vestigen nu de oorlog langer duurt.",
                 "accessibility": {
-                    "explanation": "Volt vindt de vrijheid om te overleven een mensenrecht. We willen een open Europa, waar plek is voor mensen die op de vlucht zijn voor oorlog en geweld. Daarom vinden we ook dat de mensen die gevlucht zijn uit Oekraïne het recht moeten krijgen zich permanent te vestigen nu de oorlog langer duurt."
+                    "explanation": "Volt vindt de vrijheid om te overleven een mensenrecht. We willen een open Europa, waar plek is voor mensen die op de vlucht zijn voor oorlog en geweld. Daarom vinden we ook dat de mensen die gevlucht zijn uit OekraÃ¯ne het recht moeten krijgen zich permanent te vestigen nu de oorlog langer duurt."
                 }
             },
             {
@@ -8366,9 +8366,9 @@ export	let parties =[
             {
                 "id": 79616,
                 "position": "agree",
-                "explanation": "Volt wil een eerlijke spreiding van de opvang van vluchtelingen. In Nederland én Europa. De wet hiervoor moet simpel en uitvoerbaar zijn, maar ook verplichten dat opvang altijd veilig en geschikt is voor de verschillende groepen mensen die opvang nodig hebben.",
+                "explanation": "Volt wil een eerlijke spreiding van de opvang van vluchtelingen. In Nederland Ã©n Europa. De wet hiervoor moet simpel en uitvoerbaar zijn, maar ook verplichten dat opvang altijd veilig en geschikt is voor de verschillende groepen mensen die opvang nodig hebben.",
                 "accessibility": {
-                    "explanation": "Volt wil een eerlijke spreiding van de opvang van vluchtelingen. In Nederland én Europa. De wet hiervoor moet simpel en uitvoerbaar zijn, maar ook verplichten dat opvang altijd veilig en geschikt is voor de verschillende groepen mensen die opvang nodig hebben."
+                    "explanation": "Volt wil een eerlijke spreiding van de opvang van vluchtelingen. In Nederland Ã©n Europa. De wet hiervoor moet simpel en uitvoerbaar zijn, maar ook verplichten dat opvang altijd veilig en geschikt is voor de verschillende groepen mensen die opvang nodig hebben."
                 }
             },
             {
@@ -8414,17 +8414,17 @@ export	let parties =[
             {
                 "id": 79602,
                 "position": "disagree",
-                "explanation": "Volt wil dat alle jongeren verplicht een maatschappelijke stage lopen. Zodat zij zich oriënteren op verschillende vakgebieden en een kans krijgen zich in te zetten voor de maatschappij.",
+                "explanation": "Volt wil dat alle jongeren verplicht een maatschappelijke stage lopen. Zodat zij zich oriÃ«nteren op verschillende vakgebieden en een kans krijgen zich in te zetten voor de maatschappij.",
                 "accessibility": {
-                    "explanation": "Volt wil dat alle jongeren verplicht een maatschappelijke stage lopen. Zodat zij zich oriënteren op verschillende vakgebieden en een kans krijgen zich in te zetten voor de maatschappij."
+                    "explanation": "Volt wil dat alle jongeren verplicht een maatschappelijke stage lopen. Zodat zij zich oriÃ«nteren op verschillende vakgebieden en een kans krijgen zich in te zetten voor de maatschappij."
                 }
             },
             {
                 "id": 79618,
                 "position": "disagree",
-                "explanation": "We creëren een one-stop-shop met per land alle benodigde informatie voor arbeidsmigranten, waar in elke Europese taal te vinden is welke administratieve procedures zij moeten doorlopen en wat er daarbij van hen verwacht wordt. We verbeteren daarnaast de toegang tot onderwijs.",
+                "explanation": "We creÃ«ren een one-stop-shop met per land alle benodigde informatie voor arbeidsmigranten, waar in elke Europese taal te vinden is welke administratieve procedures zij moeten doorlopen en wat er daarbij van hen verwacht wordt. We verbeteren daarnaast de toegang tot onderwijs.",
                 "accessibility": {
-                    "explanation": "We creëren een one-stop-shop met per land alle benodigde informatie voor arbeidsmigranten, waar in elke Europese taal te vinden is welke administratieve procedures zij moeten doorlopen en wat er daarbij van hen verwacht wordt. We verbeteren daarnaast de toegang tot onderwijs."
+                    "explanation": "We creÃ«ren een one-stop-shop met per land alle benodigde informatie voor arbeidsmigranten, waar in elke Europese taal te vinden is welke administratieve procedures zij moeten doorlopen en wat er daarbij van hen verwacht wordt. We verbeteren daarnaast de toegang tot onderwijs."
                 }
             },
             {
@@ -8462,9 +8462,9 @@ export	let parties =[
             {
                 "id": 79635,
                 "position": "disagree",
-                "explanation": "Volt wil dat de Europese Commissie komt met een nog ambitieuzer plan dan de huidige Green Deal. We moeten streven om in 2040 een klimaatneutraal Nederland én Europa te hebben.",
+                "explanation": "Volt wil dat de Europese Commissie komt met een nog ambitieuzer plan dan de huidige Green Deal. We moeten streven om in 2040 een klimaatneutraal Nederland Ã©n Europa te hebben.",
                 "accessibility": {
-                    "explanation": "Volt wil dat de Europese Commissie komt met een nog ambitieuzer plan dan de huidige Green Deal. We moeten streven om in 2040 een klimaatneutraal Nederland én Europa te hebben."
+                    "explanation": "Volt wil dat de Europese Commissie komt met een nog ambitieuzer plan dan de huidige Green Deal. We moeten streven om in 2040 een klimaatneutraal Nederland Ã©n Europa te hebben."
                 }
             },
             {
@@ -8494,9 +8494,9 @@ export	let parties =[
             {
                 "id": 79620,
                 "position": "agree",
-                "explanation": "Volt wil de regelgeving voor wooncoöperaties versterken met kwaliteitsbewaking, toezicht en kaders. Woningen moeten betaalbaar blijven. Daarom moeten de overheid en gemeenten duidelijke (en afdwingbare) afspraken maken met projectontwikkelaars.",
+                "explanation": "Volt wil de regelgeving voor wooncoÃ¶peraties versterken met kwaliteitsbewaking, toezicht en kaders. Woningen moeten betaalbaar blijven. Daarom moeten de overheid en gemeenten duidelijke (en afdwingbare) afspraken maken met projectontwikkelaars.",
                 "accessibility": {
-                    "explanation": "Volt wil de regelgeving voor wooncoöperaties versterken met kwaliteitsbewaking, toezicht en kaders. Woningen moeten betaalbaar blijven. Daarom moeten de overheid en gemeenten duidelijke (en afdwingbare) afspraken maken met projectontwikkelaars."
+                    "explanation": "Volt wil de regelgeving voor wooncoÃ¶peraties versterken met kwaliteitsbewaking, toezicht en kaders. Woningen moeten betaalbaar blijven. Daarom moeten de overheid en gemeenten duidelijke (en afdwingbare) afspraken maken met projectontwikkelaars."
                 }
             },
             {
@@ -8550,9 +8550,9 @@ export	let parties =[
             {
                 "id": 79606,
                 "position": "disagree",
-                "explanation": "Volt wil dat er op álle basis- en middelbare scholen les wordt gegeven over seksuele en\r\ngenderdiversiteit. Op iedere school hoort inclusieve seksuele voorlichting aan bod te\r\nkomen. Daarnaast pleit Volt ervoor dat kinderen respectvol om leren gaan met, nu nog,\r\ngemarginaliseerde groepen.",
+                "explanation": "Volt wil dat er op Ã¡lle basis- en middelbare scholen les wordt gegeven over seksuele en\r\ngenderdiversiteit. Op iedere school hoort inclusieve seksuele voorlichting aan bod te\r\nkomen. Daarnaast pleit Volt ervoor dat kinderen respectvol om leren gaan met, nu nog,\r\ngemarginaliseerde groepen.",
                 "accessibility": {
-                    "explanation": "Volt wil dat er op álle basis- en middelbare scholen les wordt gegeven over seksuele en\r\ngenderdiversiteit. Op iedere school hoort inclusieve seksuele voorlichting aan bod te\r\nkomen. Daarnaast pleit Volt ervoor dat kinderen respectvol om leren gaan met, nu nog,\r\ngemarginaliseerde groepen."
+                    "explanation": "Volt wil dat er op Ã¡lle basis- en middelbare scholen les wordt gegeven over seksuele en\r\ngenderdiversiteit. Op iedere school hoort inclusieve seksuele voorlichting aan bod te\r\nkomen. Daarnaast pleit Volt ervoor dat kinderen respectvol om leren gaan met, nu nog,\r\ngemarginaliseerde groepen."
                 }
             },
             {
@@ -8574,9 +8574,9 @@ export	let parties =[
             {
                 "id": 79591,
                 "position": "agree",
-                "explanation": "Volt wil belastingmaatregelen die vermogensongelijkheid verminderen in plaats van versterken. Daarom wordt er een progressieve vermogensbelasting geïntroduceerd voor vermogens boven 1 miljoen.",
+                "explanation": "Volt wil belastingmaatregelen die vermogensongelijkheid verminderen in plaats van versterken. Daarom wordt er een progressieve vermogensbelasting geÃ¯ntroduceerd voor vermogens boven 1 miljoen.",
                 "accessibility": {
-                    "explanation": "Volt wil belastingmaatregelen die vermogensongelijkheid verminderen in plaats van versterken. Daarom wordt er een progressieve vermogensbelasting geïntroduceerd voor vermogens boven 1 miljoen."
+                    "explanation": "Volt wil belastingmaatregelen die vermogensongelijkheid verminderen in plaats van versterken. Daarom wordt er een progressieve vermogensbelasting geÃ¯ntroduceerd voor vermogens boven 1 miljoen."
                 }
             },
             {
@@ -8654,9 +8654,9 @@ export	let parties =[
             {
                 "id": 79625,
                 "position": "agree",
-                "explanation": "Volt wil fossiele korte afstandsvluchten en privévluchten verbieden. De belasting op kerosine en vliegtickets moet omhoog en (middel)lange afstandsvluchten worden duurder. Schiphol mag vanaf 2026 nog maximaal 400.000 vluchten per jaar faciliteren. Deze maatregelen zorgen op langere termijn voor een sterkere afname.",
+                "explanation": "Volt wil fossiele korte afstandsvluchten en privÃ©vluchten verbieden. De belasting op kerosine en vliegtickets moet omhoog en (middel)lange afstandsvluchten worden duurder. Schiphol mag vanaf 2026 nog maximaal 400.000 vluchten per jaar faciliteren. Deze maatregelen zorgen op langere termijn voor een sterkere afname.",
                 "accessibility": {
-                    "explanation": "Volt wil fossiele korte afstandsvluchten en privévluchten verbieden. De belasting op kerosine en vliegtickets moet omhoog en (middel)lange afstandsvluchten worden duurder. Schiphol mag vanaf 2026 nog maximaal 400.000 vluchten per jaar faciliteren. Deze maatregelen zorgen op langere termijn voor een sterkere afname."
+                    "explanation": "Volt wil fossiele korte afstandsvluchten en privÃ©vluchten verbieden. De belasting op kerosine en vliegtickets moet omhoog en (middel)lange afstandsvluchten worden duurder. Schiphol mag vanaf 2026 nog maximaal 400.000 vluchten per jaar faciliteren. Deze maatregelen zorgen op langere termijn voor een sterkere afname."
                 }
             },
             {
@@ -8691,9 +8691,9 @@ export	let parties =[
             {
                 "id": 79578,
                 "position": "agree",
-                "explanation": "JA21 wil minimumstraffen invoeren voor gewelds- en\r\nzedendelicten. Daarnaast maken we levenslang mogelijk na drie ernstige geweldsdelicten en willen we een getrapte strafschaal voor veelplegers, waarbij zij na ieder nieuw delict een zwaardere straf kunnen krijgen.",
+                "explanation": "JA21 wil minimumstraffen invoeren voor gewelds- en\r\nzedendelicten. Daarnaast maken we levenslang mogelijk na drie ernstige geweldsdelicten en willen we een â€˜getrapteâ€™ strafschaal voor veelplegers, waarbij zij na ieder nieuw delict een zwaardere straf kunnen krijgen.",
                 "accessibility": {
-                    "explanation": "JA21 wil minimumstraffen invoeren voor gewelds- en\r\nzedendelicten. Daarnaast maken we levenslang mogelijk na drie ernstige geweldsdelicten en willen we een getrapte strafschaal voor veelplegers, waarbij zij na ieder nieuw delict een zwaardere straf kunnen krijgen."
+                    "explanation": "JA21 wil minimumstraffen invoeren voor gewelds- en\r\nzedendelicten. Daarnaast maken we levenslang mogelijk na drie ernstige geweldsdelicten en willen we een â€˜getrapteâ€™ strafschaal voor veelplegers, waarbij zij na ieder nieuw delict een zwaardere straf kunnen krijgen."
                 }
             },
             {
@@ -8715,9 +8715,9 @@ export	let parties =[
             {
                 "id": 79611,
                 "position": "agree",
-                "explanation": "JA21 wil de bron van radicalisering aanpakken. Wij verbieden buitenlandse financiering van moskeeën en\r\nsluiten instellingen waar wordt aangezet tot\r\ngeweld, waaronder moskeeën en informele islamitische onderwijsinstellingen. Er moet streng toezicht komen op informeel islamitisch onderwijs.",
+                "explanation": "JA21 wil de bron van radicalisering aanpakken. Wij verbieden buitenlandse financiering van moskeeÃ«n en\r\nsluiten instellingen waar wordt aangezet tot\r\ngeweld, waaronder moskeeÃ«n en informele islamitische onderwijsinstellingen. Er moet streng toezicht komen op informeel islamitisch onderwijs.",
                 "accessibility": {
-                    "explanation": "JA21 wil de bron van radicalisering aanpakken. Wij verbieden buitenlandse financiering van moskeeën en\r\nsluiten instellingen waar wordt aangezet tot\r\ngeweld, waaronder moskeeën en informele islamitische onderwijsinstellingen. Er moet streng toezicht komen op informeel islamitisch onderwijs."
+                    "explanation": "JA21 wil de bron van radicalisering aanpakken. Wij verbieden buitenlandse financiering van moskeeÃ«n en\r\nsluiten instellingen waar wordt aangezet tot\r\ngeweld, waaronder moskeeÃ«n en informele islamitische onderwijsinstellingen. Er moet streng toezicht komen op informeel islamitisch onderwijs."
                 }
             },
             {
@@ -8739,9 +8739,9 @@ export	let parties =[
             {
                 "id": 79613,
                 "position": "agree",
-                "explanation": "JA21 wil een asielstop invoeren en werk maken van een geheel nieuw asielbeleid, met opvang in de eigen regio en partnerlanden in plaats van in Nederland. Tot die tijd wil JA21 de instroom en gezinshereniging maximaal beperken, onder andere door afschaffing van het éénstatusstelsel.",
+                "explanation": "JA21 wil een asielstop invoeren en werk maken van een geheel nieuw asielbeleid, met opvang in de eigen regio en partnerlanden in plaats van in Nederland. Tot die tijd wil JA21 de instroom en gezinshereniging maximaal beperken, onder andere door afschaffing van het Ã©Ã©nstatusstelsel.",
                 "accessibility": {
-                    "explanation": "JA21 wil een asielstop invoeren en werk maken van een geheel nieuw asielbeleid, met opvang in de eigen regio en partnerlanden in plaats van in Nederland. Tot die tijd wil JA21 de instroom en gezinshereniging maximaal beperken, onder andere door afschaffing van het éénstatusstelsel."
+                    "explanation": "JA21 wil een asielstop invoeren en werk maken van een geheel nieuw asielbeleid, met opvang in de eigen regio en partnerlanden in plaats van in Nederland. Tot die tijd wil JA21 de instroom en gezinshereniging maximaal beperken, onder andere door afschaffing van het Ã©Ã©nstatusstelsel."
                 }
             },
             {
@@ -8771,9 +8771,9 @@ export	let parties =[
             {
                 "id": 79614,
                 "position": "disagree",
-                "explanation": "JA21 is geen voorstander van het versoepelen van de visumplicht voor Surinamers. De benodigde financiële garantstelling voor Surinamers dient dan ook in stand te blijven.",
+                "explanation": "JA21 is geen voorstander van het versoepelen van de visumplicht voor Surinamers. De benodigde financiÃ«le garantstelling voor Surinamers dient dan ook in stand te blijven.",
                 "accessibility": {
-                    "explanation": "JA21 is geen voorstander van het versoepelen van de visumplicht voor Surinamers. De benodigde financiële garantstelling voor Surinamers dient dan ook in stand te blijven."
+                    "explanation": "JA21 is geen voorstander van het versoepelen van de visumplicht voor Surinamers. De benodigde financiÃ«le garantstelling voor Surinamers dient dan ook in stand te blijven."
                 }
             },
             {
@@ -8795,9 +8795,9 @@ export	let parties =[
             {
                 "id": 79632,
                 "position": "disagree",
-                "explanation": "Wij verlagen liever voor iedereen de kosten van het Openbaar Vervoer, dan dat we het met belastinggeld voor één groep gratis maken. ",
+                "explanation": "Wij verlagen liever voor iedereen de kosten van het Openbaar Vervoer, dan dat we het met belastinggeld voor Ã©Ã©n groep gratis maken. ",
                 "accessibility": {
-                    "explanation": "Wij verlagen liever voor iedereen de kosten van het Openbaar Vervoer, dan dat we het met belastinggeld voor één groep gratis maken."
+                    "explanation": "Wij verlagen liever voor iedereen de kosten van het Openbaar Vervoer, dan dat we het met belastinggeld voor Ã©Ã©n groep gratis maken."
                 }
             },
             {
@@ -8819,9 +8819,9 @@ export	let parties =[
             {
                 "id": 79649,
                 "position": "disagree",
-                "explanation": "Door het eigen risico houden we de zorg betaalbaar, toegankelijk en van hoge kwaliteit. Het afschaffen van het eigen risico zorgt voor een enorme druk op de begroting én de zorg, wat uiteindelijk ten koste zal gaan van onze zorgkwaliteit.",
+                "explanation": "Door het eigen risico houden we de zorg betaalbaar, toegankelijk en van hoge kwaliteit. Het afschaffen van het eigen risico zorgt voor een enorme druk op de begroting Ã©n de zorg, wat uiteindelijk ten koste zal gaan van onze zorgkwaliteit.",
                 "accessibility": {
-                    "explanation": "Door het eigen risico houden we de zorg betaalbaar, toegankelijk en van hoge kwaliteit. Het afschaffen van het eigen risico zorgt voor een enorme druk op de begroting én de zorg, wat uiteindelijk ten koste zal gaan van onze zorgkwaliteit."
+                    "explanation": "Door het eigen risico houden we de zorg betaalbaar, toegankelijk en van hoge kwaliteit. Het afschaffen van het eigen risico zorgt voor een enorme druk op de begroting Ã©n de zorg, wat uiteindelijk ten koste zal gaan van onze zorgkwaliteit."
                 }
             },
             {
@@ -8835,9 +8835,9 @@ export	let parties =[
             {
                 "id": 79587,
                 "position": "agree",
-                "explanation": "JA21 vindt het subsidiëren van onrendabele duurzaamheidsmaatregelingen onhoudbaar. Verduurzaming is een keuze die ondernemers in de eerste plaats zelf moeten kunnen maken. Overheidssubsidiëring betekent in de praktijk dat de samenleving opdraait voor die enorme uitgaven. Dat vindt JA21 onwenselijk.",
+                "explanation": "JA21 vindt het subsidiÃ«ren van onrendabele duurzaamheidsmaatregelingen onhoudbaar. Verduurzaming is een keuze die ondernemers in de eerste plaats zelf moeten kunnen maken. OverheidssubsidiÃ«ring betekent in de praktijk dat de samenleving opdraait voor die enorme uitgaven. Dat vindt JA21 onwenselijk.",
                 "accessibility": {
-                    "explanation": "JA21 vindt het subsidiëren van onrendabele duurzaamheidsmaatregelingen onhoudbaar. Verduurzaming is een keuze die ondernemers in de eerste plaats zelf moeten kunnen maken. Overheidssubsidiëring betekent in de praktijk dat de samenleving opdraait voor die enorme uitgaven. Dat vindt JA21 onwenselijk."
+                    "explanation": "JA21 vindt het subsidiÃ«ren van onrendabele duurzaamheidsmaatregelingen onhoudbaar. Verduurzaming is een keuze die ondernemers in de eerste plaats zelf moeten kunnen maken. OverheidssubsidiÃ«ring betekent in de praktijk dat de samenleving opdraait voor die enorme uitgaven. Dat vindt JA21 onwenselijk."
                 }
             },
             {
@@ -8859,9 +8859,9 @@ export	let parties =[
             {
                 "id": 79652,
                 "position": "disagree",
-                "explanation": "JA21 steunt de huidige euthanasiepraktijk, die door artsen en patiënten als zorgvuldig wordt ervaren. Verdere uitbreiding van deze wet naar mensen zonder uitzichtloos, medisch lijden of wilsonbekwamen, achten wij onwenselijk.",
+                "explanation": "JA21 steunt de huidige euthanasiepraktijk, die door artsen en patiÃ«nten als zorgvuldig wordt ervaren. Verdere uitbreiding van deze wet naar mensen zonder uitzichtloos, medisch lijden of wilsonbekwamen, achten wij onwenselijk.",
                 "accessibility": {
-                    "explanation": "JA21 steunt de huidige euthanasiepraktijk, die door artsen en patiënten als zorgvuldig wordt ervaren. Verdere uitbreiding van deze wet naar mensen zonder uitzichtloos, medisch lijden of wilsonbekwamen, achten wij onwenselijk."
+                    "explanation": "JA21 steunt de huidige euthanasiepraktijk, die door artsen en patiÃ«nten als zorgvuldig wordt ervaren. Verdere uitbreiding van deze wet naar mensen zonder uitzichtloos, medisch lijden of wilsonbekwamen, achten wij onwenselijk."
                 }
             },
             {
@@ -8875,9 +8875,9 @@ export	let parties =[
             {
                 "id": 79590,
                 "position": "disagree",
-                "explanation": "Belastingen op vermogen worden vooral gedragen door werkenden. Belastingen op kapitaal ontmoedigen investeren. JA21 wil een zogenaamde WIN-rekening. Mensen kunnen al het door werk verdiende geld (na belastingen) op zon rekening storten, waarna dit geld is vrijgesteld van vermogensbelasting.",
+                "explanation": "Belastingen op vermogen worden vooral gedragen door werkenden. Belastingen op kapitaal ontmoedigen investeren. JA21 wil een zogenaamde WIN-rekening. Mensen kunnen al het door werk verdiende geld (na belastingen) op zoâ€™n rekening storten, waarna dit geld is vrijgesteld van vermogensbelasting.",
                 "accessibility": {
-                    "explanation": "Belastingen op vermogen worden vooral gedragen door werkenden. Belastingen op kapitaal ontmoedigen investeren. JA21 wil een zogenaamde WIN-rekening. Mensen kunnen al het door werk verdiende geld (na belastingen) op zon rekening storten, waarna dit geld is vrijgesteld van vermogensbelasting."
+                    "explanation": "Belastingen op vermogen worden vooral gedragen door werkenden. Belastingen op kapitaal ontmoedigen investeren. JA21 wil een zogenaamde WIN-rekening. Mensen kunnen al het door werk verdiende geld (na belastingen) op zoâ€™n rekening storten, waarna dit geld is vrijgesteld van vermogensbelasting."
                 }
             },
             {
@@ -8891,9 +8891,9 @@ export	let parties =[
             {
                 "id": 79654,
                 "position": "disagree",
-                "explanation": "Er is nu al een groot tekort aan kinderopvang. Het verder inperken van aanbieders is dan geen oplossing. Ouders moeten zelf de keuze kunnen maken naar welke kinderopvang ze hun kinderen willen brengen, daarbij hoort ook de keuze tussen commerciële en niet-commerciële organisaties. ",
+                "explanation": "Er is nu al een groot tekort aan kinderopvang. Het verder inperken van aanbieders is dan geen oplossing. Ouders moeten zelf de keuze kunnen maken naar welke kinderopvang ze hun kinderen willen brengen, daarbij hoort ook de keuze tussen commerciÃ«le en niet-commerciÃ«le organisaties. ",
                 "accessibility": {
-                    "explanation": "Er is nu al een groot tekort aan kinderopvang. Het verder inperken van aanbieders is dan geen oplossing. Ouders moeten zelf de keuze kunnen maken naar welke kinderopvang ze hun kinderen willen brengen, daarbij hoort ook de keuze tussen commerciële en niet-commerciële organisaties."
+                    "explanation": "Er is nu al een groot tekort aan kinderopvang. Het verder inperken van aanbieders is dan geen oplossing. Ouders moeten zelf de keuze kunnen maken naar welke kinderopvang ze hun kinderen willen brengen, daarbij hoort ook de keuze tussen commerciÃ«le en niet-commerciÃ«le organisaties."
                 }
             },
             {
@@ -8907,9 +8907,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "agree",
-                "explanation": "Het rijden van een elektrische auto is een eigen keuze. JA21 wil subsidies en andere fiscale voordelen op elektrische autos beperken. Daarbij willen wij een gelijk speelveld voor alle technologieën creëren, zoals het stimuleren van E-fuel-techniek. Ook moeten de accijns op brandstof omlaag.",
+                "explanation": "Het rijden van een elektrische auto is een eigen keuze. JA21 wil subsidies en andere fiscale voordelen op elektrische autoâ€™s beperken. Daarbij willen wij een gelijk speelveld voor alle technologieÃ«n creÃ«ren, zoals het stimuleren van E-fuel-techniek. Ook moeten de accijns op brandstof omlaag.",
                 "accessibility": {
-                    "explanation": "Het rijden van een elektrische auto is een eigen keuze. JA21 wil subsidies en andere fiscale voordelen op elektrische autos beperken. Daarbij willen wij een gelijk speelveld voor alle technologieën creëren, zoals het stimuleren van E-fuel-techniek. Ook moeten de accijns op brandstof omlaag."
+                    "explanation": "Het rijden van een elektrische auto is een eigen keuze. JA21 wil subsidies en andere fiscale voordelen op elektrische autoâ€™s beperken. Daarbij willen wij een gelijk speelveld voor alle technologieÃ«n creÃ«ren, zoals het stimuleren van E-fuel-techniek. Ook moeten de accijns op brandstof omlaag."
                 }
             },
             {
@@ -8933,9 +8933,9 @@ export	let parties =[
             {
                 "id": 79610,
                 "position": "disagree",
-                "explanation": "Een stage is een investering in de toekomst. Het is mooi dat veel bedrijven jongeren via een stageplaats de eerste stap in hun carrière gunnen. Momenteel staat het aantal stageplaatsen al onder druk. We gaan bedrijven niet ontmoedigen een stageplaats aan te bieden door een verplichte vergoeding.",
+                "explanation": "Een stage is een investering in de toekomst. Het is mooi dat veel bedrijven jongeren via een stageplaats de eerste stap in hun carriÃ¨re gunnen. Momenteel staat het aantal stageplaatsen al onder druk. We gaan bedrijven niet ontmoedigen een stageplaats aan te bieden door een verplichte vergoeding.",
                 "accessibility": {
-                    "explanation": "Een stage is een investering in de toekomst. Het is mooi dat veel bedrijven jongeren via een stageplaats de eerste stap in hun carrière gunnen. Momenteel staat het aantal stageplaatsen al onder druk. We gaan bedrijven niet ontmoedigen een stageplaats aan te bieden door een verplichte vergoeding."
+                    "explanation": "Een stage is een investering in de toekomst. Het is mooi dat veel bedrijven jongeren via een stageplaats de eerste stap in hun carriÃ¨re gunnen. Momenteel staat het aantal stageplaatsen al onder druk. We gaan bedrijven niet ontmoedigen een stageplaats aan te bieden door een verplichte vergoeding."
                 }
             },
             {
@@ -8957,9 +8957,9 @@ export	let parties =[
             {
                 "id": 79579,
                 "position": "disagree",
-                "explanation": "JA21 vindt dat onze politie neutraal moet zijn en zich ook zo moet uiten. Daarom accepteren wij geen hoofddoekjes of andere religieuze uitingen bij\r\npolitie, boas en andere overheidsdienaren die een\r\npublieke functie bekleden.",
+                "explanation": "JA21 vindt dat onze politie neutraal moet zijn en zich ook zo moet uiten. Daarom accepteren wij geen hoofddoekjes of andere religieuze uitingen bij\r\npolitie, boaâ€™s en andere overheidsdienaren die een\r\npublieke functie bekleden.",
                 "accessibility": {
-                    "explanation": "JA21 vindt dat onze politie neutraal moet zijn en zich ook zo moet uiten. Daarom accepteren wij geen hoofddoekjes of andere religieuze uitingen bij\r\npolitie, boas en andere overheidsdienaren die een\r\npublieke functie bekleden."
+                    "explanation": "JA21 vindt dat onze politie neutraal moet zijn en zich ook zo moet uiten. Daarom accepteren wij geen hoofddoekjes of andere religieuze uitingen bij\r\npolitie, boaâ€™s en andere overheidsdienaren die een\r\npublieke functie bekleden."
                 }
             },
             {
@@ -9077,9 +9077,9 @@ export	let parties =[
             {
                 "id": 79583,
                 "position": "agree",
-                "explanation": "Veiligheid is voor JA21 topprioriteit. Cameratoezicht is een effectief middel om misdrijven op te sporen én te voorkomen. Uitbreiding van cameratoezicht is daarom een goede stap. Wel moeten onnodige privacyschendingen van onschuldige burgers worden voorkomen. We zijn hier geen China.",
+                "explanation": "Veiligheid is voor JA21 topprioriteit. Cameratoezicht is een effectief middel om misdrijven op te sporen Ã©n te voorkomen. Uitbreiding van cameratoezicht is daarom een goede stap. Wel moeten onnodige privacyschendingen van onschuldige burgers worden voorkomen. We zijn hier geen China.",
                 "accessibility": {
-                    "explanation": "Veiligheid is voor JA21 topprioriteit. Cameratoezicht is een effectief middel om misdrijven op te sporen én te voorkomen. Uitbreiding van cameratoezicht is daarom een goede stap. Wel moeten onnodige privacyschendingen van onschuldige burgers worden voorkomen. We zijn hier geen China."
+                    "explanation": "Veiligheid is voor JA21 topprioriteit. Cameratoezicht is een effectief middel om misdrijven op te sporen Ã©n te voorkomen. Uitbreiding van cameratoezicht is daarom een goede stap. Wel moeten onnodige privacyschendingen van onschuldige burgers worden voorkomen. We zijn hier geen China."
                 }
             },
             {
@@ -9149,9 +9149,9 @@ export	let parties =[
             {
                 "id": 79601,
                 "position": "disagree",
-                "explanation": "Werken moet weer lonen. We gaan de inkomstenbelasting niet verhogen, maar verlagen. JA21 wil een radicale vereenvoudiging van het belastingstelsel. De eerst verdiende ¬20.000 maken we belastingvrij. Over het belastbare inkomen komen een of twee tariefschijven die dicht bij elkaar liggen.",
+                "explanation": "Werken moet weer lonen. We gaan de inkomstenbelasting niet verhogen, maar verlagen. JA21 wil een radicale vereenvoudiging van het belastingstelsel. De eerst verdiende â‚¬20.000 maken we belastingvrij. Over het belastbare inkomen komen een of twee tariefschijven die dicht bij elkaar liggen.",
                 "accessibility": {
-                    "explanation": "Werken moet weer lonen. We gaan de inkomstenbelasting niet verhogen, maar verlagen. JA21 wil een radicale vereenvoudiging van het belastingstelsel. De eerst verdiende ¬20.000 maken we belastingvrij. Over het belastbare inkomen komen een of twee tariefschijven die dicht bij elkaar liggen."
+                    "explanation": "Werken moet weer lonen. We gaan de inkomstenbelasting niet verhogen, maar verlagen. JA21 wil een radicale vereenvoudiging van het belastingstelsel. De eerst verdiende â‚¬20.000 maken we belastingvrij. Over het belastbare inkomen komen een of twee tariefschijven die dicht bij elkaar liggen."
                 }
             },
             {
@@ -9373,17 +9373,17 @@ export	let parties =[
             {
                 "id": 79592,
                 "position": "agree",
-                "explanation": "JA21 wil een snelle en royale schadecompensatie en op een verantwoord niveau doorgaan met de gaswinning in Groningen. De versterkingsoperatie moet geïntensiveerd worden en er moet worden ingezet op stikstofinjectie om de bodem te stabiliseren. De Groningers gaan meer meedelen in de opbrengsten.",
+                "explanation": "JA21 wil een snelle en royale schadecompensatie en op een verantwoord niveau doorgaan met de gaswinning in Groningen. De versterkingsoperatie moet geÃ¯ntensiveerd worden en er moet worden ingezet op stikstofinjectie om de bodem te stabiliseren. De Groningers gaan meer meedelen in de opbrengsten.",
                 "accessibility": {
-                    "explanation": "JA21 wil een snelle en royale schadecompensatie en op een verantwoord niveau doorgaan met de gaswinning in Groningen. De versterkingsoperatie moet geïntensiveerd worden en er moet worden ingezet op stikstofinjectie om de bodem te stabiliseren. De Groningers gaan meer meedelen in de opbrengsten."
+                    "explanation": "JA21 wil een snelle en royale schadecompensatie en op een verantwoord niveau doorgaan met de gaswinning in Groningen. De versterkingsoperatie moet geÃ¯ntensiveerd worden en er moet worden ingezet op stikstofinjectie om de bodem te stabiliseren. De Groningers gaan meer meedelen in de opbrengsten."
                 }
             },
             {
                 "id": 79608,
                 "position": "agree",
-                "explanation": "De NPO kost jaarlijks meer dan de marine en hoopt de komende periode elk jaar meer dan een miljard te krijgen. JA21 wil dit budget halveren en de NPO terugbrengen tot één net. Dit is in lijn met de verminderde interesse in lineaire televisie. ",
+                "explanation": "De NPO kost jaarlijks meer dan de marine en hoopt de komende periode elk jaar meer dan een miljard te krijgen. JA21 wil dit budget halveren en de NPO terugbrengen tot Ã©Ã©n net. Dit is in lijn met de verminderde interesse in lineaire televisie. ",
                 "accessibility": {
-                    "explanation": "De NPO kost jaarlijks meer dan de marine en hoopt de komende periode elk jaar meer dan een miljard te krijgen. JA21 wil dit budget halveren en de NPO terugbrengen tot één net. Dit is in lijn met de verminderde interesse in lineaire televisie."
+                    "explanation": "De NPO kost jaarlijks meer dan de marine en hoopt de komende periode elk jaar meer dan een miljard te krijgen. JA21 wil dit budget halveren en de NPO terugbrengen tot Ã©Ã©n net. Dit is in lijn met de verminderde interesse in lineaire televisie."
                 }
             },
             {
@@ -9474,9 +9474,9 @@ export	let parties =[
             {
                 "id": 79658,
                 "position": "disagree",
-                "explanation": "Op basis van 'respect' en 'gelijkwaardigheid' moeten landen hun afspraken nakomen, óók inzake terugname van uitgeprocedeerde asielzoekers. Gebeurt dit niet, dan kan dit (financiële) consequenties hebben. Maar het geheel stoppen van ontwikkelingshulp kan disproportioneel en contraproductief zijn.",
+                "explanation": "Op basis van 'respect' en 'gelijkwaardigheid' moeten landen hun afspraken nakomen, Ã³Ã³k inzake terugname van uitgeprocedeerde asielzoekers. Gebeurt dit niet, dan kan dit (financiÃ«le) consequenties hebben. Maar het geheel stoppen van ontwikkelingshulp kan disproportioneel en contraproductief zijn.",
                 "accessibility": {
-                    "explanation": "Op basis van 'respect' en 'gelijkwaardigheid' moeten landen hun afspraken nakomen, óók inzake terugname van uitgeprocedeerde asielzoekers. Gebeurt dit niet, dan kan dit (financiële) consequenties hebben. Maar het geheel stoppen van ontwikkelingshulp kan disproportioneel en contraproductief zijn."
+                    "explanation": "Op basis van 'respect' en 'gelijkwaardigheid' moeten landen hun afspraken nakomen, Ã³Ã³k inzake terugname van uitgeprocedeerde asielzoekers. Gebeurt dit niet, dan kan dit (financiÃ«le) consequenties hebben. Maar het geheel stoppen van ontwikkelingshulp kan disproportioneel en contraproductief zijn."
                 }
             },
             {
@@ -9522,9 +9522,9 @@ export	let parties =[
             {
                 "id": 79661,
                 "position": "agree",
-                "explanation": "Verdere EU-uitbreiding is onwenselijk omdat de eenheid dan nóg verder onder druk komen te staan. Met strategische landen langs de buitengrenzen van de EU, zoals Georgië en Oekraïne, komen er bij voorkeur alternatieve samenwerkingsvormen. De toetredingscriteria van Kopenhagen gelden onverkort.",
+                "explanation": "Verdere EU-uitbreiding is onwenselijk omdat de eenheid dan nÃ³g verder onder druk komen te staan. Met strategische landen langs de buitengrenzen van de EU, zoals GeorgiÃ« en OekraÃ¯ne, komen er bij voorkeur alternatieve samenwerkingsvormen. De toetredingscriteria van Kopenhagen gelden onverkort.",
                 "accessibility": {
-                    "explanation": "Verdere EU-uitbreiding is onwenselijk omdat de eenheid dan nóg verder onder druk komen te staan. Met strategische landen langs de buitengrenzen van de EU, zoals Georgië en Oekraïne, komen er bij voorkeur alternatieve samenwerkingsvormen. De toetredingscriteria van Kopenhagen gelden onverkort."
+                    "explanation": "Verdere EU-uitbreiding is onwenselijk omdat de eenheid dan nÃ³g verder onder druk komen te staan. Met strategische landen langs de buitengrenzen van de EU, zoals GeorgiÃ« en OekraÃ¯ne, komen er bij voorkeur alternatieve samenwerkingsvormen. De toetredingscriteria van Kopenhagen gelden onverkort."
                 }
             },
             {
@@ -9554,9 +9554,9 @@ export	let parties =[
             {
                 "id": 79599,
                 "position": "disagree",
-                "explanation": "De SGP vindt het logisch dat gezinsleden elkaar (financieel) ondersteunen, als het bij één van hen financieel tegenzit.\r\n",
+                "explanation": "De SGP vindt het logisch dat gezinsleden elkaar (financieel) ondersteunen, als het bij Ã©Ã©n van hen financieel tegenzit.\r\n",
                 "accessibility": {
-                    "explanation": "De SGP vindt het logisch dat gezinsleden elkaar (financieel) ondersteunen, als het bij één van hen financieel tegenzit."
+                    "explanation": "De SGP vindt het logisch dat gezinsleden elkaar (financieel) ondersteunen, als het bij Ã©Ã©n van hen financieel tegenzit."
                 }
             },
             {
@@ -9570,9 +9570,9 @@ export	let parties =[
             {
                 "id": 79648,
                 "position": "disagree",
-                "explanation": "CO2-opslag onder de Noordzee is een relatief goedkope klimaatmaatregel. Dát hier wat geld voor uitgetrokken wordt is goed. De SGP wil wel voorkomen dat investeren in opslag de omschakeling naar echte verduurzaming van de energievoorziening dwarszit. Dus meer geld is niet verstandig. ",
+                "explanation": "CO2-opslag onder de Noordzee is een relatief goedkope klimaatmaatregel. DÃ¡t hier wat geld voor uitgetrokken wordt is goed. De SGP wil wel voorkomen dat investeren in opslag de omschakeling naar echte verduurzaming van de energievoorziening dwarszit. Dus meer geld is niet verstandig. ",
                 "accessibility": {
-                    "explanation": "CO2-opslag onder de Noordzee is een relatief goedkope klimaatmaatregel. Dát hier wat geld voor uitgetrokken wordt is goed. De SGP wil wel voorkomen dat investeren in opslag de omschakeling naar echte verduurzaming van de energievoorziening dwarszit. Dus meer geld is niet verstandig."
+                    "explanation": "CO2-opslag onder de Noordzee is een relatief goedkope klimaatmaatregel. DÃ¡t hier wat geld voor uitgetrokken wordt is goed. De SGP wil wel voorkomen dat investeren in opslag de omschakeling naar echte verduurzaming van de energievoorziening dwarszit. Dus meer geld is niet verstandig."
                 }
             },
             {
@@ -9642,9 +9642,9 @@ export	let parties =[
             {
                 "id": 79590,
                 "position": "disagree",
-                "explanation": "Een financiële buffer is heel verstandig en sparen moet juist gestimuleerd worden. Heel veel mensen hebben zuinig geleefd en een buffer van enkele tienduizenden euro's aangelegd. Die moeten niet zwaarder belast worden. \r\n",
+                "explanation": "Een financiÃ«le buffer is heel verstandig en sparen moet juist gestimuleerd worden. Heel veel mensen hebben zuinig geleefd en een buffer van enkele tienduizenden euro's aangelegd. Die moeten niet zwaarder belast worden. \r\n",
                 "accessibility": {
-                    "explanation": "Een financiële buffer is heel verstandig en sparen moet juist gestimuleerd worden. Heel veel mensen hebben zuinig geleefd en een buffer van enkele tienduizenden euro's aangelegd. Die moeten niet zwaarder belast worden."
+                    "explanation": "Een financiÃ«le buffer is heel verstandig en sparen moet juist gestimuleerd worden. Heel veel mensen hebben zuinig geleefd en een buffer van enkele tienduizenden euro's aangelegd. Die moeten niet zwaarder belast worden."
                 }
             },
             {
@@ -9674,9 +9674,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "disagree",
-                "explanation": "De SGP wil geen financiële steun voor grote, zware elektrische auto's (SUV's), omdat deze meer energie gebruiken dan nodig is en het wegdek belasten. Integendeel. De SGP wil wel financiële steun voor kleinere, nieuwe, maar ook tweedehands elektrische auto's voor de gewone man.",
+                "explanation": "De SGP wil geen financiÃ«le steun voor grote, zware elektrische auto's (SUV's), omdat deze meer energie gebruiken dan nodig is en het wegdek belasten. Integendeel. De SGP wil wel financiÃ«le steun voor kleinere, nieuwe, maar ook tweedehands elektrische auto's voor de gewone man.",
                 "accessibility": {
-                    "explanation": "De SGP wil geen financiële steun voor grote, zware elektrische auto's (SUV's), omdat deze meer energie gebruiken dan nodig is en het wegdek belasten. Integendeel. De SGP wil wel financiële steun voor kleinere, nieuwe, maar ook tweedehands elektrische auto's voor de gewone man."
+                    "explanation": "De SGP wil geen financiÃ«le steun voor grote, zware elektrische auto's (SUV's), omdat deze meer energie gebruiken dan nodig is en het wegdek belasten. Integendeel. De SGP wil wel financiÃ«le steun voor kleinere, nieuwe, maar ook tweedehands elektrische auto's voor de gewone man."
                 }
             },
             {
@@ -9748,17 +9748,17 @@ export	let parties =[
             {
                 "id": 79659,
                 "position": "disagree",
-                "explanation": "Het Nederlandse leger kan uitgezonden worden voor vredesmissies als daar noodzaak en een solide mandaat voor bestaat. Dit kan óók samen met Europese partners. Maar de NAVO blijft, als hoeksteen van onze veiligheid, leidend. In het licht van haar beperkte capaciteiten mogen we Defensie niet overvragen. ",
+                "explanation": "Het Nederlandse leger kan uitgezonden worden voor vredesmissies als daar noodzaak en een solide mandaat voor bestaat. Dit kan Ã³Ã³k samen met Europese partners. Maar de NAVO blijft, als hoeksteen van onze veiligheid, leidend. In het licht van haar beperkte capaciteiten mogen we Defensie niet overvragen. ",
                 "accessibility": {
-                    "explanation": "Het Nederlandse leger kan uitgezonden worden voor vredesmissies als daar noodzaak en een solide mandaat voor bestaat. Dit kan óók samen met Europese partners. Maar de NAVO blijft, als hoeksteen van onze veiligheid, leidend. In het licht van haar beperkte capaciteiten mogen we Defensie niet overvragen."
+                    "explanation": "Het Nederlandse leger kan uitgezonden worden voor vredesmissies als daar noodzaak en een solide mandaat voor bestaat. Dit kan Ã³Ã³k samen met Europese partners. Maar de NAVO blijft, als hoeksteen van onze veiligheid, leidend. In het licht van haar beperkte capaciteiten mogen we Defensie niet overvragen."
                 }
             },
             {
                 "id": 79580,
                 "position": "disagree",
-                "explanation": "De SGP is tegen dwang bij het dragen van bodycams. De Politie kan ervoor kiezen om met bodycams te werken, het kan bijvoorbeeld\r\nhelpen bij het analyseren van geëscaleerde situaties. Het staat de Politie echter vrij om hier zelf voor te kiezen afhankelijk van de situatie.\r\n\r\n",
+                "explanation": "De SGP is tegen dwang bij het dragen van bodycams. De Politie kan ervoor kiezen om met bodycams te werken, het kan bijvoorbeeld\r\nhelpen bij het analyseren van geÃ«scaleerde situaties. Het staat de Politie echter vrij om hier zelf voor te kiezen afhankelijk van de situatie.\r\n\r\n",
                 "accessibility": {
-                    "explanation": "De SGP is tegen dwang bij het dragen van bodycams. De Politie kan ervoor kiezen om met bodycams te werken, het kan bijvoorbeeld\r\nhelpen bij het analyseren van geëscaleerde situaties. Het staat de Politie echter vrij om hier zelf voor te kiezen afhankelijk van de situatie."
+                    "explanation": "De SGP is tegen dwang bij het dragen van bodycams. De Politie kan ervoor kiezen om met bodycams te werken, het kan bijvoorbeeld\r\nhelpen bij het analyseren van geÃ«scaleerde situaties. Het staat de Politie echter vrij om hier zelf voor te kiezen afhankelijk van de situatie."
                 }
             },
             {
@@ -9780,9 +9780,9 @@ export	let parties =[
             {
                 "id": 79644,
                 "position": "disagree",
-                "explanation": "De SGP wil weidegang stimuleren en bedrijven ondersteunen bij omschakeling naar meer uitloop van dieren.\r\nEen verplichting is veel te gortig. Uitloop kan gezondheidsrisicos opleveren voor de dieren. Het is niet overal mogelijk. En supermarkten betalen dan geen meerprijs meer.\r\n",
+                "explanation": "De SGP wil weidegang stimuleren en bedrijven ondersteunen bij omschakeling naar meer uitloop van dieren.\r\nEen verplichting is veel te gortig. Uitloop kan gezondheidsrisicoâ€™s opleveren voor de dieren. Het is niet overal mogelijk. En supermarkten betalen dan geen meerprijs meer.\r\n",
                 "accessibility": {
-                    "explanation": "De SGP wil weidegang stimuleren en bedrijven ondersteunen bij omschakeling naar meer uitloop van dieren.\r\nEen verplichting is veel te gortig. Uitloop kan gezondheidsrisicos opleveren voor de dieren. Het is niet overal mogelijk. En supermarkten betalen dan geen meerprijs meer."
+                    "explanation": "De SGP wil weidegang stimuleren en bedrijven ondersteunen bij omschakeling naar meer uitloop van dieren.\r\nEen verplichting is veel te gortig. Uitloop kan gezondheidsrisicoâ€™s opleveren voor de dieren. Het is niet overal mogelijk. En supermarkten betalen dan geen meerprijs meer."
                 }
             },
             {
@@ -10012,9 +10012,9 @@ export	let parties =[
             {
                 "id": 79588,
                 "position": "neither",
-                "explanation": "De SGP wil de winstbelasting voor het Midden en Kleinbedrijf  verlagen. Grote bedrijven wel gaan een eerlijker aandeel leveren aan de belastingopbrengsten, door bijvoorbeeld fiscale regelingen te versoberen. De SGP is dus geen voorstander van een lastenstijging voor alle bedrijven, maar heel gericht.",
+                "explanation": "De SGP wil de winstbelasting voor het Midden en KleinbedrijfÂ  verlagen. Grote bedrijven wel gaan een eerlijker aandeel leveren aan de belastingopbrengsten, door bijvoorbeeld fiscale regelingen te versoberen. De SGP is dus geen voorstander van een lastenstijging voor alle bedrijven, maar heel gericht.",
                 "accessibility": {
-                    "explanation": "De SGP wil de winstbelasting voor het Midden en Kleinbedrijf  verlagen. Grote bedrijven wel gaan een eerlijker aandeel leveren aan de belastingopbrengsten, door bijvoorbeeld fiscale regelingen te versoberen. De SGP is dus geen voorstander van een lastenstijging voor alle bedrijven, maar heel gericht."
+                    "explanation": "De SGP wil de winstbelasting voor het Midden en KleinbedrijfÂ  verlagen. Grote bedrijven wel gaan een eerlijker aandeel leveren aan de belastingopbrengsten, door bijvoorbeeld fiscale regelingen te versoberen. De SGP is dus geen voorstander van een lastenstijging voor alle bedrijven, maar heel gericht."
                 }
             },
             {
@@ -10100,9 +10100,9 @@ export	let parties =[
             {
                 "id": 79575,
                 "position": "agree",
-                "explanation": "Tot een bedrag van ¬5000 kunnen Groningers zonder controle eerst geld uitgekeerd krijgen. Boven dat bedrag dient de overheid causaal verband aan te tonen en niet de gedupeerde Groninger. De overheid mag ervanuit gaan dat zij te goeder trouw handelen.  De overheid dient coulant om te gaan met schademelders.",
+                "explanation": "Tot een bedrag van â‚¬5000 kunnen Groningers zonder controle eerst geld uitgekeerd krijgen. Boven dat bedrag dient de overheid causaal verband aan te tonen en niet de gedupeerde Groninger. De overheid mag ervanuit gaan dat zij te goeder trouw handelen.  De overheid dient coulant om te gaan met schademelders.",
                 "accessibility": {
-                    "explanation": "Tot een bedrag van ¬5000 kunnen Groningers zonder controle eerst geld uitgekeerd krijgen. Boven dat bedrag dient de overheid causaal verband aan te tonen en niet de gedupeerde Groninger. De overheid mag ervanuit gaan dat zij te goeder trouw handelen.  De overheid dient coulant om te gaan met schademelders."
+                    "explanation": "Tot een bedrag van â‚¬5000 kunnen Groningers zonder controle eerst geld uitgekeerd krijgen. Boven dat bedrag dient de overheid causaal verband aan te tonen en niet de gedupeerde Groninger. De overheid mag ervanuit gaan dat zij te goeder trouw handelen.  De overheid dient coulant om te gaan met schademelders."
                 }
             },
             {
@@ -10321,9 +10321,9 @@ export	let parties =[
             {
                 "id": 79599,
                 "position": "agree",
-                "explanation": "DENK is vóór de afschaffing van de zogeheten \"kostendelersnorm\". Dit is feitelijk een boete op samenwonen. ",
+                "explanation": "DENK is vÃ³Ã³r de afschaffing van de zogeheten \"kostendelersnorm\". Dit is feitelijk een boete op samenwonen. ",
                 "accessibility": {
-                    "explanation": "DENK is vóór de afschaffing van de zogeheten \"kostendelersnorm\". Dit is feitelijk een boete op samenwonen."
+                    "explanation": "DENK is vÃ³Ã³r de afschaffing van de zogeheten \"kostendelersnorm\". Dit is feitelijk een boete op samenwonen."
                 }
             },
             {
@@ -10401,9 +10401,9 @@ export	let parties =[
             {
                 "id": 79621,
                 "position": "agree",
-                "explanation": "De huurprijzen zijn te hard gestegen de afgelopen jaren. Veel huurders kunnen nauwelijks de rekening meer betalen. Zij verdienen financiële rust en daarom is een bevriezing van de huur een goede maatregel. ",
+                "explanation": "De huurprijzen zijn te hard gestegen de afgelopen jaren. Veel huurders kunnen nauwelijks de rekening meer betalen. Zij verdienen financiÃ«le rust en daarom is een bevriezing van de huur een goede maatregel. ",
                 "accessibility": {
-                    "explanation": "De huurprijzen zijn te hard gestegen de afgelopen jaren. Veel huurders kunnen nauwelijks de rekening meer betalen. Zij verdienen financiële rust en daarom is een bevriezing van de huur een goede maatregel."
+                    "explanation": "De huurprijzen zijn te hard gestegen de afgelopen jaren. Veel huurders kunnen nauwelijks de rekening meer betalen. Zij verdienen financiÃ«le rust en daarom is een bevriezing van de huur een goede maatregel."
                 }
             },
             {
@@ -10441,9 +10441,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "disagree",
-                "explanation": "DENK is tegen Tesla-subsidies voor miljonairs. Daarentegen wil DENK wél subsidies voor de gewone burger die een elektrische auto wil kopen. Lage- en middeninkomens moeten ook de kans krijgen om een elektrische auto aan te schaffen.  ",
+                "explanation": "DENK is tegen Tesla-subsidies voor miljonairs. Daarentegen wil DENK wÃ©l subsidies voor de gewone burger die een elektrische auto wil kopen. Lage- en middeninkomens moeten ook de kans krijgen om een elektrische auto aan te schaffen.  ",
                 "accessibility": {
-                    "explanation": "DENK is tegen Tesla-subsidies voor miljonairs. Daarentegen wil DENK wél subsidies voor de gewone burger die een elektrische auto wil kopen. Lage- en middeninkomens moeten ook de kans krijgen om een elektrische auto aan te schaffen."
+                    "explanation": "DENK is tegen Tesla-subsidies voor miljonairs. Daarentegen wil DENK wÃ©l subsidies voor de gewone burger die een elektrische auto wil kopen. Lage- en middeninkomens moeten ook de kans krijgen om een elektrische auto aan te schaffen."
                 }
             },
             {
@@ -10507,9 +10507,9 @@ export	let parties =[
             {
                 "id": 79643,
                 "position": "agree",
-                "explanation": "De overheid moet stoppen om vervuilende bedrijven te subsidiëren, maar moet in plaats daarvan duurzame ondernemingen financieel steunen en de verduurzaming van grote bedrijven stimuleren. ",
+                "explanation": "De overheid moet stoppen om vervuilende bedrijven te subsidiÃ«ren, maar moet in plaats daarvan duurzame ondernemingen financieel steunen en de verduurzaming van grote bedrijven stimuleren. ",
                 "accessibility": {
-                    "explanation": "De overheid moet stoppen om vervuilende bedrijven te subsidiëren, maar moet in plaats daarvan duurzame ondernemingen financieel steunen en de verduurzaming van grote bedrijven stimuleren."
+                    "explanation": "De overheid moet stoppen om vervuilende bedrijven te subsidiÃ«ren, maar moet in plaats daarvan duurzame ondernemingen financieel steunen en de verduurzaming van grote bedrijven stimuleren."
                 }
             },
             {
@@ -10523,9 +10523,9 @@ export	let parties =[
             {
                 "id": 79580,
                 "position": "agree",
-                "explanation": "DENK waardeert de inzet van onze politie-agenten. Om de veiligheid van de burger én agenten te waarborgen, is het belangrijk om beelden te maken via een body-cam. ",
+                "explanation": "DENK waardeert de inzet van onze politie-agenten. Om de veiligheid van de burger Ã©n agenten te waarborgen, is het belangrijk om beelden te maken via een body-cam. ",
                 "accessibility": {
-                    "explanation": "DENK waardeert de inzet van onze politie-agenten. Om de veiligheid van de burger én agenten te waarborgen, is het belangrijk om beelden te maken via een body-cam."
+                    "explanation": "DENK waardeert de inzet van onze politie-agenten. Om de veiligheid van de burger Ã©n agenten te waarborgen, is het belangrijk om beelden te maken via een body-cam."
                 }
             },
             {
@@ -10787,9 +10787,9 @@ export	let parties =[
             {
                 "id": 79604,
                 "position": "agree",
-                "explanation": "De grote personeelstekorten in de zorg en het onderwijs zijn één van de meest urgente problemen voor de samenleving. De overheid dient financiële drempels weg te nemen, zodat we een veel hogere instroom aan zorgmedewerkers en leraren krijgen.  ",
+                "explanation": "De grote personeelstekorten in de zorg en het onderwijs zijn Ã©Ã©n van de meest urgente problemen voor de samenleving. De overheid dient financiÃ«le drempels weg te nemen, zodat we een veel hogere instroom aan zorgmedewerkers en leraren krijgen.  ",
                 "accessibility": {
-                    "explanation": "De grote personeelstekorten in de zorg en het onderwijs zijn één van de meest urgente problemen voor de samenleving. De overheid dient financiële drempels weg te nemen, zodat we een veel hogere instroom aan zorgmedewerkers en leraren krijgen."
+                    "explanation": "De grote personeelstekorten in de zorg en het onderwijs zijn Ã©Ã©n van de meest urgente problemen voor de samenleving. De overheid dient financiÃ«le drempels weg te nemen, zodat we een veel hogere instroom aan zorgmedewerkers en leraren krijgen."
                 }
             },
             {
@@ -10803,9 +10803,9 @@ export	let parties =[
             {
                 "id": 79573,
                 "position": "agree",
-                "explanation": "De toeslagenmisdaad heeft laten zien dat het beter controleren van de regering van groot belang is. Ook is het bevolkingsaantal sterk gegroeid, waardoor wij in Nederland minder Kamerleden hebben per hoofd van de bevolking dan veel andere democratieën. ",
+                "explanation": "De toeslagenmisdaad heeft laten zien dat het beter controleren van de regering van groot belang is. Ook is het bevolkingsaantal sterk gegroeid, waardoor wij in Nederland minder Kamerleden hebben per hoofd van de bevolking dan veel andere democratieÃ«n. ",
                 "accessibility": {
-                    "explanation": "De toeslagenmisdaad heeft laten zien dat het beter controleren van de regering van groot belang is. Ook is het bevolkingsaantal sterk gegroeid, waardoor wij in Nederland minder Kamerleden hebben per hoofd van de bevolking dan veel andere democratieën."
+                    "explanation": "De toeslagenmisdaad heeft laten zien dat het beter controleren van de regering van groot belang is. Ook is het bevolkingsaantal sterk gegroeid, waardoor wij in Nederland minder Kamerleden hebben per hoofd van de bevolking dan veel andere democratieÃ«n."
                 }
             },
             {
@@ -10907,9 +10907,9 @@ export	let parties =[
             {
                 "id": 79592,
                 "position": "disagree",
-                "explanation": "De veiligheid van de Groningers blijft altijd prioriteit nummer één. In plaats daarvan moeten we ons inzetten voor meer gas uit de Noordzee. \r\n",
+                "explanation": "De veiligheid van de Groningers blijft altijd prioriteit nummer Ã©Ã©n. In plaats daarvan moeten we ons inzetten voor meer gas uit de Noordzee. \r\n",
                 "accessibility": {
-                    "explanation": "De veiligheid van de Groningers blijft altijd prioriteit nummer één. In plaats daarvan moeten we ons inzetten voor meer gas uit de Noordzee."
+                    "explanation": "De veiligheid van de Groningers blijft altijd prioriteit nummer Ã©Ã©n. In plaats daarvan moeten we ons inzetten voor meer gas uit de Noordzee."
                 }
             },
             {
@@ -11016,9 +11016,9 @@ export	let parties =[
             {
                 "id": 79611,
                 "position": "agree",
-                "explanation": "Net zoals het onderwijs in Nederland onder controle staat van een overheid over haar leerdoelen, methodes en resultaten zo dienen kerken, moskeeën en andere organisaties die jongeren lesgeven op basis van een levensbeschouwing streng gecontroleerd te worden.",
+                "explanation": "Net zoals het onderwijs in Nederland onder controle staat van een overheid over haar leerdoelen, methodes en resultaten zo dienen kerken, moskeeÃ«n en andere organisaties die jongeren lesgeven op basis van een levensbeschouwing streng gecontroleerd te worden.",
                 "accessibility": {
-                    "explanation": "Net zoals het onderwijs in Nederland onder controle staat van een overheid over haar leerdoelen, methodes en resultaten zo dienen kerken, moskeeën en andere organisaties die jongeren lesgeven op basis van een levensbeschouwing streng gecontroleerd te worden."
+                    "explanation": "Net zoals het onderwijs in Nederland onder controle staat van een overheid over haar leerdoelen, methodes en resultaten zo dienen kerken, moskeeÃ«n en andere organisaties die jongeren lesgeven op basis van een levensbeschouwing streng gecontroleerd te worden."
                 }
             },
             {
@@ -11032,9 +11032,9 @@ export	let parties =[
             {
                 "id": 79596,
                 "position": "agree",
-                "explanation": "Gezien de enorme inflatie is ¬16/uur een zeer reëel uurloon. 50PLUS wil de koppeling van de AOW en overige uitkeringen met het minimumloon behouden blijft zodat ook deze uitkeringen verhoogt worden.",
+                "explanation": "Gezien de enorme inflatie is â‚¬16/uur een zeer reÃ«el uurloon. 50PLUS wil de koppeling van de AOW en overige uitkeringen met het minimumloon behouden blijft zodat ook deze uitkeringen verhoogt worden.",
                 "accessibility": {
-                    "explanation": "Gezien de enorme inflatie is ¬16/uur een zeer reëel uurloon. 50PLUS wil de koppeling van de AOW en overige uitkeringen met het minimumloon behouden blijft zodat ook deze uitkeringen verhoogt worden."
+                    "explanation": "Gezien de enorme inflatie is â‚¬16/uur een zeer reÃ«el uurloon. 50PLUS wil de koppeling van de AOW en overige uitkeringen met het minimumloon behouden blijft zodat ook deze uitkeringen verhoogt worden."
                 }
             },
             {
@@ -11080,9 +11080,9 @@ export	let parties =[
             {
                 "id": 79662,
                 "position": "agree",
-                "explanation": "50PLUS vindt dat er structureel financieel geïnvesteerd moet worden op onze veiligheid/defensie. De 2% uitgave aan defensie van ons bruto binnenlands product is een harde afspraak binnen de NATO waar Nederland zich aan moet gaan houden.",
+                "explanation": "50PLUS vindt dat er structureel financieel geÃ¯nvesteerd moet worden op onze veiligheid/defensie. De 2% uitgave aan defensie van ons bruto binnenlands product is een harde afspraak binnen de NATO waar Nederland zich aan moet gaan houden.",
                 "accessibility": {
-                    "explanation": "50PLUS vindt dat er structureel financieel geïnvesteerd moet worden op onze veiligheid/defensie. De 2% uitgave aan defensie van ons bruto binnenlands product is een harde afspraak binnen de NATO waar Nederland zich aan moet gaan houden."
+                    "explanation": "50PLUS vindt dat er structureel financieel geÃ¯nvesteerd moet worden op onze veiligheid/defensie. De 2% uitgave aan defensie van ons bruto binnenlands product is een harde afspraak binnen de NATO waar Nederland zich aan moet gaan houden."
                 }
             },
             {
@@ -11136,9 +11136,9 @@ export	let parties =[
             {
                 "id": 79587,
                 "position": "agree",
-                "explanation": "Bedrijven hebben een eigen verantwoordelijkheid om in deze tijd van klimaatverandering te zorgen voor de meest duurzame bedrijfsvoering. Daar hoeft de overheid geen financiële stimulans voor te regelen. ",
+                "explanation": "Bedrijven hebben een eigen verantwoordelijkheid om in deze tijd van klimaatverandering te zorgen voor de meest duurzame bedrijfsvoering. Daar hoeft de overheid geen financiÃ«le stimulans voor te regelen. ",
                 "accessibility": {
-                    "explanation": "Bedrijven hebben een eigen verantwoordelijkheid om in deze tijd van klimaatverandering te zorgen voor de meest duurzame bedrijfsvoering. Daar hoeft de overheid geen financiële stimulans voor te regelen."
+                    "explanation": "Bedrijven hebben een eigen verantwoordelijkheid om in deze tijd van klimaatverandering te zorgen voor de meest duurzame bedrijfsvoering. Daar hoeft de overheid geen financiÃ«le stimulans voor te regelen."
                 }
             },
             {
@@ -11208,9 +11208,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "agree",
-                "explanation": "De subsidie op elektrische autos is vooral een subsidie voor rijk Nederland gebleken.",
+                "explanation": "De subsidie op elektrische autoâ€™s is vooral een subsidie voor rijk Nederland gebleken.",
                 "accessibility": {
-                    "explanation": "De subsidie op elektrische autos is vooral een subsidie voor rijk Nederland gebleken."
+                    "explanation": "De subsidie op elektrische autoâ€™s is vooral een subsidie voor rijk Nederland gebleken."
                 }
             },
             {
@@ -11234,9 +11234,9 @@ export	let parties =[
             {
                 "id": 79610,
                 "position": "agree",
-                "explanation": "50PLUS vindt dat voor zover de stage betekent dat de student commerciële werkzaamheden dient uit te voeren dient daarvoor ook loon te worden betaald. \r\n",
+                "explanation": "50PLUS vindt dat voor zover de stage betekent dat de student commerciÃ«le werkzaamheden dient uit te voeren dient daarvoor ook loon te worden betaald. \r\n",
                 "accessibility": {
-                    "explanation": "50PLUS vindt dat voor zover de stage betekent dat de student commerciële werkzaamheden dient uit te voeren dient daarvoor ook loon te worden betaald."
+                    "explanation": "50PLUS vindt dat voor zover de stage betekent dat de student commerciÃ«le werkzaamheden dient uit te voeren dient daarvoor ook loon te worden betaald."
                 }
             },
             {
@@ -11410,9 +11410,9 @@ export	let parties =[
             {
                 "id": 79663,
                 "position": "disagree",
-                "explanation": "50PLUS is voor een betere afstemming en méér taakspecialisatie binnen Europese krijgsmachten. Dat is een belangrijk strategisch doel maar een EU-leger is wat 50PLUS betreft niet aan de orde.",
+                "explanation": "50PLUS is voor een betere afstemming en mÃ©Ã©r taakspecialisatie binnen Europese krijgsmachten. Dat is een belangrijk strategisch doel maar een â€˜EU-legerâ€™ is wat 50PLUS betreft niet aan de orde.",
                 "accessibility": {
-                    "explanation": "50PLUS is voor een betere afstemming en méér taakspecialisatie binnen Europese krijgsmachten. Dat is een belangrijk strategisch doel maar een EU-leger is wat 50PLUS betreft niet aan de orde."
+                    "explanation": "50PLUS is voor een betere afstemming en mÃ©Ã©r taakspecialisatie binnen Europese krijgsmachten. Dat is een belangrijk strategisch doel maar een â€˜EU-legerâ€™ is wat 50PLUS betreft niet aan de orde."
                 }
             },
             {
@@ -11498,9 +11498,9 @@ export	let parties =[
             {
                 "id": 79634,
                 "position": "disagree",
-                "explanation": "Daar waar bestaande natuur moet worden versterkt is het gebruiken van landbouwgrond voor natuur toegestaan. Het creëren van vele kleinere natuurgebieden is met de schaarse ruimte geen doeltreffende aanpak. \r\n",
+                "explanation": "Daar waar bestaande natuur moet worden versterkt is het gebruiken van landbouwgrond voor natuur toegestaan. Het creÃ«ren van vele kleinere natuurgebieden is met de schaarse ruimte geen doeltreffende aanpak. \r\n",
                 "accessibility": {
-                    "explanation": "Daar waar bestaande natuur moet worden versterkt is het gebruiken van landbouwgrond voor natuur toegestaan. Het creëren van vele kleinere natuurgebieden is met de schaarse ruimte geen doeltreffende aanpak."
+                    "explanation": "Daar waar bestaande natuur moet worden versterkt is het gebruiken van landbouwgrond voor natuur toegestaan. Het creÃ«ren van vele kleinere natuurgebieden is met de schaarse ruimte geen doeltreffende aanpak."
                 }
             },
             {
@@ -11610,9 +11610,9 @@ export	let parties =[
             {
                 "id": 79574,
                 "position": "disagree",
-                "explanation": "Wij herdenken op 1 juli Keti Koti, de afschaffing van de  slavernij. 50PLUS zal daar ook altijd actief aan deelnemen. 5 mei is echter dé enige nationale feestdag waar we naast het einde van de Tweede Wereldoorlog herdenken ook de vrijheid, democratie en mensenrechten vieren.",
+                "explanation": "Wij herdenken op 1 juli Keti Koti, de afschaffing van de  slavernij. 50PLUS zal daar ook altijd actief aan deelnemen. 5 mei is echter dÃ© enige nationale feestdag waar we naast het einde van de Tweede Wereldoorlog herdenken ook de vrijheid, democratie en mensenrechten vieren.",
                 "accessibility": {
-                    "explanation": "Wij herdenken op 1 juli Keti Koti, de afschaffing van de  slavernij. 50PLUS zal daar ook altijd actief aan deelnemen. 5 mei is echter dé enige nationale feestdag waar we naast het einde van de Tweede Wereldoorlog herdenken ook de vrijheid, democratie en mensenrechten vieren."
+                    "explanation": "Wij herdenken op 1 juli Keti Koti, de afschaffing van de  slavernij. 50PLUS zal daar ook altijd actief aan deelnemen. 5 mei is echter dÃ© enige nationale feestdag waar we naast het einde van de Tweede Wereldoorlog herdenken ook de vrijheid, democratie en mensenrechten vieren."
                 }
             },
             {
@@ -11738,9 +11738,9 @@ export	let parties =[
             {
                 "id": 79657,
                 "position": "disagree",
-                "explanation": "50PLUS vindt dat uitbreiding met andere landen en het verder overdragen van bevoegdheden aan de EU niet aan de orde is. Wel wil 50PLUS graag dat Nederland meer samenwerking en eventueel een (con-)federatie met de lidstaten België en Luxemburg in de Benelux aangaat. ",
+                "explanation": "50PLUS vindt dat uitbreiding met andere landen en het verder overdragen van bevoegdheden aan de EU niet aan de orde is. Wel wil 50PLUS graag dat Nederland meer samenwerking en eventueel een (con-)federatie met de lidstaten BelgiÃ« en Luxemburg in de Benelux aangaat. ",
                 "accessibility": {
-                    "explanation": "50PLUS vindt dat uitbreiding met andere landen en het verder overdragen van bevoegdheden aan de EU niet aan de orde is. Wel wil 50PLUS graag dat Nederland meer samenwerking en eventueel een (con-)federatie met de lidstaten België en Luxemburg in de Benelux aangaat."
+                    "explanation": "50PLUS vindt dat uitbreiding met andere landen en het verder overdragen van bevoegdheden aan de EU niet aan de orde is. Wel wil 50PLUS graag dat Nederland meer samenwerking en eventueel een (con-)federatie met de lidstaten BelgiÃ« en Luxemburg in de Benelux aangaat."
                 }
             }
         ],
@@ -11775,9 +11775,9 @@ export	let parties =[
             {
                 "id": 79658,
                 "position": "agree",
-                "explanation": "Landen die ons niet willen helpen met het oplossen van onze migratieproblemen, verdienen ook onze financiële steun niet. BBB gaat uit van wederkerigheid. ",
+                "explanation": "Landen die ons niet willen helpen met het oplossen van onze migratieproblemen, verdienen ook onze financiÃ«le steun niet. BBB gaat uit van wederkerigheid. ",
                 "accessibility": {
-                    "explanation": "Landen die ons niet willen helpen met het oplossen van onze migratieproblemen, verdienen ook onze financiële steun niet. BBB gaat uit van wederkerigheid."
+                    "explanation": "Landen die ons niet willen helpen met het oplossen van onze migratieproblemen, verdienen ook onze financiÃ«le steun niet. BBB gaat uit van wederkerigheid."
                 }
             },
             {
@@ -11799,25 +11799,25 @@ export	let parties =[
             {
                 "id": 79596,
                 "position": "agree",
-                "explanation": "BBB streeft naar een hoger minimumloon, rekening houdend met inflatie en levenskosten, om bestaanszekerheid te waarborgen. Een stijging naar ¬16 binnen drie jaar sluit aan bij de ambitie om werknemers een eerlijk en leefbaar loon te bieden.",
+                "explanation": "BBB streeft naar een hoger minimumloon, rekening houdend met inflatie en levenskosten, om bestaanszekerheid te waarborgen. Een stijging naar â‚¬16 binnen drie jaar sluit aan bij de ambitie om werknemers een eerlijk en leefbaar loon te bieden.",
                 "accessibility": {
-                    "explanation": "BBB streeft naar een hoger minimumloon, rekening houdend met inflatie en levenskosten, om bestaanszekerheid te waarborgen. Een stijging naar ¬16 binnen drie jaar sluit aan bij de ambitie om werknemers een eerlijk en leefbaar loon te bieden."
+                    "explanation": "BBB streeft naar een hoger minimumloon, rekening houdend met inflatie en levenskosten, om bestaanszekerheid te waarborgen. Een stijging naar â‚¬16 binnen drie jaar sluit aan bij de ambitie om werknemers een eerlijk en leefbaar loon te bieden."
                 }
             },
             {
                 "id": 79613,
                 "position": "agree",
-                "explanation": "Het is essentieel dat we zorgvuldig en weloverwogen omgaan met gezinshereniging. Het huidige beleid kan leiden tot ongewenste 'stapeling' van gezinsherenigingsprocedures. Terwijl we het belang van gezinshereniging erkennen, is het van belang dat we balans en beheersbaarheid behouden in ons asielbeleid. Dat betekent dat de huidige 10.915 gezinshereniging per jaar onacceptabel veel zijn.\r\n",
+                "explanation": "Het is essentieel dat we zorgvuldig en weloverwogen omgaan met gezinshereniging. Het huidige beleid kan leiden tot ongewenste 'stapeling' van gezinsherenigingsprocedures. Terwijl we het belang van gezinshereniging erkennen, is het van belang dat we balans en beheersbaarheid behouden in ons asielbeleid. Dat betekent dat de huidige 10.915 gezinshereniging per jaar onacceptabelÂ veelÂ zijn.\r\n",
                 "accessibility": {
-                    "explanation": "Het is essentieel dat we zorgvuldig en weloverwogen omgaan met gezinshereniging. Het huidige beleid kan leiden tot ongewenste 'stapeling' van gezinsherenigingsprocedures. Terwijl we het belang van gezinshereniging erkennen, is het van belang dat we balans en beheersbaarheid behouden in ons asielbeleid. Dat betekent dat de huidige 10.915 gezinshereniging per jaar onacceptabel veel zijn."
+                    "explanation": "Het is essentieel dat we zorgvuldig en weloverwogen omgaan met gezinshereniging. Het huidige beleid kan leiden tot ongewenste 'stapeling' van gezinsherenigingsprocedures. Terwijl we het belang van gezinshereniging erkennen, is het van belang dat we balans en beheersbaarheid behouden in ons asielbeleid. Dat betekent dat de huidige 10.915 gezinshereniging per jaar onacceptabelÂ veelÂ zijn."
                 }
             },
             {
                 "id": 79629,
                 "position": "agree",
-                "explanation": "BBB erkent de financiële last van hoge brandstofprijzen voor burgers en ondernemers. Door de accijnzen te verlagen, wordt mobiliteit toegankelijker en wordt economische activiteit in alle regios gestimuleerd, met bijzondere aandacht voor de agrarische en transport sector.",
+                "explanation": "BBB erkent de financiÃ«le last van hoge brandstofprijzen voor burgers en ondernemers. Door de accijnzen te verlagen, wordt mobiliteit toegankelijker en wordt economische activiteit in alle regioâ€™s gestimuleerd, met bijzondere aandacht voor de agrarische en transport sector.",
                 "accessibility": {
-                    "explanation": "BBB erkent de financiële last van hoge brandstofprijzen voor burgers en ondernemers. Door de accijnzen te verlagen, wordt mobiliteit toegankelijker en wordt economische activiteit in alle regios gestimuleerd, met bijzondere aandacht voor de agrarische en transport sector."
+                    "explanation": "BBB erkent de financiÃ«le last van hoge brandstofprijzen voor burgers en ondernemers. Door de accijnzen te verlagen, wordt mobiliteit toegankelijker en wordt economische activiteit in alle regioâ€™s gestimuleerd, met bijzondere aandacht voor de agrarische en transport sector."
                 }
             },
             {
@@ -11855,9 +11855,9 @@ export	let parties =[
             {
                 "id": 79599,
                 "position": "agree",
-                "explanation": "BBB wil de kostendelersnorm afschaffen omdat deze regel belemmerend werkt voor samenwoning en daarmee, vaak onbedoeld, financiële problemen kan veroorzaken voor individuen die kosten willen delen door samen te wonen.\r\n\r\n",
+                "explanation": "BBB wil de kostendelersnorm afschaffen omdat deze regel belemmerend werkt voor samenwoning en daarmee, vaak onbedoeld, financiÃ«le problemen kan veroorzaken voor individuen die kosten willen delen door samen te wonen.\r\n\r\n",
                 "accessibility": {
-                    "explanation": "BBB wil de kostendelersnorm afschaffen omdat deze regel belemmerend werkt voor samenwoning en daarmee, vaak onbedoeld, financiële problemen kan veroorzaken voor individuen die kosten willen delen door samen te wonen."
+                    "explanation": "BBB wil de kostendelersnorm afschaffen omdat deze regel belemmerend werkt voor samenwoning en daarmee, vaak onbedoeld, financiÃ«le problemen kan veroorzaken voor individuen die kosten willen delen door samen te wonen."
                 }
             },
             {
@@ -11927,9 +11927,9 @@ export	let parties =[
             {
                 "id": 79652,
                 "position": "neither",
-                "explanation": "BBB benadrukt de noodzaak van zorgvuldigheid bij levensbeëindiging en ziet belang in investeren in expertisecentra voor levenseinde-kennis voor artsen. Bij ons is medisch-ethische besluitvorming individueel bepaald per Kamerlid, respecterend persoonlijke levensvisies en overtuigingen.",
+                "explanation": "BBB benadrukt de noodzaak van zorgvuldigheid bij levensbeÃ«indiging en ziet belang in investeren in expertisecentra voor levenseinde-kennis voor artsen. Bij ons is medisch-ethische besluitvorming individueel bepaald per Kamerlid, respecterend persoonlijke levensvisies en overtuigingen.",
                 "accessibility": {
-                    "explanation": "BBB benadrukt de noodzaak van zorgvuldigheid bij levensbeëindiging en ziet belang in investeren in expertisecentra voor levenseinde-kennis voor artsen. Bij ons is medisch-ethische besluitvorming individueel bepaald per Kamerlid, respecterend persoonlijke levensvisies en overtuigingen."
+                    "explanation": "BBB benadrukt de noodzaak van zorgvuldigheid bij levensbeÃ«indiging en ziet belang in investeren in expertisecentra voor levenseinde-kennis voor artsen. Bij ons is medisch-ethische besluitvorming individueel bepaald per Kamerlid, respecterend persoonlijke levensvisies en overtuigingen."
                 }
             },
             {
@@ -11951,9 +11951,9 @@ export	let parties =[
             {
                 "id": 79622,
                 "position": "agree",
-                "explanation": "Het recht om sociale huurwoningen te kopen bevordert eigendom en kan financiële mobiliteit voor huurders stimuleren. Dit concept geeft kansen op vermogensopbouw en woonzekerheid. Echter, waarborgen zijn nodig om de beschikbaarheid van betaalbare huurwoningen voor toekomstige huurders te garanderen en speculatie te voorkomen.",
+                "explanation": "Het recht om sociale huurwoningen te kopen bevordert eigendom en kan financiÃ«le mobiliteit voor huurders stimuleren. Dit concept geeft kansen op vermogensopbouw en woonzekerheid. Echter, waarborgen zijn nodig om de beschikbaarheid van betaalbare huurwoningen voor toekomstige huurders te garanderen en speculatie te voorkomen.",
                 "accessibility": {
-                    "explanation": "Het recht om sociale huurwoningen te kopen bevordert eigendom en kan financiële mobiliteit voor huurders stimuleren. Dit concept geeft kansen op vermogensopbouw en woonzekerheid. Echter, waarborgen zijn nodig om de beschikbaarheid van betaalbare huurwoningen voor toekomstige huurders te garanderen en speculatie te voorkomen."
+                    "explanation": "Het recht om sociale huurwoningen te kopen bevordert eigendom en kan financiÃ«le mobiliteit voor huurders stimuleren. Dit concept geeft kansen op vermogensopbouw en woonzekerheid. Echter, waarborgen zijn nodig om de beschikbaarheid van betaalbare huurwoningen voor toekomstige huurders te garanderen en speculatie te voorkomen."
                 }
             },
             {
@@ -11983,17 +11983,17 @@ export	let parties =[
             {
                 "id": 79640,
                 "position": "disagree",
-                "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiële diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland.",
+                "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiÃ«le diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland.",
                 "accessibility": {
-                    "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiële diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland."
+                    "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiÃ«le diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland."
                 }
             },
             {
                 "id": 79609,
                 "position": "disagree",
-                "explanation": "BBB erkent het belang van cultuuronderwijs maar gelooft niet dat het noodzakelijk is om hier meer overheidsmiddelen aan te besteden. Stimuleren kan ook zonder extra financiële impuls, door bijvoorbeeld bestaande middelen effectiever in te zetten of partnerschappen aan te gaan",
+                "explanation": "BBB erkent het belang van cultuuronderwijs maar gelooft niet dat het noodzakelijk is om hier meer overheidsmiddelen aan te besteden. Stimuleren kan ook zonder extra financiÃ«le impuls, door bijvoorbeeld bestaande middelen effectiever in te zetten of partnerschappen aan te gaan",
                 "accessibility": {
-                    "explanation": "BBB erkent het belang van cultuuronderwijs maar gelooft niet dat het noodzakelijk is om hier meer overheidsmiddelen aan te besteden. Stimuleren kan ook zonder extra financiële impuls, door bijvoorbeeld bestaande middelen effectiever in te zetten of partnerschappen aan te gaan"
+                    "explanation": "BBB erkent het belang van cultuuronderwijs maar gelooft niet dat het noodzakelijk is om hier meer overheidsmiddelen aan te besteden. Stimuleren kan ook zonder extra financiÃ«le impuls, door bijvoorbeeld bestaande middelen effectiever in te zetten of partnerschappen aan te gaan"
                 }
             }
         ],
@@ -12001,9 +12001,9 @@ export	let parties =[
             {
                 "id": 79610,
                 "position": "agree",
-                "explanation": "BBB is het eens met de stelling om een minimale stagevergoeding van ¬500 voor studenten om hun inzet en bijdrage.",
+                "explanation": "BBB is het eens met de stelling om een minimale stagevergoeding van â‚¬500 voor studenten om hun inzet en bijdrage.",
                 "accessibility": {
-                    "explanation": "BBB is het eens met de stelling om een minimale stagevergoeding van ¬500 voor studenten om hun inzet en bijdrage."
+                    "explanation": "BBB is het eens met de stelling om een minimale stagevergoeding van â‚¬500 voor studenten om hun inzet en bijdrage."
                 }
             },
             {
@@ -12017,9 +12017,9 @@ export	let parties =[
             {
                 "id": 79642,
                 "position": "agree",
-                "explanation": "BBB wil het aantal kleine natuurgebieden beperken omdat de huidige kleine Natura2000-zones te weinig robuust zijn en beperkingen en druk op omliggende regios geven. Een herziening met behoud van het totaal aan natuur is nodig voor gebalanceerd natuur- en ondernemingsbeleid.",
+                "explanation": "BBB wil het aantal kleine natuurgebieden beperken omdat de huidige kleine Natura2000-zones te weinig robuust zijn en beperkingen en druk op omliggende regioâ€™s geven. Een herziening met behoud van het totaal aan natuur is nodig voor gebalanceerd natuur- en ondernemingsbeleid.",
                 "accessibility": {
-                    "explanation": "BBB wil het aantal kleine natuurgebieden beperken omdat de huidige kleine Natura2000-zones te weinig robuust zijn en beperkingen en druk op omliggende regios geven. Een herziening met behoud van het totaal aan natuur is nodig voor gebalanceerd natuur- en ondernemingsbeleid."
+                    "explanation": "BBB wil het aantal kleine natuurgebieden beperken omdat de huidige kleine Natura2000-zones te weinig robuust zijn en beperkingen en druk op omliggende regioâ€™s geven. Een herziening met behoud van het totaal aan natuur is nodig voor gebalanceerd natuur- en ondernemingsbeleid."
                 }
             },
             {
@@ -12065,9 +12065,9 @@ export	let parties =[
             {
                 "id": 79612,
                 "position": "agree",
-                "explanation": "AI biedt ontzettend veel kansen maar ook risicos. Transparantie staat bij deze dan ook altijd voorop. Het maken van zogenaamde deep fakes zonder voorafgaande toestemming zowel op visueel als op audiogebied is een groot probleem en strafbaar. ",
+                "explanation": "AI biedt ontzettend veel kansen maar ook risicoâ€™s. Transparantie staat bij deze dan ook altijd voorop. Het maken van zogenaamde deep fakes zonder voorafgaande toestemming zowel op visueel als op audiogebied is een groot probleem en strafbaar. ",
                 "accessibility": {
-                    "explanation": "AI biedt ontzettend veel kansen maar ook risicos. Transparantie staat bij deze dan ook altijd voorop. Het maken van zogenaamde deep fakes zonder voorafgaande toestemming zowel op visueel als op audiogebied is een groot probleem en strafbaar."
+                    "explanation": "AI biedt ontzettend veel kansen maar ook risicoâ€™s. Transparantie staat bij deze dan ook altijd voorop. Het maken van zogenaamde deep fakes zonder voorafgaande toestemming zowel op visueel als op audiogebied is een groot probleem en strafbaar."
                 }
             },
             {
@@ -12121,9 +12121,9 @@ export	let parties =[
             {
                 "id": 79598,
                 "position": "disagree",
-                "explanation": "BBB stelt dat de koppeling tussen het minimumloon en de AOW essentieel is om te zorgen dat ouderen, die een significant deel van hun leven hebben bijgedragen aan de maatschappij en economie, niet achterblijven in hun financiële welzijn wanneer de lonen stijgen.",
+                "explanation": "BBB stelt dat de koppeling tussen het minimumloon en de AOW essentieel is om te zorgen dat ouderen, die een significant deel van hun leven hebben bijgedragen aan de maatschappij en economie, niet achterblijven in hun financiÃ«le welzijn wanneer de lonen stijgen.",
                 "accessibility": {
-                    "explanation": "BBB stelt dat de koppeling tussen het minimumloon en de AOW essentieel is om te zorgen dat ouderen, die een significant deel van hun leven hebben bijgedragen aan de maatschappij en economie, niet achterblijven in hun financiële welzijn wanneer de lonen stijgen."
+                    "explanation": "BBB stelt dat de koppeling tussen het minimumloon en de AOW essentieel is om te zorgen dat ouderen, die een significant deel van hun leven hebben bijgedragen aan de maatschappij en economie, niet achterblijven in hun financiÃ«le welzijn wanneer de lonen stijgen."
                 }
             },
             {
@@ -12137,9 +12137,9 @@ export	let parties =[
             {
                 "id": 79646,
                 "position": "disagree",
-                "explanation": "Olie wordt ook gebruikt als grondstof voor bijvoorbeeld plastics en is daarom logischerwijze vrijgesteld van energiebelasting. BBB begrijpt dat bedrijven soms sterk afhankelijk zijn van energie-intensieve processen. De focus zou moeten liggen op het stimuleren van energie-efficiënte en duurzame praktijken, niet per se op het verhogen van belastingen.",
+                "explanation": "Olie wordt ook gebruikt als grondstof voor bijvoorbeeld plastics en is daarom logischerwijze vrijgesteld van energiebelasting. BBB begrijpt dat bedrijven soms sterk afhankelijk zijn van energie-intensieve processen. De focus zou moeten liggen op het stimuleren van energie-efficiÃ«nte en duurzame praktijken, niet per se op het verhogen van belastingen.",
                 "accessibility": {
-                    "explanation": "Olie wordt ook gebruikt als grondstof voor bijvoorbeeld plastics en is daarom logischerwijze vrijgesteld van energiebelasting. BBB begrijpt dat bedrijven soms sterk afhankelijk zijn van energie-intensieve processen. De focus zou moeten liggen op het stimuleren van energie-efficiënte en duurzame praktijken, niet per se op het verhogen van belastingen."
+                    "explanation": "Olie wordt ook gebruikt als grondstof voor bijvoorbeeld plastics en is daarom logischerwijze vrijgesteld van energiebelasting. BBB begrijpt dat bedrijven soms sterk afhankelijk zijn van energie-intensieve processen. De focus zou moeten liggen op het stimuleren van energie-efficiÃ«nte en duurzame praktijken, niet per se op het verhogen van belastingen."
                 }
             },
             {
@@ -12185,9 +12185,9 @@ export	let parties =[
             {
                 "id": 79584,
                 "position": "disagree",
-                "explanation": "Onze online en offline wereld zijn steeds meer geïntegreerd. Er is geen reden om sociale media niet in te zetten om Nederland veilig te houden. \r\n\r\n",
+                "explanation": "Onze online en offline wereld zijn steeds meer geÃ¯ntegreerd. Er is geen reden om sociale media niet in te zetten om Nederland veilig te houden. \r\n\r\n",
                 "accessibility": {
-                    "explanation": "Onze online en offline wereld zijn steeds meer geïntegreerd. Er is geen reden om sociale media niet in te zetten om Nederland veilig te houden."
+                    "explanation": "Onze online en offline wereld zijn steeds meer geÃ¯ntegreerd. Er is geen reden om sociale media niet in te zetten om Nederland veilig te houden."
                 }
             },
             {
@@ -12233,9 +12233,9 @@ export	let parties =[
             {
                 "id": 79633,
                 "position": "disagree",
-                "explanation": "BBB ziet de waarde in betaalbaar OV maar is bezorgd om de financiële haalbaarheid en impact op de kwaliteit van het OV.",
+                "explanation": "BBB ziet de waarde in betaalbaar OV maar is bezorgd om de financiÃ«le haalbaarheid en impact op de kwaliteit van het OV.",
                 "accessibility": {
-                    "explanation": "BBB ziet de waarde in betaalbaar OV maar is bezorgd om de financiële haalbaarheid en impact op de kwaliteit van het OV."
+                    "explanation": "BBB ziet de waarde in betaalbaar OV maar is bezorgd om de financiÃ«le haalbaarheid en impact op de kwaliteit van het OV."
                 }
             },
             {
@@ -12297,9 +12297,9 @@ export	let parties =[
             {
                 "id": 79635,
                 "position": "agree",
-                "explanation": "BBB wil klimaatbeleid met gezond verstand. \r\nBBB wil klimaatbeleid met gezond verstand. \r\nEuropa heeft een ambitieuzere klimaatdoelstelling geformuleerd (< 1,5 graden) dan het Parijs akkoord (< 2 graden stijging) met als gevolg dat de Nederlandse samenleving voor een enorme opgave staat.  ",
+                "explanation": "BBB wil klimaatbeleid met gezond verstand. \r\nBBB wil klimaatbeleid met gezond verstand. \r\nEuropa heeft een ambitieuzere klimaatdoelstelling geformuleerd (< 1,5 graden) dan het â€˜Parijs akkoordâ€™ (< 2 graden stijging) met als gevolg dat de Nederlandse samenleving voor een enorme opgave staat.  ",
                 "accessibility": {
-                    "explanation": "BBB wil klimaatbeleid met gezond verstand. \r\nBBB wil klimaatbeleid met gezond verstand. \r\nEuropa heeft een ambitieuzere klimaatdoelstelling geformuleerd (< 1,5 graden) dan het Parijs akkoord (< 2 graden stijging) met als gevolg dat de Nederlandse samenleving voor een enorme opgave staat."
+                    "explanation": "BBB wil klimaatbeleid met gezond verstand. \r\nBBB wil klimaatbeleid met gezond verstand. \r\nEuropa heeft een ambitieuzere klimaatdoelstelling geformuleerd (< 1,5 graden) dan het â€˜Parijs akkoordâ€™ (< 2 graden stijging) met als gevolg dat de Nederlandse samenleving voor een enorme opgave staat."
                 }
             },
             {
@@ -12329,9 +12329,9 @@ export	let parties =[
             {
                 "id": 79620,
                 "position": "disagree",
-                "explanation": "BBB ziet het belang van betaalbare woningen, maar acht ook de vrije markt relevant voor ontwikkeling en beschikbaarheid van woningen. Daarnaast zijn er grote verschillen tussen woningprijzen in regios. Een maximale huurprijs kan ook leiden tot minder woningbouw. Een zorgvuldige benadering en afweging is noodzakelijk om tot een standpunt te komen.",
+                "explanation": "BBB ziet het belang van betaalbare woningen, maar acht ook de vrije markt relevant voor ontwikkeling en beschikbaarheid van woningen. Daarnaast zijn er grote verschillen tussen woningprijzen in regioâ€™s. Een maximale huurprijs kan ook leiden tot minder woningbouw. Een zorgvuldige benadering en afweging is noodzakelijk om tot een standpunt te komen.",
                 "accessibility": {
-                    "explanation": "BBB ziet het belang van betaalbare woningen, maar acht ook de vrije markt relevant voor ontwikkeling en beschikbaarheid van woningen. Daarnaast zijn er grote verschillen tussen woningprijzen in regios. Een maximale huurprijs kan ook leiden tot minder woningbouw. Een zorgvuldige benadering en afweging is noodzakelijk om tot een standpunt te komen."
+                    "explanation": "BBB ziet het belang van betaalbare woningen, maar acht ook de vrije markt relevant voor ontwikkeling en beschikbaarheid van woningen. Daarnaast zijn er grote verschillen tussen woningprijzen in regioâ€™s. Een maximale huurprijs kan ook leiden tot minder woningbouw. Een zorgvuldige benadering en afweging is noodzakelijk om tot een standpunt te komen."
                 }
             },
             {
@@ -12401,9 +12401,9 @@ export	let parties =[
             {
                 "id": 79575,
                 "position": "agree",
-                "explanation": "Snelle financiële ondersteuning is cruciaal voor degenen getroffen door gaswinningsschade in Groningen. Vooruitbetaling kan zorgen voor onmiddellijke verlichting en kan helpen bij het aanpakken van acute problemen, terwijl nalevingscontroles naderhand worden uitgevoerd.",
+                "explanation": "Snelle financiÃ«le ondersteuning is cruciaal voor degenen getroffen door gaswinningsschade in Groningen. Vooruitbetaling kan zorgen voor onmiddellijke verlichting en kan helpen bij het aanpakken van acute problemen, terwijl nalevingscontroles naderhand worden uitgevoerd.",
                 "accessibility": {
-                    "explanation": "Snelle financiële ondersteuning is cruciaal voor degenen getroffen door gaswinningsschade in Groningen. Vooruitbetaling kan zorgen voor onmiddellijke verlichting en kan helpen bij het aanpakken van acute problemen, terwijl nalevingscontroles naderhand worden uitgevoerd."
+                    "explanation": "Snelle financiÃ«le ondersteuning is cruciaal voor degenen getroffen door gaswinningsschade in Groningen. Vooruitbetaling kan zorgen voor onmiddellijke verlichting en kan helpen bij het aanpakken van acute problemen, terwijl nalevingscontroles naderhand worden uitgevoerd."
                 }
             },
             {
@@ -12417,9 +12417,9 @@ export	let parties =[
             {
                 "id": 79607,
                 "position": "disagree",
-                "explanation": "Verhoging van belasting op cultuurkaartjes verhoogt de drempel voor toegang tot cultuur en kan sectoren die al onder druk staan verder belasten. BBB wil cultuur toegankelijk houden voor een breed publiek zonder financiële barrières te verhogen.",
+                "explanation": "Verhoging van belasting op cultuurkaartjes verhoogt de drempel voor toegang tot cultuur en kan sectoren die al onder druk staan verder belasten. BBB wil cultuur toegankelijk houden voor een breed publiek zonder financiÃ«le barriÃ¨res te verhogen.",
                 "accessibility": {
-                    "explanation": "Verhoging van belasting op cultuurkaartjes verhoogt de drempel voor toegang tot cultuur en kan sectoren die al onder druk staan verder belasten. BBB wil cultuur toegankelijk houden voor een breed publiek zonder financiële barrières te verhogen."
+                    "explanation": "Verhoging van belasting op cultuurkaartjes verhoogt de drempel voor toegang tot cultuur en kan sectoren die al onder druk staan verder belasten. BBB wil cultuur toegankelijk houden voor een breed publiek zonder financiÃ«le barriÃ¨res te verhogen."
                 }
             },
             {
@@ -12441,9 +12441,9 @@ export	let parties =[
             {
                 "id": 79592,
                 "position": "disagree",
-                "explanation": "Het gas in de Noordzee maar ook het niet afschakelen van de laatste kolencentrales die we hebben (op Europees niveau nog steeds zeer moderne en efficiënte centrales) totdat we alternatieven hebben moet noodgevallen het hoofd bieden. \r\n\r\n",
+                "explanation": "Het gas in de Noordzee maar ook het niet afschakelen van de laatste kolencentrales die we hebben (op Europees niveau nog steeds zeer moderne en efficiÃ«nte centrales) totdat we alternatieven hebben moet noodgevallen het hoofd bieden. \r\n\r\n",
                 "accessibility": {
-                    "explanation": "Het gas in de Noordzee maar ook het niet afschakelen van de laatste kolencentrales die we hebben (op Europees niveau nog steeds zeer moderne en efficiënte centrales) totdat we alternatieven hebben moet noodgevallen het hoofd bieden."
+                    "explanation": "Het gas in de Noordzee maar ook het niet afschakelen van de laatste kolencentrales die we hebben (op Europees niveau nog steeds zeer moderne en efficiÃ«nte centrales) totdat we alternatieven hebben moet noodgevallen het hoofd bieden."
                 }
             },
             {
@@ -12526,9 +12526,9 @@ export	let parties =[
             {
                 "id": 79578,
                 "position": "disagree",
-                "explanation": "BIJ1 strijdt voor een zorgzame samenleving. Ons huidige systeem is een systeem dat misdaad niet voorkomt, maar eerder creëert met een cultuur van bestraffing en geweld. Ons is wijsgemaakt dat het opsluiten en bestraffen van mensen veiligheid creëert, maar veiligheid komt niet voort vanuit geweld.",
+                "explanation": "BIJ1 strijdt voor een zorgzame samenleving. Ons huidige systeem is een systeem dat misdaad niet voorkomt, maar eerder creÃ«ert met een cultuur van bestraffing en geweld. Ons is wijsgemaakt dat het opsluiten en bestraffen van mensen veiligheid creÃ«ert, maar veiligheid komt niet voort vanuit geweld.",
                 "accessibility": {
-                    "explanation": "BIJ1 strijdt voor een zorgzame samenleving. Ons huidige systeem is een systeem dat misdaad niet voorkomt, maar eerder creëert met een cultuur van bestraffing en geweld. Ons is wijsgemaakt dat het opsluiten en bestraffen van mensen veiligheid creëert, maar veiligheid komt niet voort vanuit geweld."
+                    "explanation": "BIJ1 strijdt voor een zorgzame samenleving. Ons huidige systeem is een systeem dat misdaad niet voorkomt, maar eerder creÃ«ert met een cultuur van bestraffing en geweld. Ons is wijsgemaakt dat het opsluiten en bestraffen van mensen veiligheid creÃ«ert, maar veiligheid komt niet voort vanuit geweld."
                 }
             },
             {
@@ -12558,9 +12558,9 @@ export	let parties =[
             {
                 "id": 79627,
                 "position": "disagree",
-                "explanation": "Er komt BTW en accijns op kerosine, en we zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniën worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd. ",
+                "explanation": "Er komt BTW en accijns op kerosine, en we zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniÃ«n worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd. ",
                 "accessibility": {
-                    "explanation": "Er komt BTW en accijns op kerosine, en we zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniën worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd."
+                    "explanation": "Er komt BTW en accijns op kerosine, en we zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniÃ«n worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd."
                 }
             },
             {
@@ -12574,9 +12574,9 @@ export	let parties =[
             {
                 "id": 79613,
                 "position": "disagree",
-                "explanation": "De criteria voor familiehereniging moeten versoepeld. De criteria voor EU-burgers worden ook toegepast op mensen van buiten de EU. Extra ruime mogelijkheden voor vluchtelingen blijven. Ook niet-traditionele families, zoals LHBTQIA+ families en banden buiten het kerngezin', komen in aanmerking.",
+                "explanation": "De criteria voor familiehereniging moeten versoepeld. De criteria voor EU-burgers worden ook toegepast op mensen van buiten de EU. Extra ruime mogelijkheden voor vluchtelingen blijven. Ook niet-traditionele families, zoals LHBTQIA+ families en banden buiten het â€˜kerngezin', komen in aanmerking.",
                 "accessibility": {
-                    "explanation": "De criteria voor familiehereniging moeten versoepeld. De criteria voor EU-burgers worden ook toegepast op mensen van buiten de EU. Extra ruime mogelijkheden voor vluchtelingen blijven. Ook niet-traditionele families, zoals LHBTQIA+ families en banden buiten het kerngezin', komen in aanmerking."
+                    "explanation": "De criteria voor familiehereniging moeten versoepeld. De criteria voor EU-burgers worden ook toegepast op mensen van buiten de EU. Extra ruime mogelijkheden voor vluchtelingen blijven. Ook niet-traditionele families, zoals LHBTQIA+ families en banden buiten het â€˜kerngezin', komen in aanmerking."
                 }
             },
             {
@@ -12590,9 +12590,9 @@ export	let parties =[
             {
                 "id": 79661,
                 "position": "disagree",
-                "explanation": "Wij vinden niet dat de regering zich moet verzetten tegen uitbreiding van de EU. Wel moet bij de toetsing van toelatingscriteria de focus liggen op het naleven van mensenrechten in plaats van het hebben van het juiste economisch beleid. ",
+                "explanation": "Wij vinden niet dat de regering zich moet verzetten tegen uitbreiding van de EU. Wel moet bij de toetsing van toelatingscriteria de focus liggen op het naleven van mensenrechten in plaats van het hebben van het â€˜juisteâ€™ economisch beleid. ",
                 "accessibility": {
-                    "explanation": "Wij vinden niet dat de regering zich moet verzetten tegen uitbreiding van de EU. Wel moet bij de toetsing van toelatingscriteria de focus liggen op het naleven van mensenrechten in plaats van het hebben van het juiste economisch beleid."
+                    "explanation": "Wij vinden niet dat de regering zich moet verzetten tegen uitbreiding van de EU. Wel moet bij de toetsing van toelatingscriteria de focus liggen op het naleven van mensenrechten in plaats van het hebben van het â€˜juisteâ€™ economisch beleid."
                 }
             },
             {
@@ -12694,9 +12694,9 @@ export	let parties =[
             {
                 "id": 79652,
                 "position": "agree",
-                "explanation": "Mensen die hun leven als voltooid ervaren, moeten de vrijheid hebben een weloverwogen en vrijwillige keuze te maken om hun leven op een waardige manier te beëindigen.",
+                "explanation": "Mensen die hun leven als voltooid ervaren, moeten de vrijheid hebben een weloverwogen en vrijwillige keuze te maken om hun leven op een waardige manier te beÃ«indigen.",
                 "accessibility": {
-                    "explanation": "Mensen die hun leven als voltooid ervaren, moeten de vrijheid hebben een weloverwogen en vrijwillige keuze te maken om hun leven op een waardige manier te beëindigen."
+                    "explanation": "Mensen die hun leven als voltooid ervaren, moeten de vrijheid hebben een weloverwogen en vrijwillige keuze te maken om hun leven op een waardige manier te beÃ«indigen."
                 }
             },
             {
@@ -12742,9 +12742,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "agree",
-                "explanation": "Elektrische autos zijn momenteel een luxe die niet voor iedereen toegankelijk is, ook met subsidie.  BIJ1 zet zich voorlopig liever in op gratis en toegankelijk OV. ",
+                "explanation": "Elektrische autoâ€™s zijn momenteel een luxe die niet voor iedereen toegankelijk is, ook met subsidie.  BIJ1 zet zich voorlopig liever in op gratis en toegankelijk OV. ",
                 "accessibility": {
-                    "explanation": "Elektrische autos zijn momenteel een luxe die niet voor iedereen toegankelijk is, ook met subsidie.  BIJ1 zet zich voorlopig liever in op gratis en toegankelijk OV."
+                    "explanation": "Elektrische autoâ€™s zijn momenteel een luxe die niet voor iedereen toegankelijk is, ook met subsidie.  BIJ1 zet zich voorlopig liever in op gratis en toegankelijk OV."
                 }
             },
             {
@@ -12776,9 +12776,9 @@ export	let parties =[
             {
                 "id": 79626,
                 "position": "disagree",
-                "explanation": "Vliegvelden mogen niet verder uitbreiden. We zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniën worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd. ",
+                "explanation": "Vliegvelden mogen niet verder uitbreiden. We zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniÃ«n worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd. ",
                 "accessibility": {
-                    "explanation": "Vliegvelden mogen niet verder uitbreiden. We zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniën worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd."
+                    "explanation": "Vliegvelden mogen niet verder uitbreiden. We zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniÃ«n worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd."
                 }
             },
             {
@@ -12808,9 +12808,9 @@ export	let parties =[
             {
                 "id": 79643,
                 "position": "agree",
-                "explanation": "Subsidies op (de productie van) fossiele brandstoffen en financiële steun aan de fossiele industrie worden zo snel mogelijk beëindigd. Als niet gisteren, dan morgen.",
+                "explanation": "Subsidies op (de productie van) fossiele brandstoffen en financiÃ«le steun aan de fossiele industrie worden zo snel mogelijk beÃ«indigd. Als niet gisteren, dan morgen.",
                 "accessibility": {
-                    "explanation": "Subsidies op (de productie van) fossiele brandstoffen en financiële steun aan de fossiele industrie worden zo snel mogelijk beëindigd. Als niet gisteren, dan morgen."
+                    "explanation": "Subsidies op (de productie van) fossiele brandstoffen en financiÃ«le steun aan de fossiele industrie worden zo snel mogelijk beÃ«indigd. Als niet gisteren, dan morgen."
                 }
             },
             {
@@ -12872,9 +12872,9 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "agree",
-                "explanation": "BIJ1 is voor een verplichte verzekering voor ZZPers zo lang deze betaalbaar is en voldoende proportioneel naar inkomen. Ook moeten ZZPers deze verzekering zelf kunnen inrichten met bijvoorbeeld een Broodfonds. ",
+                "explanation": "BIJ1 is voor een verplichte verzekering voor ZZPâ€™ers zo lang deze betaalbaar is en voldoende proportioneel naar inkomen. Ook moeten ZZPâ€™ers deze verzekering zelf kunnen inrichten met bijvoorbeeld een Broodfonds. ",
                 "accessibility": {
-                    "explanation": "BIJ1 is voor een verplichte verzekering voor ZZPers zo lang deze betaalbaar is en voldoende proportioneel naar inkomen. Ook moeten ZZPers deze verzekering zelf kunnen inrichten met bijvoorbeeld een Broodfonds."
+                    "explanation": "BIJ1 is voor een verplichte verzekering voor ZZPâ€™ers zo lang deze betaalbaar is en voldoende proportioneel naar inkomen. Ook moeten ZZPâ€™ers deze verzekering zelf kunnen inrichten met bijvoorbeeld een Broodfonds."
                 }
             },
             {
@@ -12896,9 +12896,9 @@ export	let parties =[
             {
                 "id": 79630,
                 "position": "disagree",
-                "explanation": "Door een hogere maximumsnelheid stoten autos meer vervuilende stoffen uit die invloed hebben op de luchtkwaliteit. BIJ1 wil dit tegengaan. ",
+                "explanation": "Door een hogere maximumsnelheid stoten autoâ€™s meer vervuilende stoffen uit die invloed hebben op de luchtkwaliteit. BIJ1 wil dit tegengaan. ",
                 "accessibility": {
-                    "explanation": "Door een hogere maximumsnelheid stoten autos meer vervuilende stoffen uit die invloed hebben op de luchtkwaliteit. BIJ1 wil dit tegengaan."
+                    "explanation": "Door een hogere maximumsnelheid stoten autoâ€™s meer vervuilende stoffen uit die invloed hebben op de luchtkwaliteit. BIJ1 wil dit tegengaan."
                 }
             },
             {
@@ -12912,9 +12912,9 @@ export	let parties =[
             {
                 "id": 79583,
                 "position": "disagree",
-                "explanation": "Online en offline surveillance moet flink worden ingeperkt en in sommige gevallen verboden. Zo willen we het aantal cameras in de publieke\r\nruimte verminderen. Technologie die het mogelijk maakt om mensen op afstand te identificeren, zoals gezichtsherkenningstechnologie, wordt verboden.",
+                "explanation": "Online en offline surveillance moet flink worden ingeperkt en in sommige gevallen verboden. Zo willen we het aantal cameraâ€™s in de publieke\r\nruimte verminderen. Technologie die het mogelijk maakt om mensen op afstand te identificeren, zoals gezichtsherkenningstechnologie, wordt verboden.",
                 "accessibility": {
-                    "explanation": "Online en offline surveillance moet flink worden ingeperkt en in sommige gevallen verboden. Zo willen we het aantal cameras in de publieke\r\nruimte verminderen. Technologie die het mogelijk maakt om mensen op afstand te identificeren, zoals gezichtsherkenningstechnologie, wordt verboden."
+                    "explanation": "Online en offline surveillance moet flink worden ingeperkt en in sommige gevallen verboden. Zo willen we het aantal cameraâ€™s in de publieke\r\nruimte verminderen. Technologie die het mogelijk maakt om mensen op afstand te identificeren, zoals gezichtsherkenningstechnologie, wordt verboden."
                 }
             },
             {
@@ -12976,9 +12976,9 @@ export	let parties =[
             {
                 "id": 79664,
                 "position": "disagree",
-                "explanation": "Er mogen nergens kernwapens staan. BIJ1 is voor een kernwapenvrije wereld. Nederland ondertekent het verbodsverdrag voor kernwapens en toont zich ambassadeur van deze verdragen. Financiële instellingen en bedrijven mogen niet langer meer investeren in nucleaire wapens.",
+                "explanation": "Er mogen nergens kernwapens staan. BIJ1 is voor een kernwapenvrije wereld. Nederland ondertekent het verbodsverdrag voor kernwapens en toont zich ambassadeur van deze verdragen. FinanciÃ«le instellingen en bedrijven mogen niet langer meer investeren in nucleaire wapens.",
                 "accessibility": {
-                    "explanation": "Er mogen nergens kernwapens staan. BIJ1 is voor een kernwapenvrije wereld. Nederland ondertekent het verbodsverdrag voor kernwapens en toont zich ambassadeur van deze verdragen. Financiële instellingen en bedrijven mogen niet langer meer investeren in nucleaire wapens."
+                    "explanation": "Er mogen nergens kernwapens staan. BIJ1 is voor een kernwapenvrije wereld. Nederland ondertekent het verbodsverdrag voor kernwapens en toont zich ambassadeur van deze verdragen. FinanciÃ«le instellingen en bedrijven mogen niet langer meer investeren in nucleaire wapens."
                 }
             },
             {
@@ -13064,9 +13064,9 @@ export	let parties =[
             {
                 "id": 79635,
                 "position": "disagree",
-                "explanation": "We leven in een klimaatcrisis. Wat BIJ1 betreft is het daarom noodzaak om klimaat en natuur een nog belangrijkere plek in EU-beleid te geven. De regels op het gebied van klimaat moeten strenger. Lobbyen door multinationals en industrieën wordt verboden. ",
+                "explanation": "We leven in een klimaatcrisis. Wat BIJ1 betreft is het daarom noodzaak om klimaat en natuur een nog belangrijkere plek in EU-beleid te geven. De regels op het gebied van klimaat moeten strenger. Lobbyen door multinationals en industrieÃ«n wordt verboden. ",
                 "accessibility": {
-                    "explanation": "We leven in een klimaatcrisis. Wat BIJ1 betreft is het daarom noodzaak om klimaat en natuur een nog belangrijkere plek in EU-beleid te geven. De regels op het gebied van klimaat moeten strenger. Lobbyen door multinationals en industrieën wordt verboden."
+                    "explanation": "We leven in een klimaatcrisis. Wat BIJ1 betreft is het daarom noodzaak om klimaat en natuur een nog belangrijkere plek in EU-beleid te geven. De regels op het gebied van klimaat moeten strenger. Lobbyen door multinationals en industrieÃ«n wordt verboden."
                 }
             },
             {
@@ -13120,9 +13120,9 @@ export	let parties =[
             {
                 "id": 79605,
                 "position": "disagree",
-                "explanation": "Scholen moeten verantwoordelijkheid nemen om een veilige leeromgeving te creëren voor Zwarte, niet-witte, religieuze en queer leerlingen. BIJ1 wil dat er beleid wordt gevormd om discriminatie binnen onderwijsinstellingen tegen te gaan, ook tijdens de selectie van studenten. ",
+                "explanation": "Scholen moeten verantwoordelijkheid nemen om een veilige leeromgeving te creÃ«ren voor Zwarte, niet-witte, religieuze en queer leerlingen. BIJ1 wil dat er beleid wordt gevormd om discriminatie binnen onderwijsinstellingen tegen te gaan, ook tijdens de selectie van studenten. ",
                 "accessibility": {
-                    "explanation": "Scholen moeten verantwoordelijkheid nemen om een veilige leeromgeving te creëren voor Zwarte, niet-witte, religieuze en queer leerlingen. BIJ1 wil dat er beleid wordt gevormd om discriminatie binnen onderwijsinstellingen tegen te gaan, ook tijdens de selectie van studenten."
+                    "explanation": "Scholen moeten verantwoordelijkheid nemen om een veilige leeromgeving te creÃ«ren voor Zwarte, niet-witte, religieuze en queer leerlingen. BIJ1 wil dat er beleid wordt gevormd om discriminatie binnen onderwijsinstellingen tegen te gaan, ook tijdens de selectie van studenten."
                 }
             },
             {
@@ -13144,9 +13144,9 @@ export	let parties =[
             {
                 "id": 79574,
                 "position": "agree",
-                "explanation": "1 juli (Keti Koti), 17 augustus (Dia di lucha pa libertat of Dia di Tula en de Onafhankelijkheidsdag van Indonesië), 10 oktober (opheffen van de Nederlandse Antillen), 25 november (Onafhankelijkheidsdag van Suriname), en 18 maart (Dia di Himno y Bandera) worden nationale feestdagen.",
+                "explanation": "1 juli (Keti Koti), 17 augustus (Dia di lucha pa libertat of Dia di Tula en de Onafhankelijkheidsdag van IndonesiÃ«), 10 oktober (opheffen van de Nederlandse Antillen), 25 november (Onafhankelijkheidsdag van Suriname), en 18 maart (Dia di Himno y Bandera) worden nationale feestdagen.",
                 "accessibility": {
-                    "explanation": "1 juli (Keti Koti), 17 augustus (Dia di lucha pa libertat of Dia di Tula en de Onafhankelijkheidsdag van Indonesië), 10 oktober (opheffen van de Nederlandse Antillen), 25 november (Onafhankelijkheidsdag van Suriname), en 18 maart (Dia di Himno y Bandera) worden nationale feestdagen."
+                    "explanation": "1 juli (Keti Koti), 17 augustus (Dia di lucha pa libertat of Dia di Tula en de Onafhankelijkheidsdag van IndonesiÃ«), 10 oktober (opheffen van de Nederlandse Antillen), 25 november (Onafhankelijkheidsdag van Suriname), en 18 maart (Dia di Himno y Bandera) worden nationale feestdagen."
                 }
             },
             {
@@ -13208,17 +13208,17 @@ export	let parties =[
             {
                 "id": 79592,
                 "position": "disagree",
-                "explanation": "BIJ1 streeft naar de beëindiging van de gaswinning in Groningen en een volledige tegemoetkoming van slachtoffers. We moeten in zijn geheel stoppen met de gaswinning in Groningen en op zoek naar duurzame alternatieven. ",
+                "explanation": "BIJ1 streeft naar de beÃ«indiging van de gaswinning in Groningen en een volledige tegemoetkoming van slachtoffers. We moeten in zijn geheel stoppen met de gaswinning in Groningen en op zoek naar duurzame alternatieven. ",
                 "accessibility": {
-                    "explanation": "BIJ1 streeft naar de beëindiging van de gaswinning in Groningen en een volledige tegemoetkoming van slachtoffers. We moeten in zijn geheel stoppen met de gaswinning in Groningen en op zoek naar duurzame alternatieven."
+                    "explanation": "BIJ1 streeft naar de beÃ«indiging van de gaswinning in Groningen en een volledige tegemoetkoming van slachtoffers. We moeten in zijn geheel stoppen met de gaswinning in Groningen en op zoek naar duurzame alternatieven."
                 }
             },
             {
                 "id": 79608,
                 "position": "disagree",
-                "explanation": "Cultuur is het cement van de samenleving. De publieke omroep biedt niet alleen een platform voor kunstenaars maar speelt ook een essentiële rol in het functioneren van de democratie. Daarom is het van grote waarde dat er wordt geïnvesteerd in onafhankelijke en non-commerciële media. ",
+                "explanation": "Cultuur is het cement van de samenleving. De publieke omroep biedt niet alleen een platform voor kunstenaars maar speelt ook een essentiÃ«le rol in het functioneren van de democratie. Daarom is het van grote waarde dat er wordt geÃ¯nvesteerd in onafhankelijke en non-commerciÃ«le media. ",
                 "accessibility": {
-                    "explanation": "Cultuur is het cement van de samenleving. De publieke omroep biedt niet alleen een platform voor kunstenaars maar speelt ook een essentiële rol in het functioneren van de democratie. Daarom is het van grote waarde dat er wordt geïnvesteerd in onafhankelijke en non-commerciële media."
+                    "explanation": "Cultuur is het cement van de samenleving. De publieke omroep biedt niet alleen een platform voor kunstenaars maar speelt ook een essentiÃ«le rol in het functioneren van de democratie. Daarom is het van grote waarde dat er wordt geÃ¯nvesteerd in onafhankelijke en non-commerciÃ«le media."
                 }
             },
             {
@@ -13240,9 +13240,9 @@ export	let parties =[
             {
                 "id": 79577,
                 "position": "agree",
-                "explanation": "Uiteindelijk wordt de genderregistratie afgeschaft in de Basisregistratie Personen. Tot die tijd wordt het gratis invullen van 'X' een mogelijkheid zonder brief van een deskundige, net zoals bij het veranderen van een\r\nM naar een V of andersom op identiteitsdocumenten en reispapieren. \r\n",
+                "explanation": "Uiteindelijk wordt de genderregistratie afgeschaft in de Basisregistratie Personen. Tot die tijd wordt het gratis invullen van 'X' een mogelijkheid zonder brief van een â€˜deskundigeâ€™, net zoals bij het veranderen van een\r\nM naar een V of andersom op identiteitsdocumenten en reispapieren. \r\n",
                 "accessibility": {
-                    "explanation": "Uiteindelijk wordt de genderregistratie afgeschaft in de Basisregistratie Personen. Tot die tijd wordt het gratis invullen van 'X' een mogelijkheid zonder brief van een deskundige, net zoals bij het veranderen van een\r\nM naar een V of andersom op identiteitsdocumenten en reispapieren."
+                    "explanation": "Uiteindelijk wordt de genderregistratie afgeschaft in de Basisregistratie Personen. Tot die tijd wordt het gratis invullen van 'X' een mogelijkheid zonder brief van een â€˜deskundigeâ€™, net zoals bij het veranderen van een\r\nM naar een V of andersom op identiteitsdocumenten en reispapieren."
                 }
             },
             {
@@ -13256,9 +13256,9 @@ export	let parties =[
             {
                 "id": 79625,
                 "position": "agree",
-                "explanation": "Vliegvelden mogen niet verder uitbreiden en het aantal vluchten moet krimpen. We zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniën worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd. ",
+                "explanation": "Vliegvelden mogen niet verder uitbreiden en het aantal vluchten moet krimpen. We zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniÃ«n worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd. ",
                 "accessibility": {
-                    "explanation": "Vliegvelden mogen niet verder uitbreiden en het aantal vluchten moet krimpen. We zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniën worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd."
+                    "explanation": "Vliegvelden mogen niet verder uitbreiden en het aantal vluchten moet krimpen. We zetten ons op Europees niveau in om een Europees spoornetwerk te realiseren om korteafstandsvluchten uit te faseren. Voor gemeenschappen uit de voormalige koloniÃ«n worden prijsstijgingen van vliegtickets naar hun land van herkomst gecompenseerd."
                 }
             },
             {
@@ -13509,9 +13509,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "agree",
-                "explanation": "Piratenpartij - De Groenen staan voor efficiënt ruimtegebruik en duurzame oplossingen. Auto's nemen veel ruimte in. Wij stimuleren liever het delen van auto's, en het gebruik van het Openbaar Vervoer. Lees meer: https://programma.piratenpartij.nl/#mobiliteit",
+                "explanation": "Piratenpartij - De Groenen staan voor efficiÃ«nt ruimtegebruik en duurzame oplossingen. Auto's nemen veel ruimte in. Wij stimuleren liever het delen van auto's, en het gebruik van het Openbaar Vervoer. Lees meer: https://programma.piratenpartij.nl/#mobiliteit",
                 "accessibility": {
-                    "explanation": "Piratenpartij - De Groenen staan voor efficiënt ruimtegebruik en duurzame oplossingen. Auto's nemen veel ruimte in. Wij stimuleren liever het delen van auto's, en het gebruik van het Openbaar Vervoer. Lees meer: https://programma.piratenpartij.nl/#mobiliteit"
+                    "explanation": "Piratenpartij - De Groenen staan voor efficiÃ«nt ruimtegebruik en duurzame oplossingen. Auto's nemen veel ruimte in. Wij stimuleren liever het delen van auto's, en het gebruik van het Openbaar Vervoer. Lees meer: https://programma.piratenpartij.nl/#mobiliteit"
                 }
             },
             {
@@ -13599,9 +13599,9 @@ export	let parties =[
             {
                 "id": 79612,
                 "position": "agree",
-                "explanation": "Generatieve Artificiële Intelligentie (A.I.) heeft veel nuttige toepassingen, maar kan ook overtuigend nepberichten creëren. Deze realiteit maakt het noodzakelijk dat bij 'deep fakes' en andere berichten gecreëerd door A.I. aangegeven wordt dat deze kunstmatig gegenereerd zijn. piratenpartij.nl/",
+                "explanation": "Generatieve ArtificiÃ«le Intelligentie (A.I.) heeft veel nuttige toepassingen, maar kan ook overtuigend nepberichten creÃ«ren. Deze realiteit maakt het noodzakelijk dat bij 'deep fakes' en andere berichten gecreÃ«erd door A.I. aangegeven wordt dat deze kunstmatig gegenereerd zijn. piratenpartij.nl/",
                 "accessibility": {
-                    "explanation": "Generatieve Artificiële Intelligentie (A.I.) heeft veel nuttige toepassingen, maar kan ook overtuigend nepberichten creëren. Deze realiteit maakt het noodzakelijk dat bij 'deep fakes' en andere berichten gecreëerd door A.I. aangegeven wordt dat deze kunstmatig gegenereerd zijn. piratenpartij.nl/"
+                    "explanation": "Generatieve ArtificiÃ«le Intelligentie (A.I.) heeft veel nuttige toepassingen, maar kan ook overtuigend nepberichten creÃ«ren. Deze realiteit maakt het noodzakelijk dat bij 'deep fakes' en andere berichten gecreÃ«erd door A.I. aangegeven wordt dat deze kunstmatig gegenereerd zijn. piratenpartij.nl/"
                 }
             },
             {
@@ -13799,17 +13799,17 @@ export	let parties =[
             {
                 "id": 79634,
                 "position": "agree",
-                "explanation": "De biodiversiteit is in crisis. Piratenpartij - De Groenen staan voor biodiversiteitsherstel. Daarvoor heeft de natuur meer ruimte nodig. Hiervoor willen we met name inzetten op multifunctioneel ruimtegebruik: landbouwgrond met natuurwaarde, waar ook gerecreëerd kan worden, en woonwijken vergroenen.",
+                "explanation": "De biodiversiteit is in crisis. Piratenpartij - De Groenen staan voor biodiversiteitsherstel. Daarvoor heeft de natuur meer ruimte nodig. Hiervoor willen we met name inzetten op multifunctioneel ruimtegebruik: landbouwgrond met natuurwaarde, waar ook gerecreÃ«erd kan worden, en woonwijken vergroenen.",
                 "accessibility": {
-                    "explanation": "De biodiversiteit is in crisis. Piratenpartij - De Groenen staan voor biodiversiteitsherstel. Daarvoor heeft de natuur meer ruimte nodig. Hiervoor willen we met name inzetten op multifunctioneel ruimtegebruik: landbouwgrond met natuurwaarde, waar ook gerecreëerd kan worden, en woonwijken vergroenen."
+                    "explanation": "De biodiversiteit is in crisis. Piratenpartij - De Groenen staan voor biodiversiteitsherstel. Daarvoor heeft de natuur meer ruimte nodig. Hiervoor willen we met name inzetten op multifunctioneel ruimtegebruik: landbouwgrond met natuurwaarde, waar ook gerecreÃ«erd kan worden, en woonwijken vergroenen."
                 }
             },
             {
                 "id": 79650,
                 "position": "agree",
-                "explanation": "Piratenpartij - De Groenen willen toegankelijke anticonceptie- en abortushulpverlening, om onbedoelde zwangerschappen te voorkomen, of te beëindigen, wanneer een vrouw besluit dat dit de beste handelswijze is onder haar omstandigheden. Lees meer: https://programma.piratenpartij.nl/",
+                "explanation": "Piratenpartij - De Groenen willen toegankelijke anticonceptie- en abortushulpverlening, om onbedoelde zwangerschappen te voorkomen, of te beÃ«indigen, wanneer een vrouw besluit dat dit de beste handelswijze is onder haar omstandigheden. Lees meer: https://programma.piratenpartij.nl/",
                 "accessibility": {
-                    "explanation": "Piratenpartij - De Groenen willen toegankelijke anticonceptie- en abortushulpverlening, om onbedoelde zwangerschappen te voorkomen, of te beëindigen, wanneer een vrouw besluit dat dit de beste handelswijze is onder haar omstandigheden. Lees meer: https://programma.piratenpartij.nl/"
+                    "explanation": "Piratenpartij - De Groenen willen toegankelijke anticonceptie- en abortushulpverlening, om onbedoelde zwangerschappen te voorkomen, of te beÃ«indigen, wanneer een vrouw besluit dat dit de beste handelswijze is onder haar omstandigheden. Lees meer: https://programma.piratenpartij.nl/"
                 }
             },
             {
@@ -13847,9 +13847,9 @@ export	let parties =[
             {
                 "id": 79588,
                 "position": "agree",
-                "explanation": "Piratenpartij - De Groenen staan voor een eerlijk belastingstelsel. Nu betalen gewone mensen veel belasting over hun inkomen, terwijl multinationals soms minder dan 1% belasting betalen. Wij willen een verbod op 'tax rulings', en belasting op financiële transacties en excessieve winsten.",
+                "explanation": "Piratenpartij - De Groenen staan voor een eerlijk belastingstelsel. Nu betalen gewone mensen veel belasting over hun inkomen, terwijl multinationals soms minder dan 1% belasting betalen. Wij willen een verbod op 'tax rulings', en belasting op financiÃ«le transacties en excessieve winsten.",
                 "accessibility": {
-                    "explanation": "Piratenpartij - De Groenen staan voor een eerlijk belastingstelsel. Nu betalen gewone mensen veel belasting over hun inkomen, terwijl multinationals soms minder dan 1% belasting betalen. Wij willen een verbod op 'tax rulings', en belasting op financiële transacties en excessieve winsten."
+                    "explanation": "Piratenpartij - De Groenen staan voor een eerlijk belastingstelsel. Nu betalen gewone mensen veel belasting over hun inkomen, terwijl multinationals soms minder dan 1% belasting betalen. Wij willen een verbod op 'tax rulings', en belasting op financiÃ«le transacties en excessieve winsten."
                 }
             },
             {
@@ -13895,9 +13895,9 @@ export	let parties =[
             {
                 "id": 79637,
                 "position": "agree",
-                "explanation": "Piratenpartij - De Groenen staan voor efficiënt ruimtegebruik. Wij willen boeren de mogelijkheid geven om te verduurzamen, met kleine, moderne stallen die uitstoot van ammoniak beperken. Om meer ruimte voor woningen, groen en recreatie te maken, willen we inzetten op gecombineerd ruimtegebruik.",
+                "explanation": "Piratenpartij - De Groenen staan voor efficiÃ«nt ruimtegebruik. Wij willen boeren de mogelijkheid geven om te verduurzamen, met kleine, moderne stallen die uitstoot van ammoniak beperken. Om meer ruimte voor woningen, groen en recreatie te maken, willen we inzetten op gecombineerd ruimtegebruik.",
                 "accessibility": {
-                    "explanation": "Piratenpartij - De Groenen staan voor efficiënt ruimtegebruik. Wij willen boeren de mogelijkheid geven om te verduurzamen, met kleine, moderne stallen die uitstoot van ammoniak beperken. Om meer ruimte voor woningen, groen en recreatie te maken, willen we inzetten op gecombineerd ruimtegebruik."
+                    "explanation": "Piratenpartij - De Groenen staan voor efficiÃ«nt ruimtegebruik. Wij willen boeren de mogelijkheid geven om te verduurzamen, met kleine, moderne stallen die uitstoot van ammoniak beperken. Om meer ruimte voor woningen, groen en recreatie te maken, willen we inzetten op gecombineerd ruimtegebruik."
                 }
             },
             {
@@ -14031,9 +14031,9 @@ export	let parties =[
             {
                 "id": 79641,
                 "position": "agree",
-                "explanation": "Piratenpartij - De Groenen staan voor een snelle energietransitie, met efficiënt ruimtegebruik. Daarom willen we overal groen-blauwe daken met zonnepanelen, en het stroomnet uitbreiden om deze extra stroomproductie op te kunnen vangen. Zon op veld is inefficiënt ruimtegebruik. piratenpartij.nl",
+                "explanation": "Piratenpartij - De Groenen staan voor een snelle energietransitie, met efficiÃ«nt ruimtegebruik. Daarom willen we overal groen-blauwe daken met zonnepanelen, en het stroomnet uitbreiden om deze extra stroomproductie op te kunnen vangen. Zon op veld is inefficiÃ«nt ruimtegebruik. piratenpartij.nl",
                 "accessibility": {
-                    "explanation": "Piratenpartij - De Groenen staan voor een snelle energietransitie, met efficiënt ruimtegebruik. Daarom willen we overal groen-blauwe daken met zonnepanelen, en het stroomnet uitbreiden om deze extra stroomproductie op te kunnen vangen. Zon op veld is inefficiënt ruimtegebruik. piratenpartij.nl"
+                    "explanation": "Piratenpartij - De Groenen staan voor een snelle energietransitie, met efficiÃ«nt ruimtegebruik. Daarom willen we overal groen-blauwe daken met zonnepanelen, en het stroomnet uitbreiden om deze extra stroomproductie op te kunnen vangen. Zon op veld is inefficiÃ«nt ruimtegebruik. piratenpartij.nl"
                 }
             },
             {
@@ -14124,9 +14124,9 @@ export	let parties =[
             {
                 "id": 79661,
                 "position": "agree",
-                "explanation": "De EU is veel te groot en daarmee inefficiënt geworden. Er moeten niet meer landen lid worden van de EU, Nederland zou er na een bindend referendum juist uitmoeten. De overdracht van soevereiniteit naar de EU moet stoppen en we moeten i.i.g. de mogelijkheid krijgen tot opt-ins en opt-outs.",
+                "explanation": "De EU is veel te groot en daarmee inefficiÃ«nt geworden. Er moeten niet meer landen lid worden van de EU, Nederland zou er na een bindend referendum juist uitmoeten. De overdracht van soevereiniteit naar de EU moet stoppen en we moeten i.i.g. de mogelijkheid krijgen tot opt-ins en opt-outs.",
                 "accessibility": {
-                    "explanation": "De EU is veel te groot en daarmee inefficiënt geworden. Er moeten niet meer landen lid worden van de EU, Nederland zou er na een bindend referendum juist uitmoeten. De overdracht van soevereiniteit naar de EU moet stoppen en we moeten i.i.g. de mogelijkheid krijgen tot opt-ins en opt-outs."
+                    "explanation": "De EU is veel te groot en daarmee inefficiÃ«nt geworden. Er moeten niet meer landen lid worden van de EU, Nederland zou er na een bindend referendum juist uitmoeten. De overdracht van soevereiniteit naar de EU moet stoppen en we moeten i.i.g. de mogelijkheid krijgen tot opt-ins en opt-outs."
                 }
             },
             {
@@ -14164,9 +14164,9 @@ export	let parties =[
             {
                 "id": 79632,
                 "position": "agree",
-                "explanation": "BVNL is zelfs voor gratis OV. Het biedt o.a. meer mogelijkheden voor mantelzorgers, minder files, minder parkeerproblemen en minder autos in steden.",
+                "explanation": "BVNL is zelfs voor gratis OV. Het biedt o.a. meer mogelijkheden voor mantelzorgers, minder files, minder parkeerproblemen en minder autoâ€™s in steden.",
                 "accessibility": {
-                    "explanation": "BVNL is zelfs voor gratis OV. Het biedt o.a. meer mogelijkheden voor mantelzorgers, minder files, minder parkeerproblemen en minder autos in steden."
+                    "explanation": "BVNL is zelfs voor gratis OV. Het biedt o.a. meer mogelijkheden voor mantelzorgers, minder files, minder parkeerproblemen en minder autoâ€™s in steden."
                 }
             },
             {
@@ -14212,9 +14212,9 @@ export	let parties =[
             {
                 "id": 79572,
                 "position": "agree",
-                "explanation": "Er is een groeiende kloof tussen Randstad en landelijk gebied én tussen stad en platteland. Om die kloof te dichten is het goed dat in de Tweede kamer een vast aantal mensen vanuit elke regio/provincie zijn vertegenwoordigd. ",
+                "explanation": "Er is een groeiende kloof tussen Randstad en landelijk gebied Ã©n tussen stad en platteland. Om die kloof te dichten is het goed dat in de Tweede kamer een vast aantal mensen vanuit elke regio/provincie zijn vertegenwoordigd. ",
                 "accessibility": {
-                    "explanation": "Er is een groeiende kloof tussen Randstad en landelijk gebied én tussen stad en platteland. Om die kloof te dichten is het goed dat in de Tweede kamer een vast aantal mensen vanuit elke regio/provincie zijn vertegenwoordigd."
+                    "explanation": "Er is een groeiende kloof tussen Randstad en landelijk gebied Ã©n tussen stad en platteland. Om die kloof te dichten is het goed dat in de Tweede kamer een vast aantal mensen vanuit elke regio/provincie zijn vertegenwoordigd."
                 }
             },
             {
@@ -14318,9 +14318,9 @@ export	let parties =[
             {
                 "id": 79642,
                 "position": "agree",
-                "explanation": "BVNL koestert onze natuurgebieden en landgoederen. Maar wij zijn tégen snippernatuur en Natura2000-gebieden die boeren het mes op de keel zetten. Natuur en landbouw gaan hand in hand. Boeren zijn daarbij prima water- en natuurbeheerders. ",
+                "explanation": "BVNL koestert onze natuurgebieden en landgoederen. Maar wij zijn tÃ©gen snippernatuur en Natura2000-gebieden die boeren het mes op de keel zetten. Natuur en landbouw gaan hand in hand. Boeren zijn daarbij prima water- en natuurbeheerders. ",
                 "accessibility": {
-                    "explanation": "BVNL koestert onze natuurgebieden en landgoederen. Maar wij zijn tégen snippernatuur en Natura2000-gebieden die boeren het mes op de keel zetten. Natuur en landbouw gaan hand in hand. Boeren zijn daarbij prima water- en natuurbeheerders."
+                    "explanation": "BVNL koestert onze natuurgebieden en landgoederen. Maar wij zijn tÃ©gen snippernatuur en Natura2000-gebieden die boeren het mes op de keel zetten. Natuur en landbouw gaan hand in hand. Boeren zijn daarbij prima water- en natuurbeheerders."
                 }
             },
             {
@@ -14438,9 +14438,9 @@ export	let parties =[
             {
                 "id": 79646,
                 "position": "disagree",
-                "explanation": "Bedrijven zorgen voor banen, ook de bedrijven die veel energie gebruiken. Daarom staat BVNL pal achter drukkers en wasserijen, metaal- en glastuinbouwbedrijven, (industriële) bakkers, steenbakkers, chemische bedrijven en fabrikanten  van o.a. kunststof en papier, schadeherstelbedrijven en slagers.",
+                "explanation": "Bedrijven zorgen voor banen, ook de bedrijven die veel energie gebruiken. Daarom staat BVNL pal achter drukkers en wasserijen, metaal- en glastuinbouwbedrijven, (industriÃ«le) bakkers, steenbakkers, chemische bedrijven en fabrikanten  van o.a. kunststof en papier, schadeherstelbedrijven en slagers.",
                 "accessibility": {
-                    "explanation": "Bedrijven zorgen voor banen, ook de bedrijven die veel energie gebruiken. Daarom staat BVNL pal achter drukkers en wasserijen, metaal- en glastuinbouwbedrijven, (industriële) bakkers, steenbakkers, chemische bedrijven en fabrikanten  van o.a. kunststof en papier, schadeherstelbedrijven en slagers."
+                    "explanation": "Bedrijven zorgen voor banen, ook de bedrijven die veel energie gebruiken. Daarom staat BVNL pal achter drukkers en wasserijen, metaal- en glastuinbouwbedrijven, (industriÃ«le) bakkers, steenbakkers, chemische bedrijven en fabrikanten  van o.a. kunststof en papier, schadeherstelbedrijven en slagers."
                 }
             },
             {
@@ -14534,9 +14534,9 @@ export	let parties =[
             {
                 "id": 79633,
                 "position": "agree",
-                "explanation": "BVNL is zelfs geheel voor gratis maken van het OV. Het biedt o.a. meer mogelijkheden voor mantelzorgers, minder files, minder parkeerproblemen en minder autos in steden. ",
+                "explanation": "BVNL is zelfs geheel voor gratis maken van het OV. Het biedt o.a. meer mogelijkheden voor mantelzorgers, minder files, minder parkeerproblemen en minder autoâ€™s in steden. ",
                 "accessibility": {
-                    "explanation": "BVNL is zelfs geheel voor gratis maken van het OV. Het biedt o.a. meer mogelijkheden voor mantelzorgers, minder files, minder parkeerproblemen en minder autos in steden."
+                    "explanation": "BVNL is zelfs geheel voor gratis maken van het OV. Het biedt o.a. meer mogelijkheden voor mantelzorgers, minder files, minder parkeerproblemen en minder autoâ€™s in steden."
                 }
             },
             {
@@ -14566,9 +14566,9 @@ export	let parties =[
             {
                 "id": 79634,
                 "position": "disagree",
-                "explanation": "Geen boeren, geen eten. Nederland heeft de meest duurzame, meest efficiënte en meest diervriendelijke boeren van de wereld. Daarnaast zijn we de één na grootste agri-exporteur ter wereld, na de VS. Goed voor de economie. Daarom koesteren we onze landbouwgronden.",
+                "explanation": "Geen boeren, geen eten. Nederland heeft de meest duurzame, meest efficiÃ«nte en meest diervriendelijke boeren van de wereld. Daarnaast zijn we de Ã©Ã©n na grootste agri-exporteur ter wereld, na de VS. Goed voor de economie. Daarom koesteren we onze landbouwgronden.",
                 "accessibility": {
-                    "explanation": "Geen boeren, geen eten. Nederland heeft de meest duurzame, meest efficiënte en meest diervriendelijke boeren van de wereld. Daarnaast zijn we de één na grootste agri-exporteur ter wereld, na de VS. Goed voor de economie. Daarom koesteren we onze landbouwgronden."
+                    "explanation": "Geen boeren, geen eten. Nederland heeft de meest duurzame, meest efficiÃ«nte en meest diervriendelijke boeren van de wereld. Daarnaast zijn we de Ã©Ã©n na grootste agri-exporteur ter wereld, na de VS. Goed voor de economie. Daarom koesteren we onze landbouwgronden."
                 }
             },
             {
@@ -14582,9 +14582,9 @@ export	let parties =[
             {
                 "id": 79571,
                 "position": "disagree",
-                "explanation": "Op je 18e ben je in de ogen van de wet volwassen: je moet belastingaangifte doen, wordt berecht als volwassene en moet allerlei besluiten nemen, waarvoor je dan ook nog juridisch aansprakelijk bent. Daarom is over (bijna) de hele wereld bepaald dat 18 jaar óók de leeftijd is waarop je mag stemmen.",
+                "explanation": "Op je 18e ben je in de ogen van de wet volwassen: je moet belastingaangifte doen, wordt berecht als volwassene en moet allerlei besluiten nemen, waarvoor je dan ook nog juridisch aansprakelijk bent. Daarom is over (bijna) de hele wereld bepaald dat 18 jaar Ã³Ã³k de leeftijd is waarop je mag stemmen.",
                 "accessibility": {
-                    "explanation": "Op je 18e ben je in de ogen van de wet volwassen: je moet belastingaangifte doen, wordt berecht als volwassene en moet allerlei besluiten nemen, waarvoor je dan ook nog juridisch aansprakelijk bent. Daarom is over (bijna) de hele wereld bepaald dat 18 jaar óók de leeftijd is waarop je mag stemmen."
+                    "explanation": "Op je 18e ben je in de ogen van de wet volwassen: je moet belastingaangifte doen, wordt berecht als volwassene en moet allerlei besluiten nemen, waarvoor je dan ook nog juridisch aansprakelijk bent. Daarom is over (bijna) de hele wereld bepaald dat 18 jaar Ã³Ã³k de leeftijd is waarop je mag stemmen."
                 }
             },
             {
@@ -14662,9 +14662,9 @@ export	let parties =[
             {
                 "id": 79637,
                 "position": "agree",
-                "explanation": "Geen boeren, geen eten. Nederland heeft de meest duurzame, meest efficiënte en meest diervriendelijke boeren van de wereld en we zijn de één na grootste agri-exporteur ter wereld, na de VS. Daarom moeten wij onze boeren koesteren en trots zijn op de deze prachtige sector.",
+                "explanation": "Geen boeren, geen eten. Nederland heeft de meest duurzame, meest efficiÃ«nte en meest diervriendelijke boeren van de wereld en we zijn de Ã©Ã©n na grootste agri-exporteur ter wereld, na de VS. Daarom moeten wij onze boeren koesteren en trots zijn op de deze prachtige sector.",
                 "accessibility": {
-                    "explanation": "Geen boeren, geen eten. Nederland heeft de meest duurzame, meest efficiënte en meest diervriendelijke boeren van de wereld en we zijn de één na grootste agri-exporteur ter wereld, na de VS. Daarom moeten wij onze boeren koesteren en trots zijn op de deze prachtige sector."
+                    "explanation": "Geen boeren, geen eten. Nederland heeft de meest duurzame, meest efficiÃ«nte en meest diervriendelijke boeren van de wereld en we zijn de Ã©Ã©n na grootste agri-exporteur ter wereld, na de VS. Daarom moeten wij onze boeren koesteren en trots zijn op de deze prachtige sector."
                 }
             },
             {
@@ -14734,9 +14734,9 @@ export	let parties =[
             {
                 "id": 79576,
                 "position": "agree",
-                "explanation": "In de Grondwet is vastgelegd dat de koning, zijn voorganger en zijn opvolger geen loon- en inkomstenbelasting betalen. Dat geldt dus voor Willem-Alexander, Beatrix en Amalia. En omdat echtgenoten ook onder die regeling vallen, betaalt Máxima ook geen belasting. Niet uit te leggen, aanpassen dus!",
+                "explanation": "In de Grondwet is vastgelegd dat de koning, zijn voorganger en zijn opvolger geen loon- en inkomstenbelasting betalen. Dat geldt dus voor Willem-Alexander, Beatrix en Amalia. En omdat echtgenoten ook onder die regeling vallen, betaalt MÃ¡xima ook geen belasting. Niet uit te leggen, aanpassen dus!",
                 "accessibility": {
-                    "explanation": "In de Grondwet is vastgelegd dat de koning, zijn voorganger en zijn opvolger geen loon- en inkomstenbelasting betalen. Dat geldt dus voor Willem-Alexander, Beatrix en Amalia. En omdat echtgenoten ook onder die regeling vallen, betaalt Máxima ook geen belasting. Niet uit te leggen, aanpassen dus!"
+                    "explanation": "In de Grondwet is vastgelegd dat de koning, zijn voorganger en zijn opvolger geen loon- en inkomstenbelasting betalen. Dat geldt dus voor Willem-Alexander, Beatrix en Amalia. En omdat echtgenoten ook onder die regeling vallen, betaalt MÃ¡xima ook geen belasting. Niet uit te leggen, aanpassen dus!"
                 }
             },
             {
@@ -14774,9 +14774,9 @@ export	let parties =[
             {
                 "id": 79577,
                 "position": "disagree",
-                "explanation": "BVNL wil de transgenderwet zo snel mogelijk van tafel hebben. Dat een kind van 16 zonder overleg met een arts of psychiater kan zeggen: \"Ik ben in één keer geen jongetje meer, maar een meisje,\" is knettergek en medisch totaal onverantwoordelijk. ",
+                "explanation": "BVNL wil de transgenderwet zo snel mogelijk van tafel hebben. Dat een kind van 16 zonder overleg met een arts of psychiater kan zeggen: \"Ik ben in Ã©Ã©n keer geen jongetje meer, maar een meisje,\" is knettergek en medisch totaal onverantwoordelijk. ",
                 "accessibility": {
-                    "explanation": "BVNL wil de transgenderwet zo snel mogelijk van tafel hebben. Dat een kind van 16 zonder overleg met een arts of psychiater kan zeggen: \"Ik ben in één keer geen jongetje meer, maar een meisje,\" is knettergek en medisch totaal onverantwoordelijk."
+                    "explanation": "BVNL wil de transgenderwet zo snel mogelijk van tafel hebben. Dat een kind van 16 zonder overleg met een arts of psychiater kan zeggen: \"Ik ben in Ã©Ã©n keer geen jongetje meer, maar een meisje,\" is knettergek en medisch totaal onverantwoordelijk."
                 }
             },
             {
@@ -14835,9 +14835,9 @@ export	let parties =[
             {
                 "id": 79594,
                 "position": "agree",
-                "explanation": "Kernenergie levert een onmisbare bijdrage aan een continue en CO2-vrije energievoorziening. We treffen voorbereidingen voor de bouw van ten minste twee kerncentrales en verkennen actief de mogelijkheden voor Small Modular Reactors (SMRs).",
+                "explanation": "Kernenergie levert een onmisbare bijdrage aan een continue en CO2-vrije energievoorziening. We treffen voorbereidingen voor de bouw van ten minste twee kerncentrales en verkennen actief de mogelijkheden voor Small Modular Reactors (SMRâ€™s).",
                 "accessibility": {
-                    "explanation": "Kernenergie levert een onmisbare bijdrage aan een continue en CO2-vrije energievoorziening. We treffen voorbereidingen voor de bouw van ten minste twee kerncentrales en verkennen actief de mogelijkheden voor Small Modular Reactors (SMRs)."
+                    "explanation": "Kernenergie levert een onmisbare bijdrage aan een continue en CO2-vrije energievoorziening. We treffen voorbereidingen voor de bouw van ten minste twee kerncentrales en verkennen actief de mogelijkheden voor Small Modular Reactors (SMRâ€™s)."
                 }
             },
             {
@@ -14923,9 +14923,9 @@ export	let parties =[
             {
                 "id": 79599,
                 "position": "disagree",
-                "explanation": "Uitkeringen (zoals AOW en bijstand) houden wél rekening met wel of niet samenwonen. Wij willen hier geen veranderingen in aanbrengen.\r\nVoor diverse uitkeringen op het gebied van werkloosheid en arbeidsongeschiktheid geldt dat je er individueel recht op hebt, omdat je ook premie hebt betaald.",
+                "explanation": "Uitkeringen (zoals AOW en bijstand) houden wÃ©l rekening met wel of niet samenwonen. Wij willen hier geen veranderingen in aanbrengen.\r\nVoor diverse uitkeringen op het gebied van werkloosheid en arbeidsongeschiktheid geldt dat je er individueel recht op hebt, omdat je ook premie hebt betaald.",
                 "accessibility": {
-                    "explanation": "Uitkeringen (zoals AOW en bijstand) houden wél rekening met wel of niet samenwonen. Wij willen hier geen veranderingen in aanbrengen.\r\nVoor diverse uitkeringen op het gebied van werkloosheid en arbeidsongeschiktheid geldt dat je er individueel recht op hebt, omdat je ook premie hebt betaald."
+                    "explanation": "Uitkeringen (zoals AOW en bijstand) houden wÃ©l rekening met wel of niet samenwonen. Wij willen hier geen veranderingen in aanbrengen.\r\nVoor diverse uitkeringen op het gebied van werkloosheid en arbeidsongeschiktheid geldt dat je er individueel recht op hebt, omdat je ook premie hebt betaald."
                 }
             },
             {
@@ -14955,9 +14955,9 @@ export	let parties =[
             {
                 "id": 79649,
                 "position": "disagree",
-                "explanation": "We zorgen ervoor dat het eigen risico voor mensen minder belastend is door hen niet te dwingen om het volledige eigen risico in één keer te betalen, maar per behandeling een deel van het eigen risico.",
+                "explanation": "We zorgen ervoor dat het eigen risico voor mensen minder belastend is door hen niet te dwingen om het volledige eigen risico in Ã©Ã©n keer te betalen, maar per behandeling een deel van het eigen risico.",
                 "accessibility": {
-                    "explanation": "We zorgen ervoor dat het eigen risico voor mensen minder belastend is door hen niet te dwingen om het volledige eigen risico in één keer te betalen, maar per behandeling een deel van het eigen risico."
+                    "explanation": "We zorgen ervoor dat het eigen risico voor mensen minder belastend is door hen niet te dwingen om het volledige eigen risico in Ã©Ã©n keer te betalen, maar per behandeling een deel van het eigen risico."
                 }
             },
             {
@@ -14995,9 +14995,9 @@ export	let parties =[
             {
                 "id": 79652,
                 "position": "disagree",
-                "explanation": "De huidige wetgeving betreffende euthanasie is een afgewogen geheel en behoeft geen wijziging. Wel zijn wij kritisch over euthanasie bij wilsonbekwame patiënten, we gaan hierover in gesprek met zorgverleners en ethici. We steunen de Wet voltooid leven niet.",
+                "explanation": "De huidige wetgeving betreffende euthanasie is een afgewogen geheel en behoeft geen wijziging. Wel zijn wij kritisch over euthanasie bij wilsonbekwame patiÃ«nten, we gaan hierover in gesprek met zorgverleners en ethici. We steunen de Wet voltooid leven niet.",
                 "accessibility": {
-                    "explanation": "De huidige wetgeving betreffende euthanasie is een afgewogen geheel en behoeft geen wijziging. Wel zijn wij kritisch over euthanasie bij wilsonbekwame patiënten, we gaan hierover in gesprek met zorgverleners en ethici. We steunen de Wet voltooid leven niet."
+                    "explanation": "De huidige wetgeving betreffende euthanasie is een afgewogen geheel en behoeft geen wijziging. Wel zijn wij kritisch over euthanasie bij wilsonbekwame patiÃ«nten, we gaan hierover in gesprek met zorgverleners en ethici. We steunen de Wet voltooid leven niet."
                 }
             },
             {
@@ -15011,9 +15011,9 @@ export	let parties =[
             {
                 "id": 79590,
                 "position": "disagree",
-                "explanation": "In de komende vier jaar willen we een ambitieuze start maken met een hervorming van het belastingstel. Volgens de rechter wordt vermogen oneerlijk belast. We willen het reële rendement belasten, de tarieven verhogen we niet.",
+                "explanation": "In de komende vier jaar willen we een ambitieuze start maken met een hervorming van het belastingstel. Volgens de rechter wordt vermogen oneerlijk belast. We willen het reÃ«le rendement belasten, de tarieven verhogen we niet.",
                 "accessibility": {
-                    "explanation": "In de komende vier jaar willen we een ambitieuze start maken met een hervorming van het belastingstel. Volgens de rechter wordt vermogen oneerlijk belast. We willen het reële rendement belasten, de tarieven verhogen we niet."
+                    "explanation": "In de komende vier jaar willen we een ambitieuze start maken met een hervorming van het belastingstel. Volgens de rechter wordt vermogen oneerlijk belast. We willen het reÃ«le rendement belasten, de tarieven verhogen we niet."
                 }
             },
             {
@@ -15027,9 +15027,9 @@ export	let parties =[
             {
                 "id": 79654,
                 "position": "agree",
-                "explanation": "We zijn doorgeschoten in een neoliberaal model waarin het rendement van aandeelhouders allesbepalend lijkt te zijn. Werkenden, werkgevers en ondernemers zouden zich moeten verbinden aan de brede welvaart van onze samenleving op de lange termijn met waardering voor kennis en vakmanschap.",
+                "explanation": "We zijn doorgeschoten in een neoliberaal model waarin het rendement van aandeelhouders allesbepalend lijkt te zijn. Werkenden, werkgevers en ondernemers zouden zich moeten verbinden aan de â€˜brede welvaartâ€™ van onze samenleving op de lange termijn met waardering voor kennis en vakmanschap.",
                 "accessibility": {
-                    "explanation": "We zijn doorgeschoten in een neoliberaal model waarin het rendement van aandeelhouders allesbepalend lijkt te zijn. Werkenden, werkgevers en ondernemers zouden zich moeten verbinden aan de brede welvaart van onze samenleving op de lange termijn met waardering voor kennis en vakmanschap."
+                    "explanation": "We zijn doorgeschoten in een neoliberaal model waarin het rendement van aandeelhouders allesbepalend lijkt te zijn. Werkenden, werkgevers en ondernemers zouden zich moeten verbinden aan de â€˜brede welvaartâ€™ van onze samenleving op de lange termijn met waardering voor kennis en vakmanschap."
                 }
             },
             {
@@ -15043,9 +15043,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "agree",
-                "explanation": "We willen dat gebruik van een auto betaalbaar blijft. Elektrische autos, die jarenlang fors fiscaal zijn gesubsidieerd, gaan meer bijdragen aan de belastingopbrengsten.",
+                "explanation": "We willen dat gebruik van een auto betaalbaar blijft. Elektrische autoâ€™s, die jarenlang fors fiscaal zijn gesubsidieerd, gaan meer bijdragen aan de belastingopbrengsten.",
                 "accessibility": {
-                    "explanation": "We willen dat gebruik van een auto betaalbaar blijft. Elektrische autos, die jarenlang fors fiscaal zijn gesubsidieerd, gaan meer bijdragen aan de belastingopbrengsten."
+                    "explanation": "We willen dat gebruik van een auto betaalbaar blijft. Elektrische autoâ€™s, die jarenlang fors fiscaal zijn gesubsidieerd, gaan meer bijdragen aan de belastingopbrengsten."
                 }
             },
             {
@@ -15069,17 +15069,17 @@ export	let parties =[
             {
                 "id": 79610,
                 "position": "agree",
-                "explanation": "We verhogen de belastingvrije stagevergoeding bij beroepsopleidingen naar ¬ 450,- per maand. Dat is tevens het minimum voor een fulltime stage.",
+                "explanation": "We verhogen de belastingvrije stagevergoeding bij beroepsopleidingen naar â‚¬ 450,- per maand. Dat is tevens het minimum voor een fulltime stage.",
                 "accessibility": {
-                    "explanation": "We verhogen de belastingvrije stagevergoeding bij beroepsopleidingen naar ¬ 450,- per maand. Dat is tevens het minimum voor een fulltime stage."
+                    "explanation": "We verhogen de belastingvrije stagevergoeding bij beroepsopleidingen naar â‚¬ 450,- per maand. Dat is tevens het minimum voor een fulltime stage."
                 }
             },
             {
                 "id": 79626,
                 "position": "disagree",
-                "explanation": "Vliegveld Lelystad gaat niet open voor de commerciële burgerluchtvaart; wij vinden de economische baten niet opwegen tegen de maatschappelijke kosten en investeringen die nog nodig zijn.",
+                "explanation": "Vliegveld Lelystad gaat niet open voor de commerciÃ«le burgerluchtvaart; wij vinden de economische baten niet opwegen tegen de maatschappelijke kosten en investeringen die nog nodig zijn.",
                 "accessibility": {
-                    "explanation": "Vliegveld Lelystad gaat niet open voor de commerciële burgerluchtvaart; wij vinden de economische baten niet opwegen tegen de maatschappelijke kosten en investeringen die nog nodig zijn."
+                    "explanation": "Vliegveld Lelystad gaat niet open voor de commerciÃ«le burgerluchtvaart; wij vinden de economische baten niet opwegen tegen de maatschappelijke kosten en investeringen die nog nodig zijn."
                 }
             },
             {
@@ -15101,9 +15101,9 @@ export	let parties =[
             {
                 "id": 79595,
                 "position": "agree",
-                "explanation": "We zijn doorgeschoten in een model waarin het rendement van aandeelhouders allesbepalend lijkt te zijn. Werkenden en werkgevers moeten verbinden aan de brede welvaart van onze samenleving. Indien een bedrijf winst maakt verwachten wij dat ze dat op een eigen gekozen wijze delen met de werknemers",
+                "explanation": "We zijn doorgeschoten in een model waarin het rendement van aandeelhouders allesbepalend lijkt te zijn. Werkenden en werkgevers moeten verbinden aan de â€˜brede welvaartâ€™ van onze samenleving. Indien een bedrijf winst maakt verwachten wij dat ze dat op een eigen gekozen wijze â€˜delenâ€™ met de werknemers",
                 "accessibility": {
-                    "explanation": "We zijn doorgeschoten in een model waarin het rendement van aandeelhouders allesbepalend lijkt te zijn. Werkenden en werkgevers moeten verbinden aan de brede welvaart van onze samenleving. Indien een bedrijf winst maakt verwachten wij dat ze dat op een eigen gekozen wijze delen met de werknemers"
+                    "explanation": "We zijn doorgeschoten in een model waarin het rendement van aandeelhouders allesbepalend lijkt te zijn. Werkenden en werkgevers moeten verbinden aan de â€˜brede welvaartâ€™ van onze samenleving. Indien een bedrijf winst maakt verwachten wij dat ze dat op een eigen gekozen wijze â€˜delenâ€™ met de werknemers"
                 }
             },
             {
@@ -15141,9 +15141,9 @@ export	let parties =[
             {
                 "id": 79628,
                 "position": "disagree",
-                "explanation": "We zijn tegen een kilometerheffing voor personenautos. Op het platteland is er voor de auto vaak geen alternatief om grote afstanden af te leggen.",
+                "explanation": "We zijn tegen een kilometerheffing voor personenautoâ€™s. Op het platteland is er voor de auto vaak geen alternatief om grote afstanden af te leggen.",
                 "accessibility": {
-                    "explanation": "We zijn tegen een kilometerheffing voor personenautos. Op het platteland is er voor de auto vaak geen alternatief om grote afstanden af te leggen."
+                    "explanation": "We zijn tegen een kilometerheffing voor personenautoâ€™s. Op het platteland is er voor de auto vaak geen alternatief om grote afstanden af te leggen."
                 }
             },
             {
@@ -15317,9 +15317,9 @@ export	let parties =[
             {
                 "id": 79602,
                 "position": "disagree",
-                "explanation": "Het is een voorrecht om je land als militair te dienen. We bieden alle jongeren daarom na hun middelbare schooltijd een dienjaar aan. Behalve voor Defensie ontwikkelen we dit ook voor bijvoorbeeld de zorg, politie en het onderwijs. We kiezen niet voor een verplichting.",
+                "explanation": "Het is een voorrecht om je land als militair te dienen. We bieden alle jongeren daarom na hun middelbare schooltijd een â€˜dienjaarâ€™ aan. Behalve voor Defensie ontwikkelen we dit ook voor bijvoorbeeld de zorg, politie en het onderwijs. We kiezen niet voor een verplichting.",
                 "accessibility": {
-                    "explanation": "Het is een voorrecht om je land als militair te dienen. We bieden alle jongeren daarom na hun middelbare schooltijd een dienjaar aan. Behalve voor Defensie ontwikkelen we dit ook voor bijvoorbeeld de zorg, politie en het onderwijs. We kiezen niet voor een verplichting."
+                    "explanation": "Het is een voorrecht om je land als militair te dienen. We bieden alle jongeren daarom na hun middelbare schooltijd een â€˜dienjaarâ€™ aan. Behalve voor Defensie ontwikkelen we dit ook voor bijvoorbeeld de zorg, politie en het onderwijs. We kiezen niet voor een verplichting."
                 }
             },
             {
@@ -15373,25 +15373,25 @@ export	let parties =[
             {
                 "id": 79651,
                 "position": "agree",
-                "explanation": "Om samen te kunnen optrekken bij het aanpakken van grote problemen (bv. de jeugdzorg) hebben gemeenten duidelijkheid nodig over hun financiën. Wij maken afspraken over een voorspelbare en stabiele ontwikkeling van het Gemeente- en Provinciefonds.",
+                "explanation": "Om samen te kunnen optrekken bij het aanpakken van grote problemen (bv. de jeugdzorg) hebben gemeenten duidelijkheid nodig over hun financiÃ«n. Wij maken afspraken over een voorspelbare en stabiele ontwikkeling van het Gemeente- en Provinciefonds.",
                 "accessibility": {
-                    "explanation": "Om samen te kunnen optrekken bij het aanpakken van grote problemen (bv. de jeugdzorg) hebben gemeenten duidelijkheid nodig over hun financiën. Wij maken afspraken over een voorspelbare en stabiele ontwikkeling van het Gemeente- en Provinciefonds."
+                    "explanation": "Om samen te kunnen optrekken bij het aanpakken van grote problemen (bv. de jeugdzorg) hebben gemeenten duidelijkheid nodig over hun financiÃ«n. Wij maken afspraken over een voorspelbare en stabiele ontwikkeling van het Gemeente- en Provinciefonds."
                 }
             },
             {
                 "id": 79588,
                 "position": "agree",
-                "explanation": "Nederland stopt met het zijn van een fiscaal doorstroomparadijs. We steunen het voornemen om internationaal een minimale winstbelasting in te voeren voor bedrijven van 15%, om de race naar de bodem tussen landen tegen te gaan. We verliezen het MKB hierbij niet uit het oog.",
+                "explanation": "Nederland stopt met het zijn van een fiscaal doorstroomparadijs. We steunen het voornemen om internationaal een minimale winstbelasting in te voeren voor bedrijven van 15%, om de â€˜race naar de bodemâ€™ tussen landen tegen te gaan. We verliezen het MKB hierbij niet uit het oog.",
                 "accessibility": {
-                    "explanation": "Nederland stopt met het zijn van een fiscaal doorstroomparadijs. We steunen het voornemen om internationaal een minimale winstbelasting in te voeren voor bedrijven van 15%, om de race naar de bodem tussen landen tegen te gaan. We verliezen het MKB hierbij niet uit het oog."
+                    "explanation": "Nederland stopt met het zijn van een fiscaal doorstroomparadijs. We steunen het voornemen om internationaal een minimale winstbelasting in te voeren voor bedrijven van 15%, om de â€˜race naar de bodemâ€™ tussen landen tegen te gaan. We verliezen het MKB hierbij niet uit het oog."
                 }
             },
             {
                 "id": 79604,
                 "position": "disagree",
-                "explanation": "We hebben oog voor de tekorten op de arbeidsmarkt, zeker in de zorg en het onderwijs. We ontwikkelen leerpaden en stellen daar middelen voor beschikbaar. Ook willen we werken in deze sectoren aantrekkelijker maken.",
+                "explanation": "We hebben oog voor de tekorten op de arbeidsmarkt, zeker in de zorg en het onderwijs. We ontwikkelen â€˜leerpadenâ€™ en stellen daar middelen voor beschikbaar. Ook willen we werken in deze sectoren aantrekkelijker maken.",
                 "accessibility": {
-                    "explanation": "We hebben oog voor de tekorten op de arbeidsmarkt, zeker in de zorg en het onderwijs. We ontwikkelen leerpaden en stellen daar middelen voor beschikbaar. Ook willen we werken in deze sectoren aantrekkelijker maken."
+                    "explanation": "We hebben oog voor de tekorten op de arbeidsmarkt, zeker in de zorg en het onderwijs. We ontwikkelen â€˜leerpadenâ€™ en stellen daar middelen voor beschikbaar. Ook willen we werken in deze sectoren aantrekkelijker maken."
                 }
             },
             {
@@ -15469,17 +15469,17 @@ export	let parties =[
             {
                 "id": 79575,
                 "position": "agree",
-                "explanation": "In de Kabinetsreactie Nij Begun worden 50 maatregelen genoemd die recht moeten doen bij de aanpak van de gevolgen van de aardbevingsproblematiek. Deze maatregelen moeten als handvat dienen en voortvarend worden opgepakt. De behoefte van mensen in het getroffen gebied staan centraal.",
+                "explanation": "In de Kabinetsreactie â€˜Nij Begunâ€™ worden 50 maatregelen genoemd die recht moeten doen bij de aanpak van de gevolgen van de aardbevingsproblematiek. Deze maatregelen moeten als handvat dienen en voortvarend worden opgepakt. De behoefte van mensen in het getroffen gebied staan centraal.",
                 "accessibility": {
-                    "explanation": "In de Kabinetsreactie Nij Begun worden 50 maatregelen genoemd die recht moeten doen bij de aanpak van de gevolgen van de aardbevingsproblematiek. Deze maatregelen moeten als handvat dienen en voortvarend worden opgepakt. De behoefte van mensen in het getroffen gebied staan centraal."
+                    "explanation": "In de Kabinetsreactie â€˜Nij Begunâ€™ worden 50 maatregelen genoemd die recht moeten doen bij de aanpak van de gevolgen van de aardbevingsproblematiek. Deze maatregelen moeten als handvat dienen en voortvarend worden opgepakt. De behoefte van mensen in het getroffen gebied staan centraal."
                 }
             },
             {
                 "id": 79591,
                 "position": "disagree",
-                "explanation": "In de komende vier jaar willen we een ambitieuze start maken met een hervorming van het belastingstel. Volgens de rechter wordt vermogen oneerlijk belast. We willen het reële rendement belasten, de tarieven verhogen we niet.",
+                "explanation": "In de komende vier jaar willen we een ambitieuze start maken met een hervorming van het belastingstel. Volgens de rechter wordt vermogen oneerlijk belast. We willen het reÃ«le rendement belasten, de tarieven verhogen we niet.",
                 "accessibility": {
-                    "explanation": "In de komende vier jaar willen we een ambitieuze start maken met een hervorming van het belastingstel. Volgens de rechter wordt vermogen oneerlijk belast. We willen het reële rendement belasten, de tarieven verhogen we niet."
+                    "explanation": "In de komende vier jaar willen we een ambitieuze start maken met een hervorming van het belastingstel. Volgens de rechter wordt vermogen oneerlijk belast. We willen het reÃ«le rendement belasten, de tarieven verhogen we niet."
                 }
             },
             {
@@ -15493,9 +15493,9 @@ export	let parties =[
             {
                 "id": 79655,
                 "position": "disagree",
-                "explanation": "We gaan het gokken op internet verbieden. Het online gokken draagt bij aan de groei van problematische schulden en criminaliteit. We willen dat de regels voor het gokken in casinos en gokhallen strikt gehandhaafd worden. We zijn niet voornemens de leeftijd voor toegang te verhogen naar 24 jaar.",
+                "explanation": "We gaan het gokken op internet verbieden. Het online gokken draagt bij aan de groei van problematische schulden en criminaliteit. We willen dat de regels voor het gokken in casinoâ€™s en gokhallen strikt gehandhaafd worden. We zijn niet voornemens de leeftijd voor toegang te verhogen naar 24 jaar.",
                 "accessibility": {
-                    "explanation": "We gaan het gokken op internet verbieden. Het online gokken draagt bij aan de groei van problematische schulden en criminaliteit. We willen dat de regels voor het gokken in casinos en gokhallen strikt gehandhaafd worden. We zijn niet voornemens de leeftijd voor toegang te verhogen naar 24 jaar."
+                    "explanation": "We gaan het gokken op internet verbieden. Het online gokken draagt bij aan de groei van problematische schulden en criminaliteit. We willen dat de regels voor het gokken in casinoâ€™s en gokhallen strikt gehandhaafd worden. We zijn niet voornemens de leeftijd voor toegang te verhogen naar 24 jaar."
                 }
             },
             {
@@ -15557,9 +15557,9 @@ export	let parties =[
             {
                 "id": 79625,
                 "position": "disagree",
-                "explanation": "We willen eerst kritisch beoordelen hoeveel vluchten er echt nodig zijn voor het behoud van de netwerkkwaliteit van Schiphol. We willen strenge eisen stellen aan geluidhinder en luchtkwaliteit en nachtvluchten verbieden.",
+                "explanation": "We willen eerst kritisch beoordelen hoeveel vluchten er echt nodig zijn voor het behoud van de â€˜netwerkkwaliteitâ€™ van Schiphol. We willen strenge eisen stellen aan geluidhinder en luchtkwaliteit en nachtvluchten verbieden.",
                 "accessibility": {
-                    "explanation": "We willen eerst kritisch beoordelen hoeveel vluchten er echt nodig zijn voor het behoud van de netwerkkwaliteit van Schiphol. We willen strenge eisen stellen aan geluidhinder en luchtkwaliteit en nachtvluchten verbieden."
+                    "explanation": "We willen eerst kritisch beoordelen hoeveel vluchten er echt nodig zijn voor het behoud van de â€˜netwerkkwaliteitâ€™ van Schiphol. We willen strenge eisen stellen aan geluidhinder en luchtkwaliteit en nachtvluchten verbieden."
                 }
             },
             {
@@ -15618,9 +15618,9 @@ export	let parties =[
             {
                 "id": 79611,
                 "position": "agree",
-                "explanation": "Splinter wil dat er strenger controleert wordt op anti-democratisch gedachtengoed in het religieuze onderwijs. We mogen niet naïef zijn en moeten er zeker van te zijn dat er geen waarden aangeleerd worden die haaks staan op onze democratische rechtsstaat en de basis vormen voor radicalisering.",
+                "explanation": "Splinter wil dat er strenger controleert wordt op anti-democratisch gedachtengoed in het religieuze onderwijs. We mogen niet naÃ¯ef zijn en moeten er zeker van te zijn dat er geen waarden aangeleerd worden die haaks staan op onze democratische rechtsstaat en de basis vormen voor radicalisering.",
                 "accessibility": {
-                    "explanation": "Splinter wil dat er strenger controleert wordt op anti-democratisch gedachtengoed in het religieuze onderwijs. We mogen niet naïef zijn en moeten er zeker van te zijn dat er geen waarden aangeleerd worden die haaks staan op onze democratische rechtsstaat en de basis vormen voor radicalisering."
+                    "explanation": "Splinter wil dat er strenger controleert wordt op anti-democratisch gedachtengoed in het religieuze onderwijs. We mogen niet naÃ¯ef zijn en moeten er zeker van te zijn dat er geen waarden aangeleerd worden die haaks staan op onze democratische rechtsstaat en de basis vormen voor radicalisering."
                 }
             },
             {
@@ -15762,9 +15762,9 @@ export	let parties =[
             {
                 "id": 79652,
                 "position": "agree",
-                "explanation": "Splinter vindt dat mensen de vrijheid moeten hebben om hun leven op een menswaardige manier te beëindigen op het moment dat zij vinden dat hun leven voltooid is. Vastgesteld moet worden hoe vaststaand de beslissing is. En we moeten investeren in GGZ, zorg/medische hulp en tegengaan van eenzaamheid.",
+                "explanation": "Splinter vindt dat mensen de vrijheid moeten hebben om hun leven op een menswaardige manier te beÃ«indigen op het moment dat zij vinden dat hun leven voltooid is. Vastgesteld moet worden hoe vaststaand de beslissing is. En we moeten investeren in GGZ, zorg/medische hulp en tegengaan van eenzaamheid.",
                 "accessibility": {
-                    "explanation": "Splinter vindt dat mensen de vrijheid moeten hebben om hun leven op een menswaardige manier te beëindigen op het moment dat zij vinden dat hun leven voltooid is. Vastgesteld moet worden hoe vaststaand de beslissing is. En we moeten investeren in GGZ, zorg/medische hulp en tegengaan van eenzaamheid."
+                    "explanation": "Splinter vindt dat mensen de vrijheid moeten hebben om hun leven op een menswaardige manier te beÃ«indigen op het moment dat zij vinden dat hun leven voltooid is. Vastgesteld moet worden hoe vaststaand de beslissing is. En we moeten investeren in GGZ, zorg/medische hulp en tegengaan van eenzaamheid."
                 }
             },
             {
@@ -15802,9 +15802,9 @@ export	let parties =[
             {
                 "id": 79623,
                 "position": "agree",
-                "explanation": "Om de wooncrisis tegen te gaan moeten we alles op alles zetten om zo snel mogelijk betaalbare woningen te realiseren. Vaak is de natuurwaarde van landbouwgrond (helaas) relatief laag, dus bruikbaar voor woningbouw. Wel wil Splinter duurzaam bouwen en een gezonde groene leefomgeving creëren.",
+                "explanation": "Om de wooncrisis tegen te gaan moeten we alles op alles zetten om zo snel mogelijk betaalbare woningen te realiseren. Vaak is de natuurwaarde van landbouwgrond (helaas) relatief laag, dus bruikbaar voor woningbouw. Wel wil Splinter duurzaam bouwen en een gezonde groene leefomgeving creÃ«ren.",
                 "accessibility": {
-                    "explanation": "Om de wooncrisis tegen te gaan moeten we alles op alles zetten om zo snel mogelijk betaalbare woningen te realiseren. Vaak is de natuurwaarde van landbouwgrond (helaas) relatief laag, dus bruikbaar voor woningbouw. Wel wil Splinter duurzaam bouwen en een gezonde groene leefomgeving creëren."
+                    "explanation": "Om de wooncrisis tegen te gaan moeten we alles op alles zetten om zo snel mogelijk betaalbare woningen te realiseren. Vaak is de natuurwaarde van landbouwgrond (helaas) relatief laag, dus bruikbaar voor woningbouw. Wel wil Splinter duurzaam bouwen en een gezonde groene leefomgeving creÃ«ren."
                 }
             },
             {
@@ -15818,9 +15818,9 @@ export	let parties =[
             {
                 "id": 79640,
                 "position": "agree",
-                "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoönosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter.",
+                "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoÃ¶nosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter.",
                 "accessibility": {
-                    "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoönosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter."
+                    "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoÃ¶nosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter."
                 }
             },
             {
@@ -15868,17 +15868,17 @@ export	let parties =[
             {
                 "id": 79595,
                 "position": "disagree",
-                "explanation": "Splinter is voorstander van het faciliteren van coöperatieve organisaties, maar wil dit niet verplichten. Een ondernemer moet zelf kunnen beslissen of en in welke mate werknemers meedelen in de winst of het verlies.",
+                "explanation": "Splinter is voorstander van het faciliteren van coÃ¶peratieve organisaties, maar wil dit niet verplichten. Een ondernemer moet zelf kunnen beslissen of en in welke mate werknemers meedelen in de winst of het verlies.",
                 "accessibility": {
-                    "explanation": "Splinter is voorstander van het faciliteren van coöperatieve organisaties, maar wil dit niet verplichten. Een ondernemer moet zelf kunnen beslissen of en in welke mate werknemers meedelen in de winst of het verlies."
+                    "explanation": "Splinter is voorstander van het faciliteren van coÃ¶peratieve organisaties, maar wil dit niet verplichten. Een ondernemer moet zelf kunnen beslissen of en in welke mate werknemers meedelen in de winst of het verlies."
                 }
             },
             {
                 "id": 79643,
                 "position": "agree",
-                "explanation": "Subsidies op fossiele energie worden afgeschaft. Recent kwam het duizelingwekkende bedrag van jaarlijks 39,7 tot 46,4 miljard euro aan financiële voordelen voor fossiele bedrijven aan het licht. Dit is weggegooid geld dat ons klimaatbeleid totaal tegenwerkt.",
+                "explanation": "Subsidies op fossiele energie worden afgeschaft. Recent kwam het duizelingwekkende bedrag van jaarlijks 39,7 tot 46,4 miljard euro aan financiÃ«le voordelen voor fossiele bedrijven aan het licht. Dit is weggegooid geld dat ons klimaatbeleid totaal tegenwerkt.",
                 "accessibility": {
-                    "explanation": "Subsidies op fossiele energie worden afgeschaft. Recent kwam het duizelingwekkende bedrag van jaarlijks 39,7 tot 46,4 miljard euro aan financiële voordelen voor fossiele bedrijven aan het licht. Dit is weggegooid geld dat ons klimaatbeleid totaal tegenwerkt."
+                    "explanation": "Subsidies op fossiele energie worden afgeschaft. Recent kwam het duizelingwekkende bedrag van jaarlijks 39,7 tot 46,4 miljard euro aan financiÃ«le voordelen voor fossiele bedrijven aan het licht. Dit is weggegooid geld dat ons klimaatbeleid totaal tegenwerkt."
                 }
             },
             {
@@ -15908,9 +15908,9 @@ export	let parties =[
             {
                 "id": 79628,
                 "position": "agree",
-                "explanation": "Er wordt een eerlijke kilometerheffing ingevoerd. Autos dragen op basis van het aantal gereden kilometers, binnen of buiten de spits, bij aan het onderhoud en de aanleg van infrastructuur. Hierbij tellen kilometers die gereden worden in dunbevolkte gebieden niet mee.",
+                "explanation": "Er wordt een eerlijke kilometerheffing ingevoerd. Autoâ€™s dragen op basis van het aantal gereden kilometers, binnen of buiten de spits, bij aan het onderhoud en de aanleg van infrastructuur. Hierbij tellen kilometers die gereden worden in dunbevolkte gebieden niet mee.",
                 "accessibility": {
-                    "explanation": "Er wordt een eerlijke kilometerheffing ingevoerd. Autos dragen op basis van het aantal gereden kilometers, binnen of buiten de spits, bij aan het onderhoud en de aanleg van infrastructuur. Hierbij tellen kilometers die gereden worden in dunbevolkte gebieden niet mee."
+                    "explanation": "Er wordt een eerlijke kilometerheffing ingevoerd. Autoâ€™s dragen op basis van het aantal gereden kilometers, binnen of buiten de spits, bij aan het onderhoud en de aanleg van infrastructuur. Hierbij tellen kilometers die gereden worden in dunbevolkte gebieden niet mee."
                 }
             },
             {
@@ -15940,25 +15940,25 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "disagree",
-                "explanation": "Geen verplichte arbeidsongeschiktheidsverzekering. Het wordt voor ZZPers wel eenvoudiger om vrijwillig te sparen voor pensioen of zich te verzekeren. ZZPers krijgen toegang tot een (collectieve) arbeidsongeschiktheids- en pensioenverzekering als zij dit wensen.",
+                "explanation": "Geen verplichte arbeidsongeschiktheidsverzekering. Het wordt voor ZZPâ€™ers wel eenvoudiger om vrijwillig te sparen voor pensioen of zich te verzekeren. ZZPâ€™ers krijgen toegang tot een (collectieve) arbeidsongeschiktheids- en pensioenverzekering als zij dit wensen.",
                 "accessibility": {
-                    "explanation": "Geen verplichte arbeidsongeschiktheidsverzekering. Het wordt voor ZZPers wel eenvoudiger om vrijwillig te sparen voor pensioen of zich te verzekeren. ZZPers krijgen toegang tot een (collectieve) arbeidsongeschiktheids- en pensioenverzekering als zij dit wensen."
+                    "explanation": "Geen verplichte arbeidsongeschiktheidsverzekering. Het wordt voor ZZPâ€™ers wel eenvoudiger om vrijwillig te sparen voor pensioen of zich te verzekeren. ZZPâ€™ers krijgen toegang tot een (collectieve) arbeidsongeschiktheids- en pensioenverzekering als zij dit wensen."
                 }
             },
             {
                 "id": 79645,
                 "position": "disagree",
-                "explanation": "De wolf is terug in Nederland en wat Splinter betreft van harte welkom. Boeren en andere houders van dieren worden geïnformeerd en van overheidswege geholpen om hun dieren te beschermen tegen wolven. Indien wolven aantoonbaar schade toebrengen, wordt dit ruimhartig vergoedt. Jachtverbod blijft.",
+                "explanation": "De wolf is terug in Nederland en wat Splinter betreft van harte welkom. Boeren en andere houders van dieren worden geÃ¯nformeerd en van overheidswege geholpen om hun dieren te beschermen tegen wolven. Indien wolven aantoonbaar schade toebrengen, wordt dit ruimhartig vergoedt. Jachtverbod blijft.",
                 "accessibility": {
-                    "explanation": "De wolf is terug in Nederland en wat Splinter betreft van harte welkom. Boeren en andere houders van dieren worden geïnformeerd en van overheidswege geholpen om hun dieren te beschermen tegen wolven. Indien wolven aantoonbaar schade toebrengen, wordt dit ruimhartig vergoedt. Jachtverbod blijft."
+                    "explanation": "De wolf is terug in Nederland en wat Splinter betreft van harte welkom. Boeren en andere houders van dieren worden geÃ¯nformeerd en van overheidswege geholpen om hun dieren te beschermen tegen wolven. Indien wolven aantoonbaar schade toebrengen, wordt dit ruimhartig vergoedt. Jachtverbod blijft."
                 }
             },
             {
                 "id": 79598,
                 "position": "agree",
-                "explanation": "De AOW moet wel geïndexeerd worden om onder andere te compenseren voor de inflatie, maar automatisch koppelen aan de stijging van het minimumloon geeft bij de huidige voorgenomen stijging naar ¬16,- een te grote druk op de begroting.",
+                "explanation": "De AOW moet wel geÃ¯ndexeerd worden om onder andere te compenseren voor de inflatie, maar automatisch koppelen aan de stijging van het minimumloon geeft bij de huidige voorgenomen stijging naar â‚¬16,- een te grote druk op de begroting.",
                 "accessibility": {
-                    "explanation": "De AOW moet wel geïndexeerd worden om onder andere te compenseren voor de inflatie, maar automatisch koppelen aan de stijging van het minimumloon geeft bij de huidige voorgenomen stijging naar ¬16,- een te grote druk op de begroting."
+                    "explanation": "De AOW moet wel geÃ¯ndexeerd worden om onder andere te compenseren voor de inflatie, maar automatisch koppelen aan de stijging van het minimumloon geeft bij de huidige voorgenomen stijging naar â‚¬16,- een te grote druk op de begroting."
                 }
             },
             {
@@ -16076,9 +16076,9 @@ export	let parties =[
             {
                 "id": 79586,
                 "position": "disagree",
-                "explanation": "Bij het gebruik van dit soort middelen, zoals een lokagent, mag er geen situatie worden gecreëerd die er normaal niet is en daarmee een delict uitlokken. Ook bestaat het gevaar op stigmatisering, wat een averechts effect kan hebben op het tegengaan van racisme en discriminatie.",
+                "explanation": "Bij het gebruik van dit soort middelen, zoals een lokagent, mag er geen situatie worden gecreÃ«erd die er normaal niet is en daarmee een delict uitlokken. Ook bestaat het gevaar op stigmatisering, wat een averechts effect kan hebben op het tegengaan van racisme en discriminatie.",
                 "accessibility": {
-                    "explanation": "Bij het gebruik van dit soort middelen, zoals een lokagent, mag er geen situatie worden gecreëerd die er normaal niet is en daarmee een delict uitlokken. Ook bestaat het gevaar op stigmatisering, wat een averechts effect kan hebben op het tegengaan van racisme en discriminatie."
+                    "explanation": "Bij het gebruik van dit soort middelen, zoals een lokagent, mag er geen situatie worden gecreÃ«erd die er normaal niet is en daarmee een delict uitlokken. Ook bestaat het gevaar op stigmatisering, wat een averechts effect kan hebben op het tegengaan van racisme en discriminatie."
                 }
             },
             {
@@ -16140,9 +16140,9 @@ export	let parties =[
             {
                 "id": 79651,
                 "position": "agree",
-                "explanation": "Gemeenten krijgen nu veel te weinig geld voor hun taken, zoals bijvoorbeeld voor jeugdzorg. Rijksoverheid moet die kosten volledig betalen. Decentralisatie naar gemeenten van belangrijke zorgonderdelen, zoals wmo, pgb en jeugdzorg wordt geëvalueerd en centrale regie wordt heroverwogen. ",
+                "explanation": "Gemeenten krijgen nu veel te weinig geld voor hun taken, zoals bijvoorbeeld voor jeugdzorg. Rijksoverheid moet die kosten volledig betalen. Decentralisatie naar gemeenten van belangrijke zorgonderdelen, zoals wmo, pgb en jeugdzorg wordt geÃ«valueerd en centrale regie wordt heroverwogen. ",
                 "accessibility": {
-                    "explanation": "Gemeenten krijgen nu veel te weinig geld voor hun taken, zoals bijvoorbeeld voor jeugdzorg. Rijksoverheid moet die kosten volledig betalen. Decentralisatie naar gemeenten van belangrijke zorgonderdelen, zoals wmo, pgb en jeugdzorg wordt geëvalueerd en centrale regie wordt heroverwogen."
+                    "explanation": "Gemeenten krijgen nu veel te weinig geld voor hun taken, zoals bijvoorbeeld voor jeugdzorg. Rijksoverheid moet die kosten volledig betalen. Decentralisatie naar gemeenten van belangrijke zorgonderdelen, zoals wmo, pgb en jeugdzorg wordt geÃ«valueerd en centrale regie wordt heroverwogen."
                 }
             },
             {
@@ -16236,9 +16236,9 @@ export	let parties =[
             {
                 "id": 79575,
                 "position": "agree",
-                "explanation": "Splinter wil efficiënte afhandeling van de schade in Groningen. Burgers moeten daarbij niet onnodig belast worden met bureaucratie. De overheid moet werken vanuit vertrouwen, niet vanuit wantrouwen. De schadeafhandeling duurt nu al veel te lang. Laat er een einde komen aan juridisch getouwtrek!",
+                "explanation": "Splinter wil efficiÃ«nte afhandeling van de schade in Groningen. Burgers moeten daarbij niet onnodig belast worden met bureaucratie. De overheid moet werken vanuit vertrouwen, niet vanuit wantrouwen. De schadeafhandeling duurt nu al veel te lang. Laat er een einde komen aan juridisch getouwtrek!",
                 "accessibility": {
-                    "explanation": "Splinter wil efficiënte afhandeling van de schade in Groningen. Burgers moeten daarbij niet onnodig belast worden met bureaucratie. De overheid moet werken vanuit vertrouwen, niet vanuit wantrouwen. De schadeafhandeling duurt nu al veel te lang. Laat er een einde komen aan juridisch getouwtrek!"
+                    "explanation": "Splinter wil efficiÃ«nte afhandeling van de schade in Groningen. Burgers moeten daarbij niet onnodig belast worden met bureaucratie. De overheid moet werken vanuit vertrouwen, niet vanuit wantrouwen. De schadeafhandeling duurt nu al veel te lang. Laat er een einde komen aan juridisch getouwtrek!"
                 }
             },
             {
@@ -16268,9 +16268,9 @@ export	let parties =[
             {
                 "id": 79576,
                 "position": "agree",
-                "explanation": "Koning Willem-Alexander, koningin Máxima, prinses Beatrix en prinses Amalia gaan net als iedereen belasting betalen over hun persoonlijke inkomen, net als de andere leden van het Koningshuis. Zij hebben een voorbeeldfunctie en een taak om bij te dragen aan de bestaanszekerheid van NL'se burgers.",
+                "explanation": "Koning Willem-Alexander, koningin MÃ¡xima, prinses Beatrix en prinses Amalia gaan net als iedereen belasting betalen over hun persoonlijke inkomen, net als de andere leden van het Koningshuis. Zij hebben een voorbeeldfunctie en een taak om bij te dragen aan de bestaanszekerheid van NL'se burgers.",
                 "accessibility": {
-                    "explanation": "Koning Willem-Alexander, koningin Máxima, prinses Beatrix en prinses Amalia gaan net als iedereen belasting betalen over hun persoonlijke inkomen, net als de andere leden van het Koningshuis. Zij hebben een voorbeeldfunctie en een taak om bij te dragen aan de bestaanszekerheid van NL'se burgers."
+                    "explanation": "Koning Willem-Alexander, koningin MÃ¡xima, prinses Beatrix en prinses Amalia gaan net als iedereen belasting betalen over hun persoonlijke inkomen, net als de andere leden van het Koningshuis. Zij hebben een voorbeeldfunctie en een taak om bij te dragen aan de bestaanszekerheid van NL'se burgers."
                 }
             },
             {
@@ -16284,9 +16284,9 @@ export	let parties =[
             {
                 "id": 79608,
                 "position": "agree",
-                "explanation": "Unieke programmas die de cultuur verrijken moeten binnen de omroep meer budget krijgen. Net zoals (onderzoeks)journalistieke programmas. Wanneer je een gezonde mix maakt van kwalitatief goede programmas en goede reclameverkopen, kan er minder geld vanuit de overheid richting de publieke omroep.",
+                "explanation": "Unieke programmaâ€™s die de cultuur verrijken moeten binnen de omroep meer budget krijgen. Net zoals (onderzoeks)journalistieke programmaâ€™s. Wanneer je een gezonde mix maakt van kwalitatief goede programmaâ€™s en goede reclameverkopen, kan er minder geld vanuit de overheid richting de publieke omroep.",
                 "accessibility": {
-                    "explanation": "Unieke programmas die de cultuur verrijken moeten binnen de omroep meer budget krijgen. Net zoals (onderzoeks)journalistieke programmas. Wanneer je een gezonde mix maakt van kwalitatief goede programmas en goede reclameverkopen, kan er minder geld vanuit de overheid richting de publieke omroep."
+                    "explanation": "Unieke programmaâ€™s die de cultuur verrijken moeten binnen de omroep meer budget krijgen. Net zoals (onderzoeks)journalistieke programmaâ€™s. Wanneer je een gezonde mix maakt van kwalitatief goede programmaâ€™s en goede reclameverkopen, kan er minder geld vanuit de overheid richting de publieke omroep."
                 }
             },
             {
@@ -16393,9 +16393,9 @@ export	let parties =[
             {
                 "id": 79627,
                 "position": "disagree",
-                "explanation": "Alle belastingen, waaronder die voor vliegen, moeten worden afgeschaft. De Libertaire Partij is tegen iedere vorm van gedragsbeïnvloeding door de overheid.",
+                "explanation": "Alle belastingen, waaronder die voor vliegen, moeten worden afgeschaft. De Libertaire Partij is tegen iedere vorm van gedragsbeÃ¯nvloeding door de overheid.",
                 "accessibility": {
-                    "explanation": "Alle belastingen, waaronder die voor vliegen, moeten worden afgeschaft. De Libertaire Partij is tegen iedere vorm van gedragsbeïnvloeding door de overheid."
+                    "explanation": "Alle belastingen, waaronder die voor vliegen, moeten worden afgeschaft. De Libertaire Partij is tegen iedere vorm van gedragsbeÃ¯nvloeding door de overheid."
                 }
             },
             {
@@ -16545,9 +16545,9 @@ export	let parties =[
             {
                 "id": 79590,
                 "position": "disagree",
-                "explanation": "De Libertaire partij schaft directe belasting op loon, winst en vermogen af. Wij streven naar een kleine overheid, die bestaat uit een aantal essentiële functies. De kosten voor deze nachtwakersstaat worden per factuur voldaan.",
+                "explanation": "De Libertaire partij schaft directe belasting op loon, winst en vermogen af. Wij streven naar een kleine overheid, die bestaat uit een aantal essentiÃ«le functies. De kosten voor deze â€˜nachtwakersstaatâ€™ worden per factuur voldaan.",
                 "accessibility": {
-                    "explanation": "De Libertaire partij schaft directe belasting op loon, winst en vermogen af. Wij streven naar een kleine overheid, die bestaat uit een aantal essentiële functies. De kosten voor deze nachtwakersstaat worden per factuur voldaan."
+                    "explanation": "De Libertaire partij schaft directe belasting op loon, winst en vermogen af. Wij streven naar een kleine overheid, die bestaat uit een aantal essentiÃ«le functies. De kosten voor deze â€˜nachtwakersstaatâ€™ worden per factuur voldaan."
                 }
             },
             {
@@ -16675,9 +16675,9 @@ export	let parties =[
             {
                 "id": 79628,
                 "position": "disagree",
-                "explanation": "De Libertaire Partij is tegen een nationale kilometerheffing omdat de overheid geen gedrag mag beïnvloeden.",
+                "explanation": "De Libertaire Partij is tegen een nationale kilometerheffing omdat de overheid geen gedrag mag beÃ¯nvloeden.",
                 "accessibility": {
-                    "explanation": "De Libertaire Partij is tegen een nationale kilometerheffing omdat de overheid geen gedrag mag beïnvloeden."
+                    "explanation": "De Libertaire Partij is tegen een nationale kilometerheffing omdat de overheid geen gedrag mag beÃ¯nvloeden."
                 }
             },
             {
@@ -16907,17 +16907,17 @@ export	let parties =[
             {
                 "id": 79651,
                 "position": "disagree",
-                "explanation": "De Libertaire Partij pleit voor decentralisatie en lokale verantwoordelijkheid in de jeugdzorg. Wij geloven dat particuliere initiatieven en financiering efficiëntere dienstverlening bieden dan de overheid, die duur, ondoelmatig en ineffectief is gebleken.",
+                "explanation": "De Libertaire Partij pleit voor decentralisatie en lokale verantwoordelijkheid in de jeugdzorg. Wij geloven dat particuliere initiatieven en financiering efficiÃ«ntere dienstverlening bieden dan de overheid, die duur, ondoelmatig en ineffectief is gebleken.",
                 "accessibility": {
-                    "explanation": "De Libertaire Partij pleit voor decentralisatie en lokale verantwoordelijkheid in de jeugdzorg. Wij geloven dat particuliere initiatieven en financiering efficiëntere dienstverlening bieden dan de overheid, die duur, ondoelmatig en ineffectief is gebleken."
+                    "explanation": "De Libertaire Partij pleit voor decentralisatie en lokale verantwoordelijkheid in de jeugdzorg. Wij geloven dat particuliere initiatieven en financiering efficiÃ«ntere dienstverlening bieden dan de overheid, die duur, ondoelmatig en ineffectief is gebleken."
                 }
             },
             {
                 "id": 79588,
                 "position": "disagree",
-                "explanation": "De Libertaire partij schaft directe belasting op loon, winst en vermogen af. Wij steven naar een kleine overheid, die bestaat uit een aantal essentiële functies. De kosten voor deze nachtwakersstaat worden per factuur voldaan.\r\n",
+                "explanation": "De Libertaire partij schaft directe belasting op loon, winst en vermogen af. Wij steven naar een kleine overheid, die bestaat uit een aantal essentiÃ«le functies. De kosten voor deze â€˜nachtwakersstaatâ€™ worden per factuur voldaan.\r\n",
                 "accessibility": {
-                    "explanation": "De Libertaire partij schaft directe belasting op loon, winst en vermogen af. Wij steven naar een kleine overheid, die bestaat uit een aantal essentiële functies. De kosten voor deze nachtwakersstaat worden per factuur voldaan."
+                    "explanation": "De Libertaire partij schaft directe belasting op loon, winst en vermogen af. Wij steven naar een kleine overheid, die bestaat uit een aantal essentiÃ«le functies. De kosten voor deze â€˜nachtwakersstaatâ€™ worden per factuur voldaan."
                 }
             },
             {
@@ -16971,9 +16971,9 @@ export	let parties =[
             {
                 "id": 79653,
                 "position": "agree",
-                "explanation": "Er bestaan verschillende opvattingen over wanneer een foetus als een mens moet worden beschouwd. De Libertaire Partij beschouwt het beëindigen van een zwangerschap van een mens als een schending van het Non-Agressie Principe, maar ziet geen grond voor strafrechtelijke vervolging van deze handeling.",
+                "explanation": "Er bestaan verschillende opvattingen over wanneer een foetus als een mens moet worden beschouwd. De Libertaire Partij beschouwt het beÃ«indigen van een zwangerschap van een mens als een schending van het Non-Agressie Principe, maar ziet geen grond voor strafrechtelijke vervolging van deze handeling.",
                 "accessibility": {
-                    "explanation": "Er bestaan verschillende opvattingen over wanneer een foetus als een mens moet worden beschouwd. De Libertaire Partij beschouwt het beëindigen van een zwangerschap van een mens als een schending van het Non-Agressie Principe, maar ziet geen grond voor strafrechtelijke vervolging van deze handeling."
+                    "explanation": "Er bestaan verschillende opvattingen over wanneer een foetus als een mens moet worden beschouwd. De Libertaire Partij beschouwt het beÃ«indigen van een zwangerschap van een mens als een schending van het Non-Agressie Principe, maar ziet geen grond voor strafrechtelijke vervolging van deze handeling."
                 }
             },
             {
@@ -17011,9 +17011,9 @@ export	let parties =[
             {
                 "id": 79591,
                 "position": "disagree",
-                "explanation": "De Libertaire Partij streeft naar een belastingvrije samenleving waarin de focus ligt op individuele financiële vrijheid en verantwoordelijkheid.",
+                "explanation": "De Libertaire Partij streeft naar een belastingvrije samenleving waarin de focus ligt op individuele financiÃ«le vrijheid en verantwoordelijkheid.",
                 "accessibility": {
-                    "explanation": "De Libertaire Partij streeft naar een belastingvrije samenleving waarin de focus ligt op individuele financiële vrijheid en verantwoordelijkheid."
+                    "explanation": "De Libertaire Partij streeft naar een belastingvrije samenleving waarin de focus ligt op individuele financiÃ«le vrijheid en verantwoordelijkheid."
                 }
             },
             {
@@ -17051,9 +17051,9 @@ export	let parties =[
             {
                 "id": 79608,
                 "position": "agree",
-                "explanation": "De Libertaire Partij beëindigt de financiering van de NPO. De NPO kan zelfstandig opereren of failliet gaan.",
+                "explanation": "De Libertaire Partij beÃ«indigt de financiering van de NPO. De NPO kan zelfstandig opereren of failliet gaan.",
                 "accessibility": {
-                    "explanation": "De Libertaire Partij beëindigt de financiering van de NPO. De NPO kan zelfstandig opereren of failliet gaan."
+                    "explanation": "De Libertaire Partij beÃ«indigt de financiering van de NPO. De NPO kan zelfstandig opereren of failliet gaan."
                 }
             },
             {
@@ -17136,9 +17136,9 @@ export	let parties =[
             {
                 "id": 79594,
                 "position": "disagree",
-                "explanation": "Kernenergie is vervuilend, duur en risicovol. Wat mis kan gaan, gaat ooit mis, toont Fukushima aan. LEF wil niemand opzadelen met kernafval of een kernramp. LEF zet 100% in op energiebesparing (isolatie en afschaffen fossiele subsidies) en op écht duurzame energie zoals zon op daken, wind op zee, bodemwarmte en koud-warmte opslag.",
+                "explanation": "Kernenergie is vervuilend, duur en risicovol. Wat mis kan gaan, gaat ooit mis, toont Fukushima aan. LEF wil niemand opzadelen met kernafval of een kernramp. LEF zet 100% in op energiebesparing (isolatie en afschaffen fossiele subsidies) en op Ã©cht duurzame energie zoals zon op daken, wind op zee, bodemwarmte en koud-warmte opslag.",
                 "accessibility": {
-                    "explanation": "Kernenergie is vervuilend, duur en risicovol. Wat mis kan gaan, gaat ooit mis, toont Fukushima aan. LEF wil niemand opzadelen met kernafval of een kernramp. LEF zet 100% in op energiebesparing (isolatie en afschaffen fossiele subsidies) en op écht duurzame energie zoals zon op daken, wind op zee, bodemwarmte en koud-warmte opslag."
+                    "explanation": "Kernenergie is vervuilend, duur en risicovol. Wat mis kan gaan, gaat ooit mis, toont Fukushima aan. LEF wil niemand opzadelen met kernafval of een kernramp. LEF zet 100% in op energiebesparing (isolatie en afschaffen fossiele subsidies) en op Ã©cht duurzame energie zoals zon op daken, wind op zee, bodemwarmte en koud-warmte opslag."
                 }
             },
             {
@@ -17168,9 +17168,9 @@ export	let parties =[
             {
                 "id": 79596,
                 "position": "agree",
-                "explanation": "Van een minimumloon kan je niet rondkomen. 16 euro is een goede start maar biedt nog geen bestaansminimum. LEF wil gelijk loon voor gelijk werk, afschaffing van het jeugdloon en de invoering van een basisinkomen van ¬1550 per persoon per maand. Een universeel basisinkomen is échte bestaanszekerheid.",
+                "explanation": "Van een minimumloon kan je niet rondkomen. 16 euro is een goede start maar biedt nog geen bestaansminimum. LEF wil gelijk loon voor gelijk werk, afschaffing van het jeugdloon en de invoering van een basisinkomen van â‚¬1550 per persoon per maand. Een universeel basisinkomen is Ã©chte bestaanszekerheid.",
                 "accessibility": {
-                    "explanation": "Van een minimumloon kan je niet rondkomen. 16 euro is een goede start maar biedt nog geen bestaansminimum. LEF wil gelijk loon voor gelijk werk, afschaffing van het jeugdloon en de invoering van een basisinkomen van ¬1550 per persoon per maand. Een universeel basisinkomen is échte bestaanszekerheid."
+                    "explanation": "Van een minimumloon kan je niet rondkomen. 16 euro is een goede start maar biedt nog geen bestaansminimum. LEF wil gelijk loon voor gelijk werk, afschaffing van het jeugdloon en de invoering van een basisinkomen van â‚¬1550 per persoon per maand. Een universeel basisinkomen is Ã©chte bestaanszekerheid."
                 }
             },
             {
@@ -17208,9 +17208,9 @@ export	let parties =[
             {
                 "id": 79614,
                 "position": "agree",
-                "explanation": "Nederland en Suriname zijn door het verleden onlosmakelijk verbonden zowel in de cultuur als de bevolking. Er is een grote groep Surinamers in Nederland. Het is zó onrechtvaardig om Surinamers niet direct toegang te geven tot Nederland. Laten we dat wel doen.",
+                "explanation": "Nederland en Suriname zijn door het verleden onlosmakelijk verbonden zowel in de cultuur als de bevolking. Er is een grote groep Surinamers in Nederland. Het is zÃ³ onrechtvaardig om Surinamers niet direct toegang te geven tot Nederland. Laten we dat wel doen.",
                 "accessibility": {
-                    "explanation": "Nederland en Suriname zijn door het verleden onlosmakelijk verbonden zowel in de cultuur als de bevolking. Er is een grote groep Surinamers in Nederland. Het is zó onrechtvaardig om Surinamers niet direct toegang te geven tot Nederland. Laten we dat wel doen."
+                    "explanation": "Nederland en Suriname zijn door het verleden onlosmakelijk verbonden zowel in de cultuur als de bevolking. Er is een grote groep Surinamers in Nederland. Het is zÃ³ onrechtvaardig om Surinamers niet direct toegang te geven tot Nederland. Laten we dat wel doen."
                 }
             },
             {
@@ -17224,9 +17224,9 @@ export	let parties =[
             {
                 "id": 79599,
                 "position": "agree",
-                "explanation": "Mensen worden nu gekort op hun uitkering als ze gaan samenwonen. Daardoor worden onnodig veel woningen bezet. LEF wil alle toeslagen en uitkeringen vervangen met een basisinkomen van ¬1550 per persoon pet maand. Daardoor kunnen mensen probleemloos samenwonen en is de woningnood in één klap opgelost.",
+                "explanation": "Mensen worden nu gekort op hun uitkering als ze gaan samenwonen. Daardoor worden onnodig veel woningen bezet. LEF wil alle toeslagen en uitkeringen vervangen met een basisinkomen van â‚¬1550 per persoon pet maand. Daardoor kunnen mensen probleemloos samenwonen en is de woningnood in Ã©Ã©n klap opgelost.",
                 "accessibility": {
-                    "explanation": "Mensen worden nu gekort op hun uitkering als ze gaan samenwonen. Daardoor worden onnodig veel woningen bezet. LEF wil alle toeslagen en uitkeringen vervangen met een basisinkomen van ¬1550 per persoon pet maand. Daardoor kunnen mensen probleemloos samenwonen en is de woningnood in één klap opgelost."
+                    "explanation": "Mensen worden nu gekort op hun uitkering als ze gaan samenwonen. Daardoor worden onnodig veel woningen bezet. LEF wil alle toeslagen en uitkeringen vervangen met een basisinkomen van â‚¬1550 per persoon pet maand. Daardoor kunnen mensen probleemloos samenwonen en is de woningnood in Ã©Ã©n klap opgelost."
                 }
             },
             {
@@ -17312,9 +17312,9 @@ export	let parties =[
             {
                 "id": 79590,
                 "position": "agree",
-                "explanation": "LEF wil de belasting op arbeid verlagen en de belasting op vermogen omhoog. De sterke schouders zouden de zwaarste lasten moeten dragen. De belastingvrije voet van 57.000 voor individuen en 114.000 voor huishoudens is oké. Daarna mag het tarief geleidelijk omhoog.",
+                "explanation": "LEF wil de belasting op arbeid verlagen en de belasting op vermogen omhoog. De sterke schouders zouden de zwaarste lasten moeten dragen. De belastingvrije voet van 57.000 voor individuen en 114.000 voor huishoudens is okÃ©. Daarna mag het tarief geleidelijk omhoog.",
                 "accessibility": {
-                    "explanation": "LEF wil de belasting op arbeid verlagen en de belasting op vermogen omhoog. De sterke schouders zouden de zwaarste lasten moeten dragen. De belastingvrije voet van 57.000 voor individuen en 114.000 voor huishoudens is oké. Daarna mag het tarief geleidelijk omhoog."
+                    "explanation": "LEF wil de belasting op arbeid verlagen en de belasting op vermogen omhoog. De sterke schouders zouden de zwaarste lasten moeten dragen. De belastingvrije voet van 57.000 voor individuen en 114.000 voor huishoudens is okÃ©. Daarna mag het tarief geleidelijk omhoog."
                 }
             },
             {
@@ -17336,9 +17336,9 @@ export	let parties =[
             {
                 "id": 79623,
                 "position": "neither",
-                "explanation": "Het is niet óf óf. Er zijn heel veel leegstaande boerderijen. Het moet makkelijker worden om boerderijen om te bouwen naar woningen. Daardoor loopt het platteland niet leeg en helpen we woningzoekende mensen aan hun droomhuis.",
+                "explanation": "Het is niet Ã³f Ã³f. Er zijn heel veel leegstaande boerderijen. Het moet makkelijker worden om boerderijen om te bouwen naar woningen. Daardoor loopt het platteland niet leeg en helpen we woningzoekende mensen aan hun droomhuis.",
                 "accessibility": {
-                    "explanation": "Het is niet óf óf. Er zijn heel veel leegstaande boerderijen. Het moet makkelijker worden om boerderijen om te bouwen naar woningen. Daardoor loopt het platteland niet leeg en helpen we woningzoekende mensen aan hun droomhuis."
+                    "explanation": "Het is niet Ã³f Ã³f. Er zijn heel veel leegstaande boerderijen. Het moet makkelijker worden om boerderijen om te bouwen naar woningen. Daardoor loopt het platteland niet leeg en helpen we woningzoekende mensen aan hun droomhuis."
                 }
             },
             {
@@ -17370,9 +17370,9 @@ export	let parties =[
             {
                 "id": 79610,
                 "position": "agree",
-                "explanation": "LEF vindt dat iedere vorm van werk moet lonen. Dus ook stages. We willen een verbod op werkervaringsplekken, dat heet gewoon een junior functie met dito salaris. LEF wil een basisinkomen van ¬1550 per maand zodat het makkelijker wordt om een maatschappelijk jaar te doen of van beroep te wisselen.",
+                "explanation": "LEF vindt dat iedere vorm van werk moet lonen. Dus ook stages. We willen een verbod op werkervaringsplekken, dat heet gewoon een junior functie met dito salaris. LEF wil een basisinkomen van â‚¬1550 per maand zodat het makkelijker wordt om een maatschappelijk jaar te doen of van beroep te wisselen.",
                 "accessibility": {
-                    "explanation": "LEF vindt dat iedere vorm van werk moet lonen. Dus ook stages. We willen een verbod op werkervaringsplekken, dat heet gewoon een junior functie met dito salaris. LEF wil een basisinkomen van ¬1550 per maand zodat het makkelijker wordt om een maatschappelijk jaar te doen of van beroep te wisselen."
+                    "explanation": "LEF vindt dat iedere vorm van werk moet lonen. Dus ook stages. We willen een verbod op werkervaringsplekken, dat heet gewoon een junior functie met dito salaris. LEF wil een basisinkomen van â‚¬1550 per maand zodat het makkelijker wordt om een maatschappelijk jaar te doen of van beroep te wisselen."
                 }
             },
             {
@@ -17474,9 +17474,9 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "agree",
-                "explanation": "LEF wil een basisinkomen van ¬1550 zodat iedereen een basis heeft om op terug te vallen bij arbeidsongeschiktheid. Tot het basisinkomen is ingevoerd is het goed als ZZP'ers niet aan hogere risico's worden blootgesteld dan werknemers met een vast contract. LEF wil meer vast werk en minder flexwerk.",
+                "explanation": "LEF wil een basisinkomen van â‚¬1550 zodat iedereen een basis heeft om op terug te vallen bij arbeidsongeschiktheid. Tot het basisinkomen is ingevoerd is het goed als ZZP'ers niet aan hogere risico's worden blootgesteld dan werknemers met een vast contract. LEF wil meer vast werk en minder flexwerk.",
                 "accessibility": {
-                    "explanation": "LEF wil een basisinkomen van ¬1550 zodat iedereen een basis heeft om op terug te vallen bij arbeidsongeschiktheid. Tot het basisinkomen is ingevoerd is het goed als ZZP'ers niet aan hogere risico's worden blootgesteld dan werknemers met een vast contract. LEF wil meer vast werk en minder flexwerk."
+                    "explanation": "LEF wil een basisinkomen van â‚¬1550 zodat iedereen een basis heeft om op terug te vallen bij arbeidsongeschiktheid. Tot het basisinkomen is ingevoerd is het goed als ZZP'ers niet aan hogere risico's worden blootgesteld dan werknemers met een vast contract. LEF wil meer vast werk en minder flexwerk."
                 }
             },
             {
@@ -17490,17 +17490,17 @@ export	let parties =[
             {
                 "id": 79598,
                 "position": "disagree",
-                "explanation": "Zowel minimumloon en AOW zijn gebonden aan koopkracht. Het is onrechtvaardig om voor de ene groep wel en de andere niet de koopkracht op peil te houden. LEF ziet liever een basisinkomen van ¬1550 per maand, uitbetaald door de Sociale Verzekeringsbank. De AOW wordt daarmee overbodig.",
+                "explanation": "Zowel minimumloon en AOW zijn gebonden aan koopkracht. Het is onrechtvaardig om voor de ene groep wel en de andere niet de koopkracht op peil te houden. LEF ziet liever een basisinkomen van â‚¬1550 per maand, uitbetaald door de Sociale Verzekeringsbank. De AOW wordt daarmee overbodig.",
                 "accessibility": {
-                    "explanation": "Zowel minimumloon en AOW zijn gebonden aan koopkracht. Het is onrechtvaardig om voor de ene groep wel en de andere niet de koopkracht op peil te houden. LEF ziet liever een basisinkomen van ¬1550 per maand, uitbetaald door de Sociale Verzekeringsbank. De AOW wordt daarmee overbodig."
+                    "explanation": "Zowel minimumloon en AOW zijn gebonden aan koopkracht. Het is onrechtvaardig om voor de ene groep wel en de andere niet de koopkracht op peil te houden. LEF ziet liever een basisinkomen van â‚¬1550 per maand, uitbetaald door de Sociale Verzekeringsbank. De AOW wordt daarmee overbodig."
                 }
             },
             {
                 "id": 79630,
                 "position": "disagree",
-                "explanation": "Hogere maximum snelheden leiden tot meer verkeersdoden, ook bij andere weggebruikers. LEF wil dat verkeersboetes inkomensafhankelijk worden. Een boete moet niet een vast bedrag zijn maar een percentage, zoals ze in Zwitserland doen. Bij een verkeersboete van ¬80.000 houdt je je sneller aan de regels",
+                "explanation": "Hogere maximum snelheden leiden tot meer verkeersdoden, ook bij andere weggebruikers. LEF wil dat verkeersboetes inkomensafhankelijk worden. Een boete moet niet een vast bedrag zijn maar een percentage, zoals ze in Zwitserland doen. Bij een verkeersboete van â‚¬80.000 houdt je je sneller aan de regels",
                 "accessibility": {
-                    "explanation": "Hogere maximum snelheden leiden tot meer verkeersdoden, ook bij andere weggebruikers. LEF wil dat verkeersboetes inkomensafhankelijk worden. Een boete moet niet een vast bedrag zijn maar een percentage, zoals ze in Zwitserland doen. Bij een verkeersboete van ¬80.000 houdt je je sneller aan de regels"
+                    "explanation": "Hogere maximum snelheden leiden tot meer verkeersdoden, ook bij andere weggebruikers. LEF wil dat verkeersboetes inkomensafhankelijk worden. Een boete moet niet een vast bedrag zijn maar een percentage, zoals ze in Zwitserland doen. Bij een verkeersboete van â‚¬80.000 houdt je je sneller aan de regels"
                 }
             },
             {
@@ -17514,9 +17514,9 @@ export	let parties =[
             {
                 "id": 79583,
                 "position": "disagree",
-                "explanation": "Gezichtsherkenning via camera's is een onwenselijke ontwikkeling. Burgers raken steeds meer privacy kwijt door een wantrouwende overheid die steeds meer data verzamelt. Laten we vaker uitgaan van vertrouwen in de medemens. Financiële recherche is een betere opsporingsmethode; always follow the money",
+                "explanation": "Gezichtsherkenning via camera's is een onwenselijke ontwikkeling. Burgers raken steeds meer privacy kwijt door een wantrouwende overheid die steeds meer data verzamelt. Laten we vaker uitgaan van vertrouwen in de medemens. FinanciÃ«le recherche is een betere opsporingsmethode; always follow the money",
                 "accessibility": {
-                    "explanation": "Gezichtsherkenning via camera's is een onwenselijke ontwikkeling. Burgers raken steeds meer privacy kwijt door een wantrouwende overheid die steeds meer data verzamelt. Laten we vaker uitgaan van vertrouwen in de medemens. Financiële recherche is een betere opsporingsmethode; always follow the money"
+                    "explanation": "Gezichtsherkenning via camera's is een onwenselijke ontwikkeling. Burgers raken steeds meer privacy kwijt door een wantrouwende overheid die steeds meer data verzamelt. Laten we vaker uitgaan van vertrouwen in de medemens. FinanciÃ«le recherche is een betere opsporingsmethode; always follow the money"
                 }
             },
             {
@@ -17554,9 +17554,9 @@ export	let parties =[
             {
                 "id": 79584,
                 "position": "agree",
-                "explanation": "Het recht op privacy is een goed recht, sociale media zijn privé. De overheid zou dus nooit gegevens van sociale media mogen gebruiken om mensen op te sporen.",
+                "explanation": "Het recht op privacy is een goed recht, sociale media zijn privÃ©. De overheid zou dus nooit gegevens van sociale media mogen gebruiken om mensen op te sporen.",
                 "accessibility": {
-                    "explanation": "Het recht op privacy is een goed recht, sociale media zijn privé. De overheid zou dus nooit gegevens van sociale media mogen gebruiken om mensen op te sporen."
+                    "explanation": "Het recht op privacy is een goed recht, sociale media zijn privÃ©. De overheid zou dus nooit gegevens van sociale media mogen gebruiken om mensen op te sporen."
                 }
             },
             {
@@ -17674,9 +17674,9 @@ export	let parties =[
             {
                 "id": 79651,
                 "position": "agree",
-                "explanation": "Jeugdzorg vergt maatwerk. In verschillende regios speelt verschillende problematiek. Gemeentes van deze regios zouden zonder pardon altijd genoeg financiën moeten hebben om gepast maatwerk te leveren in hun regio. Zij zouden zich volgens LEF dus ook niet druk moeten maken om deze financiering. De regering moet alles betalen.",
+                "explanation": "Jeugdzorg vergt maatwerk. In verschillende regioâ€™s speelt verschillende problematiek. Gemeentes van deze regioâ€™s zouden zonder pardon altijd genoeg financiÃ«n moeten hebben om gepast maatwerk te leveren in hun regio. Zij zouden zich volgens LEF dus ook niet druk moeten maken om deze financiering. De regering moet alles betalen.",
                 "accessibility": {
-                    "explanation": "Jeugdzorg vergt maatwerk. In verschillende regios speelt verschillende problematiek. Gemeentes van deze regios zouden zonder pardon altijd genoeg financiën moeten hebben om gepast maatwerk te leveren in hun regio. Zij zouden zich volgens LEF dus ook niet druk moeten maken om deze financiering. De regering moet alles betalen."
+                    "explanation": "Jeugdzorg vergt maatwerk. In verschillende regioâ€™s speelt verschillende problematiek. Gemeentes van deze regioâ€™s zouden zonder pardon altijd genoeg financiÃ«n moeten hebben om gepast maatwerk te leveren in hun regio. Zij zouden zich volgens LEF dus ook niet druk moeten maken om deze financiering. De regering moet alles betalen."
                 }
             },
             {
@@ -17778,9 +17778,9 @@ export	let parties =[
             {
                 "id": 79591,
                 "position": "agree",
-                "explanation": "Een caissière mag niet meer belasting betalen dan een miljonair. Wat LEF betreft mag de vermogensbelasting ook 2% extra zijn. Daardoor betalen de rijken eindelijk een eerlijk aandeel.",
+                "explanation": "Een caissiÃ¨re mag niet meer belasting betalen dan een miljonair. Wat LEF betreft mag de vermogensbelasting ook 2% extra zijn. Daardoor betalen de rijken eindelijk een eerlijk aandeel.",
                 "accessibility": {
-                    "explanation": "Een caissière mag niet meer belasting betalen dan een miljonair. Wat LEF betreft mag de vermogensbelasting ook 2% extra zijn. Daardoor betalen de rijken eindelijk een eerlijk aandeel."
+                    "explanation": "Een caissiÃ¨re mag niet meer belasting betalen dan een miljonair. Wat LEF betreft mag de vermogensbelasting ook 2% extra zijn. Daardoor betalen de rijken eindelijk een eerlijk aandeel."
                 }
             },
             {
@@ -18111,9 +18111,9 @@ export	let parties =[
             {
                 "id": 79639,
                 "position": "agree",
-                "explanation": "Vrije keuze, ook bij de aanschaf van auto's maar niet subsidiëren. ",
+                "explanation": "Vrije keuze, ook bij de aanschaf van auto's maar niet subsidiÃ«ren. ",
                 "accessibility": {
-                    "explanation": "Vrije keuze, ook bij de aanschaf van auto's maar niet subsidiëren."
+                    "explanation": "Vrije keuze, ook bij de aanschaf van auto's maar niet subsidiÃ«ren."
                 }
             },
             {
@@ -18273,9 +18273,9 @@ export	let parties =[
             {
                 "id": 79646,
                 "position": "agree",
-                "explanation": "Niemand mag korting krijgen op belastingen. Hiermee worden uitzonderingsposities gecreëerd.  ",
+                "explanation": "Niemand mag korting krijgen op belastingen. Hiermee worden uitzonderingsposities gecreÃ«erd.  ",
                 "accessibility": {
-                    "explanation": "Niemand mag korting krijgen op belastingen. Hiermee worden uitzonderingsposities gecreëerd."
+                    "explanation": "Niemand mag korting krijgen op belastingen. Hiermee worden uitzonderingsposities gecreÃ«erd."
                 }
             },
             {
@@ -18321,9 +18321,9 @@ export	let parties =[
             {
                 "id": 79584,
                 "position": "agree",
-                "explanation": "Gegevens moeten altijd privé blijven. Privacy moet te allen tijde gewaarborgd zijn. Als sociale media helpen om misdrijven en misdaden op te sporen dan is dit geoorloofd, dit betreft openbaar film materiaal.",
+                "explanation": "Gegevens moeten altijd privÃ© blijven. Privacy moet te allen tijde gewaarborgd zijn. Als sociale media helpen om misdrijven en misdaden op te sporen dan is dit geoorloofd, dit betreft openbaar film materiaal.",
                 "accessibility": {
-                    "explanation": "Gegevens moeten altijd privé blijven. Privacy moet te allen tijde gewaarborgd zijn. Als sociale media helpen om misdrijven en misdaden op te sporen dan is dit geoorloofd, dit betreft openbaar film materiaal."
+                    "explanation": "Gegevens moeten altijd privÃ© blijven. Privacy moet te allen tijde gewaarborgd zijn. Als sociale media helpen om misdrijven en misdaden op te sporen dan is dit geoorloofd, dit betreft openbaar film materiaal."
                 }
             },
             {
@@ -18449,9 +18449,9 @@ export	let parties =[
             {
                 "id": 79588,
                 "position": "disagree",
-                "explanation": "Nee, Nederlandse bedrijven betalen genoeg belasting. Wij pleiten juist voor belastingverlaging, met name voor het MKB. Voor grote multinationals die politieke invloeden uitoefenen geldt dat SvN hogere winstbelastingen wél wil onderzoeken.",
+                "explanation": "Nee, Nederlandse bedrijven betalen genoeg belasting. Wij pleiten juist voor belastingverlaging, met name voor het MKB. Voor grote multinationals die politieke invloeden uitoefenen geldt dat SvN hogere winstbelastingen wÃ©l wil onderzoeken.",
                 "accessibility": {
-                    "explanation": "Nee, Nederlandse bedrijven betalen genoeg belasting. Wij pleiten juist voor belastingverlaging, met name voor het MKB. Voor grote multinationals die politieke invloeden uitoefenen geldt dat SvN hogere winstbelastingen wél wil onderzoeken."
+                    "explanation": "Nee, Nederlandse bedrijven betalen genoeg belasting. Wij pleiten juist voor belastingverlaging, met name voor het MKB. Voor grote multinationals die politieke invloeden uitoefenen geldt dat SvN hogere winstbelastingen wÃ©l wil onderzoeken."
                 }
             },
             {
@@ -18670,9 +18670,9 @@ export	let parties =[
             {
                 "id": 79594,
                 "position": "agree",
-                "explanation": "De PPvB ziet kernenergie als een middel om Nederland duurzamer te maken. Terwijl we voor uitbreiding van kerncentrales zijn, staat veiligheid altijd centraal. Tegelijkertijd moedigen we onderzoek naar vooruitstrevende technologieën, zoals Thoriumcentrales, aan.",
+                "explanation": "De PPvB ziet kernenergie als een middel om Nederland duurzamer te maken. Terwijl we voor uitbreiding van kerncentrales zijn, staat veiligheid altijd centraal. Tegelijkertijd moedigen we onderzoek naar vooruitstrevende technologieÃ«n, zoals Thoriumcentrales, aan.",
                 "accessibility": {
-                    "explanation": "De PPvB ziet kernenergie als een middel om Nederland duurzamer te maken. Terwijl we voor uitbreiding van kerncentrales zijn, staat veiligheid altijd centraal. Tegelijkertijd moedigen we onderzoek naar vooruitstrevende technologieën, zoals Thoriumcentrales, aan."
+                    "explanation": "De PPvB ziet kernenergie als een middel om Nederland duurzamer te maken. Terwijl we voor uitbreiding van kerncentrales zijn, staat veiligheid altijd centraal. Tegelijkertijd moedigen we onderzoek naar vooruitstrevende technologieÃ«n, zoals Thoriumcentrales, aan."
                 }
             },
             {
@@ -18758,9 +18758,9 @@ export	let parties =[
             {
                 "id": 79599,
                 "position": "agree",
-                "explanation": "De PPvB pleit voor een gelijke uitkering voor iedereen, ongeacht de leefsituatie. Net als ons voorstel voor een geïndividualiseerd basisinkomen, moet iedereen kunnen rekenen op financiële onafhankelijkheid en autonomie.",
+                "explanation": "De PPvB pleit voor een gelijke uitkering voor iedereen, ongeacht de leefsituatie. Net als ons voorstel voor een geÃ¯ndividualiseerd basisinkomen, moet iedereen kunnen rekenen op financiÃ«le onafhankelijkheid en autonomie.",
                 "accessibility": {
-                    "explanation": "De PPvB pleit voor een gelijke uitkering voor iedereen, ongeacht de leefsituatie. Net als ons voorstel voor een geïndividualiseerd basisinkomen, moet iedereen kunnen rekenen op financiële onafhankelijkheid en autonomie."
+                    "explanation": "De PPvB pleit voor een gelijke uitkering voor iedereen, ongeacht de leefsituatie. Net als ons voorstel voor een geÃ¯ndividualiseerd basisinkomen, moet iedereen kunnen rekenen op financiÃ«le onafhankelijkheid en autonomie."
                 }
             },
             {
@@ -18830,9 +18830,9 @@ export	let parties =[
             {
                 "id": 79652,
                 "position": "agree",
-                "explanation": "De PPvB waardeert individuele keuzevrijheid en zelfbeschikking. Bij ingrijpende keuzes, zoals levensbeëindiging, zien wij begeleiding als essentieel en passend bij onze visie op menselijke waardigheid.",
+                "explanation": "De PPvB waardeert individuele keuzevrijheid en zelfbeschikking. Bij ingrijpende keuzes, zoals levensbeÃ«indiging, zien wij begeleiding als essentieel en passend bij onze visie op menselijke waardigheid.",
                 "accessibility": {
-                    "explanation": "De PPvB waardeert individuele keuzevrijheid en zelfbeschikking. Bij ingrijpende keuzes, zoals levensbeëindiging, zien wij begeleiding als essentieel en passend bij onze visie op menselijke waardigheid."
+                    "explanation": "De PPvB waardeert individuele keuzevrijheid en zelfbeschikking. Bij ingrijpende keuzes, zoals levensbeÃ«indiging, zien wij begeleiding als essentieel en passend bij onze visie op menselijke waardigheid."
                 }
             },
             {
@@ -18854,9 +18854,9 @@ export	let parties =[
             {
                 "id": 79622,
                 "position": "disagree",
-                "explanation": "De PPvB benadrukt het belang van stabiele huisvesting. Hoewel huurders keuzes moeten hebben, is het behoud van coöperatiewoningen essentieel voor de woningmarkt. In geval van verkoop zouden huurders echter wat ons betreft voorrang moeten krijgen.",
+                "explanation": "De PPvB benadrukt het belang van stabiele huisvesting. Hoewel huurders keuzes moeten hebben, is het behoud van coÃ¶peratiewoningen essentieel voor de woningmarkt. In geval van verkoop zouden huurders echter wat ons betreft voorrang moeten krijgen.",
                 "accessibility": {
-                    "explanation": "De PPvB benadrukt het belang van stabiele huisvesting. Hoewel huurders keuzes moeten hebben, is het behoud van coöperatiewoningen essentieel voor de woningmarkt. In geval van verkoop zouden huurders echter wat ons betreft voorrang moeten krijgen."
+                    "explanation": "De PPvB benadrukt het belang van stabiele huisvesting. Hoewel huurders keuzes moeten hebben, is het behoud van coÃ¶peratiewoningen essentieel voor de woningmarkt. In geval van verkoop zouden huurders echter wat ons betreft voorrang moeten krijgen."
                 }
             },
             {
@@ -18894,9 +18894,9 @@ export	let parties =[
             {
                 "id": 79609,
                 "position": "agree",
-                "explanation": "Kunst en cultuur vormen essentiële onderdelen van de algehele ontwikkeling van een individu. De PPvB steunt daarom een grotere overheidsinvestering in cultuuronderwijs. Tegelijkertijd vinden we dat scholen opties moeten bieden voor kunstlessen, zodat studenten hun eigen interesses kunnen volgen.",
+                "explanation": "Kunst en cultuur vormen essentiÃ«le onderdelen van de algehele ontwikkeling van een individu. De PPvB steunt daarom een grotere overheidsinvestering in cultuuronderwijs. Tegelijkertijd vinden we dat scholen opties moeten bieden voor kunstlessen, zodat studenten hun eigen interesses kunnen volgen.",
                 "accessibility": {
-                    "explanation": "Kunst en cultuur vormen essentiële onderdelen van de algehele ontwikkeling van een individu. De PPvB steunt daarom een grotere overheidsinvestering in cultuuronderwijs. Tegelijkertijd vinden we dat scholen opties moeten bieden voor kunstlessen, zodat studenten hun eigen interesses kunnen volgen."
+                    "explanation": "Kunst en cultuur vormen essentiÃ«le onderdelen van de algehele ontwikkeling van een individu. De PPvB steunt daarom een grotere overheidsinvestering in cultuuronderwijs. Tegelijkertijd vinden we dat scholen opties moeten bieden voor kunstlessen, zodat studenten hun eigen interesses kunnen volgen."
                 }
             }
         ],
@@ -18904,9 +18904,9 @@ export	let parties =[
             {
                 "id": 79610,
                 "position": "agree",
-                "explanation": "Studenten verdienen waardering voor hun inzet tijdens verplichte stages. De PPvB vindt daarom een minimumvergoeding van ¬500 per maand bespreekbaar. Echter, bij vrijwillige stages of bij kleine bedrijven kan een uitzondering gemaakt worden.",
+                "explanation": "Studenten verdienen waardering voor hun inzet tijdens verplichte stages. De PPvB vindt daarom een minimumvergoeding van â‚¬500 per maand bespreekbaar. Echter, bij vrijwillige stages of bij kleine bedrijven kan een uitzondering gemaakt worden.",
                 "accessibility": {
-                    "explanation": "Studenten verdienen waardering voor hun inzet tijdens verplichte stages. De PPvB vindt daarom een minimumvergoeding van ¬500 per maand bespreekbaar. Echter, bij vrijwillige stages of bij kleine bedrijven kan een uitzondering gemaakt worden."
+                    "explanation": "Studenten verdienen waardering voor hun inzet tijdens verplichte stages. De PPvB vindt daarom een minimumvergoeding van â‚¬500 per maand bespreekbaar. Echter, bij vrijwillige stages of bij kleine bedrijven kan een uitzondering gemaakt worden."
                 }
             },
             {
@@ -18992,9 +18992,9 @@ export	let parties =[
             {
                 "id": 79660,
                 "position": "disagree",
-                "explanation": "De PPvB ziet directe financiële steun niet als de enige oplossing voor arme landen. We prioriteren kennisoverdracht en duurzame partnerschappen om deze landen op de lange termijn te versterken en zelfredzaam te maken.",
+                "explanation": "De PPvB ziet directe financiÃ«le steun niet als de enige oplossing voor arme landen. We prioriteren kennisoverdracht en duurzame partnerschappen om deze landen op de lange termijn te versterken en zelfredzaam te maken.",
                 "accessibility": {
-                    "explanation": "De PPvB ziet directe financiële steun niet als de enige oplossing voor arme landen. We prioriteren kennisoverdracht en duurzame partnerschappen om deze landen op de lange termijn te versterken en zelfredzaam te maken."
+                    "explanation": "De PPvB ziet directe financiÃ«le steun niet als de enige oplossing voor arme landen. We prioriteren kennisoverdracht en duurzame partnerschappen om deze landen op de lange termijn te versterken en zelfredzaam te maken."
                 }
             },
             {
@@ -19008,9 +19008,9 @@ export	let parties =[
             {
                 "id": 79597,
                 "position": "neither",
-                "explanation": "De PPvB erkent de financiële uitdagingen van ZZP'ers. In plaats van een verplichte arbeidsongeschiktheidsverzekering, zien we een basisinkomen als een betere oplossing. Zo waarborgen we financiële zekerheid en behouden ZZP'ers hun keuzevrijheid.",
+                "explanation": "De PPvB erkent de financiÃ«le uitdagingen van ZZP'ers. In plaats van een verplichte arbeidsongeschiktheidsverzekering, zien we een basisinkomen als een betere oplossing. Zo waarborgen we financiÃ«le zekerheid en behouden ZZP'ers hun keuzevrijheid.",
                 "accessibility": {
-                    "explanation": "De PPvB erkent de financiële uitdagingen van ZZP'ers. In plaats van een verplichte arbeidsongeschiktheidsverzekering, zien we een basisinkomen als een betere oplossing. Zo waarborgen we financiële zekerheid en behouden ZZP'ers hun keuzevrijheid."
+                    "explanation": "De PPvB erkent de financiÃ«le uitdagingen van ZZP'ers. In plaats van een verplichte arbeidsongeschiktheidsverzekering, zien we een basisinkomen als een betere oplossing. Zo waarborgen we financiÃ«le zekerheid en behouden ZZP'ers hun keuzevrijheid."
                 }
             },
             {
@@ -19208,9 +19208,9 @@ export	let parties =[
             {
                 "id": 79651,
                 "position": "agree",
-                "explanation": "De PPvB ziet de jeugd als onze toekomst. We streven naar een eenduidig jeugdzorgsysteem waarbij zorgplicht en financiële verantwoordelijkheid hand in hand gaan. Elk kind verdient de beste zorg.",
+                "explanation": "De PPvB ziet de jeugd als onze toekomst. We streven naar een eenduidig jeugdzorgsysteem waarbij zorgplicht en financiÃ«le verantwoordelijkheid hand in hand gaan. Elk kind verdient de beste zorg.",
                 "accessibility": {
-                    "explanation": "De PPvB ziet de jeugd als onze toekomst. We streven naar een eenduidig jeugdzorgsysteem waarbij zorgplicht en financiële verantwoordelijkheid hand in hand gaan. Elk kind verdient de beste zorg."
+                    "explanation": "De PPvB ziet de jeugd als onze toekomst. We streven naar een eenduidig jeugdzorgsysteem waarbij zorgplicht en financiÃ«le verantwoordelijkheid hand in hand gaan. Elk kind verdient de beste zorg."
                 }
             },
             {
@@ -19224,25 +19224,25 @@ export	let parties =[
             {
                 "id": 79604,
                 "position": "disagree",
-                "explanation": "De PPvB erkent het belang van essentiële beroepen zoals zorg en onderwijs. We vinden investeren in opleidingen essentieel, maar willen de kosten ook kritisch evalueren. Daarnaast biedt een basisinkomen ruimte voor omscholing. Ons doel is een holistische benadering van zowel zorg als onderwijs.",
+                "explanation": "De PPvB erkent het belang van essentiÃ«le beroepen zoals zorg en onderwijs. We vinden investeren in opleidingen essentieel, maar willen de kosten ook kritisch evalueren. Daarnaast biedt een basisinkomen ruimte voor omscholing. Ons doel is een holistische benadering van zowel zorg als onderwijs.",
                 "accessibility": {
-                    "explanation": "De PPvB erkent het belang van essentiële beroepen zoals zorg en onderwijs. We vinden investeren in opleidingen essentieel, maar willen de kosten ook kritisch evalueren. Daarnaast biedt een basisinkomen ruimte voor omscholing. Ons doel is een holistische benadering van zowel zorg als onderwijs."
+                    "explanation": "De PPvB erkent het belang van essentiÃ«le beroepen zoals zorg en onderwijs. We vinden investeren in opleidingen essentieel, maar willen de kosten ook kritisch evalueren. Daarnaast biedt een basisinkomen ruimte voor omscholing. Ons doel is een holistische benadering van zowel zorg als onderwijs."
                 }
             },
             {
                 "id": 79620,
                 "position": "agree",
-                "explanation": "De PPvB streeft naar bestaanszekerheid voor alle inwoners van Nederland. Met gereguleerde huurprijzen en een basisinkomen zorgen we voor betaalbare huisvesting en financiële zekerheid.",
+                "explanation": "De PPvB streeft naar bestaanszekerheid voor alle inwoners van Nederland. Met gereguleerde huurprijzen en een basisinkomen zorgen we voor betaalbare huisvesting en financiÃ«le zekerheid.",
                 "accessibility": {
-                    "explanation": "De PPvB streeft naar bestaanszekerheid voor alle inwoners van Nederland. Met gereguleerde huurprijzen en een basisinkomen zorgen we voor betaalbare huisvesting en financiële zekerheid."
+                    "explanation": "De PPvB streeft naar bestaanszekerheid voor alle inwoners van Nederland. Met gereguleerde huurprijzen en een basisinkomen zorgen we voor betaalbare huisvesting en financiÃ«le zekerheid."
                 }
             },
             {
                 "id": 79573,
                 "position": "disagree",
-                "explanation": "De PPvB streeft naar een efficiënte overheid, niet per se door meer Kamerleden, maar door het inzetten van externe expertise en het versterken van fractieondersteuning.",
+                "explanation": "De PPvB streeft naar een efficiÃ«nte overheid, niet per se door meer Kamerleden, maar door het inzetten van externe expertise en het versterken van fractieondersteuning.",
                 "accessibility": {
-                    "explanation": "De PPvB streeft naar een efficiënte overheid, niet per se door meer Kamerleden, maar door het inzetten van externe expertise en het versterken van fractieondersteuning."
+                    "explanation": "De PPvB streeft naar een efficiÃ«nte overheid, niet per se door meer Kamerleden, maar door het inzetten van externe expertise en het versterken van fractieondersteuning."
                 }
             },
             {
@@ -19304,9 +19304,9 @@ export	let parties =[
             {
                 "id": 79575,
                 "position": "disagree",
-                "explanation": "De PPvB begrijpt de zorgen rondom de schade van de gedupeerden door gaswinning in Groningen. We pleiten voor een snelle controleprocedure voor compensatie, zodat getroffenen snel geholpen worden. Zorgvuldigheid en efficiëntie staan voorop.",
+                "explanation": "De PPvB begrijpt de zorgen rondom de schade van de gedupeerden door gaswinning in Groningen. We pleiten voor een snelle controleprocedure voor compensatie, zodat getroffenen snel geholpen worden. Zorgvuldigheid en efficiÃ«ntie staan voorop.",
                 "accessibility": {
-                    "explanation": "De PPvB begrijpt de zorgen rondom de schade van de gedupeerden door gaswinning in Groningen. We pleiten voor een snelle controleprocedure voor compensatie, zodat getroffenen snel geholpen worden. Zorgvuldigheid en efficiëntie staan voorop."
+                    "explanation": "De PPvB begrijpt de zorgen rondom de schade van de gedupeerden door gaswinning in Groningen. We pleiten voor een snelle controleprocedure voor compensatie, zodat getroffenen snel geholpen worden. Zorgvuldigheid en efficiÃ«ntie staan voorop."
                 }
             },
             {
