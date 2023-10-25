@@ -21078,13 +21078,13 @@ var app = (function () {
     			input.__value = /*party*/ ctx[4];
     			input.value = input.__value;
     			attr_dev(input, "class", "mr-2");
-    			add_location(input, file$2, 11, 3, 468);
+    			add_location(input, file$2, 11, 3, 479);
     			attr_dev(label, "class", "truncate select-none");
     			attr_dev(label, "title", /*party*/ ctx[4].name);
     			attr_dev(label, "for", /*party*/ ctx[4].id);
-    			add_location(label, file$2, 12, 3, 565);
+    			add_location(label, file$2, 12, 3, 576);
     			attr_dev(div, "class", "flex flex-row whitespace-nowrap");
-    			add_location(div, file$2, 10, 2, 419);
+    			add_location(div, file$2, 10, 2, 430);
     			binding_group.p(input);
     		},
     		m: function mount(target, anchor) {
@@ -21138,7 +21138,7 @@ var app = (function () {
     			t0 = text("Gekozen: ");
     			t1 = text(t1_value);
     			attr_dev(div, "class", "py-2");
-    			add_location(div, file$2, 18, 1, 752);
+    			add_location(div, file$2, 18, 1, 763);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -21203,7 +21203,7 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			div0 = element("div");
-    			div0.textContent = "Vink 2-4 partijen aan die je wilt vergelijken";
+    			div0.textContent = "Vink 2-[maxParties] partijen aan die je wilt vergelijken";
     			t1 = space();
     			div1 = element("div");
 
@@ -21220,7 +21220,7 @@ var app = (function () {
     			attr_dev(div0, "class", "bg-green-200 font-bold p-2 rounded-xl");
     			add_location(div0, file$2, 7, 0, 149);
     			attr_dev(div1, "class", "grid grid-cols-1 sm:grid-cols-2 gap-x-2 lg:grid-cols-3 p-2");
-    			add_location(div1, file$2, 8, 0, 252);
+    			add_location(div1, file$2, 8, 0, 263);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
