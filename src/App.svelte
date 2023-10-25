@@ -103,6 +103,9 @@
       je score
       <br /><br /> punten +2 voor hartje, +1 voor duimpje omhoog, -1 voor duimpje
       omlaag
+      <br/>
+      <br/>
+      wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden op je eigen pc bewaard
     </div>
   {/if}
   {#if step > 1 && step <= 31}

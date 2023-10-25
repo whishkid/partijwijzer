@@ -23322,6 +23322,10 @@ var app = (function () {
     	let br6;
     	let br7;
     	let t6;
+    	let br8;
+    	let t7;
+    	let br9;
+    	let t8;
     	let current;
 
     	function step1_chosenParties_binding_1(value) {
@@ -23355,7 +23359,11 @@ var app = (function () {
     			t5 = text(" Aan het einde krijg je van de partijen te zien gesorteerd op\n      je score\n      ");
     			br6 = element("br");
     			br7 = element("br");
-    			t6 = text(" punten +2 voor hartje, +1 voor duimpje omhoog, -1 voor duimpje\n      omlaag");
+    			t6 = text(" punten +2 voor hartje, +1 voor duimpje omhoog, -1 voor duimpje\n      omlaag\n      ");
+    			br8 = element("br");
+    			t7 = space();
+    			br9 = element("br");
+    			t8 = text("\n      wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden op je eigen pc bewaard");
     			add_location(br0, file, 97, 6, 2911);
     			add_location(br1, file, 97, 12, 2917);
     			add_location(br2, file, 99, 6, 3001);
@@ -23364,6 +23372,8 @@ var app = (function () {
     			add_location(br5, file, 101, 12, 3130);
     			add_location(br6, file, 103, 6, 3219);
     			add_location(br7, file, 103, 12, 3225);
+    			add_location(br8, file, 105, 6, 3314);
+    			add_location(br9, file, 106, 6, 3326);
     			add_location(div, file, 95, 4, 2820);
     		},
     		m: function mount(target, anchor) {
@@ -23384,6 +23394,10 @@ var app = (function () {
     			append_dev(div, br6);
     			append_dev(div, br7);
     			append_dev(div, t6);
+    			append_dev(div, br8);
+    			append_dev(div, t7);
+    			append_dev(div, br9);
+    			append_dev(div, t8);
     			current = true;
     		},
     		p: function update(ctx, dirty) {
@@ -23424,7 +23438,7 @@ var app = (function () {
     	return block;
     }
 
-    // (108:2) {#if step > 1 && step <= 31}
+    // (111:2) {#if step > 1 && step <= 31}
     function create_if_block_1(ctx) {
     	let step2;
     	let updating_partyStatementRatings;
@@ -23485,14 +23499,14 @@ var app = (function () {
     		block,
     		id: create_if_block_1.name,
     		type: "if",
-    		source: "(108:2) {#if step > 1 && step <= 31}",
+    		source: "(111:2) {#if step > 1 && step <= 31}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (111:2) {#if step > 31}
+    // (114:2) {#if step > 31}
     function create_if_block(ctx) {
     	let t0;
     	let div2;
@@ -23528,10 +23542,10 @@ var app = (function () {
     				each_blocks[i].c();
     			}
 
-    			add_location(div0, file, 113, 6, 3531);
-    			add_location(div1, file, 114, 6, 3555);
+    			add_location(div0, file, 116, 6, 3665);
+    			add_location(div1, file, 117, 6, 3689);
     			attr_dev(div2, "class", "grid grid-cols-2 gap-2 text-2xl font-bold");
-    			add_location(div2, file, 112, 4, 3469);
+    			add_location(div2, file, 115, 4, 3603);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, t0, anchor);
@@ -23607,14 +23621,14 @@ var app = (function () {
     		block,
     		id: create_if_block.name,
     		type: "if",
-    		source: "(111:2) {#if step > 31}",
+    		source: "(114:2) {#if step > 31}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (116:6) {#each getPartyScores($partyStatementRatings) as party}
+    // (119:6) {#each getPartyScores($partyStatementRatings) as party}
     function create_each_block(ctx) {
     	let div;
     	let partydisplay;
@@ -23635,7 +23649,7 @@ var app = (function () {
     			t0 = space();
     			t1 = text(t1_value);
     			attr_dev(div, "class", "w-32");
-    			add_location(div, file, 116, 8, 3642);
+    			add_location(div, file, 119, 8, 3776);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -23671,7 +23685,7 @@ var app = (function () {
     		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(116:6) {#each getPartyScores($partyStatementRatings) as party}",
+    		source: "(119:6) {#each getPartyScores($partyStatementRatings) as party}",
     		ctx
     	});
 
