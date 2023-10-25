@@ -8,7 +8,6 @@
 
   function setRating(party, statement, rating) {
     let ratingMatrix = $partyStatementRatings
-    console.log(party, statement);
     if (!ratingMatrix[party.id]) ratingMatrix[party.id] = {};
     if (ratingMatrix[party.id][statement.id] == rating) {
         ratingMatrix[party.id][statement.id] = 0;

@@ -6,7 +6,7 @@
   import Step2 from "./Step2.svelte";
   import PartyDisplay from "./PartyDisplay.svelte";
   import { parties } from "./data";
-
+  import { dev } from '$app/environment';
 
   const storedPartyStatementRatings = localStorage.getItem(
     "partyStatementRatings"
@@ -52,7 +52,6 @@
     JSON.stringify($partyStatementRatings)
   );
 
-  $: console.log($partyStatementRatings);
 
   $: localStorage.setItem("chosenParties", JSON.stringify(chosenParties));
   $: localStorage.setItem("step", JSON.stringify(step));
