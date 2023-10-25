@@ -6,14 +6,22 @@
   import Step2 from "./Step2.svelte";
   import PartyDisplay from "./PartyDisplay.svelte";
   import { parties } from "./data";
+  import { dev } from "$app/environment";
+  import { inject } from "@vercel/analytics";
+
+  inject({ mode: dev ? "development" : "production" });
+  
   const storedPartyStatementRatings = localStorage.getItem(
     "partyStatementRatings"
   );
-  const storedChosenParties =JSON.parse( localStorage.getItem("chosenParties")) || [];
+  const storedChosenParties =
+    JSON.parse(localStorage.getItem("chosenParties")) || [];
 
   const storedStep = localStorage.getItem("step");
 
-  let chosenParties = parties.filter(p=>storedChosenParties.find(cp=>cp.id==p.id))
+  let chosenParties = parties.filter((p) =>
+    storedChosenParties.find((cp) => cp.id == p.id)
+  );
   let step = JSON.parse(storedStep) || 1;
   let maxParties = 25;
   let partyOverlayVisible = false;
@@ -101,11 +109,12 @@
       <br />Totale onzin, duimpje omlaag. Neutraal, geen actie.
       <br /><br /> Aan het einde krijg je van de partijen te zien gesorteerd op
       je score
-      <br /><br /> punten +2 voor hartje, +1 voor duimpje omhoog, -1 voor duimpje
-      omlaag
-      <br/>
-      <br/>
-      wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden op je eigen pc bewaard
+      <br /><br /> punten +2 voor hartje, +1 voor duimpje omhoog, -1 voor
+      duimpje omlaag
+      <br />
+      <br />
+      wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden
+      op je eigen pc bewaard
     </div>
   {/if}
   {#if step > 1 && step <= 31}
