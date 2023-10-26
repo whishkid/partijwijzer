@@ -957,7 +957,7 @@ var app = (function () {
     			button = element("button");
     			if (default_slot) default_slot.c();
     			button.disabled = /*disabled*/ ctx[0];
-    			attr_dev(button, "class", button_class_value = "justify-self-end bg-green-200 hover:bg-green-300 px-2 py-1 sm:py-2 border-3 rounded-md " + /*extraclass*/ ctx[1]);
+    			attr_dev(button, "class", button_class_value = "justify-self-end bg-green-200 h-10 lg:h-auto hover:bg-green-300 px-2 py-0 lg:py-2 border-2 rounded-md " + /*extraclass*/ ctx[1]);
     			toggle_class(button, "opacity-50", /*disabled*/ ctx[0]);
     			add_location(button, file$9, 6, 0, 101);
     		},
@@ -998,7 +998,7 @@ var app = (function () {
     				prop_dev(button, "disabled", /*disabled*/ ctx[0]);
     			}
 
-    			if (!current || dirty & /*extraclass*/ 2 && button_class_value !== (button_class_value = "justify-self-end bg-green-200 hover:bg-green-300 px-2 py-1 sm:py-2 border-3 rounded-md " + /*extraclass*/ ctx[1])) {
+    			if (!current || dirty & /*extraclass*/ 2 && button_class_value !== (button_class_value = "justify-self-end bg-green-200 h-10 lg:h-auto hover:bg-green-300 px-2 py-0 lg:py-2 border-2 rounded-md " + /*extraclass*/ ctx[1])) {
     				attr_dev(button, "class", button_class_value);
     			}
 
