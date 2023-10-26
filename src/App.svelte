@@ -51,6 +51,11 @@
     JSON.stringify($partyStatementRatings)
   );
 
+  function reset(){
+    step=1
+    chosenParties = []
+    partyStatementRatings.set({})
+  }
 
   $: localStorage.setItem("chosenParties", JSON.stringify(chosenParties));
   $: localStorage.setItem("step", JSON.stringify(step));
@@ -80,7 +85,16 @@
       }}>vorige</Button
     >
     <div class=" text-center">
-      stap {step} / 32<br />
+     
+      stap  <select bind:value={step}>
+        <option value={1}>1 (partijen)</option>
+
+        {#each Array(30) as _, i}
+          <option value={i + 2}>{i + 2}</option>
+        {/each}
+        <option value={32}>32 (Uitslag)</option>
+
+        </select> / 32<br />
       {#if step > 1}
         <div
           class="cursor-pointer text-red-600"
@@ -97,7 +111,7 @@
   {#if step == 1}
     <Step1 bind:chosenParties {maxParties} />
     <div>
-      Je krijgt straks van alle partijen hun uitleg bij de stellingen te zien.
+      Je krijgt straks van alle gekozen partijen hun uitleg bij de stellingen te zien.
       <br /><br />Ben je het een beetje eens met een partij geef het een
       duimpje...
       <br />vind je het helemaal geweldig, dan een hartje.
@@ -108,8 +122,13 @@
       duimpje omlaag
       <br />
       <br />
-      wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden
-      op je eigen pc bewaard
+      MBT Privacy, de applicatie werk volledig op je eigen device. Er worden geen keuzes naar de server gestuurd.
+      <br />
+      <br />
+      Wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden
+      op je eigen pc bewaard.
+      <br/>
+      <br/>
     </div>
   {/if}
   {#if step > 1 && step <= 31 && !partyOverlayVisible}
@@ -125,5 +144,6 @@
         <div class="text-end lg:text-start pr-6 py-2 pt-4 border-t-2 border-dashed pt-1 ">{party.score}</div>
       {/each}
     </div>
+    <Button class="mt-2 w-full sm:w-auto" on:click={reset}>wissen en opnieuw beginnen</Button>
   {/if}
 </div>

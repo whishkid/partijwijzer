@@ -221,6 +221,22 @@ var app = (function () {
     function children(element) {
         return Array.from(element.childNodes);
     }
+    function select_option(select, value, mounting) {
+        for (let i = 0; i < select.options.length; i += 1) {
+            const option = select.options[i];
+            if (option.__value === value) {
+                option.selected = true;
+                return;
+            }
+        }
+        if (!mounting || value !== undefined) {
+            select.selectedIndex = -1; // no option should be selected
+        }
+    }
+    function select_value(select) {
+        const selected_option = select.querySelector(':checked');
+        return selected_option && selected_option.__value;
+    }
     function toggle_class(element, name, toggle) {
         element.classList[toggle ? 'add' : 'remove'](name);
     }
@@ -929,20 +945,21 @@ var app = (function () {
 
     function create_fragment$9(ctx) {
     	let button;
+    	let button_class_value;
     	let current;
     	let mounted;
     	let dispose;
-    	const default_slot_template = /*#slots*/ ctx[2].default;
-    	const default_slot = create_slot(default_slot_template, ctx, /*$$scope*/ ctx[1], null);
+    	const default_slot_template = /*#slots*/ ctx[3].default;
+    	const default_slot = create_slot(default_slot_template, ctx, /*$$scope*/ ctx[2], null);
 
     	const block = {
     		c: function create() {
     			button = element("button");
     			if (default_slot) default_slot.c();
     			button.disabled = /*disabled*/ ctx[0];
-    			attr_dev(button, "class", "justify-self-end bg-green-200 hover:bg-green-300 p-2 border-3 rounded-md");
+    			attr_dev(button, "class", button_class_value = "justify-self-end bg-green-200 hover:bg-green-300 p-2 border-3 rounded-md " + /*extraclass*/ ctx[1]);
     			toggle_class(button, "opacity-50", /*disabled*/ ctx[0]);
-    			add_location(button, file$9, 4, 0, 50);
+    			add_location(button, file$9, 6, 0, 101);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -957,21 +974,21 @@ var app = (function () {
     			current = true;
 
     			if (!mounted) {
-    				dispose = listen_dev(button, "click", /*click_handler*/ ctx[3], false, false, false, false);
+    				dispose = listen_dev(button, "click", /*click_handler*/ ctx[4], false, false, false, false);
     				mounted = true;
     			}
     		},
     		p: function update(ctx, [dirty]) {
     			if (default_slot) {
-    				if (default_slot.p && (!current || dirty & /*$$scope*/ 2)) {
+    				if (default_slot.p && (!current || dirty & /*$$scope*/ 4)) {
     					update_slot_base(
     						default_slot,
     						default_slot_template,
     						ctx,
-    						/*$$scope*/ ctx[1],
+    						/*$$scope*/ ctx[2],
     						!current
-    						? get_all_dirty_from_scope(/*$$scope*/ ctx[1])
-    						: get_slot_changes(default_slot_template, /*$$scope*/ ctx[1], dirty, null),
+    						? get_all_dirty_from_scope(/*$$scope*/ ctx[2])
+    						: get_slot_changes(default_slot_template, /*$$scope*/ ctx[2], dirty, null),
     						null
     					);
     				}
@@ -981,7 +998,11 @@ var app = (function () {
     				prop_dev(button, "disabled", /*disabled*/ ctx[0]);
     			}
 
-    			if (!current || dirty & /*disabled*/ 1) {
+    			if (!current || dirty & /*extraclass*/ 2 && button_class_value !== (button_class_value = "justify-self-end bg-green-200 hover:bg-green-300 p-2 border-3 rounded-md " + /*extraclass*/ ctx[1])) {
+    				attr_dev(button, "class", button_class_value);
+    			}
+
+    			if (!current || dirty & /*extraclass, disabled*/ 3) {
     				toggle_class(button, "opacity-50", /*disabled*/ ctx[0]);
     			}
     		},
@@ -1017,7 +1038,8 @@ var app = (function () {
     	let { $$slots: slots = {}, $$scope } = $$props;
     	validate_slots('Button', slots, ['default']);
     	let { disabled = false } = $$props;
-    	const writable_props = ['disabled'];
+    	let { class: extraclass = "" } = $$props;
+    	const writable_props = ['disabled', 'class'];
 
     	Object.keys($$props).forEach(key => {
     		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== '$$' && key !== 'slot') console.warn(`<Button> was created with unknown prop '${key}'`);
@@ -1029,26 +1051,28 @@ var app = (function () {
 
     	$$self.$$set = $$props => {
     		if ('disabled' in $$props) $$invalidate(0, disabled = $$props.disabled);
-    		if ('$$scope' in $$props) $$invalidate(1, $$scope = $$props.$$scope);
+    		if ('class' in $$props) $$invalidate(1, extraclass = $$props.class);
+    		if ('$$scope' in $$props) $$invalidate(2, $$scope = $$props.$$scope);
     	};
 
-    	$$self.$capture_state = () => ({ disabled });
+    	$$self.$capture_state = () => ({ disabled, extraclass });
 
     	$$self.$inject_state = $$props => {
     		if ('disabled' in $$props) $$invalidate(0, disabled = $$props.disabled);
+    		if ('extraclass' in $$props) $$invalidate(1, extraclass = $$props.extraclass);
     	};
 
     	if ($$props && "$$inject" in $$props) {
     		$$self.$inject_state($$props.$$inject);
     	}
 
-    	return [disabled, $$scope, slots, click_handler];
+    	return [disabled, extraclass, $$scope, slots, click_handler];
     }
 
     class Button extends SvelteComponentDev {
     	constructor(options) {
     		super(options);
-    		init(this, options, instance$9, create_fragment$9, safe_not_equal, { disabled: 0 });
+    		init(this, options, instance$9, create_fragment$9, safe_not_equal, { disabled: 0, class: 1 });
 
     		dispatch_dev("SvelteRegisterComponent", {
     			component: this,
@@ -1063,6 +1087,14 @@ var app = (function () {
     	}
 
     	set disabled(value) {
+    		throw new Error("<Button>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get class() {
+    		throw new Error("<Button>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set class(value) {
     		throw new Error("<Button>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
     	}
     }
@@ -22537,14 +22569,14 @@ var app = (function () {
     	return child_ctx;
     }
 
-    function get_each_context_1(ctx, list, i) {
+    function get_each_context_1$1(ctx, list, i) {
     	const child_ctx = ctx.slice();
     	child_ctx[9] = list[i];
     	return child_ctx;
     }
 
     // (18:4) {#each statement.title as titleElement}
-    function create_each_block_1(ctx) {
+    function create_each_block_1$1(ctx) {
     	let t_value = (/*titleElement*/ ctx[9].text ?? /*titleElement*/ ctx[9]) + "";
     	let t;
 
@@ -22565,7 +22597,7 @@ var app = (function () {
 
     	dispatch_dev("SvelteRegisterBlock", {
     		block,
-    		id: create_each_block_1.name,
+    		id: create_each_block_1$1.name,
     		type: "each",
     		source: "(18:4) {#each statement.title as titleElement}",
     		ctx
@@ -22787,7 +22819,7 @@ var app = (function () {
     	let each_blocks_1 = [];
 
     	for (let i = 0; i < each_value_1.length; i += 1) {
-    		each_blocks_1[i] = create_each_block_1(get_each_context_1(ctx, each_value_1, i));
+    		each_blocks_1[i] = create_each_block_1$1(get_each_context_1$1(ctx, each_value_1, i));
     	}
 
     	let each_value = /*chosenParties*/ ctx[0];
@@ -22856,12 +22888,12 @@ var app = (function () {
     				let i;
 
     				for (i = 0; i < each_value_1.length; i += 1) {
-    					const child_ctx = get_each_context_1(ctx, each_value_1, i);
+    					const child_ctx = get_each_context_1$1(ctx, each_value_1, i);
 
     					if (each_blocks_1[i]) {
     						each_blocks_1[i].p(child_ctx, dirty);
     					} else {
-    						each_blocks_1[i] = create_each_block_1(child_ctx);
+    						each_blocks_1[i] = create_each_block_1$1(child_ctx);
     						each_blocks_1[i].c();
     						each_blocks_1[i].m(div0, null);
     					}
@@ -23056,11 +23088,18 @@ var app = (function () {
 
     function get_each_context(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[18] = list[i];
+    	child_ctx[20] = list[i];
     	return child_ctx;
     }
 
-    // (62:0) {#if partyOverlayVisible}
+    function get_each_context_1(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[23] = list[i];
+    	child_ctx[25] = i;
+    	return child_ctx;
+    }
+
+    // (67:0) {#if partyOverlayVisible}
     function create_if_block_4(ctx) {
     	let div1;
     	let step1;
@@ -23073,7 +23112,7 @@ var app = (function () {
     	let current;
 
     	function step1_chosenParties_binding(value) {
-    		/*step1_chosenParties_binding*/ ctx[8](value);
+    		/*step1_chosenParties_binding*/ ctx[9](value);
     	}
 
     	let step1_props = { maxParties: /*maxParties*/ ctx[6] };
@@ -23087,13 +23126,13 @@ var app = (function () {
 
     	button = new Button({
     			props: {
-    				$$slots: { default: [create_default_slot_2] },
+    				$$slots: { default: [create_default_slot_3] },
     				$$scope: { ctx }
     			},
     			$$inline: true
     		});
 
-    	button.$on("click", /*click_handler*/ ctx[9]);
+    	button.$on("click", /*click_handler*/ ctx[10]);
 
     	const block = {
     		c: function create() {
@@ -23103,9 +23142,9 @@ var app = (function () {
     			div0 = element("div");
     			create_component(button.$$.fragment);
     			attr_dev(div0, "class", "w-full text-center");
-    			add_location(div0, file, 68, 4, 2005);
+    			add_location(div0, file, 73, 4, 2097);
     			attr_dev(div1, "class", "absolute top-1 w-full h-full bg-white opacity-95");
-    			add_location(div1, file, 62, 2, 1802);
+    			add_location(div1, file, 67, 2, 1894);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div1, anchor);
@@ -23127,7 +23166,7 @@ var app = (function () {
     			step1.$set(step1_changes);
     			const button_changes = {};
 
-    			if (dirty & /*$$scope*/ 2097152) {
+    			if (dirty & /*$$scope*/ 67108864) {
     				button_changes.$$scope = { dirty, ctx };
     			}
 
@@ -23166,15 +23205,15 @@ var app = (function () {
     		block,
     		id: create_if_block_4.name,
     		type: "if",
-    		source: "(62:0) {#if partyOverlayVisible}",
+    		source: "(67:0) {#if partyOverlayVisible}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (70:6) <Button on:click={() => (partyOverlayVisible = false)}>
-    function create_default_slot_2(ctx) {
+    // (75:6) <Button on:click={() => (partyOverlayVisible = false)}>
+    function create_default_slot_3(ctx) {
     	let t;
 
     	const block = {
@@ -23191,17 +23230,17 @@ var app = (function () {
 
     	dispatch_dev("SvelteRegisterBlock", {
     		block,
-    		id: create_default_slot_2.name,
+    		id: create_default_slot_3.name,
     		type: "slot",
-    		source: "(70:6) <Button on:click={() => (partyOverlayVisible = false)}>",
+    		source: "(75:6) <Button on:click={() => (partyOverlayVisible = false)}>",
     		ctx
     	});
 
     	return block;
     }
 
-    // (76:4) <Button       disabled={step == 1}       on:click={() => {         step--;       }}>
-    function create_default_slot_1(ctx) {
+    // (81:4) <Button       disabled={step == 1}       on:click={() => {         step--;       }}>
+    function create_default_slot_2(ctx) {
     	let t;
 
     	const block = {
@@ -23218,16 +23257,51 @@ var app = (function () {
 
     	dispatch_dev("SvelteRegisterBlock", {
     		block,
-    		id: create_default_slot_1.name,
+    		id: create_default_slot_2.name,
     		type: "slot",
-    		source: "(76:4) <Button       disabled={step == 1}       on:click={() => {         step--;       }}>",
+    		source: "(81:4) <Button       disabled={step == 1}       on:click={() => {         step--;       }}>",
     		ctx
     	});
 
     	return block;
     }
 
-    // (84:6) {#if step > 1}
+    // (92:8) {#each Array(30) as _, i}
+    function create_each_block_1(ctx) {
+    	let option;
+    	let t_value = /*i*/ ctx[25] + 2 + "";
+    	let t;
+
+    	const block = {
+    		c: function create() {
+    			option = element("option");
+    			t = text(t_value);
+    			option.__value = /*i*/ ctx[25] + 2;
+    			option.value = option.__value;
+    			add_location(option, file, 92, 10, 2584);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, option, anchor);
+    			append_dev(option, t);
+    		},
+    		p: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(option);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block_1.name,
+    		type: "each",
+    		source: "(92:8) {#each Array(30) as _, i}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (98:6) {#if step > 1}
     function create_if_block_3(ctx) {
     	let div;
     	let mounted;
@@ -23238,13 +23312,13 @@ var app = (function () {
     			div = element("div");
     			div.textContent = "[partijen aanpassen]";
     			attr_dev(div, "class", "cursor-pointer text-red-600");
-    			add_location(div, file, 84, 8, 2412);
+    			add_location(div, file, 98, 8, 2747);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
 
     			if (!mounted) {
-    				dispose = listen_dev(div, "click", /*click_handler_2*/ ctx[11], false, false, false, false);
+    				dispose = listen_dev(div, "click", /*click_handler_2*/ ctx[13], false, false, false, false);
     				mounted = true;
     			}
     		},
@@ -23260,15 +23334,15 @@ var app = (function () {
     		block,
     		id: create_if_block_3.name,
     		type: "if",
-    		source: "(84:6) {#if step > 1}",
+    		source: "(98:6) {#if step > 1}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (93:4) <Button disabled={partySelectionValid || step > 31} on:click={() => step++}       >
-    function create_default_slot(ctx) {
+    // (107:4) <Button disabled={partySelectionValid || step > 31} on:click={() => step++}       >
+    function create_default_slot_1(ctx) {
     	let t;
 
     	const block = {
@@ -23285,16 +23359,16 @@ var app = (function () {
 
     	dispatch_dev("SvelteRegisterBlock", {
     		block,
-    		id: create_default_slot.name,
+    		id: create_default_slot_1.name,
     		type: "slot",
-    		source: "(93:4) <Button disabled={partySelectionValid || step > 31} on:click={() => step++}       >",
+    		source: "(107:4) <Button disabled={partySelectionValid || step > 31} on:click={() => step++}       >",
     		ctx
     	});
 
     	return block;
     }
 
-    // (97:2) {#if step == 1}
+    // (111:2) {#if step == 1}
     function create_if_block_2(ctx) {
     	let step1;
     	let updating_chosenParties;
@@ -23318,10 +23392,17 @@ var app = (function () {
     	let t7;
     	let br9;
     	let t8;
+    	let br10;
+    	let t9;
+    	let br11;
+    	let t10;
+    	let br12;
+    	let t11;
+    	let br13;
     	let current;
 
     	function step1_chosenParties_binding_1(value) {
-    		/*step1_chosenParties_binding_1*/ ctx[13](value);
+    		/*step1_chosenParties_binding_1*/ ctx[15](value);
     	}
 
     	let step1_props = { maxParties: /*maxParties*/ ctx[6] };
@@ -23338,7 +23419,7 @@ var app = (function () {
     			create_component(step1.$$.fragment);
     			t0 = space();
     			div = element("div");
-    			t1 = text("Je krijgt straks van alle partijen hun uitleg bij de stellingen te zien.\n      ");
+    			t1 = text("Je krijgt straks van alle gekozen partijen hun uitleg bij de stellingen te zien.\n      ");
     			br0 = element("br");
     			br1 = element("br");
     			t2 = text("Ben je het een beetje eens met een partij geef het een\n      duimpje...\n      ");
@@ -23355,18 +23436,29 @@ var app = (function () {
     			br8 = element("br");
     			t7 = space();
     			br9 = element("br");
-    			t8 = text("\n      wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden\n      op je eigen pc bewaard");
-    			add_location(br0, file, 100, 6, 2892);
-    			add_location(br1, file, 100, 12, 2898);
-    			add_location(br2, file, 102, 6, 2982);
-    			add_location(br3, file, 103, 6, 3041);
-    			add_location(br4, file, 104, 6, 3105);
-    			add_location(br5, file, 104, 12, 3111);
-    			add_location(br6, file, 106, 6, 3200);
-    			add_location(br7, file, 106, 12, 3206);
-    			add_location(br8, file, 108, 6, 3295);
-    			add_location(br9, file, 109, 6, 3308);
-    			add_location(div, file, 98, 4, 2801);
+    			t8 = text("\n      MBT Privacy, de applicatie werk volledig op je eigen device. Er worden geen keuzes naar de server gestuurd.\n      ");
+    			br10 = element("br");
+    			t9 = space();
+    			br11 = element("br");
+    			t10 = text("\n      Wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden\n      op je eigen pc bewaard.\n      ");
+    			br12 = element("br");
+    			t11 = space();
+    			br13 = element("br");
+    			add_location(br0, file, 114, 6, 3235);
+    			add_location(br1, file, 114, 12, 3241);
+    			add_location(br2, file, 116, 6, 3325);
+    			add_location(br3, file, 117, 6, 3384);
+    			add_location(br4, file, 118, 6, 3448);
+    			add_location(br5, file, 118, 12, 3454);
+    			add_location(br6, file, 120, 6, 3543);
+    			add_location(br7, file, 120, 12, 3549);
+    			add_location(br8, file, 122, 6, 3638);
+    			add_location(br9, file, 123, 6, 3651);
+    			add_location(br10, file, 125, 6, 3778);
+    			add_location(br11, file, 126, 6, 3791);
+    			add_location(br12, file, 129, 6, 3921);
+    			add_location(br13, file, 130, 6, 3933);
+    			add_location(div, file, 112, 4, 3136);
     		},
     		m: function mount(target, anchor) {
     			mount_component(step1, target, anchor);
@@ -23390,6 +23482,13 @@ var app = (function () {
     			append_dev(div, t7);
     			append_dev(div, br9);
     			append_dev(div, t8);
+    			append_dev(div, br10);
+    			append_dev(div, t9);
+    			append_dev(div, br11);
+    			append_dev(div, t10);
+    			append_dev(div, br12);
+    			append_dev(div, t11);
+    			append_dev(div, br13);
     			current = true;
     		},
     		p: function update(ctx, dirty) {
@@ -23423,21 +23522,21 @@ var app = (function () {
     		block,
     		id: create_if_block_2.name,
     		type: "if",
-    		source: "(97:2) {#if step == 1}",
+    		source: "(111:2) {#if step == 1}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (115:2) {#if step > 1 && step <= 31 && !partyOverlayVisible}
+    // (134:2) {#if step > 1 && step <= 31 && !partyOverlayVisible}
     function create_if_block_1(ctx) {
     	let step2;
     	let updating_partyStatementRatings;
     	let current;
 
     	function step2_partyStatementRatings_binding(value) {
-    		/*step2_partyStatementRatings_binding*/ ctx[14](value);
+    		/*step2_partyStatementRatings_binding*/ ctx[16](value);
     	}
 
     	let step2_props = {
@@ -23491,20 +23590,22 @@ var app = (function () {
     		block,
     		id: create_if_block_1.name,
     		type: "if",
-    		source: "(115:2) {#if step > 1 && step <= 31 && !partyOverlayVisible}",
+    		source: "(134:2) {#if step > 1 && step <= 31 && !partyOverlayVisible}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (118:2) {#if step > 31}
+    // (137:2) {#if step > 31}
     function create_if_block(ctx) {
     	let div2;
     	let div0;
     	let t1;
     	let div1;
     	let t3;
+    	let t4;
+    	let button;
     	let current;
     	let each_value = /*getPartyScores*/ ctx[7](/*$partyStatementRatings*/ ctx[2]);
     	validate_each_argument(each_value);
@@ -23517,6 +23618,17 @@ var app = (function () {
     	const out = i => transition_out(each_blocks[i], 1, 1, () => {
     		each_blocks[i] = null;
     	});
+
+    	button = new Button({
+    			props: {
+    				class: "mt-2 w-full sm:w-auto",
+    				$$slots: { default: [create_default_slot] },
+    				$$scope: { ctx }
+    			},
+    			$$inline: true
+    		});
+
+    	button.$on("click", /*reset*/ ctx[8]);
 
     	const block = {
     		c: function create() {
@@ -23532,11 +23644,13 @@ var app = (function () {
     				each_blocks[i].c();
     			}
 
-    			add_location(div0, file, 119, 6, 3661);
+    			t4 = space();
+    			create_component(button.$$.fragment);
+    			add_location(div0, file, 138, 6, 4169);
     			attr_dev(div1, "class", "text-end lg:text-start ");
-    			add_location(div1, file, 120, 6, 3685);
+    			add_location(div1, file, 139, 6, 4193);
     			attr_dev(div2, "class", "grid grid-cols-2 gap-2 text-2xl font-bold");
-    			add_location(div2, file, 118, 4, 3599);
+    			add_location(div2, file, 137, 4, 4107);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div2, anchor);
@@ -23551,6 +23665,8 @@ var app = (function () {
     				}
     			}
 
+    			insert_dev(target, t4, anchor);
+    			mount_component(button, target, anchor);
     			current = true;
     		},
     		p: function update(ctx, dirty) {
@@ -23581,6 +23697,14 @@ var app = (function () {
 
     				check_outros();
     			}
+
+    			const button_changes = {};
+
+    			if (dirty & /*$$scope*/ 67108864) {
+    				button_changes.$$scope = { dirty, ctx };
+    			}
+
+    			button.$set(button_changes);
     		},
     		i: function intro(local) {
     			if (current) return;
@@ -23589,6 +23713,7 @@ var app = (function () {
     				transition_in(each_blocks[i]);
     			}
 
+    			transition_in(button.$$.fragment, local);
     			current = true;
     		},
     		o: function outro(local) {
@@ -23598,11 +23723,14 @@ var app = (function () {
     				transition_out(each_blocks[i]);
     			}
 
+    			transition_out(button.$$.fragment, local);
     			current = false;
     		},
     		d: function destroy(detaching) {
     			if (detaching) detach_dev(div2);
     			destroy_each(each_blocks, detaching);
+    			if (detaching) detach_dev(t4);
+    			destroy_component(button, detaching);
     		}
     	};
 
@@ -23610,25 +23738,25 @@ var app = (function () {
     		block,
     		id: create_if_block.name,
     		type: "if",
-    		source: "(118:2) {#if step > 31}",
+    		source: "(137:2) {#if step > 31}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (122:6) {#each getPartyScores($partyStatementRatings) as party}
+    // (141:6) {#each getPartyScores($partyStatementRatings) as party}
     function create_each_block(ctx) {
     	let div0;
     	let partydisplay;
     	let t0;
     	let div1;
-    	let t1_value = /*party*/ ctx[18].score + "";
+    	let t1_value = /*party*/ ctx[20].score + "";
     	let t1;
     	let current;
 
     	partydisplay = new PartyDisplay({
-    			props: { party: /*party*/ ctx[18] },
+    			props: { party: /*party*/ ctx[20] },
     			$$inline: true
     		});
 
@@ -23640,9 +23768,9 @@ var app = (function () {
     			div1 = element("div");
     			t1 = text(t1_value);
     			attr_dev(div0, "class", "border-t-2 border-dashed pt-2 mb-2");
-    			add_location(div0, file, 123, 8, 3805);
+    			add_location(div0, file, 142, 8, 4313);
     			attr_dev(div1, "class", "text-end lg:text-start pr-6 py-2 pt-4 border-t-2 border-dashed pt-1 ");
-    			add_location(div1, file, 124, 8, 3893);
+    			add_location(div1, file, 143, 8, 4401);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -23654,9 +23782,9 @@ var app = (function () {
     		},
     		p: function update(ctx, dirty) {
     			const partydisplay_changes = {};
-    			if (dirty & /*$partyStatementRatings*/ 4) partydisplay_changes.party = /*party*/ ctx[18];
+    			if (dirty & /*$partyStatementRatings*/ 4) partydisplay_changes.party = /*party*/ ctx[20];
     			partydisplay.$set(partydisplay_changes);
-    			if ((!current || dirty & /*$partyStatementRatings*/ 4) && t1_value !== (t1_value = /*party*/ ctx[18].score + "")) set_data_dev(t1, t1_value);
+    			if ((!current || dirty & /*$partyStatementRatings*/ 4) && t1_value !== (t1_value = /*party*/ ctx[20].score + "")) set_data_dev(t1, t1_value);
     		},
     		i: function intro(local) {
     			if (current) return;
@@ -23679,7 +23807,34 @@ var app = (function () {
     		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(122:6) {#each getPartyScores($partyStatementRatings) as party}",
+    		source: "(141:6) {#each getPartyScores($partyStatementRatings) as party}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (147:4) <Button class="mt-2 w-full sm:w-auto" on:click={reset}>
+    function create_default_slot(ctx) {
+    	let t;
+
+    	const block = {
+    		c: function create() {
+    			t = text("wissen en opnieuw beginnen");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, t, anchor);
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(t);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_default_slot.name,
+    		type: "slot",
+    		source: "(147:4) <Button class=\\\"mt-2 w-full sm:w-auto\\\" on:click={reset}>",
     		ctx
     	});
 
@@ -23695,40 +23850,52 @@ var app = (function () {
     	let t2;
     	let div0;
     	let t3;
-    	let t4;
-    	let t5;
-    	let br;
+    	let select;
+    	let option0;
+    	let option1;
     	let t6;
+    	let br;
     	let t7;
-    	let button1;
     	let t8;
+    	let button1;
     	let t9;
     	let t10;
+    	let t11;
     	let current;
+    	let mounted;
+    	let dispose;
     	let if_block0 = /*partyOverlayVisible*/ ctx[3] && create_if_block_4(ctx);
 
     	button0 = new Button({
     			props: {
     				disabled: /*step*/ ctx[1] == 1,
+    				$$slots: { default: [create_default_slot_2] },
+    				$$scope: { ctx }
+    			},
+    			$$inline: true
+    		});
+
+    	button0.$on("click", /*click_handler_1*/ ctx[11]);
+    	let each_value_1 = Array(30);
+    	validate_each_argument(each_value_1);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value_1.length; i += 1) {
+    		each_blocks[i] = create_each_block_1(get_each_context_1(ctx, each_value_1, i));
+    	}
+
+    	let if_block1 = /*step*/ ctx[1] > 1 && create_if_block_3(ctx);
+
+    	button1 = new Button({
+    			props: {
+    				disabled: /*partySelectionValid*/ ctx[5] || /*step*/ ctx[1] > 31,
     				$$slots: { default: [create_default_slot_1] },
     				$$scope: { ctx }
     			},
     			$$inline: true
     		});
 
-    	button0.$on("click", /*click_handler_1*/ ctx[10]);
-    	let if_block1 = /*step*/ ctx[1] > 1 && create_if_block_3(ctx);
-
-    	button1 = new Button({
-    			props: {
-    				disabled: /*partySelectionValid*/ ctx[5] || /*step*/ ctx[1] > 31,
-    				$$slots: { default: [create_default_slot] },
-    				$$scope: { ctx }
-    			},
-    			$$inline: true
-    		});
-
-    	button1.$on("click", /*click_handler_3*/ ctx[12]);
+    	button1.$on("click", /*click_handler_3*/ ctx[14]);
     	let if_block2 = /*step*/ ctx[1] == 1 && create_if_block_2(ctx);
     	let if_block3 = /*step*/ ctx[1] > 1 && /*step*/ ctx[1] <= 31 && !/*partyOverlayVisible*/ ctx[3] && create_if_block_1(ctx);
     	let if_block4 = /*step*/ ctx[1] > 31 && create_if_block(ctx);
@@ -23743,28 +23910,45 @@ var app = (function () {
     			create_component(button0.$$.fragment);
     			t2 = space();
     			div0 = element("div");
-    			t3 = text("stap ");
-    			t4 = text(/*step*/ ctx[1]);
-    			t5 = text(" / 32");
+    			t3 = text("stap  ");
+    			select = element("select");
+    			option0 = element("option");
+    			option0.textContent = "1 (partijen)";
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			option1 = element("option");
+    			option1.textContent = "32 (Uitslag)";
+    			t6 = text(" / 32");
     			br = element("br");
-    			t6 = space();
-    			if (if_block1) if_block1.c();
     			t7 = space();
-    			create_component(button1.$$.fragment);
+    			if (if_block1) if_block1.c();
     			t8 = space();
-    			if (if_block2) if_block2.c();
+    			create_component(button1.$$.fragment);
     			t9 = space();
-    			if (if_block3) if_block3.c();
+    			if (if_block2) if_block2.c();
     			t10 = space();
+    			if (if_block3) if_block3.c();
+    			t11 = space();
     			if (if_block4) if_block4.c();
     			document.title = "Partij wijzer";
-    			add_location(br, file, 82, 22, 2376);
+    			option0.__value = 1;
+    			option0.value = option0.__value;
+    			add_location(option0, file, 89, 8, 2499);
+    			option1.__value = 32;
+    			option1.value = option1.__value;
+    			add_location(option1, file, 94, 8, 2647);
+    			if (/*step*/ ctx[1] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[12].call(select));
+    			add_location(select, file, 88, 12, 2464);
+    			add_location(br, file, 96, 22, 2711);
     			attr_dev(div0, "class", "text-center");
-    			add_location(div0, file, 81, 4, 2327);
+    			add_location(div0, file, 86, 4, 2419);
     			attr_dev(div1, "class", "flex justify-between w-full grow mb-2");
-    			add_location(div1, file, 74, 2, 2162);
+    			add_location(div1, file, 79, 2, 2254);
     			attr_dev(div2, "class", "p-4");
-    			add_location(div2, file, 73, 0, 2142);
+    			add_location(div2, file, 78, 0, 2234);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -23779,20 +23963,35 @@ var app = (function () {
     			append_dev(div1, t2);
     			append_dev(div1, div0);
     			append_dev(div0, t3);
-    			append_dev(div0, t4);
-    			append_dev(div0, t5);
-    			append_dev(div0, br);
+    			append_dev(div0, select);
+    			append_dev(select, option0);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				if (each_blocks[i]) {
+    					each_blocks[i].m(select, null);
+    				}
+    			}
+
+    			append_dev(select, option1);
+    			select_option(select, /*step*/ ctx[1], true);
     			append_dev(div0, t6);
+    			append_dev(div0, br);
+    			append_dev(div0, t7);
     			if (if_block1) if_block1.m(div0, null);
-    			append_dev(div1, t7);
+    			append_dev(div1, t8);
     			mount_component(button1, div1, null);
-    			append_dev(div2, t8);
-    			if (if_block2) if_block2.m(div2, null);
     			append_dev(div2, t9);
-    			if (if_block3) if_block3.m(div2, null);
+    			if (if_block2) if_block2.m(div2, null);
     			append_dev(div2, t10);
+    			if (if_block3) if_block3.m(div2, null);
+    			append_dev(div2, t11);
     			if (if_block4) if_block4.m(div2, null);
     			current = true;
+
+    			if (!mounted) {
+    				dispose = listen_dev(select, "change", /*select_change_handler*/ ctx[12]);
+    				mounted = true;
+    			}
     		},
     		p: function update(ctx, [dirty]) {
     			if (/*partyOverlayVisible*/ ctx[3]) {
@@ -23821,12 +24020,15 @@ var app = (function () {
     			const button0_changes = {};
     			if (dirty & /*step*/ 2) button0_changes.disabled = /*step*/ ctx[1] == 1;
 
-    			if (dirty & /*$$scope*/ 2097152) {
+    			if (dirty & /*$$scope*/ 67108864) {
     				button0_changes.$$scope = { dirty, ctx };
     			}
 
     			button0.$set(button0_changes);
-    			if (!current || dirty & /*step*/ 2) set_data_dev(t4, /*step*/ ctx[1]);
+
+    			if (dirty & /*step*/ 2) {
+    				select_option(select, /*step*/ ctx[1]);
+    			}
 
     			if (/*step*/ ctx[1] > 1) {
     				if (if_block1) {
@@ -23844,7 +24046,7 @@ var app = (function () {
     			const button1_changes = {};
     			if (dirty & /*partySelectionValid, step*/ 34) button1_changes.disabled = /*partySelectionValid*/ ctx[5] || /*step*/ ctx[1] > 31;
 
-    			if (dirty & /*$$scope*/ 2097152) {
+    			if (dirty & /*$$scope*/ 67108864) {
     				button1_changes.$$scope = { dirty, ctx };
     			}
 
@@ -23861,7 +24063,7 @@ var app = (function () {
     					if_block2 = create_if_block_2(ctx);
     					if_block2.c();
     					transition_in(if_block2, 1);
-    					if_block2.m(div2, t9);
+    					if_block2.m(div2, t10);
     				}
     			} else if (if_block2) {
     				group_outros();
@@ -23884,7 +24086,7 @@ var app = (function () {
     					if_block3 = create_if_block_1(ctx);
     					if_block3.c();
     					transition_in(if_block3, 1);
-    					if_block3.m(div2, t10);
+    					if_block3.m(div2, t11);
     				}
     			} else if (if_block3) {
     				group_outros();
@@ -23944,11 +24146,14 @@ var app = (function () {
     			if (detaching) detach_dev(t1);
     			if (detaching) detach_dev(div2);
     			destroy_component(button0);
+    			destroy_each(each_blocks, detaching);
     			if (if_block1) if_block1.d();
     			destroy_component(button1);
     			if (if_block2) if_block2.d();
     			if (if_block3) if_block3.d();
     			if (if_block4) if_block4.d();
+    			mounted = false;
+    			dispose();
     		}
     	};
 
@@ -24007,6 +24212,12 @@ var app = (function () {
     		return partyScores.sort((a, b) => b.score - a.score);
     	}
 
+    	function reset() {
+    		$$invalidate(1, step = 1);
+    		$$invalidate(0, chosenParties = []);
+    		partyStatementRatings.set({});
+    	}
+
     	const writable_props = [];
 
     	Object.keys($$props).forEach(key => {
@@ -24023,6 +24234,11 @@ var app = (function () {
     	const click_handler_1 = () => {
     		$$invalidate(1, step--, step);
     	};
+
+    	function select_change_handler() {
+    		step = select_value(this);
+    		$$invalidate(1, step);
+    	}
 
     	const click_handler_2 = () => $$invalidate(3, partyOverlayVisible = !partyOverlayVisible);
     	const click_handler_3 = () => $$invalidate(1, step++, step);
@@ -24054,6 +24270,7 @@ var app = (function () {
     		partyOverlayVisible,
     		partyStatementRatings,
     		getPartyScores,
+    		reset,
     		partySelectionValid,
     		$partyStatementRatings
     	});
@@ -24098,9 +24315,11 @@ var app = (function () {
     		partySelectionValid,
     		maxParties,
     		getPartyScores,
+    		reset,
     		step1_chosenParties_binding,
     		click_handler,
     		click_handler_1,
+    		select_change_handler,
     		click_handler_2,
     		click_handler_3,
     		step1_chosenParties_binding_1,
