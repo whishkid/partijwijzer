@@ -1,0 +1,1009 @@
+[
+    {
+        "id": 79640,
+        "theme": "Vee",
+        "themeId": "vee",
+        "title": "De regering moet ervoor zorgen dat de hoeveelheid vee minstens de helft kleiner wordt.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "In Nederland houden boeren veel dieren, zoals koeien, kippen, varkens en schapen, voor hun vlees of andere producten zoals melk, eieren en wol. Een deel van die producten verkopen ze in Nederland en een deel in het buitenland. De dieren zorgen voor vervuiling met stoffen als methaan, een gas dat bijdraagt aan klimaatverandering, en stikstof, dat slecht is voor kwetsbare natuurgebieden."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "In Nederland houden boeren veel dieren, zoals koeien, kippen, varkens en schapen, voor hun vlees of andere producten zoals melk, eieren en wol. Een deel van die producten verkopen ze in Nederland en een deel in het buitenland. De dieren zorgen voor vervuiling met stoffen als methaan, een gas dat bijdraagt aan klimaatverandering, en stikstof, dat slecht is voor kwetsbare natuurgebieden.",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 1,
+        "parties": {
+            "agree": [
+                {
+                    "name": "D66",
+                    "fullName": "D66",
+                    "logoIndex": 1,
+                    "statement": {
+                        "id": 79640,
+                        "position": "agree",
+                        "explanation": "D66 zet in op een duurzame landbouwtransitie waarbij boeren met minder vee straks alsnog een goede boterham kunnen verdienen. Er is nu te veel vee in een klein land als Nederland, met negatieve gevolgen voor klimaat en de gezondheid van de natuur. ",
+                        "accessibility": {
+                            "explanation": "D66 zet in op een duurzame landbouwtransitie waarbij boeren met minder vee straks alsnog een goede boterham kunnen verdienen. Er is nu te veel vee in een klein land als Nederland, met negatieve gevolgen voor klimaat en de gezondheid van de natuur."
+                        }
+                    }
+                },
+                {
+                    "name": "GL-PvdA",
+                    "fullName": "GroenLinks-PvdA",
+                    "logoIndex": 2,
+                    "statement": {
+                        "id": 79640,
+                        "position": "agree",
+                        "explanation": "We hebben veel te veel vee in Nederland en dat betekent een hoop vervuiling. Het gevolg: schade aan de natuur, dierenleed in de stal en risico's voor onze gezondheid. Wij willen werken aan een duurzame landbouw met minder dieren. Samen met al die boeren die dat ook willen.",
+                        "accessibility": {
+                            "explanation": "We hebben veel te veel vee in Nederland en dat betekent een hoop vervuiling. Het gevolg: schade aan de natuur, dierenleed in de stal en risico's voor onze gezondheid. Wij willen werken aan een duurzame landbouw met minder dieren. Samen met al die boeren die dat ook willen."
+                        }
+                    }
+                },
+                {
+                    "name": "PvdD",
+                    "fullName": "Partij voor de Dieren",
+                    "logoIndex": 7,
+                    "statement": {
+                        "id": 79640,
+                        "position": "agree",
+                        "explanation": "Om dierenleed terug te dringen, klimaat-, stikstof- en waterdoelen te halen en de kans op uitbraken van op mensen overdraagbare dierziektes te beperken, verkleinen we de veehouderij met minstens 75% binnen twee jaar. Boeren helpen we overschakelen op duurzaam geteelde plantaardige eiwitgewassen.",
+                        "accessibility": {
+                            "explanation": "Om dierenleed terug te dringen, klimaat-, stikstof- en waterdoelen te halen en de kans op uitbraken van op mensen overdraagbare dierziektes te beperken, verkleinen we de veehouderij met minstens 75% binnen twee jaar. Boeren helpen we overschakelen op duurzaam geteelde plantaardige eiwitgewassen."
+                        }
+                    }
+                },
+                {
+                    "name": "BIJ1",
+                    "fullName": "BIJ1",
+                    "logoIndex": 15,
+                    "statement": {
+                        "id": 79640,
+                        "position": "agree",
+                        "explanation": "De bio-industrie moet afgebouwd worden en uiteindelijk verdwijnen. Dit moet deels gebeuren door het uitkopen, sluiten en onteigenen van grote intensieve veehouders (megastallen). Daarnaast moet de overheid sterk investeren in diervriendelijkere landbouw en nieuwe initiatieven daartoe ondersteunen. ",
+                        "accessibility": {
+                            "explanation": "De bio-industrie moet afgebouwd worden en uiteindelijk verdwijnen. Dit moet deels gebeuren door het uitkopen, sluiten en onteigenen van grote intensieve veehouders (megastallen). Daarnaast moet de overheid sterk investeren in diervriendelijkere landbouw en nieuwe initiatieven daartoe ondersteunen."
+                        }
+                    }
+                },
+                {
+                    "name": "Splinter",
+                    "fullName": "Splinter",
+                    "logoIndex": 19,
+                    "statement": {
+                        "id": 79640,
+                        "position": "agree",
+                        "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoönosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter.",
+                        "accessibility": {
+                            "explanation": "Het tegengaan van stikstofuitstoot, herstel van de natuur, het bevorderen van dierenwelzijn en het voorkomen van zoönosen (van dier-op-mens overdraagbare ziekten) zijn prioriteit voor Splinter."
+                        }
+                    }
+                },
+                {
+                    "name": "LEF",
+                    "fullName": "LEF",
+                    "logoIndex": 21,
+                    "statement": {
+                        "id": 79640,
+                        "position": "agree",
+                        "explanation": "Er leven te veel dieren op te weinig oppervlakte. Dat maakt mensen en dieren ziek. En het bodemleven sterft door een teveel aan stikstof. Daardoor komt onze voedselvoorziening op de lange termijn in gevaar. Bovendien is al die zuivel en vlees bestemd voor het buitenland. Overproductie is niet nodig.",
+                        "accessibility": {
+                            "explanation": "Er leven te veel dieren op te weinig oppervlakte. Dat maakt mensen en dieren ziek. En het bodemleven sterft door een teveel aan stikstof. Daardoor komt onze voedselvoorziening op de lange termijn in gevaar. Bovendien is al die zuivel en vlees bestemd voor het buitenland. Overproductie is niet nodig."
+                        }
+                    }
+                }
+            ],
+            "neither": [
+                {
+                    "name": "Volt",
+                    "fullName": "Volt",
+                    "logoIndex": 9,
+                    "statement": {
+                        "id": 79640,
+                        "position": "neither",
+                        "explanation": "De intensieve veehouderij past niet in de nieuwe landbouw. Verschillende Europese landen hebben veel strengere normen op het aantal dieren dan Nederland. Volt wil met een verbod op megastallen weer een Europese koploper worden.",
+                        "accessibility": {
+                            "explanation": "De intensieve veehouderij past niet in de nieuwe landbouw. Verschillende Europese landen hebben veel strengere normen op het aantal dieren dan Nederland. Volt wil met een verbod op megastallen weer een Europese koploper worden."
+                        }
+                    }
+                }
+            ],
+            "disagree": [
+                {
+                    "name": "VVD",
+                    "fullName": "VVD",
+                    "logoIndex": 0,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Het is belangrijk dat we aan de slag gaan en op korte termijn zorgen voor stikstofreductie, herstel van de natuur en toekomstperspectief voor ondernemers. De aanpak moet gericht zijn op het verminderen van de stikstofuitstoot, niet op de hoeveelheid vee als doel.",
+                        "accessibility": {
+                            "explanation": "Het is belangrijk dat we aan de slag gaan en op korte termijn zorgen voor stikstofreductie, herstel van de natuur en toekomstperspectief voor ondernemers. De aanpak moet gericht zijn op het verminderen van de stikstofuitstoot, niet op de hoeveelheid vee als doel."
+                        }
+                    }
+                },
+                {
+                    "name": "PVV",
+                    "fullName": "PVV",
+                    "logoIndex": 3,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Onze boerensector is de beste ter wereld! Hardwerkende boeren zorgen voor ons dagelijks voedsel. Daarom: houd onze voedselvoorziening in eigen land en bied de boeren een goed toekomstperspectief en een eerlijke prijs. ",
+                        "accessibility": {
+                            "explanation": "Onze boerensector is de beste ter wereld! Hardwerkende boeren zorgen voor ons dagelijks voedsel. Daarom: houd onze voedselvoorziening in eigen land en bied de boeren een goed toekomstperspectief en een eerlijke prijs."
+                        }
+                    }
+                },
+                {
+                    "name": "CDA",
+                    "fullName": "CDA",
+                    "logoIndex": 4,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Ook de komende jaren zal de agrarische sector inzetten op verdere verduurzaming en het beperken van emissies. De maatregelen die hiervoor genomen worden kunnen effect hebben op dieraantallen, maar krimp van de veestapel is geen doel op zich.",
+                        "accessibility": {
+                            "explanation": "Ook de komende jaren zal de agrarische sector inzetten op verdere verduurzaming en het beperken van emissies. De maatregelen die hiervoor genomen worden kunnen effect hebben op dieraantallen, maar krimp van de veestapel is geen doel op zich."
+                        }
+                    }
+                },
+                {
+                    "name": "SP",
+                    "fullName": "SP",
+                    "logoIndex": 5,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "De hoeveelheid vee zal flink krimpen als het aan ons ligt, omdat wij dierenwelzijnsnormen zullen aanscherpen en daarop zullen handhaven. De grootschalige bio-industrie die vooral gericht is op export moet stoppen. Halvering is geen doel op zich. We maken boeren met kleinere aantallen dieren mogelijk",
+                        "accessibility": {
+                            "explanation": "De hoeveelheid vee zal flink krimpen als het aan ons ligt, omdat wij dierenwelzijnsnormen zullen aanscherpen en daarop zullen handhaven. De grootschalige bio-industrie die vooral gericht is op export moet stoppen. Halvering is geen doel op zich. We maken boeren met kleinere aantallen dieren mogelijk"
+                        }
+                    }
+                },
+                {
+                    "name": "FVD",
+                    "fullName": "Forum voor Democratie",
+                    "logoIndex": 6,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "FVD vindt dat boeren gewoon moeten kunnen boeren. De stikstofproblematiek is enkel een probleem op papier. We moeten af van de modellenwereld en terug naar de echte wereld.",
+                        "accessibility": {
+                            "explanation": "FVD vindt dat boeren gewoon moeten kunnen boeren. De stikstofproblematiek is enkel een probleem op papier. We moeten af van de modellenwereld en terug naar de echte wereld."
+                        }
+                    }
+                },
+                {
+                    "name": "ChristenUnie",
+                    "fullName": "ChristenUnie",
+                    "logoIndex": 8,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Wat de ChristenUnie betreft moeten stikstofemissies, zowel ammoniak als stikstofoxiden, met de helft omlaag. Dat is het doel, niet de halvering van de veestapel. Reductie van stikstof is goed voor de natuur. Alle sectoren dragen hieraan hun evenredige steentje bij. ",
+                        "accessibility": {
+                            "explanation": "Wat de ChristenUnie betreft moeten stikstofemissies, zowel ammoniak als stikstofoxiden, met de helft omlaag. Dat is het doel, niet de halvering van de veestapel. Reductie van stikstof is goed voor de natuur. Alle sectoren dragen hieraan hun evenredige steentje bij."
+                        }
+                    }
+                },
+                {
+                    "name": "JA21",
+                    "fullName": "JA21",
+                    "logoIndex": 10,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Wij koesteren onze agrarische sector en de veeteelt. JA21 is dan ook tegen het inkrimpen van de veestapel. Onze landbouw, veeteelt en visserij zijn van cruciaal belang voor de voedselzekerheid. We stoppen dan ook met het gedwongen inkrimpen van onze veeteeltsector. JA21 laat de boeren weer boeren.",
+                        "accessibility": {
+                            "explanation": "Wij koesteren onze agrarische sector en de veeteelt. JA21 is dan ook tegen het inkrimpen van de veestapel. Onze landbouw, veeteelt en visserij zijn van cruciaal belang voor de voedselzekerheid. We stoppen dan ook met het gedwongen inkrimpen van onze veeteeltsector. JA21 laat de boeren weer boeren."
+                        }
+                    }
+                },
+                {
+                    "name": "SGP",
+                    "fullName": "SGP",
+                    "logoIndex": 11,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Het is goed om boeren die willen stoppen omdat ze bijvoorbeeld geen opvolger hebben daarbij te helpen. De SGP wil echter niet sturen op halvering van de veehouderij. Onze boeren doen het internationaal gezien goed als het gaat om klimaat en dierenwelzijn. De akkerbouw heeft ook dierlijke mest\r\nnodig.",
+                        "accessibility": {
+                            "explanation": "Het is goed om boeren die willen stoppen omdat ze bijvoorbeeld geen opvolger hebben daarbij te helpen. De SGP wil echter niet sturen op halvering van de veehouderij. Onze boeren doen het internationaal gezien goed als het gaat om klimaat en dierenwelzijn. De akkerbouw heeft ook dierlijke mest\r\nnodig."
+                        }
+                    }
+                },
+                {
+                    "name": "DENK",
+                    "fullName": "DENK",
+                    "logoIndex": 12,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Het bevorderen van het dierenwelzijn is uiterst belangrijk. Daarvoor is een minder intensieve veehouderij nodig. Tegelijkertijd willen wij dat de boeren hun boterham kunnen verdienen en ons van voldoende voedsel kunnen voorzien. Daarom zijn wij niet voor een zeer verregaande halvering. ",
+                        "accessibility": {
+                            "explanation": "Het bevorderen van het dierenwelzijn is uiterst belangrijk. Daarvoor is een minder intensieve veehouderij nodig. Tegelijkertijd willen wij dat de boeren hun boterham kunnen verdienen en ons van voldoende voedsel kunnen voorzien. Daarom zijn wij niet voor een zeer verregaande halvering."
+                        }
+                    }
+                },
+                {
+                    "name": "50PLUS",
+                    "fullName": "50PLUS",
+                    "logoIndex": 13,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Een kleinere veestapel is zeker wenselijk alleen dient voor 50PLUS de leefomstandigheden van dieren leidend te zijn in het te bepalen van de te houden maximum aantallen dieren.",
+                        "accessibility": {
+                            "explanation": "Een kleinere veestapel is zeker wenselijk alleen dient voor 50PLUS de leefomstandigheden van dieren leidend te zijn in het te bepalen van de te houden maximum aantallen dieren."
+                        }
+                    }
+                },
+                {
+                    "name": "BBB",
+                    "fullName": "BoerBurgerBeweging",
+                    "logoIndex": 14,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiële diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland.",
+                        "accessibility": {
+                            "explanation": "BBB zet zich in voor het belang van voedselzekerheid en een gezonde economie. BBB is tegen halvering van de veestapel. Boeren leveren essentiële diensten en producten en een grote maatschappelijke bijdrage aan natuur-, landschapsbeheer en leefbaarheid op het platteland."
+                        }
+                    }
+                },
+                {
+                    "name": "Piratenpartij - De Groenen",
+                    "fullName": "Piratenpartij - De Groenen",
+                    "logoIndex": 16,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Piratenpartij - De Groenen staan voor een betrouwbare overheid. Ineens de veestapel halveren is een enorme koerswijziging, en laat grote vervuilende industrie buiten schot. Bovendien is het de verkeerde uitkomstmaat. Stuur liever op stikstof en vervuiling, niet op de grootte van de veestapel.",
+                        "accessibility": {
+                            "explanation": "Piratenpartij - De Groenen staan voor een betrouwbare overheid. Ineens de veestapel halveren is een enorme koerswijziging, en laat grote vervuilende industrie buiten schot. Bovendien is het de verkeerde uitkomstmaat. Stuur liever op stikstof en vervuiling, niet op de grootte van de veestapel."
+                        }
+                    }
+                },
+                {
+                    "name": "BVNL",
+                    "fullName": "BVNL / Groep Van Haga",
+                    "logoIndex": 17,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "BVNL ziet dat het aantal zetels bij partijen die stellen dat de veestapel minstens met de helft kleiner wordt smelt als sneeuw voor de zon. En dat is maar goed ook, want zonder boeren, geen eten. Wij koesteren onze boeren en zijn trots op deze prachtige sector. ",
+                        "accessibility": {
+                            "explanation": "BVNL ziet dat het aantal zetels bij partijen die stellen dat de veestapel minstens met de helft kleiner wordt smelt als sneeuw voor de zon. En dat is maar goed ook, want zonder boeren, geen eten. Wij koesteren onze boeren en zijn trots op deze prachtige sector."
+                        }
+                    }
+                },
+                {
+                    "name": "NSC",
+                    "fullName": "Nieuw Sociaal Contract",
+                    "logoIndex": 18,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "De hoeveelheid vee moet beter afgestemd worden op de milieugebruiksruimte en de beschikbare grond in Nederland. In de veeteelt zetten we verdere stappen richting een toekomstige landbouw, die meer in evenwicht is met de omgeving.",
+                        "accessibility": {
+                            "explanation": "De hoeveelheid vee moet beter afgestemd worden op de milieugebruiksruimte en de beschikbare grond in Nederland. In de veeteelt zetten we verdere stappen richting een toekomstige landbouw, die meer in evenwicht is met de omgeving."
+                        }
+                    }
+                },
+                {
+                    "name": "Libertaire Partij",
+                    "fullName": "Libertaire Partij",
+                    "logoIndex": 20,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Boeren moeten de kans krijgen om te herstellen van decennia van overheidsregulering, die de Libertaire Partij direct wil afschaffen. In de vrije markt binnen een sterke rechtsstaat, zoals wij voorstaan, zal vanzelf blijken wat een duurzame veepopulatie is.",
+                        "accessibility": {
+                            "explanation": "Boeren moeten de kans krijgen om te herstellen van decennia van overheidsregulering, die de Libertaire Partij direct wil afschaffen. In de vrije markt binnen een sterke rechtsstaat, zoals wij voorstaan, zal vanzelf blijken wat een duurzame veepopulatie is."
+                        }
+                    }
+                },
+                {
+                    "name": "Samen voor Nederland",
+                    "fullName": "Samen voor Nederland",
+                    "logoIndex": 22,
+                    "statement": {
+                        "id": 79640,
+                        "position": "disagree",
+                        "explanation": "Het houden van vee is belangrijk voor onze eigen voedselvoorziening. ",
+                        "accessibility": {
+                            "explanation": "Het houden van vee is belangrijk voor onze eigen voedselvoorziening."
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 79629,
+        "theme": "Lagere prijs benzine",
+        "themeId": "lagere-prijs-benzine",
+        "title": [
+            " De ",
+            {
+                "text": "accijns",
+                "information": "Belasting op bepaalde goederen, zoals brandstof, alcohol en tabak. Accijns heeft vaak als doel bepaald gedrag te ontmoedigen.",
+                "accessibility": {
+                    "information": "Belasting op bepaalde goederen, zoals brandstof, alcohol en tabak. Accijns heeft vaak als doel bepaald gedrag te ontmoedigen."
+                }
+            },
+            " op benzine, gas en diesel moet omlaag."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Accijns is een belasting op producten. De overheid gebruikt accijns om producten duurder te maken. Dit moet ervoor zorgen dat mensen door hoge kosten minder gaan gebruiken van die producten. De overheid wil met een hoge accijns op gas, diesel en benzine dat mensen zuiniger auto’s kopen en minder rijden."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Accijns is een belasting op producten. De overheid gebruikt accijns om producten duurder te maken. Dit moet ervoor zorgen dat mensen door hoge kosten minder gaan gebruiken van die producten. De overheid wil met een hoge accijns op gas, diesel en benzine dat mensen zuiniger auto’s kopen en minder rijden.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 2
+    },
+    {
+        "id": 79649,
+        "theme": "Eigen risico zorgverzekering",
+        "themeId": "eigen-risico-zorgverzekering",
+        "title": [
+            " Het eigen risico bij ",
+            {
+                "text": "zorgverzekeringen",
+                "information": "Verplichte verzekering die de kosten dekt voor zorg en medicijnen.",
+                "accessibility": {
+                    "information": "Verplichte verzekering die de kosten dekt voor zorg en medicijnen."
+                }
+            },
+            " moet worden afgeschaft."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Alle volwassenen in Nederland moeten zich verzekeren tegen ziektekosten met een basisverzekering. De kosten van de zorg voor zieke mensen worden zo verdeeld onder alle Nederlanders. Elk jaar betaal je de eerste 385 euro aan zorgkosten zelf, dat heet het eigen risico. Mensen die meestal gezond zijn, maar zo nu en dan zorg nodig hebben, betalen dit bedrag het ene jaar wel en het andere jaar niet. Maar mensen met een chronische ziekte betalen dit bedrag elk jaar. Als het eigen risico wordt afgeschaft, gaat de maandelijkse premie voor iedereen omhoog."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "Alle volwassenen in Nederland moeten zich verzekeren tegen ziektekosten met een basisverzekering. De kosten van de zorg voor zieke mensen worden zo verdeeld onder alle Nederlanders. Elk jaar betaal je de eerste 385 euro aan zorgkosten zelf, dat heet het eigen risico. Mensen die meestal gezond zijn, maar zo nu en dan zorg nodig hebben, betalen dit bedrag het ene jaar wel en het andere jaar niet. Maar mensen met een chronische ziekte betalen dit bedrag elk jaar. Als het eigen risico wordt afgeschaft, gaat de maandelijkse premie voor iedereen omhoog.",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 3
+    },
+    {
+        "id": 79572,
+        "theme": "Kiezen per regio",
+        "themeId": "kiezen-per-regio",
+        "title": "Elke regio in Nederland moet een vast aantal mensen in de Tweede Kamer krijgen.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "Na de verkiezingen kijkt de Kiesraad hoeveel stemmen een politieke partij in heel Nederland gekregen heeft en welk deel van het totaal aantal stemmen dat is. Op basis daarvan worden de zetels in de Tweede Kamer verdeeld. Dit systeem leidt ertoe dat er uit sommige regio’s meer mensen in de Tweede Kamer zitten dan uit andere regio’s. Dat kan veranderen als elke regio een vast aantal plaatsen in de Tweede Kamer krijgt."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "Na de verkiezingen kijkt de Kiesraad hoeveel stemmen een politieke partij in heel Nederland gekregen heeft en welk deel van het totaal aantal stemmen dat is. Op basis daarvan worden de zetels in de Tweede Kamer verdeeld. Dit systeem leidt ertoe dat er uit sommige regio’s meer mensen in de Tweede Kamer zitten dan uit andere regio’s. Dat kan veranderen als elke regio een vast aantal plaatsen in de Tweede Kamer krijgt.",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 4
+    },
+    {
+        "id": 79632,
+        "theme": "OV voor 65-plussers",
+        "themeId": "ov-voor-65-plussers",
+        "title": "Mensen vanaf 65 jaar moeten gratis met trein, tram en bus kunnen reizen.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "In sommige gemeenten reizen mensen die ouder zijn dan 65 al gratis met het openbaar vervoer. Ook hebben veel vervoersbedrijven kortingsregelingen voor ouderen. Als mensen vanaf 65 jaar gratis met trein, tram en bus kunnen reizen, hebben de vervoersbedrijven minder inkomsten."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "In sommige gemeenten reizen mensen die ouder zijn dan 65 al gratis met het openbaar vervoer. Ook hebben veel vervoersbedrijven kortingsregelingen voor ouderen. Als mensen vanaf 65 jaar gratis met trein, tram en bus kunnen reizen, hebben de vervoersbedrijven minder inkomsten.",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 5
+    },
+    {
+        "id": 79648,
+        "theme": "CO2-opslag",
+        "themeId": "co2-opslag",
+        "title": [
+            " De regering moet meer investeren in opslag van ",
+            {
+                "text": "CO2",
+                "information": "Kooldioxide, een gas dat van nature in de atmosfeer aanwezig is. Door verbranding van gas, kolen en benzine komt er te veel en dat heeft invloed op het klimaat.",
+                "accessibility": {
+                    "information": "Kooldioxide, een gas dat van nature in de atmosfeer aanwezig is. Door verbranding van gas, kolen en benzine komt er te veel en dat heeft invloed op het klimaat."
+                }
+            },
+            " onder de grond."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "CO2, koolstofdioxide, is een gas dat vrijkomt bij het verbranden van fossiele brandstoffen zoals kolen en gas. Hoe meer CO2 er in de lucht zit, hoe meer de warmte van de zon op aarde blijft hangen. Dit heet het broeikaseffect. Het is een belangrijke oorzaak van klimaatverandering. Het is moeilijk om snel helemaal stoppen met het verbranden van fossiele brandstoffen. Een tussenoplossing is het bewaren van CO2 onder de grond."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>CO2, koolstofdioxide, is een gas dat vrijkomt bij het verbranden van fossiele brandstoffen zoals kolen en gas. Hoe meer CO2 er in de lucht zit, hoe meer de warmte van de zon op aarde blijft hangen. Dit heet het broeikaseffect. Het is een belangrijke oorzaak van klimaatverandering. Het is moeilijk om snel helemaal stoppen met het verbranden van fossiele brandstoffen. Een tussenoplossing is het bewaren van CO2 onder de grond.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 6
+    },
+    {
+        "id": 79614,
+        "theme": "Visum Surinamers",
+        "themeId": "visum-surinamers",
+        "title": [
+            " De regering moet ervoor zorgen dat Surinamers zonder ",
+            {
+                "text": "visum",
+                "information": "Officiële toestemming om een land binnen te reizen en in dat land te verblijven. Een visum regel je bij een ambassade of consulaat.",
+                "accessibility": {
+                    "information": "Officiële toestemming om een land binnen te reizen en in dat land te verblijven. Een visum regel je bij een ambassade of consulaat."
+                }
+            },
+            " naar Nederland kunnen reizen."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Suriname was tot 1975 een kolonie van Nederland. Daarom wordt er Nederlands gesproken en hebben veel Surinamers familie die in Nederland woont. Nu hebben mensen die in Suriname wonen een visum nodig om naar Nederland te reizen. Wie naar Nederland reist, reist automatisch ook naar de Europese Unie. De Europese landen bepalen samen vanuit welke landen mensen een visum nodig hebben om naar Europa te komen. Nederland moet de visumvrije toegang van Surinamers dus met de andere landen regelen en kan dat niet alleen doen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Suriname was tot 1975 een kolonie van Nederland. Daarom wordt er Nederlands gesproken en hebben veel Surinamers familie die in Nederland woont. Nu hebben mensen die in Suriname wonen een visum nodig om naar Nederland te reizen. Wie naar Nederland reist, reist automatisch ook naar de Europese Unie. De Europese landen bepalen samen vanuit welke landen mensen een visum nodig hebben om naar Europa te komen. Nederland moet de visumvrije toegang van Surinamers dus met de andere landen regelen en kan dat niet alleen doen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 7
+    },
+    {
+        "id": 79662,
+        "theme": "2% voor defensie",
+        "themeId": "2-voor-defensie",
+        "title": [
+            " Er moet een wet komen waarin staat dat Nederland altijd 2% van het ",
+            {
+                "text": "bruto binnenlands product",
+                "information": "De waarde van alle goederen en diensten die in een jaar in een land zijn geproduceerd.",
+                "accessibility": {
+                    "information": "De waarde van alle goederen en diensten die in een jaar in een land zijn geproduceerd."
+                }
+            },
+            " uitgeeft aan defensie."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Nederland is lid van de NAVO, een bondgenootschap van Europese en Noord-Amerikaanse landen. De landen hebben beloofd dat zij elkaar zullen helpen als een van hen wordt aangevallen. Ook hebben zij afgesproken dat zij een bedrag dat gelijk is aan 2% van het bruto binnenlands product aan defensie zullen uitgeven, bijvoorbeeld aan soldaten of wapens. Nederland doet dat nu niet. Het bruto binnenlands product is al het geld wat mensen in een land per jaar verdienen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "Nederland is lid van de NAVO, een bondgenootschap van Europese en Noord-Amerikaanse landen. De landen hebben beloofd dat zij elkaar zullen helpen als een van hen wordt aangevallen. Ook hebben zij afgesproken dat zij een bedrag dat gelijk is aan 2% van het bruto binnenlands product aan defensie zullen uitgeven, bijvoorbeeld aan soldaten of wapens. Nederland doet dat nu niet. Het bruto binnenlands product is al het geld wat mensen in een land per jaar verdienen.",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 8
+    },
+    {
+        "id": 79609,
+        "theme": "Cultuuronderwijs",
+        "themeId": "cultuuronderwijs",
+        "title": "De overheid moet meer geld geven aan scholen voor lessen in kunst en cultuur.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "Op de lessen in muziek, kunst en cultuur is sinds 2008 flink bezuinigd. Het gevolg hiervan is dat op scholen minder les wordt gegeven over kunst en cultuur. Meer geld hiervoor betekent dat kinderen meer kunnen leren over kunst en cultuur."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "Op de lessen in muziek, kunst en cultuur is sinds 2008 flink bezuinigd. Het gevolg hiervan is dat op scholen minder les wordt gegeven over kunst en cultuur. Meer geld hiervoor betekent dat kinderen meer kunnen leren over kunst en cultuur.",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 9
+    },
+    {
+        "id": 79594,
+        "theme": "Kerncentrales",
+        "themeId": "kerncentrales",
+        "title": [
+            " In Nederland moeten meer ",
+            {
+                "text": "kerncentrales",
+                "information": "Een centrale die elektriciteit opwekt met de energie die vrijkomt bij het splijten van atomen van uranium. Hierbij komt geen CO2 vrij. Er blijft wel radioactief afval over.",
+                "accessibility": {
+                    "information": "Een centrale die elektriciteit opwekt met de energie die vrijkomt bij het splijten van atomen van uranium. Hierbij komt geen CO2 vrij. Er blijft wel radioactief afval over."
+                }
+            },
+            " komen."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "In een kerncentrale wordt elektriciteit opgewekt. Hier komt geen CO2 bij vrij. Daarom zijn kerncentrales beter voor het klimaat dan elektriciteitscentrales die draaien op kolen en gas. Een kerncentrale gebruikt radioactief materiaal. Na het gebruik kan de straling van het radioactieve materiaal nog tienduizenden jaren gevaarlijk zijn. Het afval moet dus voor zeer lange tijd goed worden opgeslagen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>In een kerncentrale wordt elektriciteit opgewekt. Hier komt geen CO2 bij vrij. Daarom zijn kerncentrales beter voor het klimaat dan elektriciteitscentrales die draaien op kolen en gas. Een kerncentrale gebruikt radioactief materiaal. Na het gebruik kan de straling van het radioactieve materiaal nog tienduizenden jaren gevaarlijk zijn. Het afval moet dus voor zeer lange tijd goed worden opgeslagen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 10
+    },
+    {
+        "id": 79627,
+        "theme": "Vliegbelasting",
+        "themeId": "vliegbelasting",
+        "title": "De belasting op vliegreizen moet omhoog.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "Sinds 2021 betaalt elke passagier die vanuit Nederland vliegt daar belasting voor. Het bedrag is nu 26,43 euro. Vliegtuigen stoten veel koolstofdioxide (CO2) uit, dat bijdraagt aan opwarming van de aarde. De belasting op vliegreizen moet ervoor zorgen dat de prijsverschillen tussen vliegtickets en treinkaartjes kleiner worden. Deze belasting geldt niet voor vrachtverkeer, kleine vliegtuigen en mensen die overstappen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Sinds 2021 betaalt elke passagier die vanuit Nederland vliegt daar belasting voor. Het bedrag is nu 26,43 euro. Vliegtuigen stoten veel koolstofdioxide (CO2) uit, dat bijdraagt aan opwarming van de aarde. De belasting op vliegreizen moet ervoor zorgen dat de prijsverschillen tussen vliegtickets en treinkaartjes kleiner worden. Deze belasting geldt niet voor vrachtverkeer, kleine vliegtuigen en mensen die overstappen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 11
+    },
+    {
+        "id": 79622,
+        "theme": "Kopen huurwoning",
+        "themeId": "kopen-huurwoning",
+        "title": [
+            " Huurders moeten het recht krijgen om hun sociale huurwoning te kopen van de ",
+            {
+                "text": "woningcorporatie",
+                "information": "Organisaties die sociale huurwoningen bouwen, beheren en verhuren.",
+                "accessibility": {
+                    "information": "Organisaties die sociale huurwoningen bouwen, beheren en verhuren."
+                }
+            },
+            "."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Sociale huurwoningen zijn woningen met een huurprijs van maximaal 808,06 euro per maand. Deze woningen zijn alleen beschikbaar voor mensen met een inkomen van maximaal 48.625 euro per jaar. Ze worden verhuurd door woningcorporaties. Woningcorporaties verkopen soms huurwoningen en ontvangen hiervoor geld. Het initiatief voor de verkoop ligt bij de woningcorporatie, niet bij de huurder. Er zijn nog meer mensen die hun sociale huurwoning willen kopen, maar dit aanbod niet krijgen. Als zij dit wel kunnen doen, vermindert het aanbod sociale huurwoningen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Sociale huurwoningen zijn woningen met een huurprijs van maximaal 808,06 euro per maand. Deze woningen zijn alleen beschikbaar voor mensen met een inkomen van maximaal 48.625 euro per jaar. Ze worden verhuurd door woningcorporaties. Woningcorporaties verkopen soms huurwoningen en ontvangen hiervoor geld. Het initiatief voor de verkoop ligt bij de woningcorporatie, niet bij de huurder. Er zijn nog meer mensen die hun sociale huurwoning willen kopen, maar dit aanbod niet krijgen. Als zij dit wel kunnen doen, vermindert het aanbod sociale huurwoningen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 12
+    },
+    {
+        "id": 79654,
+        "theme": "Kinderopvang zonder winstoogmerk",
+        "themeId": "kinderopvang-zonder-winstoogmerk",
+        "title": [
+            "",
+            {
+                "text": "Kinderopvang",
+                "information": "Verzamelnaam voor  alle opvangmogelijkheden voor kinderen, zoals peuterspeelzalen, dagopvang, naschoolse opvang en gastouderopvang.",
+                "accessibility": {
+                    "information": "Verzamelnaam voor  alle opvangmogelijkheden voor kinderen, zoals peuterspeelzalen, dagopvang, naschoolse opvang en gastouderopvang."
+                }
+            },
+            " mag alleen worden aangeboden door organisaties die geen winst maken."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "In Nederland is grote behoefte aan kinderopvang. De wachttijden voor een plaats op de kinderopvang zijn lang. De kinderopvang wordt meestal aangeboden door instellingen die winst (willen) maken. Het gaat om 3 op de 5 locaties voor kinderopvang."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>In Nederland is grote behoefte aan kinderopvang. De wachttijden voor een plaats op de kinderopvang zijn lang. De kinderopvang wordt meestal aangeboden door instellingen die winst (willen) maken. Het gaat om 3 op de 5 locaties voor kinderopvang.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 13
+    },
+    {
+        "id": 79613,
+        "theme": "Gezinshereniging",
+        "themeId": "gezinshereniging",
+        "title": "Als een vluchteling in Nederland mag blijven, mag het gezin nu naar Nederland komen. De regering moet dat beperken.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "Nederland heeft met andere landen afspraken gemaakt over de opvang van vluchtelingen. Die afspraken liggen vast in wat we internationaal recht noemen. Ze gaan onder andere over gezinshereniging. Vluchtelingen die in Nederland mogen blijven, mogen ook hun gezinsleden (zoals een partner, ouders of kinderen) naar Nederland laten komen. Alleen bij hoge uitzondering mogen ook andere gezinsleden naar Nederland komen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Nederland heeft met andere landen afspraken gemaakt over de opvang van vluchtelingen. Die afspraken liggen vast in wat we internationaal recht noemen. Ze gaan onder andere over gezinshereniging. Vluchtelingen die in Nederland mogen blijven, mogen ook hun gezinsleden (zoals een partner, ouders of kinderen) naar Nederland laten komen. Alleen bij hoge uitzondering mogen ook andere gezinsleden naar Nederland komen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 14
+    },
+    {
+        "id": 79590,
+        "theme": "Belasting op vermogen",
+        "themeId": "belasting-op-vermogen",
+        "title": [
+            " De belasting op ",
+            {
+                "text": "vermogen",
+                "information": "Vermogen is bezit dat bestaat uit spaargeld, aandelen en/of de waarde van de tweede woning.",
+                "accessibility": {
+                    "information": "Vermogen is bezit dat bestaat uit spaargeld, aandelen en/of de waarde van de tweede woning."
+                }
+            },
+            " boven 57.000 euro moet omhoog."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Mensen die meer dan 57.000 euro vermogen hebben, betalen daar belasting over. Vermogen bestaat uit spaargeld, aandelen van bedrijven en een tweede huis. Het eigen huis waarin iemand woont telt niet mee. Mensen die een fiscale partner hebben, beginnen pas bij het dubbele, 114.000 euro, belasting te betalen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Mensen die meer dan 57.000 euro vermogen hebben, betalen daar belasting over. Vermogen bestaat uit spaargeld, aandelen van bedrijven en een tweede huis. Het eigen huis waarin iemand woont telt niet mee. Mensen die een fiscale partner hebben, beginnen pas bij het dubbele, 114.000 euro, belasting te betalen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 15
+    },
+    {
+        "id": 79611,
+        "theme": "Controle op religieuze groepen",
+        "themeId": "controle-op-religieuze-groepen",
+        "title": "De overheid moet strenger controleren wat jongeren leren bij kerken, moskeeën en andere organisaties die les geven op basis van een levensbeschouwing.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "De overheid heeft regels gemaakt voor scholen om ervoor te zorgen dat kinderen alleen zaken leren die passen bij Nederlandse normen en waarden. Dat wordt ook gecontroleerd. Er zijn organisaties die op basis van religie of levensbeschouwing jongeren lesgeven buiten schooltijden. Over de inhoud van die lessen zijn geen afspraken gemaakt en er is bijna geen controle op."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>De overheid heeft regels gemaakt voor scholen om ervoor te zorgen dat kinderen alleen zaken leren die passen bij Nederlandse normen en waarden. Dat wordt ook gecontroleerd. Er zijn organisaties die op basis van religie of levensbeschouwing jongeren lesgeven buiten schooltijden. Over de inhoud van die lessen zijn geen afspraken gemaakt en er is bijna geen controle op.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 16
+    },
+    {
+        "id": 79636,
+        "theme": "Stikstof",
+        "themeId": "stikstof",
+        "title": [
+            " De regering moet ervoor zorgen dat er in 2030 minstens de helft minder ",
+            {
+                "text": "stikstof",
+                "information": "Een gas dat overal om ons heen is, maar in sommige vormen schadelijk kan zijn voor het milieu en de natuur.",
+                "accessibility": {
+                    "information": "Een gas dat overal om ons heen is, maar in sommige vormen schadelijk kan zijn voor het milieu en de natuur."
+                }
+            },
+            " in de lucht komt."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Grote bedrijven, de bouw, het verkeer en vee zorgen voor de meeste stikstof in de lucht.  Om de Europese natuurdoelen te halen moet de uitstoot van stikstof flink omlaag, want die is slecht voor de natuur. Door stikstof gaan namelijk veel planten, bomen en dieren dood. De regering heeft in de wet vastgelegd dat er in 2035 de helft minder stikstof in de lucht moet zijn. Volgens deze stelling zou dat dus eerder moeten."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Grote bedrijven, de bouw, het verkeer en vee zorgen voor de meeste stikstof in de lucht.  Om de Europese natuurdoelen te halen moet de uitstoot van stikstof flink omlaag, want die is slecht voor de natuur. Door stikstof gaan namelijk veel planten, bomen en dieren dood. De regering heeft in de wet vastgelegd dat er in 2035 de helft minder stikstof in de lucht moet zijn. Volgens deze stelling zou dat dus eerder moeten.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 17
+    },
+    {
+        "id": 79599,
+        "theme": "Afschaffen kostendelersnorm",
+        "themeId": "afschaffen-kostendelersnorm",
+        "title": "Als je recht hebt op een uitkering en je woont samen, moet je hetzelfde bedrag krijgen als wanneer je alleen woont.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "In de Participatiewet is afgesproken dat mensen met een uitkering minder geld krijgen als ze samenwonen met iemand die ook geld binnenkrijgt. Het gaat dan bijvoorbeeld om de partner, maar ook om kinderen boven de 27 jaar of inwonende ouders. Die mensen hebben werk of zelf ook een uitkering. Dat noemen we de kostendelersnorm."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>In de Participatiewet is afgesproken dat mensen met een uitkering minder geld krijgen als ze samenwonen met iemand die ook geld binnenkrijgt. Het gaat dan bijvoorbeeld om de partner, maar ook om kinderen boven de 27 jaar of inwonende ouders. Die mensen hebben werk of zelf ook een uitkering. Dat noemen we de kostendelersnorm.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 18
+    },
+    {
+        "id": 79661,
+        "theme": "Uitbreiding Europese Unie",
+        "themeId": "uitbreiding-europese-unie",
+        "title": "De regering moet zich ertegen verzetten dat meer landen lid worden van de Europese Unie.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "De Europese Unie (EU) telt op dit moment 27 landen. Er zijn tien landen die ook bij de EU willen. Landen kunnen pas lid worden als ze voldoen aan bepaalde eisen van de EU. Zo moeten ze democratisch zijn, de economie op orde hebben en corruptie bestrijden. Alle 27 landen moeten akkoord gaan met nieuwe leden. Als één land zich daartegen verzet, gaat uitbreiding van de EU niet door."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>De Europese Unie (EU) telt op dit moment 27 landen. Er zijn tien landen die ook bij de EU willen. Landen kunnen pas lid worden als ze voldoen aan bepaalde eisen van de EU. Zo moeten ze democratisch zijn, de economie op orde hebben en corruptie bestrijden. Alle 27 landen moeten akkoord gaan met nieuwe leden. Als één land zich daartegen verzet, gaat uitbreiding van de EU niet door.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 19
+    },
+    {
+        "id": 79585,
+        "theme": "Risicoprofilering op basis van nationaliteit",
+        "themeId": "risicoprofilering-op-basis-van-nationaliteit",
+        "title": "De overheid mag nooit de afkomst of nationaliteit van mensen gebruiken om risico’s op criminaliteit in te schatten.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "De overheid gebruikt steeds vaker gegevens van burgers. Bijvoorbeeld om fraude met uitkeringen op te sporen. Of om criminaliteit tegen te gaan. Die gegevens gaan over de wijk waar ze wonen, maar ook over persoonlijke informatie van burgers, zoals hun leeftijd, woonplaats of afkomst. Op basis van een reeks instructies (algoritme) doen computersystemen daarmee voorspellingen voor groepen mensen. Het gebruik van afkomst of nationaliteit in een algoritme zorgt ervoor dat daarop ook wordt beoordeeld."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>De overheid gebruikt steeds vaker gegevens van burgers. Bijvoorbeeld om fraude met uitkeringen op te sporen. Of om criminaliteit tegen te gaan. Die gegevens gaan over de wijk waar ze wonen, maar ook over persoonlijke informatie van burgers, zoals hun leeftijd, woonplaats of afkomst. Op basis van een reeks instructies (algoritme) doen computersystemen daarmee voorspellingen voor groepen mensen. Het gebruik van afkomst of nationaliteit in een algoritme zorgt ervoor dat daarop ook wordt beoordeeld.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 20
+    },
+    {
+        "id": 79639,
+        "theme": "Elektrische auto's",
+        "themeId": "elektrische-auto-s",
+        "title": [
+            " De overheid moet geen geld meer geven aan mensen om een ",
+            {
+                "text": "elektrische auto",
+                "information": "Een auto die rijdt op elektriciteit en dus niet op benzine of diesel.",
+                "accessibility": {
+                    "information": "Een auto die rijdt op elektriciteit en dus niet op benzine of diesel."
+                }
+            },
+            " te kopen."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Het wegverkeer in Nederland stoot ongeveer 20 procent van de broeikasgassen uit. Een elektrische auto stoot tijdens het rijden geen broeikasgassen uit. Daarom geeft de overheid geld aan mensen die een elektrische auto kopen: 2.000 euro voor een gebruikte elektrische auto en 2.950 euro voor een nieuwe. Voor het opladen van een elektrische auto moet natuurlijk elektriciteit worden opgewekt en daarbij kunnen wel broeikasgassen vrijkomen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Het wegverkeer in Nederland stoot ongeveer 20 procent van de broeikasgassen uit. Een elektrische auto stoot tijdens het rijden geen broeikasgassen uit. Daarom geeft de overheid geld aan mensen die een elektrische auto kopen: 2.000 euro voor een gebruikte elektrische auto en 2.950 euro voor een nieuwe. Voor het opladen van een elektrische auto moet natuurlijk elektriciteit worden opgewekt en daarbij kunnen wel broeikasgassen vrijkomen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 21
+    },
+    {
+        "id": 79596,
+        "theme": "Hoger minimumloon",
+        "themeId": "hoger-minimumloon",
+        "title": [
+            " Het ",
+            {
+                "text": "minimumloon",
+                "information": "Het loon dat iemand van 21 jaar of ouder ten minste moet ontvangen voor werk.",
+                "accessibility": {
+                    "information": "Het loon dat iemand van 21 jaar of ouder ten minste moet ontvangen voor werk."
+                }
+            },
+            " moet binnen drie jaar van 11,51 euro bruto per uur naar 16 euro bruto per uur."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Alle werknemers vanaf 21 jaar hebben recht op het wettelijk minimumloon. Dit is het loon dat je minimaal moet ontvangen als je werkt. De regering stelt het minimumloon vast. De hoogte van de bijstandsuitkering en de AOW (de Algemene Ouderdomswet) is gekoppeld aan het minimumloon."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Alle werknemers vanaf 21 jaar hebben recht op het wettelijk minimumloon. Dit is het loon dat je minimaal moet ontvangen als je werkt. De regering stelt het minimumloon vast. De hoogte van de bijstandsuitkering en de AOW (de Algemene Ouderdomswet) is gekoppeld aan het minimumloon.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 22
+    },
+    {
+        "id": 79623,
+        "theme": "Bouwen op landbouwgrond",
+        "themeId": "bouwen-op-landbouwgrond",
+        "title": "De regering moet het bouwen van woonwijken op landbouwgrond gemakkelijker maken.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "In de komende zeven jaar zullen er ongeveer 900.000 woningen bij moeten komen om het woningtekort in Nederland op te lossen. Gemeenten die woningen willen laten bouwen, moeten nu eerst kijken of het mogelijk is in bebouwd gebied. Pas onder strenge voorwaarden mag het op landbouwgebied. Als het gemakkelijker wordt, kunnen er sneller nieuwe woningen worden gebouwd."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>In de komende zeven jaar zullen er ongeveer 900.000 woningen bij moeten komen om het woningtekort in Nederland op te lossen. Gemeenten die woningen willen laten bouwen, moeten nu eerst kijken of het mogelijk is in bebouwd gebied. Pas onder strenge voorwaarden mag het op landbouwgebied. Als het gemakkelijker wordt, kunnen er sneller nieuwe woningen worden gebouwd.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 23
+    },
+    {
+        "id": 79570,
+        "theme": "Referendum",
+        "themeId": "referendum",
+        "title": [
+            " Inwoners van Nederland moeten een nieuwe wet kunnen tegenhouden met een ",
+            {
+                "text": "referendum",
+                "information": "Volksstemming over een bepaald politiek onderwerp waarbij kiezers kunnen aangeven of ze voor of tegen zijn.",
+                "accessibility": {
+                    "information": "Volksstemming over een bepaald politiek onderwerp waarbij kiezers kunnen aangeven of ze voor of tegen zijn."
+                }
+            },
+            "."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "In Nederland stemt het parlement, dat bestaat uit de Eerste en de Tweede Kamer, over wetten. Inwoners van Nederland kunnen daar niet zelf over stemmen. Een volksstemming over een bepaalde wet heet een referendum. Invoering van dit voorstel betekent dat inwoners kunnen aangeven of ze het wel of niet eens zijn met een wet die al door het parlement is aangenomen. Het gaat om een bindend referendum: als voldoende mensen tegen zo’n wet stemmen, gaat deze niet door."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>In Nederland stemt het parlement, dat bestaat uit de Eerste en de Tweede Kamer, over wetten. Inwoners van Nederland kunnen daar niet zelf over stemmen. Een volksstemming over een bepaalde wet heet een referendum. Invoering van dit voorstel betekent dat inwoners kunnen aangeven of ze het wel of niet eens zijn met een wet die al door het parlement is aangenomen. Het gaat om een bindend referendum: als voldoende mensen tegen zo’n wet stemmen, gaat deze niet door.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 24
+    },
+    {
+        "id": 79582,
+        "theme": "Vuurwerk",
+        "themeId": "vuurwerk",
+        "title": [
+            " De regering moet het afsteken van vuurwerk door ",
+            {
+                "text": "particulieren",
+                "information": "Individuele personen, dus niet door een bedrijf of de overheid.",
+                "accessibility": {
+                    "information": "Individuele personen, dus niet door een bedrijf of de overheid."
+                }
+            },
+            " helemaal verbieden."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "In de coronaperiode was het afsteken van vuurwerk helemaal verboden. Nu mag het afsteken van siervuurwerk wel, maar knalvuurwerk niet meer. Volgens deze stelling moet ook siervuurwerk verboden worden. Alleen gemeenten of andere organisaties zouden dan nog vuurwerkshows mogen organiseren."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>In de coronaperiode was het afsteken van vuurwerk helemaal verboden. Nu mag het afsteken van siervuurwerk wel, maar knalvuurwerk niet meer. Volgens deze stelling moet ook siervuurwerk verboden worden. Alleen gemeenten of andere organisaties zouden dan nog vuurwerkshows mogen organiseren.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 25
+    },
+    {
+        "id": 79587,
+        "theme": "Duurzame bedrijven",
+        "themeId": "duurzame-bedrijven",
+        "title": "De overheid moet bedrijven minder geld geven om duurzamer te worden.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "Bedrijven – industrie, dienstverlening en landbouw – kunnen nu van de overheid geld krijgen om hun productie milieuvriendelijker te maken. Denk aan koop en gebruik van elektrische wagens, slimmere manieren om afval te verwerken, gebruik van duurzame energie, isolatie van het gebouw of hergebruik van grondstoffen. Minder geld daarvoor betekent dat bedrijven zelf meer moeten gaan betalen om duurzamer te werken. Of dat ze daar minder snel voor kiezen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Bedrijven – industrie, dienstverlening en landbouw – kunnen nu van de overheid geld krijgen om hun productie milieuvriendelijker te maken. Denk aan koop en gebruik van elektrische wagens, slimmere manieren om afval te verwerken, gebruik van duurzame energie, isolatie van het gebouw of hergebruik van grondstoffen. Minder geld daarvoor betekent dat bedrijven zelf meer moeten gaan betalen om duurzamer te werken. Of dat ze daar minder snel voor kiezen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 26
+    },
+    {
+        "id": 79652,
+        "theme": "Voltooid leven",
+        "themeId": "voltooid-leven",
+        "title": "Mensen die vinden dat ze klaar zijn met hun leven, moeten hulp kunnen krijgen bij zelfdoding.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "Het komt voor dat mensen hun leven voltooid vinden en dat ze willen sterven. Bijvoorbeeld omdat ze een goed en lang leven hebben gehad. Of omdat ze ‘levensmoe’ zijn. Deze mensen mogen volgens de wet geen hulp krijgen bij zelfdoding. Want alleen mensen die ondraaglijk en uitzichtloos lijden mogen die hulp krijgen. Dit lijden moet een psychische of lichamelijke oorzaak hebben. Artsen kunnen in die bijzondere gevallen iemand helpen met sterven."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Het komt voor dat mensen hun leven voltooid vinden en dat ze willen sterven. Bijvoorbeeld omdat ze een goed en lang leven hebben gehad. Of omdat ze ‘levensmoe’ zijn. Deze mensen mogen volgens de wet geen hulp krijgen bij zelfdoding. Want alleen mensen die ondraaglijk en uitzichtloos lijden mogen die hulp krijgen. Dit lijden moet een psychische of lichamelijke oorzaak hebben. Artsen kunnen in die bijzondere gevallen iemand helpen met sterven.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 27
+    },
+    {
+        "id": 79658,
+        "theme": "Ontwikkelingshulp en asielzoekers",
+        "themeId": "ontwikkelingshulp-en-asielzoekers",
+        "title": [
+            " Nederland moet geen ontwikkelingshulp geven aan landen die weigeren ",
+            {
+                "text": "uitgeprocedeerde asielzoekers",
+                "information": "Asielzoekers van wie de aanvraag om in Nederland te mogen blijven definitief is afgewezen.",
+                "accessibility": {
+                    "information": "Asielzoekers van wie de aanvraag om in Nederland te mogen blijven definitief is afgewezen."
+                }
+            },
+            " terug te nemen."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "Nederland geeft ontwikkelingslanden geld om armoede te verminderen. Vaak heeft dat geld een duidelijk doel: betere gezondheidszorg, voeding en water of bescherming tegen klimaatverandering. Soms stelt de regering voorwaarden aan ontwikkelingshulp, zoals het inzetten van Nederlandse bedrijven. Het koppelen van ontwikkelingshulp aan het terugnemen van asielzoekers zou ook zo’n voorwaarde kunnen zijn. Landen die weigeren om uitgeprocedeerde asielzoekers terug te nemen van wie duidelijk is dat die uit dat land komen, zouden dan geen geld meer krijgen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Nederland geeft ontwikkelingslanden geld om armoede te verminderen. Vaak heeft dat geld een duidelijk doel: betere gezondheidszorg, voeding en water of bescherming tegen klimaatverandering. Soms stelt de regering voorwaarden aan ontwikkelingshulp, zoals het inzetten van Nederlandse bedrijven. Het koppelen van ontwikkelingshulp aan het terugnemen van asielzoekers zou ook zo’n voorwaarde kunnen zijn. Landen die weigeren om uitgeprocedeerde asielzoekers terug te nemen van wie duidelijk is dat die uit dat land komen, zouden dan geen geld meer krijgen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 28
+    },
+    {
+        "id": 79621,
+        "theme": "Huurstijging",
+        "themeId": "huurstijging",
+        "title": "De huurprijs van woningen mag de komende drie jaar niet stijgen.",
+        "accessibility": {
+            "moreInfo": {
+                "text": "Voor sociale huurwoningen met een huur tot 808,06 euro (in 2023) mag de huur niet hoger zijn dan is toegestaan op basis van het puntensysteem voor huurwoningen. De overheid stelt die regels vast. Elk jaar wordt de huur verhoogd met de inflatie. Ook voor de meeste woningen in de vrije sector stelt de overheid regels vast voor de maximale verhoging van de huur. Door de huur niet te verhogen gaan de lasten van huurders niet omhoog, maar krijgen de verhuurders minder geld."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>Voor sociale huurwoningen met een huur tot 808,06 euro (in 2023) mag de huur niet hoger zijn dan is toegestaan op basis van het puntensysteem voor huurwoningen. De overheid stelt die regels vast. Elk jaar wordt de huur verhoogd met de inflatie. Ook voor de meeste woningen in de vrije sector stelt de overheid regels vast voor de maximale verhoging van de huur. Door de huur niet te verhogen gaan de lasten van huurders niet omhoog, maar krijgen de verhuurders minder geld.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 29
+    },
+    {
+        "id": 79578,
+        "theme": "Minimumstraffen",
+        "themeId": "minimumstraffen",
+        "title": [
+            " Er moeten minimumstraffen komen voor mensen die ",
+            {
+                "text": "zwaar geweld",
+                "information": "Geweld dat leidt tot blijvende schade aan een lichaam of tot de dood.",
+                "accessibility": {
+                    "information": "Geweld dat leidt tot blijvende schade aan een lichaam of tot de dood."
+                }
+            },
+            " gebruiken."
+        ],
+        "accessibility": {
+            "moreInfo": {
+                "text": "De wetgever bepaalt welke straffen een rechter kan opleggen als iemand een misdaad heeft begaan. Denk aan een geldboete, een taakstraf of een gevangenisstraf. Nederland heeft wel maximumstraffen, maar geen minimumstraffen. Rechters kijken bij straffen altijd naar elk geval afzonderlijk. Een minimumstraf zou dat veranderen."
+            }
+        },
+        "moreInfo": {
+            "title": "",
+            "text": "<p>De wetgever bepaalt welke straffen een rechter kan opleggen als iemand een misdaad heeft begaan. Denk aan een geldboete, een taakstraf of een gevangenisstraf. Nederland heeft wel maximumstraffen, maar geen minimumstraffen. Rechters kijken bij straffen altijd naar elk geval afzonderlijk. Een minimumstraf zou dat veranderen.</p>",
+            "imageAlt": "Afbeelding"
+        },
+        "isShootout": false,
+        "index": 30
+    }
+]
