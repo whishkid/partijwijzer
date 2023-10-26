@@ -957,7 +957,7 @@ var app = (function () {
     			button = element("button");
     			if (default_slot) default_slot.c();
     			button.disabled = /*disabled*/ ctx[0];
-    			attr_dev(button, "class", button_class_value = "justify-self-end bg-green-200 hover:bg-green-300 p-2 border-3 rounded-md " + /*extraclass*/ ctx[1]);
+    			attr_dev(button, "class", button_class_value = "justify-self-end bg-green-200 hover:bg-green-300 px-2 py-1 sm:py-2 border-3 rounded-md " + /*extraclass*/ ctx[1]);
     			toggle_class(button, "opacity-50", /*disabled*/ ctx[0]);
     			add_location(button, file$9, 6, 0, 101);
     		},
@@ -998,7 +998,7 @@ var app = (function () {
     				prop_dev(button, "disabled", /*disabled*/ ctx[0]);
     			}
 
-    			if (!current || dirty & /*extraclass*/ 2 && button_class_value !== (button_class_value = "justify-self-end bg-green-200 hover:bg-green-300 p-2 border-3 rounded-md " + /*extraclass*/ ctx[1])) {
+    			if (!current || dirty & /*extraclass*/ 2 && button_class_value !== (button_class_value = "justify-self-end bg-green-200 hover:bg-green-300 px-2 py-1 sm:py-2 border-3 rounded-md " + /*extraclass*/ ctx[1])) {
     				attr_dev(button, "class", button_class_value);
     			}
 
@@ -23142,9 +23142,9 @@ var app = (function () {
     			div0 = element("div");
     			create_component(button.$$.fragment);
     			attr_dev(div0, "class", "w-full text-center");
-    			add_location(div0, file, 73, 4, 2097);
+    			add_location(div0, file, 73, 4, 2099);
     			attr_dev(div1, "class", "absolute top-1 w-full h-full bg-white opacity-95");
-    			add_location(div1, file, 67, 2, 1894);
+    			add_location(div1, file, 67, 2, 1896);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div1, anchor);
@@ -23278,7 +23278,7 @@ var app = (function () {
     			t = text(t_value);
     			option.__value = /*i*/ ctx[25] + 2;
     			option.value = option.__value;
-    			add_location(option, file, 92, 10, 2584);
+    			add_location(option, file, 92, 10, 2630);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, option, anchor);
@@ -23312,7 +23312,7 @@ var app = (function () {
     			div = element("div");
     			div.textContent = "[partijen aanpassen]";
     			attr_dev(div, "class", "cursor-pointer text-red-600");
-    			add_location(div, file, 98, 8, 2747);
+    			add_location(div, file, 98, 8, 2793);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -23341,7 +23341,7 @@ var app = (function () {
     	return block;
     }
 
-    // (107:4) <Button disabled={partySelectionValid || step > 31} on:click={() => step++}       >
+    // (107:4) <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}       >
     function create_default_slot_1(ctx) {
     	let t;
 
@@ -23361,7 +23361,7 @@ var app = (function () {
     		block,
     		id: create_default_slot_1.name,
     		type: "slot",
-    		source: "(107:4) <Button disabled={partySelectionValid || step > 31} on:click={() => step++}       >",
+    		source: "(107:4) <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}       >",
     		ctx
     	});
 
@@ -23444,21 +23444,21 @@ var app = (function () {
     			br12 = element("br");
     			t11 = space();
     			br13 = element("br");
-    			add_location(br0, file, 114, 6, 3235);
-    			add_location(br1, file, 114, 12, 3241);
-    			add_location(br2, file, 116, 6, 3325);
-    			add_location(br3, file, 117, 6, 3384);
-    			add_location(br4, file, 118, 6, 3448);
-    			add_location(br5, file, 118, 12, 3454);
-    			add_location(br6, file, 120, 6, 3543);
-    			add_location(br7, file, 120, 12, 3549);
-    			add_location(br8, file, 122, 6, 3638);
-    			add_location(br9, file, 123, 6, 3651);
-    			add_location(br10, file, 125, 6, 3778);
-    			add_location(br11, file, 126, 6, 3791);
-    			add_location(br12, file, 129, 6, 3921);
-    			add_location(br13, file, 130, 6, 3933);
-    			add_location(div, file, 112, 4, 3136);
+    			add_location(br0, file, 114, 6, 3283);
+    			add_location(br1, file, 114, 12, 3289);
+    			add_location(br2, file, 116, 6, 3373);
+    			add_location(br3, file, 117, 6, 3432);
+    			add_location(br4, file, 118, 6, 3496);
+    			add_location(br5, file, 118, 12, 3502);
+    			add_location(br6, file, 120, 6, 3591);
+    			add_location(br7, file, 120, 12, 3597);
+    			add_location(br8, file, 122, 6, 3686);
+    			add_location(br9, file, 123, 6, 3699);
+    			add_location(br10, file, 125, 6, 3826);
+    			add_location(br11, file, 126, 6, 3839);
+    			add_location(br12, file, 129, 6, 3969);
+    			add_location(br13, file, 130, 6, 3981);
+    			add_location(div, file, 112, 4, 3184);
     		},
     		m: function mount(target, anchor) {
     			mount_component(step1, target, anchor);
@@ -23646,11 +23646,11 @@ var app = (function () {
 
     			t4 = space();
     			create_component(button.$$.fragment);
-    			add_location(div0, file, 138, 6, 4169);
+    			add_location(div0, file, 138, 6, 4217);
     			attr_dev(div1, "class", "text-end lg:text-start ");
-    			add_location(div1, file, 139, 6, 4193);
+    			add_location(div1, file, 139, 6, 4241);
     			attr_dev(div2, "class", "grid grid-cols-2 gap-2 text-2xl font-bold");
-    			add_location(div2, file, 137, 4, 4107);
+    			add_location(div2, file, 137, 4, 4155);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div2, anchor);
@@ -23768,9 +23768,9 @@ var app = (function () {
     			div1 = element("div");
     			t1 = text(t1_value);
     			attr_dev(div0, "class", "border-t-2 border-dashed pt-2 mb-2");
-    			add_location(div0, file, 142, 8, 4313);
+    			add_location(div0, file, 142, 8, 4361);
     			attr_dev(div1, "class", "text-end lg:text-start pr-6 py-2 pt-4 border-t-2 border-dashed pt-1 ");
-    			add_location(div1, file, 143, 8, 4401);
+    			add_location(div1, file, 143, 8, 4449);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -23850,11 +23850,12 @@ var app = (function () {
     	let t2;
     	let div0;
     	let t3;
+    	let br0;
     	let select;
     	let option0;
     	let option1;
     	let t6;
-    	let br;
+    	let br1;
     	let t7;
     	let t8;
     	let button1;
@@ -23888,7 +23889,7 @@ var app = (function () {
 
     	button1 = new Button({
     			props: {
-    				disabled: /*partySelectionValid*/ ctx[5] || /*step*/ ctx[1] > 31,
+    				disabled: /*partySelectionInValid*/ ctx[5] || /*step*/ ctx[1] > 31,
     				$$slots: { default: [create_default_slot_1] },
     				$$scope: { ctx }
     			},
@@ -23911,6 +23912,7 @@ var app = (function () {
     			t2 = space();
     			div0 = element("div");
     			t3 = text("stap  ");
+    			br0 = element("br");
     			select = element("select");
     			option0 = element("option");
     			option0.textContent = "1 (partijen)";
@@ -23922,7 +23924,7 @@ var app = (function () {
     			option1 = element("option");
     			option1.textContent = "32 (Uitslag)";
     			t6 = text(" / 32");
-    			br = element("br");
+    			br1 = element("br");
     			t7 = space();
     			if (if_block1) if_block1.c();
     			t8 = space();
@@ -23934,21 +23936,23 @@ var app = (function () {
     			t11 = space();
     			if (if_block4) if_block4.c();
     			document.title = "Partij wijzer";
+    			add_location(br0, file, 88, 12, 2472);
     			option0.__value = 1;
     			option0.value = option0.__value;
-    			add_location(option0, file, 89, 8, 2499);
+    			add_location(option0, file, 89, 8, 2545);
     			option1.__value = 32;
     			option1.value = option1.__value;
-    			add_location(option1, file, 94, 8, 2647);
+    			add_location(option1, file, 94, 8, 2693);
+    			select.disabled = /*partySelectionInValid*/ ctx[5];
     			if (/*step*/ ctx[1] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[12].call(select));
-    			add_location(select, file, 88, 12, 2464);
-    			add_location(br, file, 96, 22, 2711);
-    			attr_dev(div0, "class", "text-center");
-    			add_location(div0, file, 86, 4, 2419);
+    			add_location(select, file, 88, 17, 2477);
+    			add_location(br1, file, 96, 22, 2757);
+    			attr_dev(div0, "class", "text-center -mt-2");
+    			add_location(div0, file, 86, 4, 2421);
     			attr_dev(div1, "class", "flex justify-between w-full grow mb-2");
-    			add_location(div1, file, 79, 2, 2254);
+    			add_location(div1, file, 79, 2, 2256);
     			attr_dev(div2, "class", "p-4");
-    			add_location(div2, file, 78, 0, 2234);
+    			add_location(div2, file, 78, 0, 2236);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -23963,6 +23967,7 @@ var app = (function () {
     			append_dev(div1, t2);
     			append_dev(div1, div0);
     			append_dev(div0, t3);
+    			append_dev(div0, br0);
     			append_dev(div0, select);
     			append_dev(select, option0);
 
@@ -23975,7 +23980,7 @@ var app = (function () {
     			append_dev(select, option1);
     			select_option(select, /*step*/ ctx[1], true);
     			append_dev(div0, t6);
-    			append_dev(div0, br);
+    			append_dev(div0, br1);
     			append_dev(div0, t7);
     			if (if_block1) if_block1.m(div0, null);
     			append_dev(div1, t8);
@@ -24026,6 +24031,10 @@ var app = (function () {
 
     			button0.$set(button0_changes);
 
+    			if (!current || dirty & /*partySelectionInValid*/ 32) {
+    				prop_dev(select, "disabled", /*partySelectionInValid*/ ctx[5]);
+    			}
+
     			if (dirty & /*step*/ 2) {
     				select_option(select, /*step*/ ctx[1]);
     			}
@@ -24044,7 +24053,7 @@ var app = (function () {
     			}
 
     			const button1_changes = {};
-    			if (dirty & /*partySelectionValid, step*/ 34) button1_changes.disabled = /*partySelectionValid*/ ctx[5] || /*step*/ ctx[1] > 31;
+    			if (dirty & /*partySelectionInValid, step*/ 34) button1_changes.disabled = /*partySelectionInValid*/ ctx[5] || /*step*/ ctx[1] > 31;
 
     			if (dirty & /*$$scope*/ 67108864) {
     				button1_changes.$$scope = { dirty, ctx };
@@ -24169,7 +24178,7 @@ var app = (function () {
     }
 
     function instance($$self, $$props, $$invalidate) {
-    	let partySelectionValid;
+    	let partySelectionInValid;
 
     	let $partyStatementRatings,
     		$$unsubscribe_partyStatementRatings = noop,
@@ -24271,7 +24280,7 @@ var app = (function () {
     		partyStatementRatings,
     		getPartyScores,
     		reset,
-    		partySelectionValid,
+    		partySelectionInValid,
     		$partyStatementRatings
     	});
 
@@ -24281,7 +24290,7 @@ var app = (function () {
     		if ('maxParties' in $$props) $$invalidate(6, maxParties = $$props.maxParties);
     		if ('partyOverlayVisible' in $$props) $$invalidate(3, partyOverlayVisible = $$props.partyOverlayVisible);
     		if ('partyStatementRatings' in $$props) $$subscribe_partyStatementRatings($$invalidate(4, partyStatementRatings = $$props.partyStatementRatings));
-    		if ('partySelectionValid' in $$props) $$invalidate(5, partySelectionValid = $$props.partySelectionValid);
+    		if ('partySelectionInValid' in $$props) $$invalidate(5, partySelectionInValid = $$props.partySelectionInValid);
     	};
 
     	if ($$props && "$$inject" in $$props) {
@@ -24290,7 +24299,7 @@ var app = (function () {
 
     	$$self.$$.update = () => {
     		if ($$self.$$.dirty & /*chosenParties*/ 1) {
-    			$$invalidate(5, partySelectionValid = chosenParties.length < 2 || chosenParties.length > maxParties);
+    			$$invalidate(5, partySelectionInValid = chosenParties.length < 2 || chosenParties.length > maxParties);
     		}
 
     		if ($$self.$$.dirty & /*$partyStatementRatings*/ 4) {
@@ -24312,7 +24321,7 @@ var app = (function () {
     		$partyStatementRatings,
     		partyOverlayVisible,
     		partyStatementRatings,
-    		partySelectionValid,
+    		partySelectionInValid,
     		maxParties,
     		getPartyScores,
     		reset,

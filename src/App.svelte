@@ -21,7 +21,7 @@
   let step = JSON.parse(storedStep) || 1;
   let maxParties = 25;
   let partyOverlayVisible = false;
-  $: partySelectionValid =
+  $: partySelectionInValid =
     chosenParties.length < 2 || chosenParties.length > maxParties;
 
   let partyStatementRatings = writable(
@@ -84,9 +84,9 @@
         step--;
       }}>vorige</Button
     >
-    <div class=" text-center">
+    <div class=" text-center -mt-2">
      
-      stap  <select bind:value={step}>
+      stap  <br/><select disabled={partySelectionInValid} bind:value={step}>
         <option value={1}>1 (partijen)</option>
 
         {#each Array(30) as _, i}
@@ -104,7 +104,7 @@
         </div>
       {/if}
     </div>
-    <Button disabled={partySelectionValid || step > 31} on:click={() => step++}
+    <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}
       >volgende</Button
     >
   </div>
