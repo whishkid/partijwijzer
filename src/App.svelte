@@ -84,17 +84,17 @@
         step--;
       }}>vorige</Button
     >
-    <div class=" text-center -mt-2">
+    <div class=" text-center mt-1">
      
-      stap  <br/><select disabled={partySelectionInValid} bind:value={step}>
+      <select disabled={partySelectionInValid} bind:value={step}>
         <option value={1}>1 (partijen)</option>
 
         {#each Array(30) as _, i}
-          <option value={i + 2}>{i + 2}</option>
+          <option value={i + 2}>Stelling {i +1} </option>
         {/each}
         <option value={32}>32 (Uitslag)</option>
 
-        </select> / 32<br />
+        </select><br />
       {#if step > 1}
         <div
           class="cursor-pointer text-red-600"
