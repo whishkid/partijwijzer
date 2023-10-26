@@ -22,7 +22,7 @@ class="{$partyStatementRatings[party.id] &&
   
 >
   <!-- svelte-ignore a11y-click-events-have-key-events -->
-  <div on:click={setRating(party, statement, rating)}>
+  <div class="mx-2" on:click={setRating(party, statement, rating)}>
     <svelte:component this={icon} />
   </div>
 </div>

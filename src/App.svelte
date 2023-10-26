@@ -6,7 +6,6 @@
   import Step2 from "./Step2.svelte";
   import PartyDisplay from "./PartyDisplay.svelte";
   import { parties } from "./data";
-  import { dev } from '$app/environment';
 
   const storedPartyStatementRatings = localStorage.getItem(
     "partyStatementRatings"
@@ -113,17 +112,17 @@
       op je eigen pc bewaard
     </div>
   {/if}
-  {#if step > 1 && step <= 31}
+  {#if step > 1 && step <= 31 && !partyOverlayVisible}
     <Step2 bind:partyStatementRatings {chosenParties} {step} />
   {/if}
   {#if step > 31}
-    Samenvatting
     <div class="grid grid-cols-2 gap-2 text-2xl font-bold">
       <div>partij</div>
-      <div>score</div>
+      <div class="text-end lg:text-start ">score</div>
       {#each getPartyScores($partyStatementRatings) as party}
-        <div class="w-32"><PartyDisplay {party} /></div>
-        {party.score}
+
+        <div class=" border-t-2 border-dashed pt-2 mb-2"><PartyDisplay {party} /></div>
+        <div class="text-end lg:text-start pr-6 py-2 pt-4 border-t-2 border-dashed pt-1 ">{party.score}</div>
       {/each}
     </div>
   {/if}

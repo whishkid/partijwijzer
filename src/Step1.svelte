@@ -40,7 +40,7 @@
 </div>
 
 {#if chosenParties.length > 1 && chosenParties.length <= maxParties}
-  <div class="py-2">
+  <div class="py-2 prose">
     Gekozen: {chosenParties.map((p) => " " + p.name + " ")}
   </div>
 {/if}
