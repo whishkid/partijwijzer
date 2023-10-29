@@ -23374,7 +23374,7 @@ var app = (function () {
     			insert_dev(target, div, anchor);
 
     			if (!mounted) {
-    				dispose = listen_dev(div, "click", /*click_handler_2*/ ctx[16], false, false, false, false);
+    				dispose = listen_dev(div, "click", /*click_handler_3*/ ctx[16], false, false, false, false);
     				mounted = true;
     			}
     		},
@@ -23949,7 +23949,7 @@ var app = (function () {
     			$$inline: true
     		});
 
-    	button1.$on("click", /*click_handler_3*/ ctx[17]);
+    	button1.$on("click", /*click_handler_4*/ ctx[17]);
     	let if_block2 = /*step*/ ctx[1] == 1 && create_if_block_2(ctx);
     	let if_block3 = /*step*/ ctx[1] > 1 && /*step*/ ctx[1] <= 31 && !/*partyOverlayVisible*/ ctx[4] && create_if_block_1(ctx);
     	let if_block4 = /*step*/ ctx[1] > 31 && create_if_block(ctx);
@@ -24042,7 +24042,7 @@ var app = (function () {
 
     			if (!mounted) {
     				dispose = [
-    					listen_dev(select, "focus", /*focus_handler*/ ctx[13], false, false, false, false),
+    					listen_dev(select, "click", /*click_handler_2*/ ctx[13], false, false, false, false),
     					listen_dev(select, "blur", /*blur_handler*/ ctx[14], false, false, false, false),
     					listen_dev(select, "change", /*select_change_handler*/ ctx[15])
     				];
@@ -24322,7 +24322,7 @@ var app = (function () {
     		$$invalidate(1, step--, step);
     	};
 
-    	const focus_handler = () => $$invalidate(3, isopen = true);
+    	const click_handler_2 = () => $$invalidate(3, isopen = true);
     	const blur_handler = () => $$invalidate(3, isopen = false);
 
     	function select_change_handler() {
@@ -24330,8 +24330,8 @@ var app = (function () {
     		$$invalidate(1, step);
     	}
 
-    	const click_handler_2 = () => $$invalidate(4, partyOverlayVisible = !partyOverlayVisible);
-    	const click_handler_3 = () => $$invalidate(1, step++, step);
+    	const click_handler_3 = () => $$invalidate(4, partyOverlayVisible = !partyOverlayVisible);
+    	const click_handler_4 = () => $$invalidate(1, step++, step);
 
     	function step1_chosenParties_binding_1(value) {
     		chosenParties = value;
@@ -24413,11 +24413,11 @@ var app = (function () {
     		step1_chosenParties_binding,
     		click_handler,
     		click_handler_1,
-    		focus_handler,
+    		click_handler_2,
     		blur_handler,
     		select_change_handler,
-    		click_handler_2,
     		click_handler_3,
+    		click_handler_4,
     		step1_chosenParties_binding_1,
     		step2_partyStatementRatings_binding
     	];
