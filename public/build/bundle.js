@@ -23088,19 +23088,19 @@ var app = (function () {
 
     function get_each_context(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[20] = list[i];
+    	child_ctx[23] = list[i];
     	return child_ctx;
     }
 
     function get_each_context_1(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[23] = list[i];
-    	child_ctx[25] = i;
+    	child_ctx[26] = list[i];
+    	child_ctx[28] = i;
     	return child_ctx;
     }
 
-    // (67:0) {#if partyOverlayVisible}
-    function create_if_block_4(ctx) {
+    // (69:0) {#if partyOverlayVisible}
+    function create_if_block_5(ctx) {
     	let div1;
     	let step1;
     	let updating_chosenParties;
@@ -23112,10 +23112,10 @@ var app = (function () {
     	let current;
 
     	function step1_chosenParties_binding(value) {
-    		/*step1_chosenParties_binding*/ ctx[9](value);
+    		/*step1_chosenParties_binding*/ ctx[10](value);
     	}
 
-    	let step1_props = { maxParties: /*maxParties*/ ctx[6] };
+    	let step1_props = { maxParties: /*maxParties*/ ctx[7] };
 
     	if (/*chosenParties*/ ctx[0] !== void 0) {
     		step1_props.chosenParties = /*chosenParties*/ ctx[0];
@@ -23132,7 +23132,7 @@ var app = (function () {
     			$$inline: true
     		});
 
-    	button.$on("click", /*click_handler*/ ctx[10]);
+    	button.$on("click", /*click_handler*/ ctx[11]);
 
     	const block = {
     		c: function create() {
@@ -23142,9 +23142,9 @@ var app = (function () {
     			div0 = element("div");
     			create_component(button.$$.fragment);
     			attr_dev(div0, "class", "w-full text-center");
-    			add_location(div0, file, 73, 4, 2099);
+    			add_location(div0, file, 75, 4, 2158);
     			attr_dev(div1, "class", "absolute top-1 w-full h-full bg-white opacity-95");
-    			add_location(div1, file, 67, 2, 1896);
+    			add_location(div1, file, 69, 2, 1955);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div1, anchor);
@@ -23166,7 +23166,7 @@ var app = (function () {
     			step1.$set(step1_changes);
     			const button_changes = {};
 
-    			if (dirty & /*$$scope*/ 67108864) {
+    			if (dirty & /*$$scope*/ 536870912) {
     				button_changes.$$scope = { dirty, ctx };
     			}
 
@@ -23203,16 +23203,16 @@ var app = (function () {
 
     	dispatch_dev("SvelteRegisterBlock", {
     		block,
-    		id: create_if_block_4.name,
+    		id: create_if_block_5.name,
     		type: "if",
-    		source: "(67:0) {#if partyOverlayVisible}",
+    		source: "(69:0) {#if partyOverlayVisible}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (75:6) <Button on:click={() => (partyOverlayVisible = false)}>
+    // (77:6) <Button on:click={() => (partyOverlayVisible = false)}>
     function create_default_slot_3(ctx) {
     	let t;
 
@@ -23232,14 +23232,14 @@ var app = (function () {
     		block,
     		id: create_default_slot_3.name,
     		type: "slot",
-    		source: "(75:6) <Button on:click={() => (partyOverlayVisible = false)}>",
+    		source: "(77:6) <Button on:click={() => (partyOverlayVisible = false)}>",
     		ctx
     	});
 
     	return block;
     }
 
-    // (81:4) <Button       disabled={step == 1}       on:click={() => {         step--;       }}>
+    // (83:4) <Button       disabled={step == 1}       on:click={() => {         step--;       }}>
     function create_default_slot_2(ctx) {
     	let t;
 
@@ -23259,20 +23259,54 @@ var app = (function () {
     		block,
     		id: create_default_slot_2.name,
     		type: "slot",
-    		source: "(81:4) <Button       disabled={step == 1}       on:click={() => {         step--;       }}>",
+    		source: "(83:4) <Button       disabled={step == 1}       on:click={() => {         step--;       }}>",
     		ctx
     	});
 
     	return block;
     }
 
-    // (92:8) {#each Array(30) as _, i}
+    // (95:48) {#if isopen}
+    function create_if_block_4(ctx) {
+    	let t0_value = statements[/*i*/ ctx[28]].theme + "";
+    	let t0;
+    	let t1;
+
+    	const block = {
+    		c: function create() {
+    			t0 = text(t0_value);
+    			t1 = space();
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, t0, anchor);
+    			insert_dev(target, t1, anchor);
+    		},
+    		p: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(t0);
+    			if (detaching) detach_dev(t1);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_4.name,
+    		type: "if",
+    		source: "(95:48) {#if isopen}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (94:8) {#each Array(30) as _, i}
     function create_each_block_1(ctx) {
     	let option;
     	let t0;
-    	let t1_value = /*i*/ ctx[25] + 1 + "";
+    	let t1_value = /*i*/ ctx[28] + 1 + "";
     	let t1;
     	let t2;
+    	let if_block = /*isopen*/ ctx[3] && create_if_block_4(ctx);
 
     	const block = {
     		c: function create() {
@@ -23280,19 +23314,35 @@ var app = (function () {
     			t0 = text("Stelling ");
     			t1 = text(t1_value);
     			t2 = space();
-    			option.__value = /*i*/ ctx[25] + 2;
+    			if (if_block) if_block.c();
+    			option.__value = /*i*/ ctx[28] + 2;
     			option.value = option.__value;
-    			add_location(option, file, 92, 10, 2622);
+    			add_location(option, file, 94, 10, 2773);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, option, anchor);
     			append_dev(option, t0);
     			append_dev(option, t1);
     			append_dev(option, t2);
+    			if (if_block) if_block.m(option, null);
     		},
-    		p: noop,
+    		p: function update(ctx, dirty) {
+    			if (/*isopen*/ ctx[3]) {
+    				if (if_block) {
+    					if_block.p(ctx, dirty);
+    				} else {
+    					if_block = create_if_block_4(ctx);
+    					if_block.c();
+    					if_block.m(option, null);
+    				}
+    			} else if (if_block) {
+    				if_block.d(1);
+    				if_block = null;
+    			}
+    		},
     		d: function destroy(detaching) {
     			if (detaching) detach_dev(option);
+    			if (if_block) if_block.d();
     		}
     	};
 
@@ -23300,14 +23350,14 @@ var app = (function () {
     		block,
     		id: create_each_block_1.name,
     		type: "each",
-    		source: "(92:8) {#each Array(30) as _, i}",
+    		source: "(94:8) {#each Array(30) as _, i}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (98:6) {#if step > 1}
+    // (100:6) {#if step > 1}
     function create_if_block_3(ctx) {
     	let div;
     	let mounted;
@@ -23318,13 +23368,13 @@ var app = (function () {
     			div = element("div");
     			div.textContent = "[partijen aanpassen]";
     			attr_dev(div, "class", "cursor-pointer text-red-600");
-    			add_location(div, file, 98, 8, 2784);
+    			add_location(div, file, 100, 8, 2975);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
 
     			if (!mounted) {
-    				dispose = listen_dev(div, "click", /*click_handler_2*/ ctx[13], false, false, false, false);
+    				dispose = listen_dev(div, "click", /*click_handler_2*/ ctx[16], false, false, false, false);
     				mounted = true;
     			}
     		},
@@ -23340,14 +23390,14 @@ var app = (function () {
     		block,
     		id: create_if_block_3.name,
     		type: "if",
-    		source: "(98:6) {#if step > 1}",
+    		source: "(100:6) {#if step > 1}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (107:4) <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}       >
+    // (109:4) <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}       >
     function create_default_slot_1(ctx) {
     	let t;
 
@@ -23367,14 +23417,14 @@ var app = (function () {
     		block,
     		id: create_default_slot_1.name,
     		type: "slot",
-    		source: "(107:4) <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}       >",
+    		source: "(109:4) <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}       >",
     		ctx
     	});
 
     	return block;
     }
 
-    // (111:2) {#if step == 1}
+    // (113:2) {#if step == 1}
     function create_if_block_2(ctx) {
     	let step1;
     	let updating_chosenParties;
@@ -23408,10 +23458,10 @@ var app = (function () {
     	let current;
 
     	function step1_chosenParties_binding_1(value) {
-    		/*step1_chosenParties_binding_1*/ ctx[15](value);
+    		/*step1_chosenParties_binding_1*/ ctx[18](value);
     	}
 
-    	let step1_props = { maxParties: /*maxParties*/ ctx[6] };
+    	let step1_props = { maxParties: /*maxParties*/ ctx[7] };
 
     	if (/*chosenParties*/ ctx[0] !== void 0) {
     		step1_props.chosenParties = /*chosenParties*/ ctx[0];
@@ -23450,21 +23500,21 @@ var app = (function () {
     			br12 = element("br");
     			t11 = space();
     			br13 = element("br");
-    			add_location(br0, file, 114, 6, 3274);
-    			add_location(br1, file, 114, 12, 3280);
-    			add_location(br2, file, 116, 6, 3364);
-    			add_location(br3, file, 117, 6, 3423);
-    			add_location(br4, file, 118, 6, 3487);
-    			add_location(br5, file, 118, 12, 3493);
-    			add_location(br6, file, 120, 6, 3582);
-    			add_location(br7, file, 120, 12, 3588);
-    			add_location(br8, file, 122, 6, 3677);
-    			add_location(br9, file, 123, 6, 3690);
-    			add_location(br10, file, 125, 6, 3817);
-    			add_location(br11, file, 126, 6, 3830);
-    			add_location(br12, file, 129, 6, 3960);
-    			add_location(br13, file, 130, 6, 3972);
-    			add_location(div, file, 112, 4, 3175);
+    			add_location(br0, file, 116, 6, 3465);
+    			add_location(br1, file, 116, 12, 3471);
+    			add_location(br2, file, 118, 6, 3555);
+    			add_location(br3, file, 119, 6, 3614);
+    			add_location(br4, file, 120, 6, 3678);
+    			add_location(br5, file, 120, 12, 3684);
+    			add_location(br6, file, 122, 6, 3773);
+    			add_location(br7, file, 122, 12, 3779);
+    			add_location(br8, file, 124, 6, 3868);
+    			add_location(br9, file, 125, 6, 3881);
+    			add_location(br10, file, 127, 6, 4008);
+    			add_location(br11, file, 128, 6, 4021);
+    			add_location(br12, file, 131, 6, 4151);
+    			add_location(br13, file, 132, 6, 4163);
+    			add_location(div, file, 114, 4, 3366);
     		},
     		m: function mount(target, anchor) {
     			mount_component(step1, target, anchor);
@@ -23528,21 +23578,21 @@ var app = (function () {
     		block,
     		id: create_if_block_2.name,
     		type: "if",
-    		source: "(111:2) {#if step == 1}",
+    		source: "(113:2) {#if step == 1}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (134:2) {#if step > 1 && step <= 31 && !partyOverlayVisible}
+    // (136:2) {#if step > 1 && step <= 31 && !partyOverlayVisible}
     function create_if_block_1(ctx) {
     	let step2;
     	let updating_partyStatementRatings;
     	let current;
 
     	function step2_partyStatementRatings_binding(value) {
-    		/*step2_partyStatementRatings_binding*/ ctx[16](value);
+    		/*step2_partyStatementRatings_binding*/ ctx[19](value);
     	}
 
     	let step2_props = {
@@ -23550,8 +23600,8 @@ var app = (function () {
     		step: /*step*/ ctx[1]
     	};
 
-    	if (/*partyStatementRatings*/ ctx[4] !== void 0) {
-    		step2_props.partyStatementRatings = /*partyStatementRatings*/ ctx[4];
+    	if (/*partyStatementRatings*/ ctx[5] !== void 0) {
+    		step2_props.partyStatementRatings = /*partyStatementRatings*/ ctx[5];
     	}
 
     	step2 = new Step2({ props: step2_props, $$inline: true });
@@ -23570,9 +23620,9 @@ var app = (function () {
     			if (dirty & /*chosenParties*/ 1) step2_changes.chosenParties = /*chosenParties*/ ctx[0];
     			if (dirty & /*step*/ 2) step2_changes.step = /*step*/ ctx[1];
 
-    			if (!updating_partyStatementRatings && dirty & /*partyStatementRatings*/ 16) {
+    			if (!updating_partyStatementRatings && dirty & /*partyStatementRatings*/ 32) {
     				updating_partyStatementRatings = true;
-    				step2_changes.partyStatementRatings = /*partyStatementRatings*/ ctx[4];
+    				step2_changes.partyStatementRatings = /*partyStatementRatings*/ ctx[5];
     				add_flush_callback(() => updating_partyStatementRatings = false);
     			}
 
@@ -23596,14 +23646,14 @@ var app = (function () {
     		block,
     		id: create_if_block_1.name,
     		type: "if",
-    		source: "(134:2) {#if step > 1 && step <= 31 && !partyOverlayVisible}",
+    		source: "(136:2) {#if step > 1 && step <= 31 && !partyOverlayVisible}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (137:2) {#if step > 31}
+    // (139:2) {#if step > 31}
     function create_if_block(ctx) {
     	let div2;
     	let div0;
@@ -23613,7 +23663,7 @@ var app = (function () {
     	let t4;
     	let button;
     	let current;
-    	let each_value = /*getPartyScores*/ ctx[7](/*$partyStatementRatings*/ ctx[2]);
+    	let each_value = /*getPartyScores*/ ctx[8](/*$partyStatementRatings*/ ctx[2]);
     	validate_each_argument(each_value);
     	let each_blocks = [];
 
@@ -23634,7 +23684,7 @@ var app = (function () {
     			$$inline: true
     		});
 
-    	button.$on("click", /*reset*/ ctx[8]);
+    	button.$on("click", /*reset*/ ctx[9]);
 
     	const block = {
     		c: function create() {
@@ -23652,11 +23702,11 @@ var app = (function () {
 
     			t4 = space();
     			create_component(button.$$.fragment);
-    			add_location(div0, file, 138, 6, 4208);
+    			add_location(div0, file, 140, 6, 4399);
     			attr_dev(div1, "class", "text-end lg:text-start ");
-    			add_location(div1, file, 139, 6, 4232);
+    			add_location(div1, file, 141, 6, 4423);
     			attr_dev(div2, "class", "grid grid-cols-2 gap-2 text-2xl font-bold");
-    			add_location(div2, file, 137, 4, 4146);
+    			add_location(div2, file, 139, 4, 4337);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div2, anchor);
@@ -23676,8 +23726,8 @@ var app = (function () {
     			current = true;
     		},
     		p: function update(ctx, dirty) {
-    			if (dirty & /*getPartyScores, $partyStatementRatings*/ 132) {
-    				each_value = /*getPartyScores*/ ctx[7](/*$partyStatementRatings*/ ctx[2]);
+    			if (dirty & /*getPartyScores, $partyStatementRatings*/ 260) {
+    				each_value = /*getPartyScores*/ ctx[8](/*$partyStatementRatings*/ ctx[2]);
     				validate_each_argument(each_value);
     				let i;
 
@@ -23706,7 +23756,7 @@ var app = (function () {
 
     			const button_changes = {};
 
-    			if (dirty & /*$$scope*/ 67108864) {
+    			if (dirty & /*$$scope*/ 536870912) {
     				button_changes.$$scope = { dirty, ctx };
     			}
 
@@ -23744,25 +23794,25 @@ var app = (function () {
     		block,
     		id: create_if_block.name,
     		type: "if",
-    		source: "(137:2) {#if step > 31}",
+    		source: "(139:2) {#if step > 31}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (141:6) {#each getPartyScores($partyStatementRatings) as party}
+    // (143:6) {#each getPartyScores($partyStatementRatings) as party}
     function create_each_block(ctx) {
     	let div0;
     	let partydisplay;
     	let t0;
     	let div1;
-    	let t1_value = /*party*/ ctx[20].score + "";
+    	let t1_value = /*party*/ ctx[23].score + "";
     	let t1;
     	let current;
 
     	partydisplay = new PartyDisplay({
-    			props: { party: /*party*/ ctx[20] },
+    			props: { party: /*party*/ ctx[23] },
     			$$inline: true
     		});
 
@@ -23774,9 +23824,9 @@ var app = (function () {
     			div1 = element("div");
     			t1 = text(t1_value);
     			attr_dev(div0, "class", "border-t-2 border-dashed pt-2 mb-2");
-    			add_location(div0, file, 142, 8, 4352);
+    			add_location(div0, file, 144, 8, 4543);
     			attr_dev(div1, "class", "text-end lg:text-start pr-6 py-2 pt-4 border-t-2 border-dashed pt-1 ");
-    			add_location(div1, file, 143, 8, 4440);
+    			add_location(div1, file, 145, 8, 4631);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -23788,9 +23838,9 @@ var app = (function () {
     		},
     		p: function update(ctx, dirty) {
     			const partydisplay_changes = {};
-    			if (dirty & /*$partyStatementRatings*/ 4) partydisplay_changes.party = /*party*/ ctx[20];
+    			if (dirty & /*$partyStatementRatings*/ 4) partydisplay_changes.party = /*party*/ ctx[23];
     			partydisplay.$set(partydisplay_changes);
-    			if ((!current || dirty & /*$partyStatementRatings*/ 4) && t1_value !== (t1_value = /*party*/ ctx[20].score + "")) set_data_dev(t1, t1_value);
+    			if ((!current || dirty & /*$partyStatementRatings*/ 4) && t1_value !== (t1_value = /*party*/ ctx[23].score + "")) set_data_dev(t1, t1_value);
     		},
     		i: function intro(local) {
     			if (current) return;
@@ -23813,14 +23863,14 @@ var app = (function () {
     		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(141:6) {#each getPartyScores($partyStatementRatings) as party}",
+    		source: "(143:6) {#each getPartyScores($partyStatementRatings) as party}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (147:4) <Button class="mt-2 w-full sm:w-auto" on:click={reset}>
+    // (149:4) <Button class="mt-2 w-full sm:w-auto" on:click={reset}>
     function create_default_slot(ctx) {
     	let t;
 
@@ -23840,7 +23890,7 @@ var app = (function () {
     		block,
     		id: create_default_slot.name,
     		type: "slot",
-    		source: "(147:4) <Button class=\\\"mt-2 w-full sm:w-auto\\\" on:click={reset}>",
+    		source: "(149:4) <Button class=\\\"mt-2 w-full sm:w-auto\\\" on:click={reset}>",
     		ctx
     	});
 
@@ -23868,7 +23918,7 @@ var app = (function () {
     	let current;
     	let mounted;
     	let dispose;
-    	let if_block0 = /*partyOverlayVisible*/ ctx[3] && create_if_block_4(ctx);
+    	let if_block0 = /*partyOverlayVisible*/ ctx[4] && create_if_block_5(ctx);
 
     	button0 = new Button({
     			props: {
@@ -23879,7 +23929,7 @@ var app = (function () {
     			$$inline: true
     		});
 
-    	button0.$on("click", /*click_handler_1*/ ctx[11]);
+    	button0.$on("click", /*click_handler_1*/ ctx[12]);
     	let each_value_1 = Array(30);
     	validate_each_argument(each_value_1);
     	let each_blocks = [];
@@ -23892,16 +23942,16 @@ var app = (function () {
 
     	button1 = new Button({
     			props: {
-    				disabled: /*partySelectionInValid*/ ctx[5] || /*step*/ ctx[1] > 31,
+    				disabled: /*partySelectionInValid*/ ctx[6] || /*step*/ ctx[1] > 31,
     				$$slots: { default: [create_default_slot_1] },
     				$$scope: { ctx }
     			},
     			$$inline: true
     		});
 
-    	button1.$on("click", /*click_handler_3*/ ctx[14]);
+    	button1.$on("click", /*click_handler_3*/ ctx[17]);
     	let if_block2 = /*step*/ ctx[1] == 1 && create_if_block_2(ctx);
-    	let if_block3 = /*step*/ ctx[1] > 1 && /*step*/ ctx[1] <= 31 && !/*partyOverlayVisible*/ ctx[3] && create_if_block_1(ctx);
+    	let if_block3 = /*step*/ ctx[1] > 1 && /*step*/ ctx[1] <= 31 && !/*partyOverlayVisible*/ ctx[4] && create_if_block_1(ctx);
     	let if_block4 = /*step*/ ctx[1] > 31 && create_if_block(ctx);
 
     	const block = {
@@ -23938,20 +23988,21 @@ var app = (function () {
     			document.title = "Partij wijzer";
     			option0.__value = 1;
     			option0.value = option0.__value;
-    			add_location(option0, file, 89, 8, 2537);
+    			add_location(option0, file, 91, 8, 2688);
     			option1.__value = 32;
     			option1.value = option1.__value;
-    			add_location(option1, file, 94, 8, 2694);
-    			select.disabled = /*partySelectionInValid*/ ctx[5];
-    			if (/*step*/ ctx[1] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[12].call(select));
-    			add_location(select, file, 88, 6, 2469);
-    			add_location(br, file, 96, 17, 2748);
+    			add_location(option1, file, 96, 8, 2885);
+    			attr_dev(select, "class", "max-w-[100px] overflow-hidden");
+    			select.disabled = /*partySelectionInValid*/ ctx[6];
+    			if (/*step*/ ctx[1] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[15].call(select));
+    			add_location(select, file, 90, 6, 2528);
+    			add_location(br, file, 98, 17, 2939);
     			attr_dev(div0, "class", "text-center mt-1 p-1");
-    			add_location(div0, file, 86, 4, 2421);
+    			add_location(div0, file, 88, 4, 2480);
     			attr_dev(div1, "class", "flex justify-between w-full grow mb-2");
-    			add_location(div1, file, 79, 2, 2256);
+    			add_location(div1, file, 81, 2, 2315);
     			attr_dev(div2, "class", "p-4");
-    			add_location(div2, file, 78, 0, 2236);
+    			add_location(div2, file, 80, 0, 2295);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -23990,20 +24041,25 @@ var app = (function () {
     			current = true;
 
     			if (!mounted) {
-    				dispose = listen_dev(select, "change", /*select_change_handler*/ ctx[12]);
+    				dispose = [
+    					listen_dev(select, "focus", /*focus_handler*/ ctx[13], false, false, false, false),
+    					listen_dev(select, "blur", /*blur_handler*/ ctx[14], false, false, false, false),
+    					listen_dev(select, "change", /*select_change_handler*/ ctx[15])
+    				];
+
     				mounted = true;
     			}
     		},
     		p: function update(ctx, [dirty]) {
-    			if (/*partyOverlayVisible*/ ctx[3]) {
+    			if (/*partyOverlayVisible*/ ctx[4]) {
     				if (if_block0) {
     					if_block0.p(ctx, dirty);
 
-    					if (dirty & /*partyOverlayVisible*/ 8) {
+    					if (dirty & /*partyOverlayVisible*/ 16) {
     						transition_in(if_block0, 1);
     					}
     				} else {
-    					if_block0 = create_if_block_4(ctx);
+    					if_block0 = create_if_block_5(ctx);
     					if_block0.c();
     					transition_in(if_block0, 1);
     					if_block0.m(t1.parentNode, t1);
@@ -24021,14 +24077,38 @@ var app = (function () {
     			const button0_changes = {};
     			if (dirty & /*step*/ 2) button0_changes.disabled = /*step*/ ctx[1] == 1;
 
-    			if (dirty & /*$$scope*/ 67108864) {
+    			if (dirty & /*$$scope*/ 536870912) {
     				button0_changes.$$scope = { dirty, ctx };
     			}
 
     			button0.$set(button0_changes);
 
-    			if (!current || dirty & /*partySelectionInValid*/ 32) {
-    				prop_dev(select, "disabled", /*partySelectionInValid*/ ctx[5]);
+    			if (dirty & /*statements, isopen*/ 8) {
+    				each_value_1 = Array(30);
+    				validate_each_argument(each_value_1);
+    				let i;
+
+    				for (i = 0; i < each_value_1.length; i += 1) {
+    					const child_ctx = get_each_context_1(ctx, each_value_1, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    					} else {
+    						each_blocks[i] = create_each_block_1(child_ctx);
+    						each_blocks[i].c();
+    						each_blocks[i].m(select, option1);
+    					}
+    				}
+
+    				for (; i < each_blocks.length; i += 1) {
+    					each_blocks[i].d(1);
+    				}
+
+    				each_blocks.length = each_value_1.length;
+    			}
+
+    			if (!current || dirty & /*partySelectionInValid*/ 64) {
+    				prop_dev(select, "disabled", /*partySelectionInValid*/ ctx[6]);
     			}
 
     			if (dirty & /*step*/ 2) {
@@ -24049,9 +24129,9 @@ var app = (function () {
     			}
 
     			const button1_changes = {};
-    			if (dirty & /*partySelectionInValid, step*/ 34) button1_changes.disabled = /*partySelectionInValid*/ ctx[5] || /*step*/ ctx[1] > 31;
+    			if (dirty & /*partySelectionInValid, step*/ 66) button1_changes.disabled = /*partySelectionInValid*/ ctx[6] || /*step*/ ctx[1] > 31;
 
-    			if (dirty & /*$$scope*/ 67108864) {
+    			if (dirty & /*$$scope*/ 536870912) {
     				button1_changes.$$scope = { dirty, ctx };
     			}
 
@@ -24080,11 +24160,11 @@ var app = (function () {
     				check_outros();
     			}
 
-    			if (/*step*/ ctx[1] > 1 && /*step*/ ctx[1] <= 31 && !/*partyOverlayVisible*/ ctx[3]) {
+    			if (/*step*/ ctx[1] > 1 && /*step*/ ctx[1] <= 31 && !/*partyOverlayVisible*/ ctx[4]) {
     				if (if_block3) {
     					if_block3.p(ctx, dirty);
 
-    					if (dirty & /*step, partyOverlayVisible*/ 10) {
+    					if (dirty & /*step, partyOverlayVisible*/ 18) {
     						transition_in(if_block3, 1);
     					}
     				} else {
@@ -24158,7 +24238,7 @@ var app = (function () {
     			if (if_block3) if_block3.d();
     			if (if_block4) if_block4.d();
     			mounted = false;
-    			dispose();
+    			run_all(dispose);
     		}
     	};
 
@@ -24189,6 +24269,7 @@ var app = (function () {
     	let chosenParties = parties.filter(p => storedChosenParties.find(cp => cp.id == p.id));
     	let step = JSON.parse(storedStep) || 1;
     	let maxParties = 25;
+    	let isopen;
     	let partyOverlayVisible = false;
     	let partyStatementRatings = writable(JSON.parse(storedPartyStatementRatings) || {});
     	validate_store(partyStatementRatings, 'partyStatementRatings');
@@ -24205,6 +24286,7 @@ var app = (function () {
     			}
 
     			const foundParty = chosenParties.find(p => p.id == partyId);
+    			if (!foundParty) continue;
 
     			partyScores.push({
     				id: partyId,
@@ -24234,18 +24316,21 @@ var app = (function () {
     		$$invalidate(0, chosenParties);
     	}
 
-    	const click_handler = () => $$invalidate(3, partyOverlayVisible = false);
+    	const click_handler = () => $$invalidate(4, partyOverlayVisible = false);
 
     	const click_handler_1 = () => {
     		$$invalidate(1, step--, step);
     	};
+
+    	const focus_handler = () => $$invalidate(3, isopen = true);
+    	const blur_handler = () => $$invalidate(3, isopen = false);
 
     	function select_change_handler() {
     		step = select_value(this);
     		$$invalidate(1, step);
     	}
 
-    	const click_handler_2 = () => $$invalidate(3, partyOverlayVisible = !partyOverlayVisible);
+    	const click_handler_2 = () => $$invalidate(4, partyOverlayVisible = !partyOverlayVisible);
     	const click_handler_3 = () => $$invalidate(1, step++, step);
 
     	function step1_chosenParties_binding_1(value) {
@@ -24255,7 +24340,7 @@ var app = (function () {
 
     	function step2_partyStatementRatings_binding(value) {
     		partyStatementRatings = value;
-    		$$subscribe_partyStatementRatings($$invalidate(4, partyStatementRatings));
+    		$$subscribe_partyStatementRatings($$invalidate(5, partyStatementRatings));
     	}
 
     	$$self.$capture_state = () => ({
@@ -24266,12 +24351,14 @@ var app = (function () {
     		Step2,
     		PartyDisplay,
     		parties,
+    		statements,
     		storedPartyStatementRatings,
     		storedChosenParties,
     		storedStep,
     		chosenParties,
     		step,
     		maxParties,
+    		isopen,
     		partyOverlayVisible,
     		partyStatementRatings,
     		getPartyScores,
@@ -24283,10 +24370,11 @@ var app = (function () {
     	$$self.$inject_state = $$props => {
     		if ('chosenParties' in $$props) $$invalidate(0, chosenParties = $$props.chosenParties);
     		if ('step' in $$props) $$invalidate(1, step = $$props.step);
-    		if ('maxParties' in $$props) $$invalidate(6, maxParties = $$props.maxParties);
-    		if ('partyOverlayVisible' in $$props) $$invalidate(3, partyOverlayVisible = $$props.partyOverlayVisible);
-    		if ('partyStatementRatings' in $$props) $$subscribe_partyStatementRatings($$invalidate(4, partyStatementRatings = $$props.partyStatementRatings));
-    		if ('partySelectionInValid' in $$props) $$invalidate(5, partySelectionInValid = $$props.partySelectionInValid);
+    		if ('maxParties' in $$props) $$invalidate(7, maxParties = $$props.maxParties);
+    		if ('isopen' in $$props) $$invalidate(3, isopen = $$props.isopen);
+    		if ('partyOverlayVisible' in $$props) $$invalidate(4, partyOverlayVisible = $$props.partyOverlayVisible);
+    		if ('partyStatementRatings' in $$props) $$subscribe_partyStatementRatings($$invalidate(5, partyStatementRatings = $$props.partyStatementRatings));
+    		if ('partySelectionInValid' in $$props) $$invalidate(6, partySelectionInValid = $$props.partySelectionInValid);
     	};
 
     	if ($$props && "$$inject" in $$props) {
@@ -24295,7 +24383,7 @@ var app = (function () {
 
     	$$self.$$.update = () => {
     		if ($$self.$$.dirty & /*chosenParties*/ 1) {
-    			$$invalidate(5, partySelectionInValid = chosenParties.length < 2 || chosenParties.length > maxParties);
+    			$$invalidate(6, partySelectionInValid = chosenParties.length < 2 || chosenParties.length > maxParties);
     		}
 
     		if ($$self.$$.dirty & /*$partyStatementRatings*/ 4) {
@@ -24315,6 +24403,7 @@ var app = (function () {
     		chosenParties,
     		step,
     		$partyStatementRatings,
+    		isopen,
     		partyOverlayVisible,
     		partyStatementRatings,
     		partySelectionInValid,
@@ -24324,6 +24413,8 @@ var app = (function () {
     		step1_chosenParties_binding,
     		click_handler,
     		click_handler_1,
+    		focus_handler,
+    		blur_handler,
     		select_change_handler,
     		click_handler_2,
     		click_handler_3,

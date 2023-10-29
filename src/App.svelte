@@ -5,7 +5,7 @@
   import Step1 from "./Step1.svelte";
   import Step2 from "./Step2.svelte";
   import PartyDisplay from "./PartyDisplay.svelte";
-  import { parties } from "./data";
+  import { parties, statements } from "./data";
 
   const storedPartyStatementRatings = localStorage.getItem(
     "partyStatementRatings"
@@ -20,6 +20,7 @@
   );
   let step = JSON.parse(storedStep) || 1;
   let maxParties = 25;
+   let  isopen
   let partyOverlayVisible = false;
   $: partySelectionInValid =
     chosenParties.length < 2 || chosenParties.length > maxParties;
@@ -36,6 +37,7 @@
         partyScore += partyMatrix[partyId][statementId];
       }
       const foundParty = chosenParties.find((p) => p.id == partyId);
+      if(!foundParty) continue;
       partyScores.push({
         id: partyId,
         score: partyScore,
@@ -86,11 +88,11 @@
     >
     <div class=" text-center mt-1 p-1">
      
-      <select disabled={partySelectionInValid} bind:value={step}>
+      <select on:focus={()=>isopen=true} on:blur={()=>isopen=false} class="max-w-[100px] overflow-hidden" disabled={partySelectionInValid} bind:value={step}>
         <option value={1}>partij keuze</option>
 
         {#each Array(30) as _, i}
-          <option value={i + 2}>Stelling {i +1} </option>
+          <option value={i + 2}>Stelling {i +1} {#if isopen} {statements[i].theme} {/if}</option>
         {/each}
         <option value={32}>Uitslag</option>
 
