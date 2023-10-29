@@ -97,14 +97,7 @@
         <option value={32}>Uitslag</option>
 
         </select><br />
-      {#if step > 1}
-        <div
-          class="cursor-pointer text-red-600"
-          on:click={() => (partyOverlayVisible = !partyOverlayVisible)}
-        >
-          [partijen aanpassen]
-        </div>
-      {/if}
+      
     </div>
     <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}
       >volgende</Button
