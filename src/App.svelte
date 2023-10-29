@@ -88,7 +88,7 @@
     >
     <div class=" text-center mt-1 p-1">
      
-      <select on:click={()=>isopen=true} on:blur={()=>isopen=false} class="max-w-[100px] overflow-hidden" disabled={partySelectionInValid} bind:value={step}>
+      <select on:touchstart={()=>isopen=!isopen}  on:focus={()=>isopen=true} on:blur={()=>isopen=false} class="max-w-[100px] overflow-hidden" disabled={partySelectionInValid} bind:value={step}>
         <option value={1}>partij keuze</option>
 
         {#each Array(30) as _, i}

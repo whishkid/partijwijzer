@@ -23088,14 +23088,14 @@ var app = (function () {
 
     function get_each_context(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[23] = list[i];
+    	child_ctx[24] = list[i];
     	return child_ctx;
     }
 
     function get_each_context_1(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[26] = list[i];
-    	child_ctx[28] = i;
+    	child_ctx[27] = list[i];
+    	child_ctx[29] = i;
     	return child_ctx;
     }
 
@@ -23166,7 +23166,7 @@ var app = (function () {
     			step1.$set(step1_changes);
     			const button_changes = {};
 
-    			if (dirty & /*$$scope*/ 536870912) {
+    			if (dirty & /*$$scope*/ 1073741824) {
     				button_changes.$$scope = { dirty, ctx };
     			}
 
@@ -23268,7 +23268,7 @@ var app = (function () {
 
     // (95:48) {#if isopen}
     function create_if_block_4(ctx) {
-    	let t0_value = statements[/*i*/ ctx[28]].theme + "";
+    	let t0_value = statements[/*i*/ ctx[29]].theme + "";
     	let t0;
     	let t1;
 
@@ -23303,7 +23303,7 @@ var app = (function () {
     function create_each_block_1(ctx) {
     	let option;
     	let t0;
-    	let t1_value = /*i*/ ctx[28] + 1 + "";
+    	let t1_value = /*i*/ ctx[29] + 1 + "";
     	let t1;
     	let t2;
     	let if_block = /*isopen*/ ctx[3] && create_if_block_4(ctx);
@@ -23315,9 +23315,9 @@ var app = (function () {
     			t1 = text(t1_value);
     			t2 = space();
     			if (if_block) if_block.c();
-    			option.__value = /*i*/ ctx[28] + 2;
+    			option.__value = /*i*/ ctx[29] + 2;
     			option.value = option.__value;
-    			add_location(option, file, 94, 10, 2773);
+    			add_location(option, file, 94, 10, 2809);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, option, anchor);
@@ -23368,13 +23368,13 @@ var app = (function () {
     			div = element("div");
     			div.textContent = "[partijen aanpassen]";
     			attr_dev(div, "class", "cursor-pointer text-red-600");
-    			add_location(div, file, 100, 8, 2975);
+    			add_location(div, file, 100, 8, 3011);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
 
     			if (!mounted) {
-    				dispose = listen_dev(div, "click", /*click_handler_3*/ ctx[16], false, false, false, false);
+    				dispose = listen_dev(div, "click", /*click_handler_2*/ ctx[17], false, false, false, false);
     				mounted = true;
     			}
     		},
@@ -23458,7 +23458,7 @@ var app = (function () {
     	let current;
 
     	function step1_chosenParties_binding_1(value) {
-    		/*step1_chosenParties_binding_1*/ ctx[18](value);
+    		/*step1_chosenParties_binding_1*/ ctx[19](value);
     	}
 
     	let step1_props = { maxParties: /*maxParties*/ ctx[7] };
@@ -23500,21 +23500,21 @@ var app = (function () {
     			br12 = element("br");
     			t11 = space();
     			br13 = element("br");
-    			add_location(br0, file, 116, 6, 3465);
-    			add_location(br1, file, 116, 12, 3471);
-    			add_location(br2, file, 118, 6, 3555);
-    			add_location(br3, file, 119, 6, 3614);
-    			add_location(br4, file, 120, 6, 3678);
-    			add_location(br5, file, 120, 12, 3684);
-    			add_location(br6, file, 122, 6, 3773);
-    			add_location(br7, file, 122, 12, 3779);
-    			add_location(br8, file, 124, 6, 3868);
-    			add_location(br9, file, 125, 6, 3881);
-    			add_location(br10, file, 127, 6, 4008);
-    			add_location(br11, file, 128, 6, 4021);
-    			add_location(br12, file, 131, 6, 4151);
-    			add_location(br13, file, 132, 6, 4163);
-    			add_location(div, file, 114, 4, 3366);
+    			add_location(br0, file, 116, 6, 3501);
+    			add_location(br1, file, 116, 12, 3507);
+    			add_location(br2, file, 118, 6, 3591);
+    			add_location(br3, file, 119, 6, 3650);
+    			add_location(br4, file, 120, 6, 3714);
+    			add_location(br5, file, 120, 12, 3720);
+    			add_location(br6, file, 122, 6, 3809);
+    			add_location(br7, file, 122, 12, 3815);
+    			add_location(br8, file, 124, 6, 3904);
+    			add_location(br9, file, 125, 6, 3917);
+    			add_location(br10, file, 127, 6, 4044);
+    			add_location(br11, file, 128, 6, 4057);
+    			add_location(br12, file, 131, 6, 4187);
+    			add_location(br13, file, 132, 6, 4199);
+    			add_location(div, file, 114, 4, 3402);
     		},
     		m: function mount(target, anchor) {
     			mount_component(step1, target, anchor);
@@ -23592,7 +23592,7 @@ var app = (function () {
     	let current;
 
     	function step2_partyStatementRatings_binding(value) {
-    		/*step2_partyStatementRatings_binding*/ ctx[19](value);
+    		/*step2_partyStatementRatings_binding*/ ctx[20](value);
     	}
 
     	let step2_props = {
@@ -23702,11 +23702,11 @@ var app = (function () {
 
     			t4 = space();
     			create_component(button.$$.fragment);
-    			add_location(div0, file, 140, 6, 4399);
+    			add_location(div0, file, 140, 6, 4435);
     			attr_dev(div1, "class", "text-end lg:text-start ");
-    			add_location(div1, file, 141, 6, 4423);
+    			add_location(div1, file, 141, 6, 4459);
     			attr_dev(div2, "class", "grid grid-cols-2 gap-2 text-2xl font-bold");
-    			add_location(div2, file, 139, 4, 4337);
+    			add_location(div2, file, 139, 4, 4373);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div2, anchor);
@@ -23756,7 +23756,7 @@ var app = (function () {
 
     			const button_changes = {};
 
-    			if (dirty & /*$$scope*/ 536870912) {
+    			if (dirty & /*$$scope*/ 1073741824) {
     				button_changes.$$scope = { dirty, ctx };
     			}
 
@@ -23807,12 +23807,12 @@ var app = (function () {
     	let partydisplay;
     	let t0;
     	let div1;
-    	let t1_value = /*party*/ ctx[23].score + "";
+    	let t1_value = /*party*/ ctx[24].score + "";
     	let t1;
     	let current;
 
     	partydisplay = new PartyDisplay({
-    			props: { party: /*party*/ ctx[23] },
+    			props: { party: /*party*/ ctx[24] },
     			$$inline: true
     		});
 
@@ -23824,9 +23824,9 @@ var app = (function () {
     			div1 = element("div");
     			t1 = text(t1_value);
     			attr_dev(div0, "class", "border-t-2 border-dashed pt-2 mb-2");
-    			add_location(div0, file, 144, 8, 4543);
+    			add_location(div0, file, 144, 8, 4579);
     			attr_dev(div1, "class", "text-end lg:text-start pr-6 py-2 pt-4 border-t-2 border-dashed pt-1 ");
-    			add_location(div1, file, 145, 8, 4631);
+    			add_location(div1, file, 145, 8, 4667);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -23838,9 +23838,9 @@ var app = (function () {
     		},
     		p: function update(ctx, dirty) {
     			const partydisplay_changes = {};
-    			if (dirty & /*$partyStatementRatings*/ 4) partydisplay_changes.party = /*party*/ ctx[23];
+    			if (dirty & /*$partyStatementRatings*/ 4) partydisplay_changes.party = /*party*/ ctx[24];
     			partydisplay.$set(partydisplay_changes);
-    			if ((!current || dirty & /*$partyStatementRatings*/ 4) && t1_value !== (t1_value = /*party*/ ctx[23].score + "")) set_data_dev(t1, t1_value);
+    			if ((!current || dirty & /*$partyStatementRatings*/ 4) && t1_value !== (t1_value = /*party*/ ctx[24].score + "")) set_data_dev(t1, t1_value);
     		},
     		i: function intro(local) {
     			if (current) return;
@@ -23949,7 +23949,7 @@ var app = (function () {
     			$$inline: true
     		});
 
-    	button1.$on("click", /*click_handler_4*/ ctx[17]);
+    	button1.$on("click", /*click_handler_3*/ ctx[18]);
     	let if_block2 = /*step*/ ctx[1] == 1 && create_if_block_2(ctx);
     	let if_block3 = /*step*/ ctx[1] > 1 && /*step*/ ctx[1] <= 31 && !/*partyOverlayVisible*/ ctx[4] && create_if_block_1(ctx);
     	let if_block4 = /*step*/ ctx[1] > 31 && create_if_block(ctx);
@@ -23988,15 +23988,15 @@ var app = (function () {
     			document.title = "Partij wijzer";
     			option0.__value = 1;
     			option0.value = option0.__value;
-    			add_location(option0, file, 91, 8, 2688);
+    			add_location(option0, file, 91, 8, 2724);
     			option1.__value = 32;
     			option1.value = option1.__value;
-    			add_location(option1, file, 96, 8, 2885);
+    			add_location(option1, file, 96, 8, 2921);
     			attr_dev(select, "class", "max-w-[100px] overflow-hidden");
     			select.disabled = /*partySelectionInValid*/ ctx[6];
-    			if (/*step*/ ctx[1] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[15].call(select));
+    			if (/*step*/ ctx[1] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[16].call(select));
     			add_location(select, file, 90, 6, 2528);
-    			add_location(br, file, 98, 17, 2939);
+    			add_location(br, file, 98, 17, 2975);
     			attr_dev(div0, "class", "text-center mt-1 p-1");
     			add_location(div0, file, 88, 4, 2480);
     			attr_dev(div1, "class", "flex justify-between w-full grow mb-2");
@@ -24042,9 +24042,10 @@ var app = (function () {
 
     			if (!mounted) {
     				dispose = [
-    					listen_dev(select, "click", /*click_handler_2*/ ctx[13], false, false, false, false),
-    					listen_dev(select, "blur", /*blur_handler*/ ctx[14], false, false, false, false),
-    					listen_dev(select, "change", /*select_change_handler*/ ctx[15])
+    					listen_dev(select, "touchstart", /*touchstart_handler*/ ctx[13], { passive: true }, false, false, false),
+    					listen_dev(select, "focus", /*focus_handler*/ ctx[14], false, false, false, false),
+    					listen_dev(select, "blur", /*blur_handler*/ ctx[15], false, false, false, false),
+    					listen_dev(select, "change", /*select_change_handler*/ ctx[16])
     				];
 
     				mounted = true;
@@ -24077,7 +24078,7 @@ var app = (function () {
     			const button0_changes = {};
     			if (dirty & /*step*/ 2) button0_changes.disabled = /*step*/ ctx[1] == 1;
 
-    			if (dirty & /*$$scope*/ 536870912) {
+    			if (dirty & /*$$scope*/ 1073741824) {
     				button0_changes.$$scope = { dirty, ctx };
     			}
 
@@ -24131,7 +24132,7 @@ var app = (function () {
     			const button1_changes = {};
     			if (dirty & /*partySelectionInValid, step*/ 66) button1_changes.disabled = /*partySelectionInValid*/ ctx[6] || /*step*/ ctx[1] > 31;
 
-    			if (dirty & /*$$scope*/ 536870912) {
+    			if (dirty & /*$$scope*/ 1073741824) {
     				button1_changes.$$scope = { dirty, ctx };
     			}
 
@@ -24322,7 +24323,8 @@ var app = (function () {
     		$$invalidate(1, step--, step);
     	};
 
-    	const click_handler_2 = () => $$invalidate(3, isopen = true);
+    	const touchstart_handler = () => $$invalidate(3, isopen = !isopen);
+    	const focus_handler = () => $$invalidate(3, isopen = true);
     	const blur_handler = () => $$invalidate(3, isopen = false);
 
     	function select_change_handler() {
@@ -24330,8 +24332,8 @@ var app = (function () {
     		$$invalidate(1, step);
     	}
 
-    	const click_handler_3 = () => $$invalidate(4, partyOverlayVisible = !partyOverlayVisible);
-    	const click_handler_4 = () => $$invalidate(1, step++, step);
+    	const click_handler_2 = () => $$invalidate(4, partyOverlayVisible = !partyOverlayVisible);
+    	const click_handler_3 = () => $$invalidate(1, step++, step);
 
     	function step1_chosenParties_binding_1(value) {
     		chosenParties = value;
@@ -24413,11 +24415,12 @@ var app = (function () {
     		step1_chosenParties_binding,
     		click_handler,
     		click_handler_1,
-    		click_handler_2,
+    		touchstart_handler,
+    		focus_handler,
     		blur_handler,
     		select_change_handler,
+    		click_handler_2,
     		click_handler_3,
-    		click_handler_4,
     		step1_chosenParties_binding_1,
     		step2_partyStatementRatings_binding
     	];
