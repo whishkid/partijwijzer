@@ -92,7 +92,7 @@
         <option value={1}>partij keuze</option>
 
         {#each Array(30) as _, i}
-          <option value={i + 2}>{#if !isopen}Stelling {/if}{i +1} {#if isopen} {statements[i].theme} {/if}</option>
+          <option value={i + 2}>{#if !isopen}# {/if}{i +1} {#if isopen} {statements[i].theme} {/if}</option>
         {/each}
         <option value={32}>Uitslag</option>
 
