@@ -23266,13 +23266,13 @@ var app = (function () {
     	return block;
     }
 
-    // (95:32) {#if !isopen}
+    // (95:44) {#if !isopen}
     function create_if_block_5(ctx) {
     	let t;
 
     	const block = {
     		c: function create() {
-    			t = text("# ");
+    			t = text(" / 30");
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, t, anchor);
@@ -23286,14 +23286,14 @@ var app = (function () {
     		block,
     		id: create_if_block_5.name,
     		type: "if",
-    		source: "(95:32) {#if !isopen}",
+    		source: "(95:44) {#if !isopen}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (95:59) {#if isopen}
+    // (95:78) {#if isopen}
     function create_if_block_4(ctx) {
     	let t0_value = statements[/*i*/ ctx[29]].theme + "";
     	let t0;
@@ -23319,7 +23319,7 @@ var app = (function () {
     		block,
     		id: create_if_block_4.name,
     		type: "if",
-    		source: "(95:59) {#if isopen}",
+    		source: "(95:78) {#if isopen}",
     		ctx
     	});
 
@@ -23329,28 +23329,31 @@ var app = (function () {
     // (94:8) {#each Array(30) as _, i}
     function create_each_block_1(ctx) {
     	let option;
-    	let t0_value = /*i*/ ctx[29] + 1 + "";
     	let t0;
+    	let t1_value = /*i*/ ctx[29] + 1 + "";
     	let t1;
+    	let t2;
     	let if_block0 = !/*isopen*/ ctx[3] && create_if_block_5(ctx);
     	let if_block1 = /*isopen*/ ctx[3] && create_if_block_4(ctx);
 
     	const block = {
     		c: function create() {
     			option = element("option");
+    			t0 = text(" ");
+    			t1 = text(t1_value);
     			if (if_block0) if_block0.c();
-    			t0 = text(t0_value);
-    			t1 = space();
+    			t2 = space();
     			if (if_block1) if_block1.c();
     			option.__value = /*i*/ ctx[29] + 2;
     			option.value = option.__value;
-    			add_location(option, file, 94, 10, 2809);
+    			add_location(option, file, 94, 10, 2805);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, option, anchor);
-    			if (if_block0) if_block0.m(option, null);
     			append_dev(option, t0);
     			append_dev(option, t1);
+    			if (if_block0) if_block0.m(option, null);
+    			append_dev(option, t2);
     			if (if_block1) if_block1.m(option, null);
     		},
     		p: function update(ctx, dirty) {
@@ -23358,7 +23361,7 @@ var app = (function () {
     				if (if_block0) ; else {
     					if_block0 = create_if_block_5(ctx);
     					if_block0.c();
-    					if_block0.m(option, t0);
+    					if_block0.m(option, t2);
     				}
     			} else if (if_block0) {
     				if_block0.d(1);
@@ -23407,7 +23410,7 @@ var app = (function () {
     			div = element("div");
     			div.textContent = "[partijen aanpassen]";
     			attr_dev(div, "class", "cursor-pointer text-red-600");
-    			add_location(div, file, 100, 8, 3022);
+    			add_location(div, file, 100, 8, 3037);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -23539,21 +23542,21 @@ var app = (function () {
     			br12 = element("br");
     			t11 = space();
     			br13 = element("br");
-    			add_location(br0, file, 116, 6, 3512);
-    			add_location(br1, file, 116, 12, 3518);
-    			add_location(br2, file, 118, 6, 3602);
-    			add_location(br3, file, 119, 6, 3661);
-    			add_location(br4, file, 120, 6, 3725);
-    			add_location(br5, file, 120, 12, 3731);
-    			add_location(br6, file, 122, 6, 3820);
-    			add_location(br7, file, 122, 12, 3826);
-    			add_location(br8, file, 124, 6, 3915);
-    			add_location(br9, file, 125, 6, 3928);
-    			add_location(br10, file, 127, 6, 4055);
-    			add_location(br11, file, 128, 6, 4068);
-    			add_location(br12, file, 131, 6, 4198);
-    			add_location(br13, file, 132, 6, 4210);
-    			add_location(div, file, 114, 4, 3413);
+    			add_location(br0, file, 116, 6, 3527);
+    			add_location(br1, file, 116, 12, 3533);
+    			add_location(br2, file, 118, 6, 3617);
+    			add_location(br3, file, 119, 6, 3676);
+    			add_location(br4, file, 120, 6, 3740);
+    			add_location(br5, file, 120, 12, 3746);
+    			add_location(br6, file, 122, 6, 3835);
+    			add_location(br7, file, 122, 12, 3841);
+    			add_location(br8, file, 124, 6, 3930);
+    			add_location(br9, file, 125, 6, 3943);
+    			add_location(br10, file, 127, 6, 4070);
+    			add_location(br11, file, 128, 6, 4083);
+    			add_location(br12, file, 131, 6, 4213);
+    			add_location(br13, file, 132, 6, 4225);
+    			add_location(div, file, 114, 4, 3428);
     		},
     		m: function mount(target, anchor) {
     			mount_component(step1, target, anchor);
@@ -23741,11 +23744,11 @@ var app = (function () {
 
     			t4 = space();
     			create_component(button.$$.fragment);
-    			add_location(div0, file, 140, 6, 4446);
+    			add_location(div0, file, 140, 6, 4461);
     			attr_dev(div1, "class", "text-end lg:text-start ");
-    			add_location(div1, file, 141, 6, 4470);
+    			add_location(div1, file, 141, 6, 4485);
     			attr_dev(div2, "class", "grid grid-cols-2 gap-2 text-2xl font-bold");
-    			add_location(div2, file, 139, 4, 4384);
+    			add_location(div2, file, 139, 4, 4399);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div2, anchor);
@@ -23863,9 +23866,9 @@ var app = (function () {
     			div1 = element("div");
     			t1 = text(t1_value);
     			attr_dev(div0, "class", "border-t-2 border-dashed pt-2 mb-2");
-    			add_location(div0, file, 144, 8, 4590);
+    			add_location(div0, file, 144, 8, 4605);
     			attr_dev(div1, "class", "text-end lg:text-start pr-6 py-2 pt-4 border-t-2 border-dashed pt-1 ");
-    			add_location(div1, file, 145, 8, 4678);
+    			add_location(div1, file, 145, 8, 4693);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -24005,7 +24008,7 @@ var app = (function () {
     			div0 = element("div");
     			select = element("select");
     			option0 = element("option");
-    			option0.textContent = "partij keuze";
+    			option0.textContent = "partijen";
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
     				each_blocks[i].c();
@@ -24030,12 +24033,12 @@ var app = (function () {
     			add_location(option0, file, 91, 8, 2724);
     			option1.__value = 32;
     			option1.value = option1.__value;
-    			add_location(option1, file, 96, 8, 2932);
+    			add_location(option1, file, 96, 8, 2947);
     			attr_dev(select, "class", "max-w-[100px] overflow-hidden");
     			select.disabled = /*partySelectionInValid*/ ctx[6];
     			if (/*step*/ ctx[1] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[16].call(select));
     			add_location(select, file, 90, 6, 2528);
-    			add_location(br, file, 98, 17, 2986);
+    			add_location(br, file, 98, 17, 3001);
     			attr_dev(div0, "class", "text-center mt-1 p-1");
     			add_location(div0, file, 88, 4, 2480);
     			attr_dev(div1, "class", "flex justify-between w-full grow mb-2");

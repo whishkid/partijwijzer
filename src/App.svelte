@@ -89,10 +89,10 @@
     <div class=" text-center mt-1 p-1">
      
       <select on:touchstart={()=>isopen=!isopen}  on:focus={()=>isopen=true} on:blur={()=>isopen=false} class="max-w-[100px] overflow-hidden" disabled={partySelectionInValid} bind:value={step}>
-        <option value={1}>partij keuze</option>
+        <option value={1}>partijen</option>
 
         {#each Array(30) as _, i}
-          <option value={i + 2}>{#if !isopen}# {/if}{i +1} {#if isopen} {statements[i].theme} {/if}</option>
+          <option value={i + 2}>&nbsp;{i +1}{#if !isopen}&nbsp;/&nbsp;30{/if} {#if isopen} {statements[i].theme} {/if}</option>
         {/each}
         <option value={32}>Uitslag</option>
 
