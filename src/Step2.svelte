@@ -179,7 +179,7 @@
             <div><span class="font-medium">❤️ Helemaal eens</span> - Je bent het volledig eens met deze partij (+2 punten)</div>
             <div><span class="font-medium">👍 Een beetje eens</span> - Je bent het grotendeels eens (+1 punt)</div>
             <div><span class="font-medium">👎 Oneens</span> - Je bent het niet eens met deze partij (-1 punt)</div>
-            <div><span class="font-medium">😐 Geen reactie</span> - Neutraal of geen mening (0 punten)</div>
+            <div><span class="font-medium">😐 Geen reactie  (je klikt dus geen van de drie like buttons)</span> - Neutraal of geen mening (0 punten)</div>
           </div>
         </div>
       </div>
