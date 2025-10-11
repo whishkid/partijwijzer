@@ -143,7 +143,7 @@
   <!-- Party Overlay -->
   {#if partyOverlayVisible}
     <div
-      class="fixed inset-0 bg-black/50 backdrop-blur-sm z-40 flex items-center justify-center p-4"
+      class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4"
       in:slide={{ y: 400, duration: 800 }}
       out:slide={{ y: 400, duration: 400 }}
     >
@@ -262,7 +262,7 @@
 
     {#if step > 1 && step <= 31 && !partyOverlayVisible}
       <div class="animate-fade-in">
-        <Step2 bind:partyStatementRatings {chosenParties} {step} />
+        <Step2 bind:partyStatementRatings {chosenParties} {step} bind:partyOverlayVisible />
       </div>
     {/if}
 
