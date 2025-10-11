@@ -67,7 +67,7 @@
                     opinion.position === 'disagree' ? 'bg-red-100 text-red-800 border border-red-200' :
                     'bg-gray-100 text-gray-800 border border-gray-200'
                   }">
-                    <span class="text-gray-500 mr-1">Standpunt:</span>
+                    <span class="text-gray-500 mr-1">Partij standpunt:</span>
                     {#if opinion.position === 'agree'}
                       ✓ Eens
                     {:else if opinion.position === 'disagree'}
