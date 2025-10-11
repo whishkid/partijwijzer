@@ -60,6 +60,23 @@
             <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
               <div class="flex items-center space-x-3 min-w-0">
                 <PartyDisplay {party} />
+                <!-- Party position indicator (moved next to party) -->
+                <div class="flex-shrink-0">
+                  <div class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium {
+                    opinion.position === 'agree' ? 'bg-green-100 text-green-800 border border-green-200' :
+                    opinion.position === 'disagree' ? 'bg-red-100 text-red-800 border border-red-200' :
+                    'bg-gray-100 text-gray-800 border border-gray-200'
+                  }">
+                    <span class="text-gray-500 mr-1">Standpunt:</span>
+                    {#if opinion.position === 'agree'}
+                      ✓ Eens
+                    {:else if opinion.position === 'disagree'}
+                      ✗ Oneens
+                    {:else}
+                      ⚬ Neutraal
+                    {/if}
+                  </div>
+                </div>
               </div>
               
               <!-- Rating buttons -->
@@ -88,23 +105,6 @@
               </div>
             </div>
 
-            <!-- Party position indicator -->
-            <div class="flex justify-center mb-4">
-              <div class="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium {
-                opinion.position === 'agree' ? 'bg-green-100 text-green-800 border border-green-200' :
-                opinion.position === 'disagree' ? 'bg-red-100 text-red-800 border border-red-200' :
-                'bg-gray-100 text-gray-800 border border-gray-200'
-              }">
-                {#if opinion.position === 'agree'}
-                  ✓ Eens
-                {:else if opinion.position === 'disagree'}
-                  ✗ Oneens
-                {:else}
-                  ⚬ Neutraal
-                {/if}
-              </div>
-            </div>
-
             <!-- Party explanation -->
             <div class="bg-gray-50 rounded-lg p-4 border border-gray-200">
               <div class="text-gray-800 leading-relaxed">
@@ -119,6 +119,13 @@
             <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
               <div class="flex items-center space-x-3 min-w-0">
                 <PartyDisplay {party} />
+                <!-- No position indicator (moved next to party) -->
+                <div class="flex-shrink-0">
+                  <div class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-600 border border-gray-200">
+                    <span class="text-gray-500 mr-1">Standpunt:</span>
+                    ⚪ Geen standpunt
+                  </div>
+                </div>
               </div>
               
               <!-- Rating buttons (disabled state) -->
@@ -144,13 +151,6 @@
                   {statement}
                   {partyStatementRatings}
                 />
-              </div>
-            </div>
-
-            <!-- No position indicator -->
-            <div class="flex justify-center mb-4">
-              <div class="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-600 border border-gray-200">
-                ⚪ Geen standpunt
               </div>
             </div>
 
