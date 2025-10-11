@@ -17,8 +17,8 @@
 
 <div class="space-y-8">
   <!-- Statement Header -->
-  <div class="card text-center">
-    <div class="mb-4">
+  <div class="card">
+    <div class="mb-6">
       <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
         <div class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary-100 text-primary-800 mx-auto sm:mx-0">
           Stelling {statementNumber} van 30
@@ -35,16 +35,19 @@
           Partijen
         </button>
       </div>
-      <div class="text-xs uppercase tracking-wide text-gray-500 mb-2 font-medium">
+      <div class="text-xs uppercase tracking-wide text-gray-500 mb-4 font-medium text-center">
         {statement.theme}
       </div>
     </div>
     
-    <h2 class="text-2xl md:text-3xl font-bold text-gray-900 leading-tight">
-      {#each statement.title as titleElement}
-        {titleElement.text ?? titleElement}
-      {/each}
-    </h2>
+    <!-- Enhanced statement display for better mobile visibility -->
+    <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 border border-blue-100">
+      <h2 class="text-lg sm:text-xl lg:text-2xl font-bold text-gray-900 leading-relaxed text-center break-words">
+        {#each statement.title as titleElement}
+          {titleElement.text ?? titleElement}
+        {/each}
+      </h2>
+    </div>
   </div>
 
   <!-- Party Opinions -->

@@ -61,6 +61,13 @@
     partyStatementRatings.set({})
   }
 
+  // Scroll to top when step changes
+  $: if (step) {
+    setTimeout(() => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }, 100);
+  }
+
   $: localStorage.setItem("chosenParties", JSON.stringify(chosenParties));
   $: localStorage.setItem("step", JSON.stringify(step));
 </script>
