@@ -19,12 +19,12 @@
   <!-- Statement Header -->
   <div class="card text-center">
     <div class="mb-4">
-      <div class="flex items-center justify-between mb-4">
-        <div class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary-100 text-primary-800">
+      <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
+        <div class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary-100 text-primary-800 mx-auto sm:mx-0">
           Stelling {statementNumber} van 30
         </div>
         <button 
-          class="inline-flex items-center px-3 py-1.5 border border-gray-300 rounded-lg text-xs font-medium text-gray-700 bg-white hover:bg-gray-50 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200"
+          class="inline-flex items-center px-3 py-1.5 border border-gray-300 rounded-lg text-xs font-medium text-gray-700 bg-white hover:bg-gray-50 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200 mx-auto sm:mx-0"
           on:click={() => (partyOverlayVisible = true)}
           title="Partijen wijzigen"
         >
@@ -57,13 +57,13 @@
           <!-- Party with opinion -->
           <div class="space-y-4">
             <!-- Header with party and rating controls -->
-            <div class="flex items-center justify-between">
-              <div class="flex items-center space-x-4">
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+              <div class="flex items-center space-x-3 min-w-0">
                 <PartyDisplay {party} />
               </div>
               
               <!-- Rating buttons -->
-              <div class="flex items-center space-x-2">
+              <div class="flex items-center justify-center sm:justify-end space-x-3 flex-shrink-0">
                 <RatingIcon
                   icon={RateMinusOne}
                   rating={-1}
@@ -116,13 +116,13 @@
           <!-- Party without opinion -->
           <div class="space-y-4">
             <!-- Header with party and rating controls -->
-            <div class="flex items-center justify-between">
-              <div class="flex items-center space-x-4">
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+              <div class="flex items-center space-x-3 min-w-0">
                 <PartyDisplay {party} />
               </div>
               
               <!-- Rating buttons (disabled state) -->
-              <div class="flex items-center space-x-2 opacity-50">
+              <div class="flex items-center justify-center sm:justify-end space-x-3 flex-shrink-0 opacity-50">
                 <RatingIcon
                   icon={RateMinusOne}
                   rating={-1}
@@ -168,7 +168,7 @@
 
   <!-- Bottom instruction -->
   <div class="card bg-blue-50 border-blue-200">
-    <div class="flex items-start justify-between space-x-6">
+    <div class="flex flex-col lg:flex-row lg:items-start lg:justify-between gap-4 lg:gap-6">
       <div class="flex items-start space-x-3 flex-1">
         <svg class="w-6 h-6 text-blue-600 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
           <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/>
@@ -185,9 +185,9 @@
       </div>
       
       <!-- Party selection button -->
-      <div class="flex-shrink-0">
+      <div class="flex-shrink-0 flex justify-center lg:justify-end">
         <button 
-          class="inline-flex items-center px-4 py-2 border border-blue-300 rounded-lg text-sm font-medium text-blue-700 bg-white hover:bg-blue-50 hover:border-blue-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200 shadow-sm"
+          class="inline-flex items-center px-4 py-2 border border-blue-300 rounded-lg text-sm font-medium text-blue-700 bg-white hover:bg-blue-50 hover:border-blue-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200 shadow-sm w-full sm:w-auto"
           on:click={() => (partyOverlayVisible = true)}
           title="Wijzig je partijselectie"
         >

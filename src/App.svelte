@@ -73,21 +73,21 @@
 <main class="min-h-screen">
   <!-- Header -->
   <header class="bg-white/90 backdrop-blur-lg border-b border-gray-200/50 sticky top-0 z-50">
-    <div class="container mx-auto px-4 py-4">
-      <div class="flex items-center justify-between">
-        <h1 class="text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">
+    <div class="container mx-auto px-3 sm:px-4 py-3 sm:py-4">
+      <div class="flex flex-col gap-3 sm:gap-0 sm:flex-row sm:items-center sm:justify-between">
+        <h1 class="text-xl sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent text-center sm:text-left">
           Partijwijzer
         </h1>
         
         <!-- Progress Indicator -->
-        <div class="flex-1 max-w-md mx-8">
-          <div class="bg-gray-200 rounded-full h-3 overflow-hidden">
+        <div class="flex-1 max-w-md mx-0 sm:mx-8">
+          <div class="bg-gray-200 rounded-full h-2 sm:h-3 overflow-hidden">
             <div 
               class="bg-gradient-to-r from-blue-500 to-blue-600 h-full rounded-full transition-all duration-500 ease-out"
               style="width: {Math.min((step / 32) * 100, 100)}%"
             ></div>
           </div>
-          <div class="text-sm text-gray-600 mt-2 text-center">
+          <div class="text-xs sm:text-sm text-gray-600 mt-1 sm:mt-2 text-center">
             {#if step === 1}
               Partijen selecteren
             {:else if step <= 31}
@@ -99,20 +99,21 @@
         </div>
 
         <!-- Step Navigation -->
-        <div class="flex items-center gap-3">
+        <div class="flex items-center gap-2 sm:gap-3 justify-center sm:justify-end">
           <button 
-            class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-white disabled:hover:border-gray-300 transition-all duration-200"
+            class="inline-flex items-center px-3 sm:px-4 py-2 border border-gray-300 rounded-lg text-xs sm:text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-white disabled:hover:border-gray-300 transition-all duration-200"
             disabled={step === 1}
             on:click={() => step--}
           >
-            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg class="w-4 h-4 mr-1 sm:mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
             </svg>
-            Vorige
+            <span class="hidden sm:inline">Vorige</span>
+            <span class="sm:hidden">←</span>
           </button>
           
           <select 
-            class="text-sm border border-gray-300 rounded-lg px-3 py-2 bg-white min-w-[200px] focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
+            class="text-xs sm:text-sm border border-gray-300 rounded-lg px-2 sm:px-3 py-2 bg-white min-w-[120px] sm:min-w-[200px] focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
             disabled={partySelectionInValid} 
             bind:value={step}
           >
@@ -126,12 +127,13 @@
           </select>
           
           <button 
-            class="inline-flex items-center px-4 py-2 border border-transparent rounded-lg text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-blue-600 transition-all duration-200"
+            class="inline-flex items-center px-3 sm:px-4 py-2 border border-transparent rounded-lg text-xs sm:text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-blue-600 transition-all duration-200"
             disabled={partySelectionInValid || step > 31} 
             on:click={() => step++}
           >
-            Volgende
-            <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <span class="hidden sm:inline">Volgende</span>
+            <span class="sm:hidden">→</span>
+            <svg class="w-4 h-4 ml-1 sm:ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
             </svg>
           </button>
@@ -143,12 +145,12 @@
   <!-- Party Overlay -->
   {#if partyOverlayVisible}
     <div
-      class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4"
+      class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-3 sm:p-4"
       in:slide={{ y: 400, duration: 800 }}
       out:slide={{ y: 400, duration: 400 }}
     >
       <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-auto">
-        <div class="p-6">
+        <div class="p-4 sm:p-6">
           <div class="flex items-center justify-between mb-6">
             <h2 class="text-xl font-semibold">Partijen selecteren</h2>
             <button 
@@ -168,7 +170,7 @@
   {/if}
 
   <!-- Main Content -->
-  <div class="container mx-auto px-4 py-8">
+  <div class="container mx-auto px-3 sm:px-4 py-4 sm:py-8">
     {#if step === 1}
       <div class="animate-fade-in">
         <!-- Welcome Section -->
