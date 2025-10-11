@@ -64,81 +64,258 @@
 </script>
 
 <svelte:head>
-  <title>Partij wijzer</title>
+  <title>Partijwijzer - Vind jouw politieke match</title>
+  <meta name="description" content="Ontdek welke politieke partij het beste bij jouw standpunten past">
 </svelte:head>
-{#if partyOverlayVisible}
-  <div
-    class="absolute top-1 w-full h-full bg-white opacity-95"
-    in:slide={{ y: 400, duration: 800 }}
-    out:slide={{ y: 400, duration: 400 }}
-  >
-    <Step1 bind:chosenParties {maxParties} />
-    <div class="w-full text-center">
-      <Button on:click={() => (partyOverlayVisible = false)}>sluiten</Button>
+
+<main class="min-h-screen">
+  <!-- Header -->
+  <header class="bg-white/90 backdrop-blur-lg border-b border-gray-200/50 sticky top-0 z-50">
+    <div class="container mx-auto px-4 py-4">
+      <div class="flex items-center justify-between">
+        <h1 class="text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">
+          Partijwijzer
+        </h1>
+        
+        <!-- Progress Indicator -->
+        <div class="flex-1 max-w-md mx-8">
+          <div class="bg-gray-200 rounded-full h-3 overflow-hidden">
+            <div 
+              class="bg-gradient-to-r from-blue-500 to-blue-600 h-full rounded-full transition-all duration-500 ease-out"
+              style="width: {Math.min((step / 32) * 100, 100)}%"
+            ></div>
+          </div>
+          <div class="text-sm text-gray-600 mt-2 text-center">
+            {#if step === 1}
+              Partijen selecteren
+            {:else if step <= 31}
+              Stelling {step - 1} van 30
+            {:else}
+              Resultaten
+            {/if}
+          </div>
+        </div>
+
+        <!-- Step Navigation -->
+        <div class="flex items-center gap-3">
+          <button 
+            class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-white disabled:hover:border-gray-300 transition-all duration-200"
+            disabled={step === 1}
+            on:click={() => step--}
+          >
+            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+            </svg>
+            Vorige
+          </button>
+          
+          <select 
+            class="text-sm border border-gray-300 rounded-lg px-3 py-2 bg-white min-w-[160px] focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
+            disabled={partySelectionInValid} 
+            bind:value={step}
+            on:focus={() => isopen = true} 
+            on:blur={() => isopen = false}
+          >
+            <option value={1}>Partijen kiezen</option>
+            {#each Array(30) as _, i}
+              <option value={i + 2}>
+                {i + 1}. {isopen ? statements[i].theme : `${i + 1}/30`}
+              </option>
+            {/each}
+            <option value={32}>Resultaten</option>
+          </select>
+          
+          <button 
+            class="inline-flex items-center px-4 py-2 border border-transparent rounded-lg text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-blue-600 transition-all duration-200"
+            disabled={partySelectionInValid || step > 31} 
+            on:click={() => step++}
+          >
+            Volgende
+            <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </button>
+        </div>
+      </div>
     </div>
-  </div>
-{/if}
-<div class="p-4">
-  <div class="flex justify-between w-full grow mb-2">
-    <Button
-      disabled={step == 1}
-      on:click={() => {
-        step--;
-      }}>vorige</Button
+  </header>
+
+  <!-- Party Overlay -->
+  {#if partyOverlayVisible}
+    <div
+      class="fixed inset-0 bg-black/50 backdrop-blur-sm z-40 flex items-center justify-center p-4"
+      in:slide={{ y: 400, duration: 800 }}
+      out:slide={{ y: 400, duration: 400 }}
     >
-    <div class=" text-center mt-1 p-1">
-     
-      <select on:touchstart={()=>isopen=!isopen}  on:focus={()=>isopen=true} on:blur={()=>isopen=false} class="max-w-[100px] overflow-hidden" disabled={partySelectionInValid} bind:value={step}>
-        <option value={1}>partijen</option>
-
-        {#each Array(30) as _, i}
-          <option value={i + 2}>&nbsp;{i +1}{#if !isopen}&nbsp;/&nbsp;30{/if} {#if isopen} {statements[i].theme} {/if}</option>
-        {/each}
-        <option value={32}>Uitslag</option>
-
-        </select><br />
-      
+      <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-auto">
+        <div class="p-6">
+          <div class="flex items-center justify-between mb-6">
+            <h2 class="text-xl font-semibold">Partijen selecteren</h2>
+            <button 
+              class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200"
+              on:click={() => (partyOverlayVisible = false)}
+            >
+              <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+              Sluiten
+            </button>
+          </div>
+          <Step1 bind:chosenParties {maxParties} />
+        </div>
+      </div>
     </div>
-    <Button disabled={partySelectionInValid || step > 31} on:click={() => step++}
-      >volgende</Button
-    >
+  {/if}
+
+  <!-- Main Content -->
+  <div class="container mx-auto px-4 py-8">
+    {#if step === 1}
+      <div class="animate-fade-in">
+        <!-- Welcome Section -->
+        <div class="card mb-8 text-center">
+          <div class="mb-6">
+            <h2 class="text-3xl font-bold mb-4">Welkom bij de Partijwijzer</h2>
+            <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+              Ontdek welke politieke partij het beste aansluit bij jouw standpunten. 
+              Selecteer eerst de partijen die je wilt vergelijken.
+            </p>
+          </div>
+        </div>
+
+        <!-- Party Selection -->
+        <div class="card">
+          <Step1 bind:chosenParties {maxParties} />
+        </div>
+
+        <!-- Instructions -->
+        <div class="card mt-8">
+          <h3 class="text-xl font-semibold mb-4">Hoe werkt het?</h3>
+          <div class="grid md:grid-cols-2 gap-6">
+            <div>
+              <div class="flex items-start space-x-3 mb-4">
+                <div class="bg-blue-100 text-blue-600 rounded-full p-2 mt-1">
+                  <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                  </svg>
+                </div>
+                <div>
+                  <h4 class="font-medium mb-1">1. Partijen selecteren</h4>
+                  <p class="text-gray-600 text-sm">Kies 2-{maxParties} partijen die je wilt vergelijken</p>
+                </div>
+              </div>
+              
+              <div class="flex items-start space-x-3 mb-4">
+                <div class="bg-blue-100 text-blue-600 rounded-full p-2 mt-1">
+                  <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                  </svg>
+                </div>
+                <div>
+                  <h4 class="font-medium mb-1">2. Stellingen beoordelen</h4>
+                  <p class="text-gray-600 text-sm">Geef je mening over 30 politieke stellingen</p>
+                </div>
+              </div>
+            </div>
+            
+            <div>
+              <div class="flex items-start space-x-3 mb-4">
+                <div class="bg-blue-100 text-blue-600 rounded-full p-2 mt-1">
+                  <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M3 3a1 1 0 000 2v8a2 2 0 002 2h2.586l-1.293 1.293a1 1 0 101.414 1.414L10 15.414l2.293 2.293a1 1 0 001.414-1.414L12.414 15H15a2 2 0 002-2V5a1 1 0 100-2H3zm11.707 4.707a1 1 0 00-1.414-1.414L10 9.586 8.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                  </svg>
+                </div>
+                <div>
+                  <h4 class="font-medium mb-1">3. Resultaten bekijken</h4>
+                  <p class="text-gray-600 text-sm">Zie welke partij het beste bij je past</p>
+                </div>
+              </div>
+
+              <div class="bg-gray-50 rounded-lg p-4 mt-6">
+                <h4 class="font-medium mb-2">Beoordeling</h4>
+                <div class="space-y-1 text-sm text-gray-600">
+                  <div>❤️ Helemaal eens (+2 punten)</div>
+                  <div>👍 Een beetje eens (+1 punt)</div>
+                  <div>👎 Oneens (-1 punt)</div>
+                  <div>😐 Neutraal (0 punten)</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="mt-6 p-4 bg-blue-50 rounded-lg border border-blue-200">
+            <div class="flex items-start space-x-3">
+              <svg class="w-5 h-5 text-blue-600 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/>
+              </svg>
+              <div>
+                <h4 class="font-medium text-blue-900 mb-1">Privacy</h4>
+                <p class="text-blue-800 text-sm">
+                  Deze applicatie werkt volledig lokaal op jouw apparaat. Er worden geen gegevens naar servers gestuurd. 
+                  Je antwoorden worden alleen in jouw browser opgeslagen.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {/if}
+
+    {#if step > 1 && step <= 31 && !partyOverlayVisible}
+      <div class="animate-fade-in">
+        <Step2 bind:partyStatementRatings {chosenParties} {step} />
+      </div>
+    {/if}
+
+    {#if step > 31}
+      <div class="animate-fade-in">
+        <div class="card text-center mb-8">
+          <h2 class="text-3xl font-bold mb-4">Jouw resultaten</h2>
+          <p class="text-lg text-gray-600">
+            Op basis van jouw antwoorden zijn dit de partijen die het beste bij je passen:
+          </p>
+        </div>
+
+        <div class="card">
+          <div class="space-y-4">
+            {#each getPartyScores($partyStatementRatings) as party, index}
+              <div class="flex items-center justify-between p-4 bg-gray-50 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
+                <div class="flex items-center space-x-4">
+                  <div class="bg-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-blue-600 border-2 border-blue-200 shadow-sm">
+                    {index + 1}
+                  </div>
+                  <PartyDisplay {party} />
+                </div>
+                <div class="text-right">
+                  <div class="text-2xl font-bold text-gray-900">{party.score}</div>
+                  <div class="text-sm text-gray-500">punten</div>
+                </div>
+              </div>
+            {/each}
+          </div>
+          
+          <div class="mt-8 pt-6 border-t border-gray-200 text-center space-x-4">
+            <button 
+              class="inline-flex items-center px-6 py-3 border border-gray-300 rounded-lg text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200"
+              on:click={reset}
+            >
+              <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+              Opnieuw beginnen
+            </button>
+            <button 
+              class="inline-flex items-center px-6 py-3 border border-transparent rounded-lg text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200"
+              on:click={() => (partyOverlayVisible = true)}
+            >
+              <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+              Partijen wijzigen
+            </button>
+          </div>
+        </div>
+      </div>
+    {/if}
   </div>
-  {#if step == 1}
-    <Step1 bind:chosenParties {maxParties} />
-    <div>
-      Je krijgt straks van alle gekozen partijen hun uitleg bij de stellingen te zien.
-      <br /><br />Ben je het een beetje eens met een partij geef het een
-      duimpje...
-      <br />vind je het helemaal geweldig, dan een hartje.
-      <br />Totale onzin, duimpje omlaag. Neutraal, geen actie.
-      <br /><br /> Aan het einde krijg je van de partijen te zien gesorteerd op
-      je score
-      <br /><br /> punten +2 voor hartje, +1 voor duimpje omhoog, -1 voor
-      duimpje omlaag
-      <br />
-      <br />
-      MBT Privacy, de applicatie werk volledig op je eigen device. Er worden geen keuzes naar de server gestuurd.
-      <br />
-      <br />
-      Wil je even pauze je kan op dezelfde browser later terugkomen je gegevens worden
-      op je eigen pc bewaard.
-      <br/>
-      <br/>
-    </div>
-  {/if}
-  {#if step > 1 && step <= 31 && !partyOverlayVisible}
-    <Step2 bind:partyStatementRatings {chosenParties} {step} />
-  {/if}
-  {#if step > 31}
-    <div class="grid grid-cols-2 gap-2 text-2xl font-bold">
-      <div>partij</div>
-      <div class="text-end lg:text-start ">score</div>
-      {#each getPartyScores($partyStatementRatings) as party}
-
-        <div class=" border-t-2 border-dashed pt-2 mb-2"><PartyDisplay {party} /></div>
-        <div class="text-end lg:text-start pr-6 py-2 pt-4 border-t-2 border-dashed pt-1 ">{party.score}</div>
-      {/each}
-    </div>
-    <Button class="mt-2 w-full sm:w-auto" on:click={reset}>wissen en opnieuw beginnen</Button>
-  {/if}
-</div>
+</main>

@@ -3,22 +3,24 @@
   import { getLogoStyle } from './logoHelper.js';
 </script>
 
-<div class="flex flex-col justify-content-center font-bold">
+<div class="flex items-center space-x-3">
+  <!-- Party Logo -->
   <div 
-    class="party-logo"
+    class="w-12 h-12 rounded-lg overflow-hidden border border-gray-200 bg-white flex-shrink-0 shadow-sm"
     style="{getLogoStyle(party.logoIndex)}"
     aria-label="Logo van {party.name}"
     role="img"
   ></div>
-  <div class="text-center">
-    {party.name}
+
+  <!-- Party Info -->
+  <div class="min-w-0 flex-1">
+    <h3 class="font-semibold text-gray-900 truncate text-lg">
+      {party.name}
+    </h3>
+    {#if party.fullName && party.fullName !== party.name}
+      <p class="text-sm text-gray-500 truncate">
+        {party.fullName}
+      </p>
+    {/if}
   </div>
 </div>
-
-<style>
-  .party-logo {
-    width: 36px;
-    height: 36px;
-    background-size: 100% 2400% !important;
-  }
-</style>

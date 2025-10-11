@@ -1,5 +1,4 @@
 <script>
-  export let color;
   export let rating;
   export let partyStatementRatings;
   export let party;
@@ -14,15 +13,33 @@
     } else ratingMatrix[party.id][statement.id] = rating;
     partyStatementRatings.set(ratingMatrix)
   }
+
+  $: isActive = $partyStatementRatings[party.id] && $partyStatementRatings[party.id][statement.id] == rating;
+  $: buttonClass = `
+    p-3 rounded-xl border-2 transition-all duration-200 cursor-pointer 
+    hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-offset-2
+    ${isActive 
+      ? rating === 2 ? 'border-red-500 bg-red-50 text-red-600 shadow-md' :
+        rating === 1 ? 'border-green-500 bg-green-50 text-green-600 shadow-md' :
+        'border-red-500 bg-red-50 text-red-600 shadow-md'
+      : 'border-gray-300 bg-white text-gray-400 hover:border-gray-400 hover:text-gray-600'
+    }
+  `;
 </script>
 
-<div
-class="{$partyStatementRatings[party.id] &&
-    $partyStatementRatings[party.id][statement.id] == rating ? `text-${color} fill-${color}` : 'fill-none'}"
-  
+<button
+  class={buttonClass}
+  on:click={() => setRating(party, statement, rating)}
+  aria-label="{
+    rating === 2 ? 'Helemaal eens (+2 punten)' :
+    rating === 1 ? 'Een beetje eens (+1 punt)' :
+    'Oneens (-1 punt)'
+  }"
+  title="{
+    rating === 2 ? 'Helemaal eens (+2 punten)' :
+    rating === 1 ? 'Een beetje eens (+1 punt)' :
+    'Oneens (-1 punt)'
+  }"
 >
-  <!-- svelte-ignore a11y-click-events-have-key-events -->
-  <div class="mx-2" on:click={setRating(party, statement, rating)}>
-    <svelte:component this={icon} />
-  </div>
-</div>
+  <svelte:component this={icon} />
+</button>
