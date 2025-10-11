@@ -1,0 +1,115 @@
+{
+  "15": {
+    "question": 15,
+    "theme": "Wolven",
+    "statement": "Gemeenten en provincies moeten makkelijker een vergunning krijgen\n              om wolven af te schieten die problemen veroorzaken.",
+    "options": [
+      "Eens",
+      "Geen van beide",
+      "Oneens"
+    ],
+    "parties": {
+      "Eens": [
+        {
+          "party": "PVV",
+          "explanation": "Wolven die problemen veroorzaken moeten worden afgeschoten."
+        },
+        {
+          "party": "VVD",
+          "explanation": "De terugkeer van de wolf leidt tot grote zorgen bij omwonenden\n                en veehouders. De VVD wil voldoende beheersmaatregelen, zowel\n                preventief als actief, in gebieden waar de wolf tot overlast\n                leidt. In uiterste gevallen moet afschot mogelijk zijn om de\n                veiligheid van dier en mens te waarborgen."
+        },
+        {
+          "party": "NSC",
+          "explanation": "Wolven kunnen een bedreiging vormen voor vee en de veiligheid in\n                landelijke gebieden. NSC wil praktische oplossingen die\n                draagvlak houden. Waar sprake is van probleemwolven willen we\n                deze actief beheren."
+        },
+        {
+          "party": "D66",
+          "explanation": "Probleemwolven die mensen in gevaar brengen moeten afgeschoten\n                kunnen worden. Maar als ze ons met rust laten en geen problemen\n                veroorzaken, moeten wij hen ook met rust laten."
+        },
+        {
+          "party": "BBB",
+          "explanation": "Zoveel mogelijk wolven (minimaal één per roedel) moeten een\n                zender krijgen. Bij ongewenst gedrag en aanvallen op vee is\n                ingrijpen nodig. Afschot is voor BBB geen taboe en gemeenten en\n                provincies krijgen makkelijker een vergunning om probleemwolven\n                af te schieten."
+        },
+        {
+          "party": "CDA",
+          "explanation": "De wolf is terug in Nederland en de populatie moet beheersbaar\n                blijven. Om problemen te voorkomen, moeten gemeenten en\n                provincies makkelijker toestemming krijgen om wolven af te\n                schieten die problemen veroorzaken. Zo zorgen we voor veiligheid\n                en een goede balans tussen mens en natuur."
+        },
+        {
+          "party": "FvD",
+          "explanation": "Bescherm mens en vee; probleemwolven actief kunnen afschieten\n                hoort bij nuchter faunabeheer."
+        },
+        {
+          "party": "SGP",
+          "explanation": "De wolf is een intelligent dier, woont in de natuur, maar zo’n\n                roofdier in een dichtbevolkt land vraagt om actief beheer.\n                Cruciaal is dat de wolf uit de buurt van mensen en hun dieren\n                blijft, dus angst voor mensen houdt en er niet aan went. Er is\n                ruimte nodig voor het actief verjagen en bejagen."
+        },
+        {
+          "party": "ChristenUnie",
+          "explanation": "De ChristenUnie wil de populatie wolven actief beheren, met een\n                zorgvuldig vastgesteld quotum en, als het niet anders kan,\n                gecontroleerd afschot. Wolven die mensen aanvallen worden\n                afgeschoten."
+        },
+        {
+          "party": "JA21",
+          "explanation": "Nederland is te dichtbevolkt voor de wolf. De wolf heeft hier\n                geen natuurlijke vijand, maar alleen maar prooien. Dit zorgt\n                voor enorm veel leed onder veehouders en hun vee. JA21 wil\n                inzetten op een lagere beschermingsstatus voor de wolf, zodat\n                bestrijding mogelijk wordt."
+        },
+        {
+          "party": "BVNL",
+          "explanation": "De overlast en het gevaar is onacceptabel. Wij kiezen voor de\n                boeren, voor het vee en voor onze veiligheid."
+        },
+        {
+          "party": "Libertaire Partij",
+          "explanation": "De LP wil de macht zoveel mogelijk decentraliseren naar\n                gemeenten/gemeenschappen. Qua natuurbeheer kunnen de gebruikers\n                afspreken hoeveel een natuurlijke hulpbron gebruikt kan worden\n                zonder deze te beschadigen. Gemeenschappen hebben het recht\n                zichzelf/eigendom te verdedigen tegen schade uit fauna."
+        },
+        {
+          "party": "50PLUS",
+          "explanation": "Het weren van gevaarlijke dieren zoals de wolf uit ons\n                dichtbevolkte land. De eerste stap moet zijn het vangen en\n                verplaatsen van dieren."
+        },
+        {
+          "party": "FNP",
+          "explanation": "Problematiek zoals de opkomst van de wolf pakken we hard aan:\n                probleemwolven moeten we probleemloos kunnen bejagen. De FNP\n                heeft altijd gepleit voor een lagere beschermingsstatus voor de\n                wolf, zodat daadwerkelijk kan worden ingegrepen om vee, maar ook\n                de mens, te beschermen."
+        },
+        {
+          "party": "Vrij Verbond",
+          "explanation": "Lokale bestuurders kennen hun gebied en moeten snel kunnen\n                handelen bij wolvenschade. Minder landelijke en Europese regels,\n                meer vertrouwen in gemeenten en provincies. Veiligheid van\n                mensen, vee en leefomgeving gaat boven bureaucratie."
+        },
+        {
+          "party": "De Linie",
+          "explanation": "Per gemeente mag de noodzaak bepaald worden of zij vergunningen\n                afgeeft voor het afschieten van wolven."
+        }
+      ],
+      "Geen van beide": [],
+      "Oneens": [
+        {
+          "party": "GroenLinks-PvdA",
+          "explanation": "De wolf hoort bij onze natuur. Afschieten is alleen een optie\n                bij hoge nood, als er gevaar voor mensen is. We willen boeren\n                helpen met preventie, zoals hekken en herdershonden. Zo\n                beschermen we dieren én natuur zonder een beschermde soort te\n                doden."
+        },
+        {
+          "party": "SP",
+          "explanation": "De wolf is een Europees beschermde soort. Wel denken we dat er\n                meer moet gebeuren om overlast en onveilige situaties te\n                voorkomen. De SP pleit voor maatregelen om conflicten tussen\n                mens en wolf te vermijden."
+        },
+        {
+          "party": "DENK",
+          "explanation": "DENK is géén voorstander van het makkelijker maken om dieren af\n                te schieten. Dierlijk leven moet beschermd worden.\n                Uitzonderingen hierop mogen alleen wanneer er acuut gevaar\n                dreigt voor de veiligheid of de volksgezondheid, en lichtere\n                maatregelen ontoereikend blijken."
+        },
+        {
+          "party": "Partij voor de Dieren",
+          "explanation": "Wij vinden dat wolven strikt beschermd moeten blijven. Ze\n                verrijken de natuur en vergroten biodiversiteit. Knelpunten\n                worden aangepakt met preventie, voorlichting en subsidies voor\n                beschermende maatregelen, niet met afschot. Bescherming en\n                handhaving staan voorop."
+        },
+        {
+          "party": "Volt",
+          "explanation": "Volt wil goed samenleven met wilde dieren. Boeren krijgen hulp\n                bij bescherming van vee. Wolven worden gevolgd om hun gedrag\n                beter te begrijpen en we geven ze genoeg ruimte. Alleen als het\n                echt niet anders kan, grijpen we in."
+        },
+        {
+          "party": "Vrede voor Dieren",
+          "explanation": "Gemeenten en provincies moeten geen problemen voor wolven\n                veroorzaken."
+        },
+        {
+          "party": "BIJ1",
+          "explanation": "Belangrijke ecosystemen, natuurgebieden en wilde dieren moeten\n                rechten krijgen om bescherming, behoud en eventueel herstel te\n                waarborgen."
+        },
+        {
+          "party": "Piratenpartij",
+          "explanation": "Wolven hebben een belangrijke functie in de natuur. Ze zorgen\n                ervoor dat prooidierpopulaties gezond blijven. Ook is er door\n                hun aanwezigheid weer ruimte voor bepaalde plantensoorten om\n                zich te ontwikkelen. Boeren en herders kunnen aanspraak maken op\n                steun om hun vee te beschermen. Lees ons programma"
+        }
+      ]
+    }
+  }
+}

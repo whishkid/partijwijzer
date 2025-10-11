@@ -1,0 +1,333 @@
+[
+  {
+    "id": 1,
+    "theme": "Hypotheekrenteaftrek",
+    "themeId": "hypotheekrenteaftrek",
+    "title": "De hypotheekrenteaftrek moet worden afgeschaft.",
+    "accessibility": {
+      "moreInfo": {
+        "text": "De hypotheekrenteaftrek is een regeling waarbij huiseigenaren de rente die ze betalen over hun hypotheek kunnen aftrekken van hun belastbaar inkomen. Dit maakt het kopen van een huis aantrekkelijker. Afschaffen zou de woningmarkt kunnen beïnvloeden en leiden tot hogere woonlasten voor huiseigenaren."
+      }
+    },
+    "moreInfo": {
+      "title": "",
+      "text": "De hypotheekrenteaftrek is een regeling waarbij huiseigenaren de rente die ze betalen over hun hypotheek kunnen aftrekken van hun belastbaar inkomen. Dit maakt het kopen van een huis aantrekkelijker. Afschaffen zou de woningmarkt kunnen beïnvloeden en leiden tot hogere woonlasten voor huiseigenaren.",
+      "imageAlt": "Afbeelding"
+    },
+    "isShootout": false,
+    "index": 1,
+    "parties": {
+      "agree": [
+        {
+          "name": "GroenLinks-PvdA",
+          "fullName": "GroenLinks-PvdA",
+          "statement": {
+            "position": "agree",
+            "explanation": "De hypotheekrenteaftrek vergroot de ongelijkheid en jaagt de huizenprijzen op. Wij willen deze regeling afschaffen en het geld gebruiken om huren te verlagen en starters te helpen."
+          }
+        },
+        {
+          "name": "BIJ1",
+          "fullName": "BIJ1",
+          "statement": {
+            "position": "agree",
+            "explanation": "De hypotheekrenteaftrek is een subsidie voor mensen met een koopwoning, vaak met een hoger inkomen. BIJ1 wil deze regeling afschaffen en het geld inzetten voor betaalbare huurwoningen."
+          }
+        },
+        {
+          "name": "Partij voor de Dieren",
+          "fullName": "PvdD",
+          "statement": {
+            "position": "agree",
+            "explanation": "De hypotheekrenteaftrek is een scheve regeling die vooral mensen met hoge inkomens bevoordeelt. Wij schaffen deze af en investeren in betaalbare woningen."
+          }
+        }
+      ],
+      "neither": [
+        {
+          "name": "Volt",
+          "fullName": "Volt",
+          "statement": {
+            "position": "neither",
+            "explanation": "Volt wil de hypotheekrenteaftrek hervormen, niet direct afschaffen. De regeling moet eerlijker worden en starters beter ondersteunen."
+          }
+        }
+      ],
+      "disagree": [
+        {
+          "name": "VVD",
+          "fullName": "VVD",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Huiseigenaren moeten kunnen rekenen op stabiel beleid. De hypotheekrenteaftrek is onderdeel van dat vertrouwen. Wij willen deze regeling behouden."
+          }
+        },
+        {
+          "name": "CDA",
+          "fullName": "CDA",
+          "statement": {
+            "position": "disagree",
+            "explanation": "De hypotheekrenteaftrek helpt gezinnen een huis te kopen. Afschaffen maakt wonen duurder en vergroot onzekerheid. Wij zijn tegen."
+          }
+        },
+        {
+          "name": "BBB",
+          "fullName": "BoerBurgerBeweging",
+          "statement": {
+            "position": "disagree",
+            "explanation": "De hypotheekrenteaftrek is belangrijk voor betaalbaarheid van wonen, zeker buiten de Randstad. BBB wil deze regeling behouden."
+          }
+        },
+        {
+          "name": "JA21",
+          "fullName": "JA21",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Wij zijn tegen het afschaffen van de hypotheekrenteaftrek. Het is een belangrijke regeling voor middeninkomens en moet blijven bestaan."
+          }
+        },
+        {
+          "name": "SGP",
+          "fullName": "SGP",
+          "statement": {
+            "position": "disagree",
+            "explanation": "De hypotheekrenteaftrek is een steun voor gezinnen die een huis kopen. Afschaffen is onverstandig en maakt wonen duurder."
+          }
+        },
+        {
+          "name": "FVD",
+          "fullName": "Forum voor Democratie",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Wij zijn tegen het afschaffen van de hypotheekrenteaftrek. Het is een rechtvaardige regeling voor mensen die zelf investeren in een woning."
+          }
+        },
+        {
+          "name": "PVV",
+          "fullName": "PVV",
+          "statement": {
+            "position": "disagree",
+            "explanation": "De hypotheekrenteaftrek moet blijven. Het helpt Nederlanders een eigen huis te kopen en is onderdeel van een eerlijke woonlastenverdeling."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 79633,
+    "theme": "Leeftijd minimumloon",
+    "themeId": "leeftijd-minimumloon",
+    "title": "Het minimumloon voor volwassenen moet gelden vanaf 18 jaar. Dat is nu nog 21 jaar.",
+    "accessibility": {
+      "moreInfo": {
+        "text": "Het minimumloon is het laagste bedrag dat werkgevers wettelijk moeten betalen aan werknemers. Jongeren onder de 21 krijgen een lager jeugdminimumloon. Deze stelling gaat over het verlagen van de leeftijd waarop het volwassen minimumloon geldt, van 21 naar 18 jaar."
+      }
+    },
+    "moreInfo": {
+      "title": "",
+      "text": "Het minimumloon is het laagste bedrag dat werkgevers wettelijk moeten betalen aan werknemers. Jongeren onder de 21 krijgen een lager jeugdminimumloon. Deze stelling gaat over het verlagen van de leeftijd waarop het volwassen minimumloon geldt, van 21 naar 18 jaar.",
+      "imageAlt": "Afbeelding"
+    },
+    "isShootout": false,
+    "index": 3,
+    "parties": {
+      "agree": [
+        {
+          "name": "PVV",
+          "fullName": "Partij voor de Vrijheid",
+          "statement": {
+            "position": "agree",
+            "explanation": "Met 18 jaar ben je volwassen. Je mag dan stemmen, alcohol drinken en je rijbewijs halen. Er is dus geen enkele reden om iemand van 18 jaar minder te betalen. Hetzelfde werk, hetzelfde betaald."
+          }
+        },
+        {
+          "name": "GroenLinks-PvdA",
+          "fullName": "GroenLinks-PvdA",
+          "statement": {
+            "position": "agree",
+            "explanation": "Jongeren werken vaak net zo hard als hun oudere collega's, maar krijgen minder loon. Dat is oneerlijk en schaadt onze samenleving. Het minimumloon vanaf 18 helpt jongeren zelfstandig leven, verkleint armoede en geeft hen een sterke start op de arbeidsmarkt."
+          }
+        },
+        {
+          "name": "NSC",
+          "fullName": "Nieuw Sociaal Contract",
+          "statement": {
+            "position": "agree",
+            "explanation": "Jongeren van 18 jaar draaien vaak al volledig mee in het arbeidsproces. Het is eerlijker dat zij hetzelfde minimumloon krijgen als oudere collega’s, wat hun bestaanszekerheid versterkt en beter aansluit bij NSC’s inzet op een rechtvaardige arbeidsmarkt."
+          }
+        },
+        {
+          "name": "D66",
+          "fullName": "D66",
+          "statement": {
+            "position": "agree",
+            "explanation": "D66 vindt het wel zo eerlijk dat een 18-jarige die hetzelfde werk doet als een 21-jarige, hetzelfde verdient. Om te voorkomen dat bedrijven hierdoor in de problemen komen, maken we het voor hen goedkoper om mensen in dienst te nemen."
+          }
+        },
+        {
+          "name": "BBB",
+          "fullName": "BoerBurgerBeweging",
+          "statement": {
+            "position": "agree",
+            "explanation": "BBB wil het minimumloon voor volwassenen verlagen naar 18 jaar in plaats van 21. Zo profiteren jongeren van 18 tot 21 eerder van een volwaardig loon, wat werkervaring, zelfstandigheid en financiële zelfstandigheid bevordert, zonder werkgevers te ontmoedigen om hen aan te nemen."
+          }
+        },
+        {
+          "name": "SP",
+          "fullName": "Socialistische Partij",
+          "statement": {
+            "position": "agree",
+            "explanation": "Gelijk werk verdient gelijk loon, daarom schaffen we het minimumjeugdloon voor volwassenen vanaf 18 jaar af. De lonen voor jongeren stijgen naar verhouding mee per leeftijdsgroep, waardoor een vijftienjarige nooit minder dan driekwart van het minimumloon verdient."
+          }
+        },
+        {
+          "name": "DENK",
+          "fullName": "DENK",
+          "statement": {
+            "position": "agree",
+            "explanation": "DENK staat voor een eerlijk loon voor iedereen."
+          }
+        },
+        {
+          "name": "Partij voor de Dieren",
+          "fullName": "PvdD",
+          "statement": {
+            "position": "agree",
+            "explanation": "Volwassenen horen een volwassen loon te krijgen. Het rechttrekken van het minimumloon voor volwassenen vanaf 18 jaar zorgt ervoor dat jongvolwassenen eerlijker worden betaald, beschermt hen tegen uitbuiting en maakt het eenvoudiger om volwaardig deel te nemen aan de samenleving."
+          }
+        },
+        {
+          "name": "ChristenUnie",
+          "fullName": "ChristenUnie",
+          "statement": {
+            "position": "agree",
+            "explanation": "De ChristenUnie is voorstander van het stapsgewijs verhogen van het huidige jeugdminimumloon voor 18-jarigen en ouder tot het niveau van het minimumloon voor werknemers van 21 jaar en ouder."
+          }
+        },
+        {
+          "name": "Volt",
+          "fullName": "Volt",
+          "statement": {
+            "position": "agree",
+            "explanation": "Volt wil dat jongeren vanaf 18 jaar hetzelfde minimumloon krijgen als volwassenen. We bouwen het minimumjeugdloon stap voor stap af. Wie werkt, moet eerlijk betaald krijgen, ook als je jong bent."
+          }
+        },
+        {
+          "name": "Vrede voor Dieren",
+          "fullName": "Vrede voor Dieren",
+          "statement": {
+            "position": "agree",
+            "explanation": "Leeftijdsdiscriminatie bij de toekenning van het minimumloon is onrechtvaardig en contraproductief."
+          }
+        },
+        {
+          "name": "BVNL",
+          "fullName": "BVNL / Groep Van Haga",
+          "statement": {
+            "position": "agree",
+            "explanation": "BVNL wil dat het minimumloon ook voor 18-jarigen gaat gelden. BVNL snoeit fors in de regelgeving en de werkgeverslasten, zodat deze verhoging voor werkgevers niet nadelig uitpakt. Daarmee wordt tevens de inflatoire werking van de verhoging van het minimumloon geëlimineerd."
+          }
+        },
+        {
+          "name": "BIJ1",
+          "fullName": "BIJ1",
+          "statement": {
+            "position": "agree",
+            "explanation": "Het jeugdloon moet verdwijnen. Het betaalt jongeren minder voor hetzelfde werk en drukt de lonen van volwassen werknemers. Grote bedrijven misbruiken het voor goedkope arbeid, zodat ze hogere winstmarges kunnen pakken. Dat moet stoppen. Werk is werk: iedereen heeft recht op hetzelfde minimumloon."
+          }
+        },
+        {
+          "name": "50PLUS",
+          "fullName": "50PLUS",
+          "statement": {
+            "position": "agree",
+            "explanation": "Op 18-jarige leeftijd ben je volwassen voor de wet. Dan ook voor loon."
+          }
+        },
+        {
+          "name": "Piratenpartij",
+          "fullName": "Piratenpartij",
+          "statement": {
+            "position": "agree",
+            "explanation": "De Piratenpartij staat voor eerlijke arbeidsvoorwaarden. Volwassen werk verdient een volwassen loon. De Piratenpartij wil een minimumloon van tenminste 18 euro per uur voor iedereen vanaf 18 jaar."
+          }
+        },
+        {
+          "name": "FNP",
+          "fullName": "Frysk Nasjonale Partij",
+          "statement": {
+            "position": "agree",
+            "explanation": "Vanaf 18 jaar is men volwassen en moet dit ook financieel weerspiegeld worden. Een volwassen minimumloon geeft jongeren zelfstandigheid, ondersteunt zelfredzaamheid en verantwoordelijkheid, en sluit aan bij andere rechten en plichten die vanaf deze leeftijd gelden."
+          }
+        }
+      ],
+      "neither": [],
+      "disagree": [
+        {
+          "name": "VVD",
+          "fullName": "VVD",
+          "statement": {
+            "position": "disagree",
+            "explanation": "We willen dat iedereen rond kan komen. Het verhogen van het minimumloon voor jongvolwassenen vinden we niet verstandig omdat dit de kosten voor ondernemers flink verhoogt en omdat meer jongeren hun opleiding niet zullen afmaken."
+          }
+        },
+        {
+          "name": "CDA",
+          "fullName": "CDA",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Wij steunen de verhoging van het jeugdminimumloon in de komende jaren, maar zijn niet voor het verlagen van de leeftijdsgrens. Het is belangrijk om jongeren te blijven stimuleren hun opleiding af te maken. Bovendien krijgen veel jongeren onder de 21 al het hogere minimumloon, door Cao-afspraken."
+          }
+        },
+        {
+          "name": "FVD",
+          "fullName": "Forum voor Democratie",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Verhoog niet verplicht het volwassen minimumloon voor 18–20-jarigen; dat kost banen."
+          }
+        },
+        {
+          "name": "SGP",
+          "fullName": "SGP",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Het minimum(jeugd)loon is de afgelopen jaren al flink gestegen, wat een flinke last legt op werkgevers. De SGP is voorstander van een eerlijk minimumjeugdloon. Afschaffing is niet in het belang van jongeren omdat dat schooluitval in de hand werkt en leidt tot afname van werkgelegenheid onder jongeren."
+          }
+        },
+        {
+          "name": "JA21",
+          "fullName": "JA21",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Het op jongere leeftijd laten ingaan van het minimumloon voor volwassenen maakt het voor werkgevers onaantrekkelijker om starters op de arbeidsmarkt in dienst te nemen. Daarnaast kan het ertoe leiden dat jongeren hun opleiding afbreken om te gaan werken, wat hun latere loopbaan kan belemmeren."
+          }
+        },
+        {
+          "name": "Libertaire Partij",
+          "fullName": "Libertaire Partij",
+          "statement": {
+            "position": "disagree",
+            "explanation": "De LP is voor het afschaffen van minimumloon. De overheid moet niet tussen overeenkomsten van werkgevers en werknemers gaan zitten. Als arbeidsovereenkomsten vrijwillig tot stand komen hebben werkgevers en werknemers de vrijheid om zelf afspraken te maken over, onder andere, het salaris."
+          }
+        },
+        {
+          "name": "Vrij Verbond",
+          "fullName": "Vrij Verbond",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Vrij Verbond wil geen aanpassing van het minimumloon, maar een nieuw inkomensstelsel. Met negatief basisinkomen en vlaktaks krijgt iedereen vanaf 18 jaar zekerheid en eenvoud. Zo vervalt de leeftijdsdiscussie en ontstaat een eerlijker systeem."
+          }
+        },
+        {
+          "name": "De Linie",
+          "fullName": "De Linie",
+          "statement": {
+            "position": "disagree",
+            "explanation": "Veel MKB bedrijven kunnen overleven doordat zij de lager betaalde jongeren kunnen inhuren. De leeftijd voor het minimumloon blijft derhalve op 21 jaar."
+          }
+        }
+      ]
+    }
+  }
+]

@@ -4,24 +4,39 @@
 
 # svelte app
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+This repository now contains a script that scrapes the latest statements and party explanations from [StemWijzer](https://stemwijzer.nl) and stores them in the JSON files that power the application interface.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+## Scraping the StemWijzer data
 
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
+1. Install the scraping dependency once per environment:
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+   ```bash
+   npm install --save-dev playwright
+   ```
 
+2. Run the scraper. By default it targets <https://stemwijzer.nl/>, but you can point it to another StemWijzer election URL with the `STEMWIJZER_URL` environment variable if needed.
 
-## Get started
+   ```bash
+   npm run scrape:stemwijzer
+   # or provide a different source
+   STEMWIJZER_URL="https://tweedekamer2025.stemwijzer.nl" npm run scrape:stemwijzer
+   ```
+
+   The script launches a headless Chromium browser, navigates the StemWijzer questionnaire and extracts the questions and per-party statements. When it completes you will find freshly generated copies of:
+
+   - `src/statements.json`
+   - `src/parties.json`
+   - `src/data.js` (exports the statements array used by the Svelte components)
+
+   Existing files are overwritten in-place so the front-end immediately reflects the new content.
+
+3. Review and commit the updated data before deploying.
+
+## Development
 
 Install the dependencies...
 
 ```bash
-cd svelte-app
 npm install
 ```
 
