@@ -167,6 +167,7 @@
           <div><span class="font-medium">😐 Geen reactie</span> - Neutraal of geen mening (0 punten)</div>
         </div>
       </div>
+      
     </div>
   </div>
 </div>

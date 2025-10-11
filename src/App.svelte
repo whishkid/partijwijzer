@@ -43,6 +43,8 @@
         score: partyScore,
         name: foundParty.name,
         logo: foundParty.logo,
+        logoIndex: foundParty.logoIndex,
+        fullName: foundParty.fullName,
       });
     }
     return partyScores.sort((a, b) => b.score - a.score);
@@ -110,16 +112,14 @@
           </button>
           
           <select 
-            class="text-sm border border-gray-300 rounded-lg px-3 py-2 bg-white min-w-[160px] focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
+            class="text-sm border border-gray-300 rounded-lg px-3 py-2 bg-white min-w-[200px] focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
             disabled={partySelectionInValid} 
             bind:value={step}
-            on:focus={() => isopen = true} 
-            on:blur={() => isopen = false}
           >
             <option value={1}>Partijen kiezen</option>
             {#each Array(30) as _, i}
               <option value={i + 2}>
-                {i + 1}. {isopen ? statements[i].theme : `${i + 1}/30`}
+                {i + 1}. {statements[i].theme}
               </option>
             {/each}
             <option value={32}>Resultaten</option>
