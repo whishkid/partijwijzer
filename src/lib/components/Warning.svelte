@@ -1,5 +1,10 @@
-<script>
-	let { visible, text } = $props();
+<script lang="ts">
+	interface Props {
+		visible: boolean;
+		text: string;
+	}
+
+	let { visible, text }: Props = $props();
 </script>
 
 {#if visible}

@@ -16,8 +16,11 @@ export { default as Warning } from './components/Warning.svelte';
 
 // Data exports
 export * from './data/data.js';
-export * from './data/parties.js';
-export * from './data/statements.js';
 
 // Utility exports
 export * from './logoHelper.js';
+
+// Type exports
+export type * from './types.js';
+
+export * from './helpers.ts';
