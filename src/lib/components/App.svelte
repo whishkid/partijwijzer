@@ -1,11 +1,7 @@
 <script>
   import { slide } from "svelte/transition";
   import { onMount } from "svelte";
-  import Button from "./Button.svelte";
-  import Step1 from "./Step1.svelte";
-  import Step2 from "./Step2.svelte";
-  import PartyDisplay from "./PartyDisplay.svelte";
-  import { parties, statements } from "../data/data.js";
+  import { H1, H2, H3, H4, Step1, Step2, PartyDisplay, parties, statements } from "$lib";
 
   // State using Svelte 5 runes
   let chosenParties = $state([]);
@@ -91,11 +87,13 @@
 <main class="min-h-screen">
   <!-- Header -->
   <header class="bg-white/90 backdrop-blur-lg border-b border-gray-200/50 sticky top-0 z-50">
-    <div class="container mx-auto px-3 sm:px-4 py-3 sm:py-4">
+    <div class="max-w-6xl mx-auto px-3 sm:px-4 py-3 sm:py-4">
       <div class="flex flex-col gap-3 sm:gap-0 sm:flex-row sm:items-center sm:justify-between">
-        <h1 onkeypress={() => step = 1} onclick={() => step = 1} class=" cursor-pointer text-xl sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent text-center sm:text-left" role="button" tabindex="0">
-          Partijwijzer
-        </h1>
+        <button onclick={() => step = 1} class="cursor-pointer text-xl sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent text-center sm:text-left border-0 bg-transparent p-0 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 rounded">
+          <H1 class="m-0 text-xl sm:text-2xl">
+            {#snippet children()}Partijwijzer{/snippet}
+          </H1>
+        </button>
         
         <!-- Progress Indicator -->
         <div class="flex-1 max-w-md mx-0 sm:mx-8">
@@ -158,9 +156,7 @@
         </div>
       </div>
     </div>
-  </header>
-
-  <!-- Party Overlay -->
+  </header>  <!-- Party Overlay -->
   {#if partyOverlayVisible}
     <div
       class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-3 sm:p-4"
@@ -170,7 +166,9 @@
       <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-auto">
         <div class="p-4 sm:p-6">
           <div class="flex items-center justify-between mb-6">
-            <h2 class="text-xl font-semibold">Partijen selecteren</h2>
+            <H2 class="text-xl mb-0">
+              {#snippet children()}Partijen selecteren{/snippet}
+            </H2>
             <button 
               class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200"
               onclick={() => (partyOverlayVisible = false)}
@@ -188,13 +186,15 @@
   {/if}
 
   <!-- Main Content -->
-  <div class="container mx-auto px-3 sm:px-4 py-4 sm:py-8">
+  <div class="max-w-6xl mx-auto px-3 sm:px-4 py-4 sm:py-8">
     {#if step === 1}
       <div class="animate-fade-in">
         <!-- Welcome Section -->
-        <div class="card mb-8 text-center">
+        <div class="bg-white rounded-xl shadow-lg p-6 border border-slate-200 mb-8 text-center">
           <div class="mb-6">
-            <h2 class="text-3xl font-bold mb-4">Welkom bij de Partijwijzer</h2>
+            <H2 class="font-bold">
+              {#snippet children()}Welkom bij de Partijwijzer{/snippet}
+            </H2>
             <p class="text-lg text-gray-600 max-w-2xl mx-auto">
               Ontdek welke politieke partij het beste aansluit bij jouw standpunten. 
               Selecteer eerst de partijen die je wilt vergelijken.
@@ -208,7 +208,9 @@
                 <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"/>
               </svg>
               <div class="text-left">
-                <h4 class="font-medium text-amber-900 mb-2">Nuancering in plaats van simpel eens/oneens</h4>
+                <H4 class="text-amber-900">
+                  {#snippet children()}Nuancering in plaats van simpel eens/oneens{/snippet}
+                </H4>
                 <p class="text-amber-800 text-sm leading-relaxed">
                   Deze partijwijzer richt zich op de <strong>daadwerkelijke stellingen</strong> van politieke partijen, 
                   niet op simpele eens/oneens antwoorden. Door gradaties te gebruiken (helemaal eens, een beetje eens, oneens, neutraal) 
@@ -221,13 +223,15 @@
         </div>
 
         <!-- Party Selection -->
-        <div class="card">
+        <div class="bg-white rounded-xl shadow-lg p-6 border border-slate-200">
           <Step1 bind:chosenParties {maxParties} />
         </div>
 
         <!-- Instructions -->
-        <div class="card mt-8">
-          <h3 class="text-xl font-semibold mb-4">Hoe werkt het?</h3>
+        <div class="bg-white rounded-xl shadow-lg p-6 border border-slate-200 mt-8">
+          <H3 class="text-xl">
+            {#snippet children()}Hoe werkt het?{/snippet}
+          </H3>
           <div class="grid md:grid-cols-2 gap-6">
             <div>
               <div class="flex items-start space-x-3 mb-4">
@@ -237,7 +241,9 @@
                   </svg>
                 </div>
                 <div>
-                  <h4 class="font-medium mb-1">1. Partijen selecteren</h4>
+                  <H4 class="mb-1">
+                    {#snippet children()}1. Partijen selecteren{/snippet}
+                  </H4>
                   <p class="text-gray-600 text-sm">Kies 2-{maxParties} partijen die je wilt vergelijken</p>
                 </div>
               </div>
@@ -249,7 +255,9 @@
                   </svg>
                 </div>
                 <div>
-                  <h4 class="font-medium mb-1">2. Stellingen beoordelen</h4>
+                  <H4 class="mb-1">
+                    {#snippet children()}2. Stellingen beoordelen{/snippet}
+                  </H4>
                   <p class="text-gray-600 text-sm">Geef je mening over 30 politieke stellingen</p>
                 </div>
               </div>
@@ -263,13 +271,17 @@
                   </svg>
                 </div>
                 <div>
-                  <h4 class="font-medium mb-1">3. Resultaten bekijken</h4>
+                  <H4 class="mb-1">
+                    {#snippet children()}3. Resultaten bekijken{/snippet}
+                  </H4>
                   <p class="text-gray-600 text-sm">Zie welke partij het beste bij je past</p>
                 </div>
               </div>
 
               <div class="bg-gray-50 rounded-lg p-4 mt-6">
-                <h4 class="font-medium mb-2">Beoordeling</h4>
+                <H4>
+                  {#snippet children()}Beoordeling{/snippet}
+                </H4>
                 <div class="space-y-1 text-sm text-gray-600">
                   <div>❤️ Helemaal eens (+2 punten)</div>
                   <div>👍 Een beetje eens (+1 punt)</div>
@@ -286,7 +298,9 @@
                 <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/>
               </svg>
               <div>
-                <h4 class="font-medium text-blue-900 mb-1">Privacy</h4>
+                <H4 class="text-blue-900 mb-1">
+                  {#snippet children()}Privacy{/snippet}
+                </H4>
                 <p class="text-blue-800 text-sm">
                   Deze applicatie werkt volledig lokaal op jouw apparaat. Er worden geen gegevens naar servers gestuurd. 
                   Je antwoorden worden alleen in jouw browser opgeslagen.
@@ -306,14 +320,16 @@
 
     {#if step > 31}
       <div class="animate-fade-in">
-        <div class="card text-center mb-8">
-          <h2 class="text-3xl font-bold mb-4">Jouw resultaten</h2>
+        <div class="bg-white rounded-xl shadow-lg p-6 border border-slate-200 text-center mb-8">
+          <H2 class="font-bold">
+            {#snippet children()}Jouw resultaten{/snippet}
+          </H2>
           <p class="text-lg text-gray-600">
             Op basis van jouw antwoorden zijn dit de partijen die het beste bij je passen:
           </p>
         </div>
 
-        <div class="card">
+        <div class="bg-white rounded-xl shadow-lg p-6 border border-slate-200">
           <div class="space-y-4">
             {#each getPartyScores(partyStatementRatings) as party, index}
               <div class="flex items-center justify-between p-4 bg-gray-50 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">

@@ -1,6 +1,6 @@
 <script>
   let { party } = $props();
-  import { getLogoStyle } from '../logoHelper.js';
+  import { getLogoStyle, H3 } from '$lib';
 </script>
 
 <div class="flex items-center space-x-3 min-w-0">
@@ -14,9 +14,9 @@
 
   <!-- Party Info -->
   <div class="min-w-0 flex-1">
-    <h3 class="font-semibold text-gray-900 truncate text-base sm:text-lg">
+    <H3 class="truncate text-base sm:text-lg">
       {party.name}
-    </h3>
+    </H3>
     {#if party.fullName && party.fullName !== party.name}
       <p class="text-xs sm:text-sm text-gray-500 truncate">
         {party.fullName}

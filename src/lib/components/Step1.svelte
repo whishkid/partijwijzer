@@ -1,6 +1,5 @@
 <script>
-  import { parties } from "../data/data.js";
-  import Warning from "./Warning.svelte";
+  import { parties, Warning, H3 } from "$lib";
   
   let { chosenParties = $bindable(), maxParties } = $props();
   
@@ -31,7 +30,9 @@
   <!-- Header with status -->
   <div class="flex items-center justify-between">
     <div>
-      <h3 class="text-lg font-semibold text-gray-900">Selecteer partijen om te vergelijken</h3>
+      <H3 class="text-lg text-gray-900">
+        {#snippet children()}Selecteer partijen om te vergelijken{/snippet}
+      </H3>
       <p class="text-sm text-gray-600">Kies tussen 2 en {maxParties} partijen</p>
     </div>
     

@@ -1,10 +1,5 @@
 <script>
-  import PartyDisplay from "./PartyDisplay.svelte";
-  import RateMinusOne from "./Rate_minus_one.svelte";
-  import RatePlusOne from "./Rate_plus_one.svelte";
-  import RatePlusTwo from "./Rate_plus_two.svelte";
-  import RatingIcon from "./RatingIcon.svelte";
-  import { statements } from "../data/data.js";
+  import { PartyDisplay, H2, H4, RateMinusOne, RatePlusOne, RatePlusTwo, RatingIcon, statements } from "$lib";
   
   let { chosenParties, step, partyStatementRatings = $bindable(), partyOverlayVisible = $bindable() } = $props();
   
@@ -14,10 +9,10 @@
 
 <div class="space-y-8">
   <!-- Statement Header -->
-  <div class="card">
+  <div class="bg-white rounded-xl shadow-lg p-6 border border-slate-200">
     <div class="mb-6">
       <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
-        <div class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary-100 text-primary-800 mx-auto sm:mx-0">
+        <div class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800 mx-auto sm:mx-0">
           Stelling {statementNumber} van 30
         </div>
         <button 
@@ -39,11 +34,13 @@
     
     <!-- Enhanced statement display for better mobile visibility -->
     <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-4 sm:p-6 border border-blue-100">
-      <h2 class="text-lg sm:text-xl lg:text-2xl font-bold text-gray-900 leading-relaxed text-center break-words">
-        {#each statement.title as titleElement}
-          {titleElement.text ?? titleElement}
-        {/each}
-      </h2>
+      <H2 class="text-lg sm:text-xl lg:text-2xl font-bold text-gray-900 leading-relaxed text-center break-words">
+        {#snippet children()}
+          {#each statement.title as titleElement}
+            {titleElement.text ?? titleElement}
+          {/each}
+        {/snippet}
+      </H2>
     </div>
   </div>
 
@@ -52,7 +49,7 @@
     {#each chosenParties as party}
       {@const opinion = party.statements.find((s) => s.id == statement.id)}
       
-      <div class="card hover:shadow-xl transition-shadow duration-300">
+      <div class="bg-white rounded-xl shadow-lg p-6 border border-slate-200 hover:shadow-xl transition-shadow duration-300">
         {#if opinion}
           <!-- Party with opinion -->
           <div class="space-y-4">
@@ -167,14 +164,16 @@
   </div>
 
   <!-- Bottom instruction -->
-  <div class="card bg-blue-50 border-blue-200">
+  <div class="bg-blue-50 rounded-xl shadow-lg p-6 border border-blue-200">
     <div class="flex flex-col lg:flex-row lg:items-start lg:justify-between gap-4 lg:gap-6">
       <div class="flex items-start space-x-3 flex-1">
         <svg class="w-6 h-6 text-blue-600 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
           <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/>
         </svg>
         <div>
-          <h4 class="font-medium text-blue-900 mb-1">Hoe te beoordelen?</h4>
+          <H4 class="text-blue-900 mb-1">
+            {#snippet children()}Hoe te beoordelen?{/snippet}
+          </H4>
           <div class="text-blue-800 text-sm space-y-1">
             <div><span class="font-medium">❤️ Helemaal eens</span> - Je bent het volledig eens met deze partij (+2 punten)</div>
             <div><span class="font-medium">👍 Een beetje eens</span> - Je bent het grotendeels eens (+1 punt)</div>
