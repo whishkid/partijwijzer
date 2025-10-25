@@ -1,22 +1,27 @@
-# sv
+# Partijwijzer
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+An alternate tool to help you decide which political parties to choose. This application helps users discover which political party aligns best with their views by presenting statements on various political topics and comparing their responses with party positions.
 
-## Creating a project
+## Live Demo
 
-If you're seeing this, you've probably already done this step. Congrats!
+The application is deployed and can be accessed at:
+**https://partijwijzer.vercel.app/**
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+### Installation
+
+First, install the dependencies:
 
 ```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
+npm i
 ```
 
-## Developing
+### Development
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Start a development server:
 
 ```sh
 npm run dev
